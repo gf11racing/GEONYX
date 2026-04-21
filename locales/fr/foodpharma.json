@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "GEONYX | Alimentaire, Boissons, Pharma & Hygiène – Sols industriels sans joints",
+    "description": "GEONYX conçoit des systèmes de sol minéraux sans joints pour l'industrie alimentaire, les boissons, les pharmaceutiques et les productions hygiéniques – résistants aux produits chimiques, à la vapeur, à l'eau chaude, au biofilm et aux détergents agressifs. Compatibles HACCP, IFS, BRC et normes GMP."
+  },
+  "tender": {
+    "text": "Les sols et systèmes de protection hydro-chimique dans les zones de production, lavage, conditionnement, réfrigération, stockage et cuisine doivent être réalisés avec des systèmes géopolymères minéraux de type GEONYX ou équivalent, combinant ARMOR / CHEM / HYDRO / THERM / REPAIR selon le risque hygiénique et technologique.",
+    "copy": "COPIER LE TEXTE D'APPEL D'OFFRES",
+    "copied": "TEXTE COPIÉ!"
+  },
+  "hero": {
+    "eyebrow": "ALIMENTATION, BOISSONS, PHARMA & HYGIÈNE",
+    "titleLine1": "SURFACES",
+    "titleLine2": "APPROUVÉES PAR LES INSPECTEURS",
+    "description": "Dans l'alimentation, les boissons et la pharmacie, le sol fait partie de la sécurité du produit. GEONYX fournit des surfaces minérales, sans joints et faciles à nettoyer, résistantes à l'eau chaude, la vapeur et les produits chimiques, compatibles HACCP et normes pharmaceutiques.",
+    "btn1": "TÉLÉCHARGER LE GUIDE HACCP",
+    "btn2": "DEMANDER UNE INSPECTION TECHNIQUE"
+  },
+  "scope": {
+    "title": "PÉRIMÈTRE",
+    "zonesLabel": "ZONES:",
+    "systemsLabel": "SYSTÈMES:",
+    "z1": "Laiteries et fromageries",
+    "z2": "Transformation de la viande et abattoirs",
+    "z3": "Usines de boissons sans alcool et eau embouteillée",
+    "z4": "Brasseries et boissons (bière, cidre, etc.)",
+    "z5": "Boulangeries, confiseries et produits surgelés",
+    "z6": "Production pharmaceutique (API, comprimés, sirops)",
+    "z7": "Usines de cosmétiques et d'hygiène personnelle",
+    "z8": "Salles blanches et zones stériles",
+    "z9": "Zones d'emballage et de logistique avec réfrigération",
+    "z10": "Zones humides, laveries et zones CIP/COP",
+    "link1": "↓ OÙ IL EST UTILISÉ",
+    "link2": "↓ SÉLECTION DU SYSTÈME",
+    "link3": "↓ OFFRE COMMERCIALE"
+  },
+  "manifesto": {
+    "titleLine1": "LA PROPRETÉ EN PRODUCTION",
+    "titleLine2": "COMMENCE PAR LE SOL.",
+    "body": "Chaque programme de sécurité alimentaire ou de production pharmaceutique repose sur trois choses : des surfaces sans zones cachées, un nettoyage prévisible et le contrôle du risque de contamination. Si le sol se décolle, accumule l'eau dans les joints, est glissant ou réagit avec les produits de nettoyage, ni le plan HACCP ni les protocoles de nettoyage ne peuvent compenser. GEONYX remplace la 'peinture sur béton' par un système minéral monolithique."
+  },
+  "blocks": {
+    "problemLabel": "PROBLÈME:",
+    "solutionLabel": "SOLUTION:",
+    "suitableLabel": "Systèmes adaptés:",
+    "b1": {
+      "tag": "TRANSFORMATION DU POISSON",
+      "title": "POISSON, SEL, SANG ET CHOC THERMIQUE",
+      "problem": "Les usines de transformation du poisson représentent le 'scénario infernal' pour les sols – une combinaison d'eau salée, de sang, de graisses, de glace, d'eau chaude et de vapeur. Les revêtements standards se fissurent sous le choc thermique; les joints retiennent le biofilm.",
+      "solution": "GEONYX CHEM + HYDRO construit un système minéral sans joint, chimiquement résistant avec une texture antidérapante contrôlée. Le sol est conçu pour absorber les cycles thermiques – des zones glacées au lavage à l'eau chaude.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "VIANDE & PRODUITS LAITIERS",
+      "title": "GRAISSES, SANG ET VAPEUR",
+      "problem": "Dans les abattoirs et les laiteries, le sol absorbe le sang, les graisses, le lait, les saumures et de puissants agents de nettoyage alcalins/acides. L'eau chaude et la vapeur se combinent avec les chocs des chariots et des tables en inox.",
+      "solution": "GEONYX CHEM fournit un système minéral résistant aux acides organiques, aux agents de nettoyage alcalins et aux graisses. ARMOR donne la résistance mécanique nécessaire, HYDRO est utilisé dans les zones en permanence humides.",
+      "systems": "CHEM"
+    },
+    "b3": {
+      "tag": "BOISSONS & EMBOUTEILLAGE",
+      "title": "SUCRE, MOUSSE ET VERRE BRISÉ",
+      "problem": "Dans les usines de boissons, les sols sont constamment mouillés – eau, sirops, solutions sucrées, mousse, solutions CIP. Le sucre rend le sol collant et accélère la dégradation. Les éclats de verre coupent les revêtements standards.",
+      "solution": "GEONYX CHEM + HYDRO forme une surface dense sur laquelle les sirops restent 'en surface'. ARMOR assure la résistance aux chocs et au trafic. Les détails des caniveaux sont réalisés sans arêtes vives.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "BOULANGERIES",
+      "title": "FARINE, POUSSIÈRE ET CHOC THERMIQUE",
+      "problem": "Dans les boulangeries, la farine est partout et devient une masse collante lorsqu'elle est mouillée. Les chariots chauds des fours créent des chocs thermiques locaux. Les revêtements s'assombrissent et se décollent en écailles.",
+      "solution": "GEONYX ARMOR + THERM crée une surface résistante aux chocs thermiques. La structure est conçue pour que la farine ne pénètre pas dans les pores. HYDRO est ajouté dans les zones de nettoyage humide.",
+      "systems": "THERM"
+    },
+    "b5": {
+      "tag": "COSMÉTIQUES",
+      "title": "HUILES, ALCOOLS ET SOLVANTS",
+      "problem": "La production de cosmétiques comprend des huiles essentielles et des alcools qui attaquent les résines standards. Une hygiène pharmaceutique et une apparence représentative pour les inspections sont requises.",
+      "solution": "GEONYX CHEM offre une matrice minérale qui ne gonfle pas au contact des fluides. ARMOR garantit la stabilité, HYDRO protège les zones de nettoyage humide. La surface reste visuellement propre.",
+      "systems": "CHEM"
+    },
+    "b6": {
+      "tag": "PRODUITS D'HYGIÈNE",
+      "title": "AGENTS DE NETTOYAGE AGRESSIFS",
+      "problem": "Dans la fabrication de détergents, les composants concentrés sont très agressifs. Les déversements et les rinçages peuvent rapidement détruire le béton ordinaire.",
+      "solution": "GEONYX CHEM est développé pour résister aux bases et acides puissants. ARMOR donne la résistance pour les récipients lourds, HYDRO protège contre la pénétration. Un sol qui résiste à vos propres produits.",
+      "systems": "CHEM"
+    },
+    "b7": {
+      "tag": "PHARMA & CANNABIS",
+      "title": "ZONES PROPRES ET PROCÉDÉS PHARMACEUTIQUES",
+      "problem": "Dans les salles blanches et la production pharmaceutique, le sol doit être lisse, sans joints et facile à valider. Toute fissure est un risque de contamination.",
+      "solution": "GEONYX CHEM + HYDRO fournissent une surface sans joint compatible avec les désinfectants pharmaceutiques. ARMOR donne la stabilité pour l'équipement. Les détails sont réalisés selon la logique pharma – rayons, sans poches.",
+      "systems": "CHEM"
+    },
+    "b8": {
+      "tag": "SUPERMARCHÉS",
+      "title": "BOUCHERIES ET ÉTALAGES DE POISSON",
+      "problem": "Dans les boucheries de supermarchés, il y a de l'eau, du sang, des graisses et du trafic. Les joints des carreaux s'assombrissent et se remplissent de biofilm; le glissement est un risque.",
+      "solution": "GEONYX CHEM remplace les carreaux par un système minéral monolithique – sans joints, avec antidérapant. ARMOR gère le trafic des transpalettes, REPAIR permet des réparations rapides.",
+      "systems": "CHEM"
+    },
+    "b9": {
+      "tag": "RESTAURATION COLLECTIVE",
+      "title": "CUISINES SCOLAIRES ET HOSPITALIÈRES",
+      "problem": "Les cuisines collectives ont de l'humidité, de l'eau chaude et des graisses. Les carreaux et les peintures standards se dégradent rapidement et deviennent difficiles à nettoyer.",
+      "solution": "GEONYX CHEM + HYDRO offre une surface antidérapante et facile à nettoyer. ARMOR résiste aux chariots, REPAIR permet des réparations pendant les vacances.",
+      "systems": "HYDRO"
+    },
+    "b10": {
+      "tag": "ZONES RÉFRIGÉRÉES",
+      "title": "CHAMBRES FROIDES ET DE SURGÉLATION",
+      "problem": "Dans les chambres (-25°C), les joints gèlent et sont détruits par le trafic. Les réparations sont difficiles à basse température.",
+      "solution": "GEONYX ARMOR + HYDRO offre un système monolithique résistant aux chocs thermiques. REPAIR permet des interventions dans de courtes fenêtres.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANALYSE ROI",
+    "title": "AUDIT D'INVESTISSEMENT",
+    "colParam": "PARAMÈTRE",
+    "colGeonyx": "GEONYX",
+    "colCeramic": "Carreaux céramiques",
+    "colEpoxy": "Revêtement époxy / PU",
+    "r1param": "Hygiène et nettoyage des joints",
+    "r1geonyx": "Sans joints / nettoyage facile",
+    "r1ceramic": "Nombreux joints, difficiles à nettoyer",
+    "r1epoxy": "Joints et transitions, risque d'écaillement",
+    "r2param": "Résistance à l'eau chaude et à la vapeur",
+    "r2geonyx": "Élevée (minérale, thermostable)",
+    "r2ceramic": "Moyenne (joints compromis)",
+    "r2epoxy": "Moyenne à faible (risque de cloques)",
+    "r3param": "Résistance aux agents de nettoyage agressifs",
+    "r3geonyx": "Élevée (configuration CHEM)",
+    "r3ceramic": "Moyenne (joints souffrent)",
+    "r3epoxy": "Limitée",
+    "r4param": "Risque de glissement en conditions humides",
+    "r4geonyx": "Antidérapant contrôlé",
+    "r4ceramic": "Variable",
+    "r4epoxy": "Risque élevé en cas d'usure",
+    "r5param": "Durée de vie en production 24/7",
+    "r5geonyx": "Longue, avec REPAIR local",
+    "r5ceramic": "Moyenne, remplacement périodique",
+    "r5epoxy": "Moyenne"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "OÙ IL EST UTILISÉ",
+    "subtitle": "Tous les scénarios typiques 'hall + machines + trafic + palettes' – des centres logistiques et usines aux dépôts ferroviaires et centres de données.",
+    "a1title": "Transformation laitière et crémeries",
+    "a1desc": "Acide chimique et lactique, eau et hygiène.",
+    "a2title": "Transformation de la viande et abattoirs",
+    "a2desc": "Sang, graisses, eau chaude et nettoyage intensif.",
+    "a3title": "Production de boissons",
+    "a3desc": "Sucre, sirops, verre et systèmes CIP.",
+    "a4title": "Boulangeries industrielles",
+    "a4desc": "Farine, chaleur des fours et trafic mécanique.",
+    "a5title": "Pharma et salles blanches",
+    "a5desc": "Environnements stériles, nettoyage facile et désinfection.",
+    "a6title": "Cuisines collectives",
+    "a6desc": "Cuisson intensive, graisses et sécurité.",
+    "a7title": "Entrepôts frigorifiques",
+    "a7desc": "Basses températures et résistance au gel.",
+    "a8title": "Supermarchés",
+    "a8desc": "Zones de produits frais et fort trafic clients."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "SÉLECTION DU SYSTÈME GEONYX",
+    "subtitle": "La sélection du système dépend de la combinaison de charge mécanique, d'agression chimique et des exigences en température, ESD et hygiène. GEONYX configure les solutions par zone – plutôt qu'un 'revêtement unique'.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Systèmes chimiquement résistants pour zones avec acides, bases et agents de nettoyage agressifs.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Systèmes étanches et faciles à nettoyer pour productions humides et laveries.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Revêtements haute résistance pour zones de stockage et de logistique à trafic intensif.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Systèmes thermiquement résistants pour zones avec fours, surgélation et vapeur.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Solutions de réparation rapide pour la restauration de zones compromises."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTATION COMMERCIALE",
+    "title": "OFFRE COMMERCIALE",
+    "titleSub": "(B2B / B2G)",
+    "description": "Pour les installations alimentaires, pharmaceutiques et hygiéniques, GEONYX prépare un dossier complet pour l'approbation interne et les organismes d'audit.",
+    "qualityTitle": "GARANTIE QUALITÉ",
+    "qualityDesc": "Tous les documents sont conformes aux Eurocodes et normes en vigueur.",
+    "i1": "Zonage par risque hygiénique",
+    "i2": "Spécifications techniques des systèmes par zone",
+    "i3": "Compatibilité avec HACCP, IFS, BRC, GMP",
+    "i4": "Détails pour joints, siphons et transitions",
+    "i5": "Planning d'exécution recommandé",
+    "i6": "Conditions de garantie et instructions de nettoyage"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1name": "Hygienic Floors Guide",
+    "d1sub": "Systèmes de sol (PDF)",
+    "d2name": "Wet Food Zones Design",
+    "d2sub": "Guide de conception (PDF)",
+    "d3name": "Cosmetics & Pharma Spec",
+    "d3sub": "Exigences techniques (PDF)",
+    "d4name": "Public Kitchens Manual",
+    "d4sub": "Guide cuisines (PDF)"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "q1": "LES SYSTÈMES GEONYX SONT-ILS COMPATIBLES AVEC NOS PRODUITS DE NETTOYAGE ET DE DÉSINFECTION?",
+    "a1": "Oui. Lors de la phase d'audit, nous recueillons la liste des produits chimiques utilisés et sélectionnons une configuration CHEM adaptée à une utilisation durable.",
+    "q2": "DES RÉPARATIONS PEUVENT-ELLES ÊTRE EFFECTUÉES SANS ARRÊTER TOUTE LA PRODUCTION?",
+    "a2": "Dans la plupart des cas – oui. Nous travaillons par phases, zone par zone, avec des créneaux nocturnes et de week-end.",
+    "q3": "QUEL NIVEAU D'ANTIDÉRAPANT PEUT-ON ATTENDRE EN CONDITIONS HUMIDES?",
+    "a3": "La texture et la classe antidérapante sont définies dès la phase projet, en fonction du type de procédés et des exigences de sécurité."
+  },
+  "cta": {
+    "title": "ZONAGE COMPLET DU SITE",
+    "description": "Chaque installation a des risques spécifiques. Nous intégrons 6 matrices spécialisées en un seul système: de la mécanique, chimie et thermique, à l'étanchéité, l'antistatique et l'architecture. Une technologie qui garantit une couverture à 100% et une pleine compatibilité.",
+    "btn": "VOIR TOUS LES SYSTÈMES INGÉNIERIE"
+  }
+}

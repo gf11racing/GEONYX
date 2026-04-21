@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "eyebrow": "SYSTEMREGISTER",
+    "title": "INDUSTRIEKATALOG",
+    "subtitle": "OPERATIVE SEKTOREN & ANWENDUNGEN",
+    "stat1label": "AKTIVE SEKTOREN",
+    "stat2label": "ZERTIFIZIERUNG",
+    "stat3label": "LEBENSDAUER"
+  },
+  "sectors": {
+    "s01title": "SCHWERINDUSTRIE & LOGISTIK",
+    "s01subtitle": "EXTREMBELASTUNGEN",
+    "s01desc": "Bodenbeläge für extreme mechanische Belastungen, Vibrationen und 24/7-Verkehr.",
+    "s02title": "LEBENSMITTEL, GETRÄNKE & PHARMA",
+    "s02subtitle": "HYGIENE & GMP-KONFORMITÄT",
+    "s02desc": "Bakteriostatische fugenlose Systeme. Beständigkeit gegen Dampfstrahlen und Chemikalien.",
+    "s03title": "AGRO, BIOGAS & ÖKOLOGIE",
+    "s03subtitle": "ORGANISCHE AGGRESSION",
+    "s03desc": "Schutz vor organischen Säuren, Gülle, Ammoniak und aggressiven Säften.",
+    "s04title": "WASSER & MEERESINFRASTRUKTUR",
+    "s04subtitle": "WASSERBAUTECHNIK",
+    "s04desc": "100% Wasserdichtigkeit und Beständigkeit gegen Salze und Erosion.",
+    "s05title": "ENERGIE, BERGBAU & VERTEIDIGUNG",
+    "s05subtitle": "KRITISCHE INFRASTRUKTUR",
+    "s05desc": "Nicht brennbare und chemisch beständige Systeme für Kernkraft-, Wärmekraftwerke, Minen und militärische Anlagen.",
+    "s06title": "TRANSPORT & PARKEN",
+    "s06subtitle": "VERKEHR & BEWEGUNG",
+    "s06desc": "Böden und Rampen mit hohem Grip, beständig gegen Laugen und Salze.",
+    "s07title": "URBANES UMFELD & BAU",
+    "s07subtitle": "UHPC & DESIGN",
+    "s07desc": "UHPC-Lösungen für Fassaden, Elemente und urbane Umgebungen."
+  },
+  "cta": {
+    "eyebrow": "SPEZIALISIERTES ENGINEERING",
+    "title": "IHREN ANWENDUNGSFALL NICHT GEFUNDEN?",
+    "body": "Unsere Chemieingenieure entwickeln modifizierte Matrizen für spezifische Umgebungen (Custom Formulations). Kontaktieren Sie uns für eine Laboranalyse.",
+    "btn": "ENTWICKLUNG ANFRAGEN"
+  }
+}

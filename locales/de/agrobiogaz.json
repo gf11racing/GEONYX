@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "GEONYX | Agro, Biogas, Dünger & Tierische Umgebungen – Chemisch beständiger Schutz",
+    "description": "GEONYX entwickelt mineralische Boden- und Schutzsysteme für Agrarfarmen, Biogasanlagen, Silos, Güllelager und Tierumgebungen – beständig gegen Ammoniak, Säuren, biogene Korrosion, Dünger und aggressives organisches Milieu."
+  },
+  "tender": {
+    "text": "Oberflächen in Düngerlagern, Farmen, Ställen, Melkräumen, Biogasanlagen, Tierkörperbeseitigungsanlagen, Kompostierungsplätzen und Zoos sind mit mineralischen Geopolymersystemen vom Typ GEONYX oder gleichwertig auszuführen, kombinierend ARMOR / CHEM / HYDRO / THERM / REPAIR entsprechend der Umweltaggressivität und mechanischen Belastung.",
+    "copy": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copied": "TEXT KOPIERT!"
+  },
+  "hero": {
+    "eyebrow": "AGRO, BIOGAS, DÜNGER & TIERISCHE UMGEBUNGEN",
+    "titleLine1": "OBERFLÄCHEN, DIE",
+    "titleLine2": "GÜLLE UND AMMONIAK STANDHALTEN",
+    "description": "In Agro- und Biogasumgebungen lebt Beton ständig in Gülle, Ammoniak und Feuchtigkeit. GEONYX baut Mineralsysteme, die organischer Materie, Agrochemikalien und Fermentation standhalten.",
+    "btn1": "TECHNISCHES PROFIL HERUNTERLADEN",
+    "btn2": "TECHNISCHE INSPEKTION ANFRAGEN"
+  },
+  "scope": {
+    "title": "ANWENDUNGSBEREICH",
+    "zonesLabel": "ZONEN:",
+    "systemsLabel": "SYSTEME:",
+    "z1": "Viehfarmen (Rinder-, Schweine-, Geflügelfarmen)",
+    "z2": "Ställe, Boxen und Tierkorridore",
+    "z3": "Lagerungs- und Kompostierungsflächen für Gülle",
+    "z4": "Unterstände und Betonbereiche für Futter und Silage",
+    "z5": "Be-/Entladeplattformen für Gülle und Futter",
+    "z6": "Biogasreaktoren und technische Korridore",
+    "z7": "Gülleteiche, Absetzbecken",
+    "z8": "Kanäle, Klärgruben und Drainagerinnen für Flüssigmist",
+    "z9": "Maschinenwaschplätze und Güllezisternen",
+    "z10": "Agro-Infrastruktur um Farmen (Service- und Versorgungszonen)",
+    "link1": "↓ EINSATZBEREICHE",
+    "link2": "↓ SYSTEMAUSWAHL",
+    "link3": "↓ ANGEBOTSPAKET"
+  },
+  "manifesto": {
+    "titleLine1": "ORGANISCHE MATERIE UND AGROCHEMIKALIEN",
+    "titleLine2": "ZERSTÖREN BETON AM SCHNELLSTEN.",
+    "body": "Gülle, Ammoniak, Düngersilos, Gärreste und ständige Feuchtigkeit zerstören Standardbeton innerhalb weniger Jahre. GEONYX ersetzt Farbe und temporäre Beschichtungen durch Mineralsysteme, die speziell für Agro- und Biogasumgebungen konzipiert sind – beständig gegen organische Materie, Säure und Nass/Trocken-Zyklen."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEM:",
+    "solutionLabel": "LÖSUNG:",
+    "suitableLabel": "Geeignete Systeme:",
+    "b1": {
+      "tag": "DÜNGERLAGER",
+      "title": "SILOS UND MINERALDÜNGERLAGER",
+      "problem": "Mineraldünger (Ammoniumnitrat, Phosphate, Kaliumsalze) bilden in Kombination mit Feuchtigkeit ein stark korrosives Milieu. Beton beginnt zu bröckeln, Löcher und Staub entstehen, und Laderfahrzeuge beschädigen den Boden weiter.",
+      "solution": "GEONYX CHEM + ARMOR schaffen eine dichte Mineraloberfläche mit hoher chemischer Beständigkeit und mechanischer Festigkeit. HYDRO-Details an Fugen, Wänden und Entwässerung stoppen das Eindringen von Lösungen in die Struktur.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "FARMEN UND STÄLLE",
+      "title": "FARMEN, STÄLLE UND MELKRÄUME – GÜLLE, URIN UND AMMONIAK",
+      "problem": "In Ställen und Melkräumen ist der Boden dauerhaft nass – Gülle, Urin, Waschwasser und Desinfektionsmittel. Beton wird ausgelaugt, Löcher und rutschige Bereiche entstehen.",
+      "solution": "GEONYX HYDRO + CHEM liefern eine wasserdichte und chemisch beständige Oberfläche, die durch Ammoniak und organische Materie nicht zerstört wird. ARMOR bewältigt den Verkehr von Tieren, Traktoren und Futtergeräten.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "BIOGAS UND TEICHE",
+      "title": "BIOGAS UND GÄRREST – AGGRESSIVES SAURES MILIEU",
+      "problem": "In Biogasanlagen ist Beton in Kontakt mit Gärresten, Gasen, Kondensat und hoher Luftfeuchtigkeit. Klassischer Beton und Harzbeschichtungen reißen und lösen sich ab.",
+      "solution": "GEONYX CHEM + HYDRO bauen Mineralsysteme für Gärresttanks, Wannen und Flächen, beständig gegen organische Säuren und Gase. THERM wird in Zonen mit erhöhten Temperaturen um Reaktoren eingesetzt.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "TIERKÖRPERBESEITIGUNG",
+      "title": "TIERKÖRPERBESEITIGUNGSANLAGEN UND TIERABFÄLLE",
+      "problem": "In Tierkörperbeseitigungsanlagen nimmt der Boden Blut, Fett, Wasser, aggressive Reinigungslösungen und schwere Lasten auf. Standardbeläge werden schnell porös, halten Gerüche fest.",
+      "solution": "GEONYX CHEM schafft eine dichte, chemisch beständige Oberfläche ohne Poren und Mikrorisse. HYDRO schützt dauerhaft feuchte Zonen, ARMOR garantiert Festigkeit für Maschinen.",
+      "systems": "CHEM"
+    },
+    "b5": {
+      "tag": "KOMPOSTIERUNG",
+      "title": "KOMPOST UND OFFENE ABFALLBEREICHE",
+      "problem": "Kompostierungsanlagen kombinieren organische Materie, Feuchtigkeit, Säure und schweren Maschinenverkehr. Beton zerfällt, schlammige Löcher entstehen.",
+      "solution": "GEONYX ARMOR + CHEM bauen eine verschleißfeste Mineraloberfläche für Radlader und Bagger, beständig gegen organische Säure. HYDRO-Details begrenzen die Bodeninfiltration.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "tag": "GEWÄCHSHÄUSER",
+      "title": "GEWÄCHSHÄUSER, HYDROPONIK UND AGROCHEMIKALIEN",
+      "problem": "In Gewächshäusern und Hydroponiksystemen ist der Boden dauerhaft nass – Nährlösungen, Säure- und Basenkorrektoren, Tropfbewässerung und Kondensat.",
+      "solution": "GEONYX HYDRO + CHEM liefern eine wasserdichte und chemisch beständige Oberfläche. ARMOR bewältigt Karrenverkehr. Die Oberfläche ist für einfache Wasserführung zu Rinnen und Abläufen konzipiert.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "ZOOS UND AQUARIEN",
+      "title": "ZOOS, AQUARIEN UND TIERBECKEN",
+      "problem": "In Zoos und Aquarien sind Böden und Rinnen Wasser, Exkrementen, Salz, Chlor und mechanischem Verschleiß ausgesetzt. Risse und Lecks führen zu Wasserverlust.",
+      "solution": "GEONYX HYDRO schafft monolithische, wasserdichte Systeme für Rinnen und Nasszonen, CHEM sorgt für Beständigkeit gegen Salz und Chlor. ARMOR schützt Durchgänge und Servicebereiche.",
+      "systems": "HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "colParam": "PARAMETER",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Standardbeton mit Beschichtung",
+    "colEpoxy": "Epoxid- / PU-Beschichtung",
+    "r1param": "Beständigkeit gegen Gülle, Urin und Ammoniak",
+    "r1geonyx": "Hoch – mineralische CHEM-Konfiguration",
+    "r1standard": "Niedrig – schnelle Korrosion und Bröckeln",
+    "r1epoxy": "Mittel – Harz angegriffen, begrenzte Lebensdauer",
+    "r2param": "Beständigkeit gegen ständige Feuchtigkeit und Fermentation",
+    "r2geonyx": "Hoch – HYDRO-Wasserdichtigkeit",
+    "r2standard": "Mittel – Kapillaraufnahme und Gefrieren",
+    "r2epoxy": "Mittel – Blasen- und Abblätterungsrisiko",
+    "r3param": "Mechanische Beständigkeit (Lader, Traktoren)",
+    "r3geonyx": "Hoch – ARMOR, >110 MPa",
+    "r3standard": "Mittel – Verschleiß und Spurrillen",
+    "r3epoxy": "Mittel – stoß- und kratzempfindlich",
+    "r4param": "Lebensdauer bei 24/7-Betrieb",
+    "r4geonyx": "Lang, mit lokalem REPAIR",
+    "r4standard": "Kurz – häufige Flickarbeiten",
+    "r4epoxy": "Mittel – periodische Erneuerung",
+    "r5param": "Risiko von Lecks und Bodenkontamination",
+    "r5geonyx": "Niedrig – wasserdichte HYDRO-Details",
+    "r5standard": "Hoch – Risse und Poren",
+    "r5epoxy": "Mittel – hängt von Haftung ab",
+    "r6param": "Reparaturzeit / Ausfallzeit",
+    "r6geonyx": "Kurze Fenster, stufenweises REPAIR",
+    "r6standard": "Lange Stillstände und schwere Geräte",
+    "r6epoxy": "Erhebliche Ausfallzeit bei Erneuerung",
+    "r7param": "Gesamtlebenszykluskosten",
+    "r7geonyx": "Niedriger über 10+ Jahre",
+    "r7standard": "Anfangs niedrig, langfristig hoch",
+    "r7epoxy": "Mittel – erhebliche Kosten alle 5–7 Jahre"
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "EINSATZBEREICHE",
+    "subtitle": "GEONYX-Systeme decken den gesamten Zyklus ab – vom Düngerlager und Farmen bis zu Biogas, Kompost und Zoos.",
+    "a1title": "Mineraldüngerlager",
+    "a1desc": "Innen- und Außenbereiche für Ammoniumnitrat, Phosphate und Mischdünger.",
+    "a2title": "Farmen, Ställe und Melkräume",
+    "a2desc": "Korridore, Boxen, Melklinien und Tierhöfe.",
+    "a3title": "Gewächshäuser und Hydroponik",
+    "a3desc": "Produktionswege, technische Korridore und Lösungsmischbereiche.",
+    "a4title": "Biogasanlagen",
+    "a4desc": "Gärresttanks, Wannen, Serviceräume und Aufnahmgruben.",
+    "a5title": "Kompostierungsanlagen",
+    "a5desc": "Kompostplätze, temporäre Deponien und Radladertrassen.",
+    "a6title": "Tierkörperbeseitigung und Tierabfälle",
+    "a6desc": "Annahme-, Verarbeitungs-, Wasch- und Lagerungszonen.",
+    "a7title": "Zoos und Aquarien",
+    "a7desc": "Tierbecken, Servicekorridore und Nassräume.",
+    "a8title": "Teiche, Kanäle und Drainage",
+    "a8desc": "Güllezuflüsse, Teiche und Drainagerinnen um Agroanlagen."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "GEONYX-SYSTEMAUSWAHL",
+    "subtitle": "Bei Agro- und Biogasprojekten hängt die Systemauswahl von der Kombination Gülle/Ammoniak, Feuchtigkeit, Verkehr und Temperaturregime ab.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Mineralsysteme mit hoher chemischer Beständigkeit gegen Gülle, Ammoniak, organische Säuren, Agrochemikalien und Gärrest.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Wasserdichte Lösungen für Teiche, Kanäle, Waschzonen und dauerhaft nasse Oberflächen.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Mechanisch widerstandsfähige Böden für Schwerlastverkehr – Traktoren, Radlader, Anhänger und Container.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Systeme für Zonen mit erhöhten Temperaturen um Reaktoren, Rohre und Wärmprozesse.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Schnelle Geopolymerlösungen für lokale Reparatur von korrodiertem Beton und Fugen."
+  },
+  "workflow": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "w1step": "01",
+    "w1title": "Geländebegehung und Probenahme",
+    "w1desc": "Beurteilung des vorhandenen Betons, aggressiver Umgebungen und Reinigungsregime.",
+    "w2step": "02",
+    "w2title": "Zonierung nach Funktion und Risiko",
+    "w2desc": "Aufteilung in Zonen: Düngerlager, Farmen, Ställe, Melkräume, Biogas, Kompost, Tierkörperbeseitigung, Zoo.",
+    "w3step": "03",
+    "w3title": "GEONYX-Systemauswahl",
+    "w3desc": "Auswahl von ARMOR / CHEM / HYDRO / THERM / REPAIR für jede Zone.",
+    "w4step": "04",
+    "w4title": "Untergrundvorbereitung und Details",
+    "w4desc": "Mechanische Vorbereitung, Behandlung von Fugen, Kanälen, Abläufen.",
+    "w5step": "05",
+    "w5title": "Stufenweise Verlegung",
+    "w5desc": "Systeme werden stufenweise verlegt, damit Farm oder Anlage mit minimalem Stillstand weiterarbeitet.",
+    "w6step": "06",
+    "w6title": "Qualitätskontrolle und Betriebsanleitung",
+    "w6desc": "Ausführungsprüfung, Dokumentation und Schulung für Reinigung und Wartung."
+  },
+  "offer": {
+    "eyebrow": "KAUFMÄNNISCHE DOKUMENTATION",
+    "title": "ANGEBOTSPAKET",
+    "titleSub": "(B2B / B2G)",
+    "description": "Für Agro-, Biogas- und Düngerstandorte bereitet GEONYX ein vollständiges technisches Paket für Investoren, Banken, Behörden und öffentliche Ausschreibungen vor.",
+    "qualityTitle": "QUALITÄTSGARANTIE",
+    "qualityDesc": "Alle Dokumente entsprechen den aktuellen Eurocodes und Normen.",
+    "i1": "Zonierung nach Aggressivität – Gülle, Dünger, Gärrest, Agrochemikalien",
+    "i2": "Beschreibung der ARMOR / CHEM / HYDRO / THERM / REPAIR-Systeme je Zone",
+    "i3": "Details für Teiche, Kanäle, Silos und Drainage",
+    "i4": "Leckrisikobewertung und Boden-/Gewässerschutzmaßnahmen",
+    "i5": "Empfohlener Ausführungsplan ohne Gesamtstillstand",
+    "i6": "Garantiebedingungen und Reinigungs-/Wartungsanweisungen"
+  },
+  "docs": {
+    "title": "Dokumentation",
+    "d1name": "Agro & Biogas Floors Guide",
+    "d1sub": "GEONYX-Bodensysteme (PDF)",
+    "d2name": "Fertilizer Warehouses Spec",
+    "d2sub": "Technische Anforderungen (PDF)",
+    "d3name": "Manure & Lagoon Protection",
+    "d3sub": "Teichschutz (PDF)",
+    "d4name": "Zoo & Aquatic Surfaces",
+    "d4sub": "Zoo-Systeme (PDF)"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1": "WERDEN GEONYX-SYSTEME GÜLLE, URIN UND AMMONIAK LANGFRISTIG STANDHALTEN?",
+    "a1": "Ja. CHEM-Konfigurationen sind für organische Säure, Ammoniak und Agrochemikalien ausgelegt. Im Audit wählen wir das spezifische System entsprechend Ihren Prozessen.",
+    "q2": "KÖNNEN WIR WÄHREND DER REPARATUR AUF DER FARM ODER IN DER BIOGASANLAGE WEITERARBEITEN?",
+    "a2": "Normalerweise – ja. Wir entwerfen eine stufenweise Ausführung, bei der nur einzelne Zonen geschlossen werden.",
+    "q3": "SIND DIE SYSTEME FÜR OFFENE BEREICHE UND EXTERNE TEICHE GEEIGNET?",
+    "a3": "Ja. HYDRO- und ARMOR-Konfigurationen sind für Außenbedingungen, Frost-/Tauzyklen und schweren Maschinenverkehr entwickelt."
+  },
+  "cta": {
+    "title": "UMFASSENDE STANDORTZONIERUNG",
+    "description": "Jeder Standort hat spezifische Risiken. Wir integrieren 6 spezialisierte Matrizen in ein System: von Mechanik, Chemie und Thermik bis zu Abdichtung, Antistatik und Architektur.",
+    "btn": "ALLE INGENIEURSYSTEME ANSEHEN"
+  }
+}

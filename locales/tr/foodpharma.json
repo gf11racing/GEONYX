@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "GEONYX | Gıda, İçecek, Eczacılık & Hijyen – Derzsiz Endüstriyel Zeminler",
+    "description": "GEONYX, gıda ve içecek endüstrisi, ilaç ve hijyenik üretim için kimyasallara, buhara, sıcak suya, biyofilm ve agresif temizlik maddelerine dayanıklı derzsiz mineral zemin sistemleri tasarlar. HACCP, IFS, BRC ve GMP standartlarıyla uyumludur."
+  },
+  "tender": {
+    "text": "Üretim, yıkama, ambalajlama, soğutma, depolama ve mutfak bölgelerindeki zemin ve ilgili hidro-kimyasal koruma sistemleri, hijyenik ve teknolojik riske göre ARMOR / CHEM / HYDRO / THERM / REPAIR kombinasyonunu kullanan GEONYX tipi veya eşdeğer mineral jeopolimer sistemlerle gerçekleştirilecektir.",
+    "copy": "İHALE METNİNİ KOPYALA",
+    "copied": "METİN KOPYALANDI!"
+  },
+  "hero": {
+    "eyebrow": "GIDA, İÇECEK, ECZACILIK & HİJYEN",
+    "titleLine1": "MÜFETTİŞLER TARAFINDAN",
+    "titleLine2": "ONAYLANAN YÜZEYLER",
+    "description": "Gıda, içecek ve eczacılıkta zemin, ürün güvenliğinin bir parçasıdır. GEONYX, HACCP ve farma standartlarıyla uyumlu, sıcak suya, buhara ve kimyasallara dayanıklı mineral, derzsiz ve temizlenmesi kolay yüzeyler sunar.",
+    "btn1": "HACCP KILAVUZUNU İNDİR",
+    "btn2": "TEKNİK KONTROL TALEP ET"
+  },
+  "scope": {
+    "title": "KAPSAM",
+    "zonesLabel": "BÖLGELER:",
+    "systemsLabel": "SİSTEMLER:",
+    "z1": "Süt işleme tesisleri ve peynirhaneler",
+    "z2": "Et işleme ve mezbahalar",
+    "z3": "Gazlı içecek ve şişelenmiş su fabrikaları",
+    "z4": "Birahane ve içecekler (bira, elma şarabı vb.)",
+    "z5": "Fırınlar, pastaneler ve donmuş ürünler",
+    "z6": "İlaç üretimi (API, tablet, şurup)",
+    "z7": "Kozmetik ve kişisel bakım fabrikaları",
+    "z8": "Temiz odalar ve steril bölgeler",
+    "z9": "Soğutmalı ambalaj ve lojistik bölgeler",
+    "z10": "Islak alanlar, yıkama alanları ve CIP/COP bölgeleri",
+    "link1": "↓ NEREDE KULLANILIR",
+    "link2": "↓ SİSTEM SEÇİMİ",
+    "link3": "↓ TEKLİF PAKETİ"
+  },
+  "manifesto": {
+    "titleLine1": "ÜRETİMDE TEMİZLİK",
+    "titleLine2": "ZEMİNDEN BAŞLAR.",
+    "body": "Her gıda güvenliği programı veya farmasötik üretim üç şeye dayanır: gizli alansız yüzeyler, öngörülebilir temizlik ve kontaminasyon riskinin kontrolü. Zemin kabarıyor, derzlerde su biriktiriyor, kaygan veya temizlik maddeleriyle tepkime veriyorsa, ne HACCP planı ne de temizlik protokolleri bunu telafi edebilir. GEONYX, 'beton üstüne boya'yı monolitik mineral bir sistemle değiştirir."
+  },
+  "blocks": {
+    "problemLabel": "SORUN:",
+    "solutionLabel": "ÇÖZÜM:",
+    "suitableLabel": "Uygun sistemler:",
+    "b1": {
+      "tag": "BALIK İŞLEME",
+      "title": "BALIK, TUZ, KAN VE TERMAL ŞOK",
+      "problem": "Balık işleme tesisleri zemin için 'cehennem senaryosu'dur – tuzlu su, kan, yağ, buz, sıcak su ve buhar kombinasyonu. Standart kaplamalar termal şoktan çatlar; derzler biyofilm tutar.",
+      "solution": "GEONYX CHEM + HYDRO, kontrollü kaymaz dokuyla derzsiz, kimyasal dayanımlı mineral sistem oluşturur. Zemin termal döngüleri absorbe etmek için tasarlanmıştır – buz bölgelerinden sıcak su yıkamasına.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "ET & SÜT ÜRÜNLERİ",
+      "title": "YAĞ, KAN VE BUHAR",
+      "problem": "Kombinalarda ve süt tesislerinde zemin kan, yağ, süt, tuzlu su ve güçlü alkali/asit temizlik maddelerini emer. Sıcak su ve buhar arabalar ve paslanmaz çelik masalardan gelen darbelerle birleşir.",
+      "solution": "GEONYX CHEM, organik asitlere, alkali temizlik maddelerine ve yağlara dayanıklı mineral sistem sağlar. ARMOR trafikle başa çıkmak için gereken mekanik dayanımı verir, HYDRO sürekli ıslak bölgelerde kullanılır.",
+      "systems": "CHEM"
+    },
+    "b3": {
+      "tag": "İÇECEK & ŞİŞELEME",
+      "title": "ŞEKER, KÖPÜK VE KIRIK CAM",
+      "problem": "İçecek fabrikalarında zeminler sürekli ıslak – su, şurup, şeker çözeltileri, köpük, CIP çözeltileri. Şeker zemini yapışkan yapar ve bozulmayı hızlandırır. Kırık cam standart kaplamaları keser.",
+      "solution": "GEONYX CHEM + HYDRO, şurubun 'üstte' kaldığı yoğun bir yüzey oluşturur. ARMOR darbe ve trafik direnci sağlar. Kanal detayları keskin kenar olmadan uygulanır.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "FIRINLAR",
+      "title": "UN, TOZ VE TERMAL ŞOK",
+      "problem": "Ekmek fabrikalarında un her yerdedir ve ıslandığında yapışkan bir kütle olur. Fırınlardan gelen sıcak arabalar yerel termal şok yaratır. Kaplamalar kararır ve pul pul dökülür.",
+      "solution": "GEONYX ARMOR + THERM, termal şoka dayanıklı yüzey oluşturur. Yapı, unun gözeneklere girmemesi için tasarlanmıştır. Islak temizlik bölgelerinde HYDRO eklenir.",
+      "systems": "THERM"
+    },
+    "b5": {
+      "tag": "KOZMETİK",
+      "title": "YAĞLAR, ALKOLLER VE ÇÖZÜCÜLER",
+      "problem": "Kozmetik üretimi, standart reçinelere saldıran uçucu yağlar ve alkoller içerir. Denetimler için farma hijyeni ve temsili görünüm gereklidir.",
+      "solution": "GEONYX CHEM, sıvılarla temas halinde şişmeyen mineral matris sunar. ARMOR stabilite sağlar, HYDRO ıslak temizlik bölgelerini korur. Yüzey görsel olarak temiz kalır.",
+      "systems": "CHEM"
+    },
+    "b6": {
+      "tag": "HİJYEN ÜRÜNLERİ",
+      "title": "SALDIRGAN TEMİZLİK MADDELERİ",
+      "problem": "Deterjan üretiminde konsantre bileşenler son derece agresiftir. Dökülmeler ve durulama işlemleri sıradan betonu hızla tahrip edebilir.",
+      "solution": "GEONYX CHEM, güçlü bazlara ve asitlere karşı direnç için geliştirilmiştir. ARMOR ağır kaplar için dayanım sağlar, HYDRO penetrasyona karşı korur. Kendi ürünlerinize dayanan bir zemin.",
+      "systems": "CHEM"
+    },
+    "b7": {
+      "tag": "ECZACILIK & KANABİS",
+      "title": "TEMİZ BÖLGELER VE FARMA SÜREÇLERİ",
+      "problem": "Temiz odalarda ve farma üretiminde zemin pürüzsüz, derzsiz ve kolayca valide edilebilir olmalıdır. Her çatlak kontaminasyon riskidir.",
+      "solution": "GEONYX CHEM + HYDRO, farma dezenfektanlarıyla uyumlu derzsiz yüzey sağlar. ARMOR ekipman için stabilite verir. Detaylar farma mantığıyla uygulanır – yarıçaplar, cep yok.",
+      "systems": "CHEM"
+    },
+    "b8": {
+      "tag": "SÜPER MARKETLER",
+      "title": "KASAP VE BALIK TEZGAHLARI",
+      "problem": "Süpermarket kasap bölümlerinde su, kan, yağ ve trafik vardır. Fayans derzleri kararır ve biyofilm dolar; kayma risk oluşturur.",
+      "solution": "GEONYX CHEM, fayansları derzsiz, kaymaz monolitik mineral sistemle değiştirir. ARMOR palet vinç trafiğini karşılar, REPAIR hızlı onarıma olanak sağlar.",
+      "systems": "CHEM"
+    },
+    "b9": {
+      "tag": "TOPLU YEMEKHANELERİ",
+      "title": "OKUL VE HASTANE MUTFAKLARI",
+      "problem": "Toplu mutfaklarda nem, sıcak su ve yağ bulunur. Fayanslar ve standart boyalar hızla bozulur ve temizlenmesi güçleşir.",
+      "solution": "GEONYX CHEM + HYDRO, kaymazlık ve temizlenmesi kolay yüzey sunar. ARMOR araba dayanıklılığı sağlar, REPAIR tatil dönemlerinde onarıma olanak tanır.",
+      "systems": "HYDRO"
+    },
+    "b10": {
+      "tag": "SOĞUTMA BÖLGELERİ",
+      "title": "SOĞUK HAVA VE ŞOK DONDURUCU ODALAR",
+      "problem": "Odalarda (-25°C) derzler donar ve trafik tarafından tahrip edilir. Düşük sıcaklıklarda onarımlar güçtür.",
+      "solution": "GEONYX ARMOR + HYDRO, termal şoka dayanıklı monolitik sistem sunar. REPAIR kısa pencere aralıklarında müdahaleye olanak sağlar.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "colParam": "PARAMETRE",
+    "colGeonyx": "GEONYX",
+    "colCeramic": "Seramik fayanslar",
+    "colEpoxy": "Epoksi / PU kaplama",
+    "r1param": "Hijyen ve derz temizliği",
+    "r1geonyx": "Derz yok / kolay yıkama",
+    "r1ceramic": "Çok sayıda derz, temizlenmesi güç",
+    "r1epoxy": "Derzler ve geçişler, soyulma riski",
+    "r2param": "Sıcak su ve buhara dayanıklılık",
+    "r2geonyx": "Yüksek (mineral, termo dayanımlı)",
+    "r2ceramic": "Orta (derzler bozulur)",
+    "r2epoxy": "Orta - düşük (kabarcık riski)",
+    "r3param": "Agresif temizlik maddelerine dayanıklılık",
+    "r3geonyx": "Yüksek (CHEM konfigürasyonu)",
+    "r3ceramic": "Orta (derzler zarar görür)",
+    "r3epoxy": "Sınırlı",
+    "r4param": "Islak koşullarda kayma riski",
+    "r4geonyx": "Kontrollü kaymaz",
+    "r4ceramic": "Değişken",
+    "r4epoxy": "Aşınmada yüksek risk",
+    "r5param": "7/24 üretimde hizmet ömrü",
+    "r5geonyx": "Uzun, yerel REPAIR ile",
+    "r5ceramic": "Orta, periyodik değişim",
+    "r5epoxy": "Orta"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "Tüm tipik 'fabrika + makineler + trafik + paletler' senaryoları – lojistik merkezlerden ve fabrikalardan demiryolu depolarına ve veri merkezlerine kadar.",
+    "a1title": "Süt işleme ve mandıralar",
+    "a1desc": "Kimyasal ve laktik asit, su ve hijyen.",
+    "a2title": "Et işleme ve mezbahalar",
+    "a2desc": "Kan, yağ, sıcak su ve yoğun temizlik.",
+    "a3title": "İçecek üretimi",
+    "a3desc": "Şeker, şurup, cam ve CIP sistemleri.",
+    "a4title": "Ekmek fabrikaları ve fırınlar",
+    "a4desc": "Un, fırın ısısı ve mekanik trafik.",
+    "a5title": "Eczacılık ve Temiz Odalar",
+    "a5desc": "Steril ortamlar, kolay temizlik ve dezenfeksiyon.",
+    "a6title": "Toplu mutfaklar",
+    "a6desc": "Yoğun pişirme, yağlar ve güvenlik.",
+    "a7title": "Soğuk depolama",
+    "a7desc": "Düşük sıcaklıklar ve donmaya dayanıklılık.",
+    "a8title": "Süper marketler",
+    "a8desc": "Taze gıda bölgeleri ve yoğun müşteri trafiği."
+  },
+  "systems": {
+    "eyebrow": "TEKNOLOJİ",
+    "title": "GEONYX SİSTEM SEÇİMİ",
+    "subtitle": "Sistem seçimi mekanik yük, kimyasal saldırganlık ve sıcaklık, ESD ve hijyen gereksinimlerinin kombinasyonuna bağlıdır. GEONYX çözümleri bölge bazında yapılandırır – 'hepsi için tek kaplama' yerine.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Agresif asitler, bazlar ve temizlik maddeleri olan bölgeler için kimyasal dayanımlı sistemler.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Islak üretim ve yıkama alanları için su geçirmez ve temizlenmesi kolay sistemler.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Yoğun trafikli depo ve lojistik bölgeler için yüksek mukavemetli kaplamalar.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Fırın, şok dondurma ve buhar olan bölgeler için termik dayanımlı sistemler.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Bozulmuş alanların restorasyonu için hızlı onarım çözümleri."
+  },
+  "offer": {
+    "eyebrow": "TİCARİ BELGELER",
+    "title": "TEKLİF PAKETİ",
+    "titleSub": "(B2B / B2G)",
+    "description": "Gıda, farma ve hijyen tesisleri için GEONYX, iç onay ve denetim kuruluşları için eksiksiz paket hazırlar.",
+    "qualityTitle": "KALİTE GARANTİSİ",
+    "qualityDesc": "Tüm belgeler mevcut Eurokodlar ve standartlara uygundur.",
+    "i1": "Hijyenik riske göre bölgeleme",
+    "i2": "Bölge bazında sistemlerin teknik özellikleri",
+    "i3": "HACCP, IFS, BRC, GMP uyumluluğu",
+    "i4": "Derzler, sifonlar ve geçişler için detaylar",
+    "i5": "Önerilen uygulama takvimi",
+    "i6": "Garanti koşulları ve temizlik talimatları"
+  },
+  "docs": {
+    "title": "Belgeler",
+    "d1name": "Hygienic Floors Guide",
+    "d1sub": "Zemin sistemleri (PDF)",
+    "d2name": "Wet Food Zones Design",
+    "d2sub": "Tasarım kılavuzu (PDF)",
+    "d3name": "Cosmetics & Pharma Spec",
+    "d3sub": "Teknik gereksinimler (PDF)",
+    "d4name": "Public Kitchens Manual",
+    "d4sub": "Mutfak kılavuzu (PDF)"
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "q1": "GEONYX SİSTEMLERİ TEMİZLİK VE DEZENFEKSİYON MADDELERİMİZLE UYUMLU MU?",
+    "a1": "Evet. Denetim aşamasında kullanılan kimyasal ve konsantrelerin listesini toplayarak bunlara uzun vadede dayanabilen bir CHEM konfigürasyonu seçiyoruz.",
+    "q2": "TÜM ÜRETİMİ DURDURMADAN ONARIM YAPILABİLİR Mİ?",
+    "a2": "Çoğu durumda – evet. Gece ve hafta sonu pencereleriyle bölge bölge aşamalı çalışıyoruz.",
+    "q3": "ISLAK KOŞULLARDA HANGİ KAYMAZ SEVİYESİNİ BEKLEYEBİLİRİZ?",
+    "a3": "Doku ve kaymazlık sınıfı, proje aşamasında süreç türü ve güvenlik gereksinimlerine göre belirlenir."
+  },
+  "cta": {
+    "title": "KAPSAMLI TESİS BÖLGELEME",
+    "description": "Her tesisin kendine özgü riskleri vardır. Mekanik, kimya ve termal şoktan su yalıtımı, antistatik ve mimariye kadar 6 uzmanlaşmış matrisi tek sistemde entegre ediyoruz. İhtiyaçların %100 karşılandığını ve tam uyumluluğu garanti eden bir teknoloji.",
+    "btn": "TÜM MÜHENDİSLİK SİSTEMLERİNİ GÖRÜNTÜLE"
+  }
+}

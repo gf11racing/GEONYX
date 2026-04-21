@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "GEONYX | CAD & BIM Bibliothek – Details, Modelle und Planungsunterlagen",
+    "description": "GEONYX CAD & BIM Bibliothek mit technischen Details, DWG-Zeichnungen, Revit-Familien, BIM-Modellen und Systemquerschnitten für Architektur- und Industrieplanung. Geeignet für Planer, Ingenieure und BIM-Koordinatoren in Infrastruktur- und Industrieprojekten."
+  },
+  "hero": {
+    "eyebrow": "ISO 19650 KONFORMITÄT",
+    "titleLine1": "DIGITALE",
+    "titleLine2": "ZWILLINGE",
+    "description": "VDC-INTEGRATION UND PARAMETRISCHES DESIGN. Planen Sie mit absoluter Präzision vor dem ersten Betoniervorgang. GEONYX ist für die Integration in Ihre BIM-Umgebung von der Phase 'Konzeptentwurf' bis 'Facility Management' (LOD 100 – LOD 500) optimiert.",
+    "btnAccess": "ZUGANG ANFORDERN"
+  },
+  "block2d": {
+    "eyebrow": "2D PLANUNG",
+    "title": "KRITISCHE KONSTRUKTIONSKNOTEN",
+    "description": "Eliminieren Sie das Risiko von Ausführungsfehlern. Systeme für die Schwerindustrie versagen am häufigsten an Unterbrechungspunkten. Wir stellen eine standardisierte Bibliothek mit fertigen 2D-Schnitten für alle kritischen Konstruktionsknoten bereit.",
+    "d1title": "DETAIL 01",
+    "d1desc": "Wand-zu-Boden-Verbindung mit hygienischer Hohlkehle (Cove Skirting).",
+    "d2title": "DETAIL 02",
+    "d2desc": "Integration mit Schwerlast-Rinnenabläufen.",
+    "d3title": "DETAIL 03",
+    "d3desc": "Behandlung dynamischer Dehnungsfugen.",
+    "d4title": "DETAIL 04",
+    "d4desc": "Sekundäreinschluss bei Chemikalien-Auffangwannen."
+  },
+  "blockBim": {
+    "eyebrow": "3D PARAMETER",
+    "title": "INFORMATIONSMODELLIERUNG (BIM)",
+    "description": "Für Projekte, die eine strenge Informationsmodellierung erfordern, stellen wir Systemfamilien für Revit (.RFA), ArchiCAD (.LCF) und den offenen Standard OpenBIM (.IFC) bereit. Die Modelle sind mit kritischen Metadaten geladen, die genaue Massenermittlungen (Quantity Take-offs), Eigengewichtsanalysen (Dead Load) und Wärmeleitfähigkeitsberechnungen ermöglichen."
+  },
+  "classification": {
+    "eyebrow": "INTEGRATIONSSTANDARDS",
+    "title": "GLOBALE KLASSIFIKATIONSSTANDARDS",
+    "description": "Bereit für internationale Ausschreibungen. Alle digitalen Assets von GEONYX sind nach den führenden Weltstandards vorklassifiziert und kodiert (UniClass 2015 für Europa/UK und MasterFormat/OmniClass für Nordamerika). Dies gewährleistet eine nahtlose Integration in globale Ausschreibungen."
+  },
+  "lifecycle": {
+    "eyebrow": "6D BIM",
+    "title": "LEBENSZYKLUSMANAGEMENT",
+    "card1title": "COBie INTEGRATION",
+    "card1desc": "Strukturierte Daten für das Facility Management. Nutzungsdauer und Wartungszyklen.",
+    "card2title": "WARTUNG",
+    "card2desc": "Protokolle zur chemischen Reinigung und Inspektion, direkt in den digitalen Zwilling eingebettet.",
+    "card3title": "GARANTIE",
+    "card3desc": "Digitaler Systempass mit Chargenrückverfolgbarkeit und Garantiezeitverfolgung."
+  },
+  "accessForm": {
+    "eyebrow": "SICHERES DATENZENTRUM",
+    "title": "ARCHIVZUGANG ANFORDERN",
+    "description": "Aufgrund strenger Versionskontrolle wird der Zugang zur CAD/BIM-Bibliothek individuell über einen gesicherten Link generiert.",
+    "successTitle": "LIZENZ AUSGESTELLT",
+    "successDesc": "Ein Zugriffslink wurde an Ihre Unternehmens-E-Mail gesendet.",
+    "successBack": "Zurück",
+    "labelName": "Name des Architekten / Chefingenieurs *",
+    "labelCompany": "Unternehmen / Architekturbüro *",
+    "labelProjectType": "Projekttyp *",
+    "labelEnv": "Bevorzugte Umgebung *",
+    "labelEmail": "Unternehmens-E-Mail zum Empfang des Links *",
+    "placeholderName": "Name...",
+    "placeholderCompany": "Büro...",
+    "placeholderSelect": "-- Auswählen --",
+    "placeholderEmail": "arch@studio.com",
+    "optIndustrial": "Industriell",
+    "optMilitary": "Militärisch",
+    "optInfrastructure": "Infrastruktur",
+    "optPharma": "Pharma / Reinräume",
+    "optRevit": "Autodesk Revit",
+    "optArchiCAD": "ArchiCAD",
+    "optAutoCAD": "AutoCAD (2D)",
+    "optIFC": "OpenBIM (IFC)",
+    "btnSubmitting": "VALIDIERUNG...",
+    "btnSubmit": "SICHEREN ZUGANG GENERIEREN"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Transport, Parking, Garages & Traffic – Industrial Flooring R12/R13",
+    "description": "GEONYX designs jointless mineral floor systems for transport infrastructure, underground and above-ground parking, R12/R13 ramps, garages and traffic zones – resistant to tyres, salt, de-icing agents, oils, water and heavy traffic. Long-lasting protection and anti-slip safety."
+  },
+  "hero": {
+    "tag": "TRANSPORT, PARKING & GARAGES",
+    "title_line1": "PROTECTION FROM SALTS,",
+    "title_line2": "TRAFFIC & CARBONATION",
+    "description": "Parking structures and garages are the 'lungs' of the city, but their concrete is under attack from de-icing agents, CO₂ and intensive abrasion. GEONYX offers certified OS 8 and OS 11 systems for long-lasting protection.",
+    "btn_catalog": "DOWNLOAD OS 8 / OS 11 CATALOGUE",
+    "btn_inspection": "REQUEST PARKING INSPECTION",
+    "scope_title": "SCOPE",
+    "scope_zones_label": "ZONES:",
+    "scope_systems_label": "SYSTEMS:",
+    "nav_applications": "↓ WHERE IT IS USED",
+    "nav_system_selection": "↓ SYSTEM SELECTION",
+    "nav_offer_package": "↓ OFFER PACKAGE",
+    "zones": [
+      "Multi-storey car parks (above-ground and underground)",
+      "Underground garages in shopping centres and offices",
+      "Loading, unloading and garage access ramps",
+      "Retail chain and retail park car parks",
+      "Logistics base parking and manoeuvring zones",
+      "Internal lanes and service roads in industrial zones",
+      "Taxi, delivery and short-stay zones (drop-off/pick-up)",
+      "Bus stations, coach terminals and P+R zones",
+      "Entrance driveways and internal roads in residential complexes",
+      "Intensive braking and turning zones (ramps, roundabouts, barriers)"
+    ]
+  },
+  "manifesto": {
+    "title_line1": "CHLORIDES ARE",
+    "title_line2": "THE SILENT KILLER OF CONCRETE.",
+    "text": "In winter, vehicles bring tonnes of salt (de-icing agents) into parking structures. Dissolved chlorides penetrate the concrete pores, reach the reinforcement and trigger corrosion that expands and destroys the slab from within. GEONYX HYDRO stops this process through impermeable membranes, while ARMOR absorbs tyre abrasion."
+  },
+  "blocks": {
+    "problem_label": "PROBLEM:",
+    "solution_label": "SOLUTION:",
+    "suitable_systems": "Suitable systems:",
+    "b1": {
+      "badge": "Intensive loading",
+      "title": "INTERMEDIATE LEVELS & INTENSIVE TRAFFIC",
+      "problem": "In intermediate parking levels there is no freezing risk, but there is extremely high tyre abrasion and localised chemical attack (oils, fuels). Concrete starts dusting, stains become permanent and the surface wears unevenly.",
+      "solution": "GEONYX ARMOR mineral system for a hard, mechanically resistant surface. It seals the concrete, reduces dust emission and protects from oils and fuels, while providing anti-slip performance (R11/R12) and long service life under intensive traffic.",
+      "systems": "ARMOR"
+    },
+    "b2": {
+      "badge": "Water & climate",
+      "title": "OPEN & ROOFTOP CAR PARKS",
+      "problem": "On open and rooftop parking levels, temperature swings (winter/summer) cause slab expansion and contraction. Dynamic cracks form through which water, de-icing agents and salts penetrate and destroy the concrete and reinforcement.",
+      "solution": "Elastic waterproofing system GEONYX HYDRO with an intermediate membrane layer, bridging cracks up to 0.3 mm at -20°C. It remains watertight under substrate movement and protects the structure from water, salt and de-icing agent ingress.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "badge": "Maximum grip",
+      "title": "RAMPS & INCLINED APPROACHES",
+      "problem": "Ramps are the most stressed zones – braking, acceleration, sharp bends. In rain, snow or ice the concrete becomes slippery, vehicles spin and the surface wears fastest in turning and braking zones.",
+      "solution": "Specially configured GEONYX ARMOR with enhanced abrasion resistance and R13 anti-slip class. Hard mineral aggregates (corundum/basalt) provide 'tyre-on-tyre' grip and withstand shear forces from tyres during intensive manoeuvres.",
+      "systems": "ARMOR"
+    },
+    "b4": {
+      "badge": "Heavy-duty traffic",
+      "title": "TIR ZONES & LOADING RAMPS",
+      "problem": "In loading dock zones, external platforms and service roads, heavy lorries cause extreme static loads on supports and dynamic shear forces during manoeuvring. Standard floors fail at joint zones and support lines.",
+      "solution": "Heavy-duty GEONYX ARMOR HEAVY DUTY configuration, designed for contact pressures above 100 MPa. The system does not deform under lorry and trailer loads, and joints are reinforced and profiled specifically for passage of hard industrial wheels.",
+      "systems": "ARMOR"
+    },
+    "b5": {
+      "badge": "Navigation & safety",
+      "title": "MARKINGS & VISUAL DESIGN",
+      "problem": "In large car parks and transport hubs, lack of durable and clear markings leads to traffic chaos, driver confusion and increased risk of incidents. Ordinary road paint wears off within months under tyres and manoeuvres.",
+      "solution": "Integrated-into-floor markings with GEONYX ARMOR – colour zoning, arrows, pedestrian crossings and designations are embedded into the system itself, not just painted on top. UV-resistant pigments and mineral matrix guarantee long-lasting visibility and higher safety for pedestrians and vehicles.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "badge": "E-MOBILITY",
+      "title": "EV ZONES & FAST CHARGING",
+      "problem": "EV charging stations concentrate heavy vehicles, battery temperature loads, maintenance oils and localised chemical attacks. Standard concrete cracks around anchors and cable channels.",
+      "solution": "GEONYX ARMOR + CHEM system with high mechanical strength and resistance to electrolytes and oils. The surface remains stable around anchors and equipment, ensuring long-lasting safety and low maintenance.",
+      "systems": "ARMOR, CHEM"
+    }
+  },
+  "roi": {
+    "section_tag": "ROI ANALYSIS",
+    "section_title": "INVESTMENT AUDIT",
+    "col_param": "PARAMETER",
+    "col_geonyx": "GEONYX",
+    "col_standard": "Standard concrete / screed",
+    "col_bitumen": "Bituminous / polymer coating",
+    "rows": [
+      {
+        "param": "Climate resistance (UV, rain, temperatures)",
+        "geonyx": "High – mineral matrix, HYDRO/THERM protection",
+        "standard": "Medium – cracking and efflorescence",
+        "alt": "Medium – ageing, yellowing and cracking"
+      },
+      {
+        "param": "Mechanical abrasion resistance",
+        "geonyx": "High – ARMOR for impact, friction and traffic",
+        "standard": "Medium – spalling and dust",
+        "alt": "Good initially, rapid surface wear"
+      },
+      {
+        "param": "Chemical resistance (cleaning, fuels)",
+        "geonyx": "High – CHEM configuration",
+        "standard": "Limited – sensitivity to cleaning agents",
+        "alt": "Depends on chemistry, risk of swelling and staining"
+      },
+      {
+        "param": "Waterproofing and leaks to lower levels",
+        "geonyx": "Systemic HYDRO logic",
+        "standard": "Partial solutions, many detail weaknesses",
+        "alt": "Dependence on organic membranes"
+      },
+      {
+        "param": "Aesthetics and 'mineral look' over time",
+        "geonyx": "Preserved mineral appearance, low dust",
+        "standard": "Uneven ageing and staining",
+        "alt": "Gloss that highlights scratches and defects"
+      },
+      {
+        "param": "Maintenance and repair",
+        "geonyx": "Local REPAIR and zone-by-zone system renewals",
+        "standard": "Difficult partial repairs, often full replacement",
+        "alt": "Frequent resurfacing with age"
+      },
+      {
+        "param": "Total lifecycle cost",
+        "geonyx": "Optimised for 10–15+ years",
+        "standard": "Low upfront, high long-term",
+        "alt": "Medium, with risk of early ageing"
+      }
+    ]
+  },
+  "applications": {
+    "section_tag": "APPLICATIONS",
+    "section_title": "WHERE IT IS USED",
+    "section_desc": "GEONYX covers both the urban scene and high-tech facilities – from the skate park to the clean room.",
+    "items": [
+      { "id": "underground", "title": "Underground car parks", "desc": "Shopping centres, office buildings and residential complexes." },
+      { "id": "rooftop", "title": "Open levels (Rooftop)", "desc": "Rooftop car parks exposed to atmospheric conditions." },
+      { "id": "ramps", "title": "Ramps and spirals", "desc": "Inclined zones requiring high grip." },
+      { "id": "logistics", "title": "Logistics terminals", "desc": "Loading and lorry manoeuvring zones." },
+      { "id": "airports", "title": "Airports and hangars", "desc": "Service zones, taxiways and garages." },
+      { "id": "bridges", "title": "Bridges and viaducts", "desc": "Waterproofing and protection of the road slab." },
+      { "id": "autoservice", "title": "Car service centres", "desc": "Zones with oils, fuels and heavy tools." },
+      { "id": "tunnels", "title": "Tunnels", "desc": "Reflective and non-combustible coatings." }
+    ]
+  },
+  "systems": {
+    "section_tag": "TECHNOLOGY",
+    "section_title": "GEONYX SYSTEM SELECTION",
+    "items": [
+      { "id": "armor", "name": "GEONYX ARMOR", "desc": "Hard system for enclosed car parks, garages and warehouses. High wear and chemical resistance." },
+      { "id": "hydro", "name": "GEONYX HYDRO", "desc": "Elastic system for open car parks and rooftops. Bridges cracks and stops leaks." },
+      { "id": "chem", "name": "GEONYX CHEM", "desc": "For specialist zones with fuel, oil and battery acid spills." },
+      { "id": "repair", "name": "GEONYX REPAIR", "desc": "Fast solutions for repairing potholes, spalled edges and joints before coating application." }
+    ]
+  },
+  "workflow": {
+    "section_tag": "PROCESS",
+    "section_title": "EXECUTION PROCESS",
+    "steps": [
+      { "id": "s1", "step": "01", "title": "Function and traffic analysis", "desc": "Review of scenarios – urban environment, public access, high-tech zones, ESD/clean requirements." },
+      { "id": "s2", "step": "02", "title": "Risk-based zoning", "desc": "Dividing the site into zones: external areas, internal public zones, high-tech, laboratories, hangars." },
+      { "id": "s3", "step": "03", "title": "GEONYX system selection", "desc": "Combination of ARMOR / HYDRO / CHEM / THERM for each zone with clearly defined parameters." },
+      { "id": "s4", "step": "04", "title": "Details and trial zones", "desc": "Design of details at joints, edges, facades, drains and test sections where needed." },
+      { "id": "s5", "step": "05", "title": "Phased execution", "desc": "Work organisation so the site remains partially operational where possible." },
+      { "id": "s6", "step": "06", "title": "Control and training", "desc": "Final inspection, documentation and maintenance, cleaning and future REPAIR intervention instructions." }
+    ]
+  },
+  "offer": {
+    "section_tag": "COMMERCIAL DOCUMENTATION",
+    "section_title": "OFFER PACKAGE (B2B / B2G)",
+    "section_desc": "For municipalities, investors, architects and high-tech facility operators, GEONYX prepares a complete package for tenders, competitions and internal approval.",
+    "quality_title": "QUALITY GUARANTEE",
+    "quality_desc": "All documents comply with current Eurocodes and standards.",
+    "copy_btn": "COPY TENDER TEXT",
+    "copy_success": "TEXT COPIED!",
+    "tender_text": "Floor coatings in car parks, garages and on ramps shall be executed with concrete surface protection systems in accordance with EN 1504-2. For intermediate floors and ramps: OS 8 class system (hard, traffic-resistant). For open levels and crack-prone zones: OS 11a/b class system (elastic, crack-bridging). Systems shall be resistant to chlorides (de-icing agents), fuels and oils, with proven grip and fire reaction class Bfl-s1 or higher.",
+    "items": [
+      "Zoning of urban and high-tech areas by function and risk",
+      "Technical specifications for ARMOR / HYDRO / CHEM / THERM by zone",
+      "Details for joints, edges, facades, terraces and underground connections",
+      "Recommended execution scenario without full site closure",
+      "Cleaning, chemical and fire safety requirements",
+      "Warranty conditions and inspection and local repair plan"
+    ]
+  },
+  "docs": {
+    "section_title": "Documentation",
+    "items": [
+      { "id": "d1", "title": "Parking Systems Guide", "subtitle": "OS 8 / OS 11 (PDF)" },
+      { "id": "d2", "title": "Maintenance Manual", "subtitle": "Parking maintenance (PDF)" },
+      { "id": "d3", "title": "Color Chart", "subtitle": "Colours and markings (PDF)" },
+      { "id": "d4", "title": "Aviation & High-Tech Floors", "subtitle": "Technical requirements (PDF)" }
+    ]
+  },
+  "faq": {
+    "section_title": "Frequently Asked Questions",
+    "items": [
+      {
+        "id": "f1",
+        "question": "CAN WE KEEP A 'MINERAL LOOK' RATHER THAN A TYPICAL RESIN FLOOR?",
+        "answer": "Yes. GEONYX systems are mineral and allow a 'mineral look' with high wear resistance and protection. Colour and texture are specified in the project according to the architectural concept."
+      },
+      {
+        "id": "f2",
+        "question": "ARE THE SYSTEMS SUITABLE FOR ESD AND CLEAN ROOM REQUIREMENTS?",
+        "answer": "Certain ARMOR and CHEM configurations can be delivered with controlled ESD parameters and a smooth, easy-to-clean surface compatible with clean room protocols."
+      },
+      {
+        "id": "f3",
+        "question": "HOW DO THE FLOORS PERFORM IN A FIRE IN PUBLIC AND HIGH-TECH BUILDINGS?",
+        "answer": "THERM configurations are based on non-combustible mineral systems with favourable fire behaviour; specific classes are defined according to regulations and the project."
+      }
+    ]
+  },
+  "cta": {
+    "title": "COMPREHENSIVE SITE ZONING",
+    "desc": "Every site has specific risks. We integrate 6 specialised matrices into one system: from mechanics, chemistry and thermal shock to waterproofing, anti-static and architecture.",
+    "btn": "VIEW ALL ENGINEERING SYSTEMS"
+  }
+}

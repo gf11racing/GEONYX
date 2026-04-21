@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "solutions": "SOLUCIONES",
+    "systems": "SISTEMAS",
+    "techCenter": "CENTRO TÉCNICO",
+    "references": "REFERENCIAS",
+    "company": "EMPRESA",
+    "contacts": "CONTACTOS",
+    "projectInquiry": "CONSULTA DE PROYECTO"
+  },
+  "navChildren": {
+    "heavy": "Industria Pesada",
+    "food": "Alimentación & Pharma",
+    "agro": "Agro & Ecología",
+    "water": "Infraestructura Hídrica",
+    "energy": "Energía & Minería",
+    "transport": "Transporte & Aparcamientos",
+    "urban": "Entorno Urbano",
+    "archZone": "Zona Arquitectónica",
+    "techMaps": "Mapas Técnicos",
+    "cadBim": "Detalles CAD & BIM",
+    "certs": "Certificados",
+    "aboutMain": "Sobre Nosotros",
+    "careers": "Carreras",
+    "hseq": "HSEQ & Sostenibilidad"
+  },
+  "mega": {
+    "solutions": {
+      "heavy": { "title": "INDUSTRIA PESADA & LOGÍSTICA", "desc": "Suelos y sistemas para cargas mecánicas extremas.", "badge": "CARGAS EXTREMAS" },
+      "food": { "title": "ALIMENTACIÓN, BEBIDAS, PHARMA & HIGIENE", "desc": "Higiene sin compromisos. Suelos sin juntas, fáciles de limpiar.", "badge": "CONTROL HIGIÉNICO" },
+      "agro": { "title": "AGRO, BIOGÁS, FERTILIZANTES & ENTORNOS ANIMALES", "desc": "Protección contra ácidos orgánicos, estiércol, amoníaco.", "badge": "AGRESIÓN ORGÁNICA" },
+      "water": { "title": "AGUA, AGUAS RESIDUALES & INFRAESTRUCTURA MARINA", "desc": "100% impermeabilidad y resistencia a sales y erosión.", "badge": "PROTECCIÓN HÍDRICA" },
+      "energy": { "title": "ENERGÍA, MINERÍA & PROTECCIÓN PESADA", "desc": "Sistemas ignífugos y resistentes a productos químicos.", "badge": "INFRAESTRUCTURA CRÍTICA" },
+      "transport": { "title": "TRANSPORTE, APARCAMIENTOS, GARAJES & TRÁFICO", "desc": "Suelos y rampas de alta adherencia, resistentes a sales.", "badge": "ZONAS DE ALTO TRÁFICO" },
+      "urban": { "title": "ENTORNO URBANO, CONSTRUCCIÓN & ALTA TECNOLOGÍA", "desc": "Soluciones UHPC para fachadas y entornos urbanos.", "badge": "INFRAESTRUCTURA URBANA" }
+    },
+    "techCenter": {
+      "archZone": { "title": "ZONA ARQUITECTÓNICA", "desc": "Texturas, mapas PBR y recursos visuales para diseño.", "label": "DESIGN RESOURCES", "heroTitle": "DESIGN CENTER", "buttonText": "A LA GALERÍA", "badge": "SOPORTE DE DISEÑO" },
+      "techMaps": { "title": "MAPAS TÉCNICOS", "desc": "Especificaciones detalladas (TDS) y MSDS de todos los sistemas.", "label": "SPECIFICATIONS", "heroTitle": "DOC CENTER", "buttonText": "DESCARGAR TDS", "badge": "DOCUMENTACIÓN TÉCNICA" },
+      "cadBim": { "title": "BIBLIOTECA CAD & BIM", "desc": "Detalles de sistema listos en formato .DWG y Revit.", "label": "INTEGRATION", "heroTitle": "CAD / BIM ASSETS", "buttonText": "SOLICITAR ACCESO", "badge": "MODELOS BIM & INGENIERÍA" },
+      "certs": { "title": "CERTIFICADOS", "desc": "HACCP, ISO y declaraciones de prestaciones.", "label": "COMPLIANCE", "heroTitle": "CERTIFICACIÓN", "buttonText": "VER CERTIFICADOS", "badge": "CONFORMIDAD & CERTIFICACIÓN" }
+    },
+    "about": {
+      "main": { "title": "SOBRE NOSOTROS", "desc": "Filosofía de innovación y desarrollo sostenible.", "label": "SOBRE LA EMPRESA", "heroTitle": "SOBRE NOSOTROS", "buttonText": "SABER MÁS", "badge": "LA EMPRESA" },
+      "careers": { "title": "CARRERAS & DESARROLLO", "desc": "Únase al equipo GEONYX.", "label": "EQUIPO & DESARROLLO", "heroTitle": "CARRERAS EN GEONYX", "buttonText": "PUESTOS ABIERTOS", "badge": "DESARROLLO PROFESIONAL" },
+      "hseq": { "title": "HSEQ & SOSTENIBILIDAD", "desc": "Nuestros compromisos con la salud, la seguridad y el medio ambiente.", "label": "RESPONSABILIDAD", "heroTitle": "ESTÁNDARES DE SEGURIDAD", "buttonText": "VER MÁS", "badge": "SEGURIDAD & SOSTENIBILIDAD" }
+    },
+    "systems": {
+      "armor": { "title": "GEONYX ARMOR (RESISTENCIA MECÁNICA)", "desc": "Resistencia mecánica y suelos industriales.", "tech": "PROTECCIÓN MECÁNICA" },
+      "chem":  { "title": "GEONYX CHEM (PROTECCIÓN QUÍMICA)",   "desc": "Protección contra químicos y combustibles agresivos.", "tech": "PROTECCIÓN QUÍMICA" },
+      "hydro": { "title": "GEONYX HYDRO (PROTECCIÓN HÍDRICA)",  "desc": "Sistemas impermeables e hidrotécnicos.", "tech": "IMPERMEABILIZACIÓN" },
+      "therm": { "title": "GEONYX THERM (SEGURIDAD TÉRMICA)",   "desc": "Soluciones ignífugas para fuego y riesgo térmico.", "tech": "PROTECCIÓN TÉRMICA" }
+    }
+  },
+  "footer": {
+    "tagline": "Soluciones geopoliméricas industriales para infraestructura crítica.",
+    "solutions": "SOLUCIONES",
+    "systems": "SISTEMAS",
+    "company": "EMPRESA",
+    "legal": "LEGAL",
+    "privacyPolicy": "Política de privacidad",
+    "termsConditions": "Términos y condiciones",
+    "allRightsReserved": "Todos los derechos reservados."
+  },
+  "buttons": {
+    "learnMore": "SABER MÁS",
+    "requestInspection": "SOLICITAR AUDITORÍA",
+    "downloadTDS": "DESCARGAR TDS",
+    "contactEngineer": "CONTACTAR INGENIERO",
+    "projectInquiry": "CONSULTA DE PROYECTO",
+    "viewLicenses": "VER NUESTRAS LICENCIAS",
+    "copyTender": "COPIAR TEXTO DE LICITACIÓN",
+    "copied": "¡TEXTO COPIADO!"
+  },
+  "common": {
+    "threat": "AMENAZA",
+    "solution": "SOLUCIÓN",
+    "zones": "ZONAS:",
+    "systems": "SISTEMAS:"
+  },
+  "ticker": {
+    "aurubis": "METALURGIA", "kaufland": "LOGÍSTICA", "lufthansa": "AVIACIÓN", "dundee": "MINERÍA",
+    "iso9001": "CALIDAD", "iso14001": "ECOLOGÍA", "haccp": "ALIMENTACIÓN", "bds": "ESTÁNDAR",
+    "learnMore": "SABER MÁS",
+    "partnersLabel": "SOCIOS DE CONFIANZA",
+    "certsLabel": "ESTÁNDARES CERTIFICADOS"
+  }
+}

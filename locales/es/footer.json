@@ -1,0 +1,46 @@
+{
+  "cta": {
+    "titleLine1": "SOCIO TECNOLÓGICO PARA",
+    "titleHighlight": "INFRAESTRUCTURA CRÍTICA",
+    "body": "Desde el análisis de laboratorio hasta la ejecución en obra. Discutamos sus desafíos técnicos y objetivos de descarbonización.",
+    "btn": "CONTACTAR AL EQUIPO"
+  },
+  "about": {
+    "description": "Desarrollamos matrices geopoliméricas de alta tecnología para infraestructuras críticas e industria pesada. Ingeniería más allá de los límites del concreto."
+  },
+  "systems": {
+    "heading": "SISTEMAS DE INGENIERÍA",
+    "armor": "GEONYX ARMOR (Mecánica)",
+    "chem": "GEONYX CHEM (Química)",
+    "therm": "GEONYX THERM (Termochoque)",
+    "hydro": "GEONYX HYDRO (Hidráulica)"
+  },
+  "portal": {
+    "heading": "PORTAL DE INGENIERÍA",
+    "techMaps": "Fichas técnicas (TDS / MSDS)",
+    "cadBim": "Biblioteca CAD & BIM",
+    "certs": "Certificados & Cumplimiento",
+    "references": "Archivo operativo (Estudios de caso)",
+    "hseq": "Estándar corporativo (HSEQ)"
+  },
+  "contacts": {
+    "heading": "CONTACTOS GLOBALES",
+    "addressLine1": "Gabrovo,",
+    "addressLine2": "Calle Yuriy Venelin 18, piso 2",
+    "addressLine3": "5300 Gabrovo, Bulgaria"
+  },
+  "newsletter": {
+    "heading": "REDES & ACTUALIZACIONES",
+    "label": "SUSCRIPCIÓN AL BOLETÍN TÉCNICO:",
+    "btn": "SUSCRIBIRSE",
+    "emailPlaceholder": "Dirección de correo electrónico",
+    "disclaimer": "Reciba notificaciones solo cuando se actualicen especificaciones técnicas (TDS), nuevas declaraciones EPD y cambios normativos."
+  },
+  "legal": {
+    "copyright": "© 2026 GEONYX GROUP. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "cookies": "Política de cookies",
+    "terms": "Términos y condiciones",
+    "esg": "Declaración ESG & HSEQ"
+  }
+}

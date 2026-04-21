@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "GEONYX | HSEQ y sostenibilidad – Salud, Seguridad, Calidad y Medio Ambiente",
+    "description": "Política HSEQ y desarrollo sostenible en GEONYX – compromiso con la salud y seguridad, la calidad del producto y la protección medioambiental. Sistemas minerales industriales con baja huella de carbono y larga vida útil para infraestructura e industria."
+  },
+  "hero": {
+    "eyebrow": "ESTÁNDAR CORPORATIVO (HSEQ & ESG)",
+    "titleLine1": "GESTIÓN SIN COMPROMISOS DEL",
+    "titleLine2": "RIESGO Y LA CALIDAD",
+    "description": "El liderazgo industrial exige más que innovación tecnológica: exige responsabilidad absoluta. En GEONYX, cada proceso – desde la síntesis de materias primas hasta la polimerización final en obra – está sometido a un estricto código corporativo."
+  },
+  "healthSafety": {
+    "badge": "Seguridad laboral",
+    "eyebrow": "CULTURA \"RIESGO CERO\"",
+    "title": "GESTIÓN DEL RIESGO LABORAL",
+    "description": "Para nosotros, la seguridad no es documentación sino cultura operativa. Nuestros equipos trabajan bajo estrictos protocolos de Análisis de Seguridad en el Trabajo (Job Safety Analysis - JSA). Al desarrollar sistemas con 100% de ausencia de Compuestos Orgánicos Volátiles (VOC-Free) y disolventes tóxicos, eliminamos los riesgos respiratorios para aplicadores y personal en obra.",
+    "tag1": "ISO 45001",
+    "tag2": "JSA Protocols"
+  },
+  "sustainability": {
+    "badge": "Neutralidad de carbono",
+    "eyebrow": "HUELLA ECOLÓGICA",
+    "title": "DESCARBONIZACIÓN Y EPD",
+    "description": "El cemento Portland genera el 8% de las emisiones mundiales de CO2. GEONYX cambia el paradigma. Nuestra tecnología geopolimérica reduce la huella de carbono hasta un 80% respecto al hormigón convencional. A través de Declaraciones Ambientales de Producto (EPD) y Análisis del Ciclo de Vida (ACV), proporcionamos datos transparentes de descarbonización.",
+    "tag1": "ISO 14001",
+    "tag2": "LEED / BREEAM"
+  },
+  "quality": {
+    "badge": "Control de calidad",
+    "eyebrow": "TRAZABILIDAD COMPLETA",
+    "title": "CONTROL QA/QC DE LOTES",
+    "description": "La escala industrial no tolera variaciones. Nuestro control de calidad (QC) es totalmente de base laboratorial e instrumental. Cada lote de materia prima pasa por un análisis espectral de entrada, y se archivan muestras de referencia de cada producción. Esta trazabilidad absoluta garantiza que las propiedades mecánicas se reproduzcan con el 100% de precisión.",
+    "tag1": "ISO 9001",
+    "tag2": "TDS Verification"
+  },
+  "governance": {
+    "badge": "Gobernanza",
+    "eyebrow": "CONFORMIDAD ESG",
+    "title": "CADENA DE SUMINISTRO ÉTICA",
+    "description": "La responsabilidad empieza antes de la producción. Auditamos a nuestros proveedores de materias primas conforme a las más estrictas directivas europeas. Todos los componentes de las matrices minerales de GEONYX son plenamente conformes con el reglamento REACH, garantizando la ausencia de minerales en conflicto y precursores tóxicos en nuestra cadena de suministro.",
+    "tag1": "REACH Compliant",
+    "tag2": "Supply Audit"
+  },
+  "standards": {
+    "eyebrow": "POLÍTICA CORPORATIVA",
+    "title": "NORMAS OFICIALES",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Gestión de calidad",
+        "description": "Sistema de Gestión de Calidad (SGC). Sometido a auditoría independiente continua."
+      },
+      "iso14001": {
+        "subtitle": "Gestión ambiental",
+        "description": "Gestión ambiental. Cero residuos a vertederos y control de emisiones."
+      },
+      "iso45001": {
+        "subtitle": "Salud y seguridad",
+        "description": "Seguridad y salud laboral. Protección institucionalizada de la salud en el trabajo."
+      },
+      "reach": {
+        "subtitle": "Conformidad química",
+        "description": "Plena conformidad con las directivas de la UE sobre seguridad química e higiene (HACCP/GMP)."
+      }
+    },
+    "btnDownload": "DESCARGAR POLÍTICA HSEQ INTEGRADA (PDF)"
+  },
+  "cta": {
+    "title": "SOCIO TECNOLÓGICO PARA INFRAESTRUCTURA CRÍTICA",
+    "description": "Desde el análisis previo de ingeniería y la evaluación del ciclo de vida (ACV) hasta la ejecución impecable en obra.",
+    "btn": "CONTACTAR CON EL DEPARTAMENTO HSEQ"
+  }
+}

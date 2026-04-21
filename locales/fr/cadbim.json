@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "GEONYX | Bibliothèque CAD & BIM – Détails, modèles et documentation de conception",
+    "description": "Bibliothèque CAD & BIM GEONYX avec détails techniques, dessins DWG, familles Revit, modèles BIM et coupes de systèmes pour la conception architecturale et industrielle. Adaptée aux concepteurs, ingénieurs et coordinateurs BIM sur des projets d'infrastructure et industriels."
+  },
+  "hero": {
+    "eyebrow": "CONFORMITÉ ISO 19650",
+    "titleLine1": "JUMEAUX",
+    "titleLine2": "NUMÉRIQUES",
+    "description": "INTÉGRATION VDC ET CONCEPTION PARAMÉTRIQUE. Concevez avec une précision absolue avant la première coulée de béton. GEONYX est optimisé pour l'intégration dans votre environnement BIM de la phase 'Conception conceptuelle' à la 'Gestion des installations' (LOD 100 – LOD 500).",
+    "btnAccess": "DEMANDER L'ACCÈS"
+  },
+  "block2d": {
+    "eyebrow": "DESSIN 2D",
+    "title": "NŒUDS CONSTRUCTIFS CRITIQUES",
+    "description": "Éliminez le risque d'erreurs d'exécution. Les systèmes pour l'industrie lourde défaillent le plus souvent aux points de rupture. Nous fournissons une bibliothèque standardisée de coupes 2D prêtes à l'emploi pour tous les nœuds constructifs critiques.",
+    "d1title": "DÉTAIL 01",
+    "d1desc": "Liaison 'Mur-Sol' avec plinthe cuvette hygiénique (Cove Skirting).",
+    "d2title": "DÉTAIL 02",
+    "d2desc": "Intégration avec des caniveaux linéaires lourds.",
+    "d3title": "DÉTAIL 03",
+    "d3desc": "Traitement des joints de dilatation dynamiques.",
+    "d4title": "DÉTAIL 04",
+    "d4desc": "Rétention secondaire au niveau des bacs de rétention chimique."
+  },
+  "blockBim": {
+    "eyebrow": "PARAMÈTRES 3D",
+    "title": "MODÉLISATION DE L'INFORMATION (BIM)",
+    "description": "Pour les projets nécessitant une modélisation de l'information stricte, nous fournissons des familles de systèmes pour Revit (.RFA), ArchiCAD (.LCF) et le standard ouvert OpenBIM (.IFC). Les modèles sont chargés de métadonnées critiques permettant des métrés précis (Quantity Take-offs), une analyse de charge permanente (Dead Load) et des calculs de conductivité thermique."
+  },
+  "classification": {
+    "eyebrow": "NORMES D'INTÉGRATION",
+    "title": "NORMES DE CLASSIFICATION MONDIALES",
+    "description": "Prêt pour les marchés publics internationaux. Tous les actifs numériques GEONYX sont pré-classifiés et codés selon les normes mondiales de référence (UniClass 2015 pour l'Europe/UK et MasterFormat/OmniClass pour l'Amérique du Nord). Cela garantit une intégration transparente dans les spécifications mondiales."
+  },
+  "lifecycle": {
+    "eyebrow": "6D BIM",
+    "title": "GESTION DU CYCLE DE VIE",
+    "card1title": "INTÉGRATION COBie",
+    "card1desc": "Données structurées pour la gestion des installations. Durée de vie en service et cycles de maintenance.",
+    "card2title": "MAINTENANCE",
+    "card2desc": "Protocoles de nettoyage chimique et d'inspection intégrés directement dans le jumeau numérique.",
+    "card3title": "GARANTIE",
+    "card3desc": "Passeport numérique du système avec traçabilité des lots et suivi des périodes de garantie."
+  },
+  "accessForm": {
+    "eyebrow": "CENTRE DE DONNÉES SÉCURISÉ",
+    "title": "DEMANDER L'ACCÈS AUX ARCHIVES",
+    "description": "En raison d'un contrôle strict des versions, l'accès à la bibliothèque CAD/BIM est généré individuellement via un lien sécurisé.",
+    "successTitle": "LICENCE ÉMISE",
+    "successDesc": "Un lien d'accès a été envoyé à votre email professionnel.",
+    "successBack": "Retour",
+    "labelName": "Nom de l'Architecte / Ingénieur en Chef *",
+    "labelCompany": "Entreprise / Cabinet d'Architecture *",
+    "labelProjectType": "Type de projet *",
+    "labelEnv": "Environnement préféré *",
+    "labelEmail": "Email professionnel pour recevoir le lien *",
+    "placeholderName": "Nom...",
+    "placeholderCompany": "Cabinet...",
+    "placeholderSelect": "-- Sélectionner --",
+    "placeholderEmail": "arch@studio.com",
+    "optIndustrial": "Industriel",
+    "optMilitary": "Militaire",
+    "optInfrastructure": "Infrastructure",
+    "optPharma": "Pharma / Salles blanches",
+    "optRevit": "Autodesk Revit",
+    "optArchiCAD": "ArchiCAD",
+    "optAutoCAD": "AutoCAD (2D)",
+    "optIFC": "OpenBIM (IFC)",
+    "btnSubmitting": "VALIDATION...",
+    "btnSubmit": "GÉNÉRER UN ACCÈS SÉCURISÉ"
+  }
+}

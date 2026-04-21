@@ -1,0 +1,25 @@
+{
+  "header": {
+    "eyebrow": "HUKUKİ PROTOKOL 07",
+    "title": "GİZLİLİK POLİTİKASI",
+    "subtitle": "BİLGİLERİNİZİN GÜVENLİĞİ GÜVENCE ALTINDADIR."
+  },
+  "block1": {
+    "title": "VERİ SORUMLUSU",
+    "body": "Verileriniz, Yönetmelik (AB) 2016/679 (GDPR)'ya sıkı sıkıya uyarak veri sorumlusu sıfatıyla \"GEONYX GROUP\" Ltd. tarafından yönetilmektedir. Bilgilerinizin korunması için tam hukuki sorumluluk bize aittir."
+  },
+  "block2": {
+    "title": "ENDÜSTRİYEL SIRRLIK (NDA)",
+    "body": "Güvenli tesislerde ve üretim ortamlarında çalışmanın özelliklerini anlıyoruz. \"GEONYX GROUP\" Ltd. tam gizlilik güvencesi verir. Teknik çizimlerinizin, proses şemalarınızın veya saha fotoğraflarınızın hiçbir bölümü, açık yazılı onayınız olmadan üçüncü taraflarla paylaşılmayacaktır."
+  },
+  "block3": {
+    "title": "VERİ AMACI",
+    "intro": "Yalnızca aşağıdakiler için gerekli teknik ve iletişim bilgilerini topluyoruz:",
+    "li1": "Kesin teknik şartname ve tekliflerin hazırlanması.",
+    "li2": "Garanti belgelerinin düzenlenmesi.",
+    "li3": "Garanti sonrası hizmetin sağlanması."
+  },
+  "footer": {
+    "note": "Bu belge, \"GEONYX GROUP\" Ltd. Genel Şartları kapsamında geçerlidir. Hukuk departmanıyla iletişim için:"
+  }
+}

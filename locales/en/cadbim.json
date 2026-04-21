@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "GEONYX | CAD & BIM Library – Details, Models and Design Documentation",
+    "description": "GEONYX CAD & BIM library with technical details, DWG drawings, Revit families, BIM models and system cross-sections for architectural and industrial design. Suitable for designers, engineers and BIM coordinators on infrastructure and industrial projects."
+  },
+  "hero": {
+    "eyebrow": "ISO 19650 COMPLIANCE",
+    "titleLine1": "DIGITAL",
+    "titleLine2": "TWINS",
+    "description": "VDC INTEGRATION AND PARAMETRIC DESIGN. Design with absolute precision before the first concrete pour. GEONYX is optimised for integration into your BIM environment from 'Concept Design' through to 'Facility Management' (LOD 100 – LOD 500).",
+    "btnAccess": "REQUEST ACCESS"
+  },
+  "block2d": {
+    "eyebrow": "2D DRAFTING",
+    "title": "CRITICAL STRUCTURAL NODES",
+    "description": "Eliminate the risk of installation errors. Systems for heavy industry most often fail at discontinuity points. We provide a standardised library of ready-made 2D cross-sections for all critical structural nodes.",
+    "d1title": "DETAIL 01",
+    "d1desc": "Wall-to-Floor connection with hygienic cove skirting.",
+    "d2title": "DETAIL 02",
+    "d2desc": "Integration with heavy-duty linear drains.",
+    "d3title": "DETAIL 03",
+    "d3desc": "Treatment of dynamic expansion joints.",
+    "d4title": "DETAIL 04",
+    "d4desc": "Secondary containment at chemical bunds."
+  },
+  "blockBim": {
+    "eyebrow": "3D PARAMETERS",
+    "title": "INFORMATION MODELLING (BIM)",
+    "description": "For projects requiring strict information modelling, we provide system families for Revit (.RFA), ArchiCAD (.LCF) and the open standard OpenBIM (.IFC). The models are loaded with critical metadata enabling accurate quantity take-offs, dead load analysis and thermal conductivity calculations."
+  },
+  "classification": {
+    "eyebrow": "INTEGRATION STANDARDS",
+    "title": "GLOBAL CLASSIFICATION STANDARDS",
+    "description": "Ready for international government procurement. All GEONYX digital assets are pre-classified and coded according to the world's leading standards (UniClass 2015 for Europe/UK and MasterFormat/OmniClass for North America). This ensures seamless integration into global specifications."
+  },
+  "lifecycle": {
+    "eyebrow": "6D BIM",
+    "title": "LIFECYCLE MANAGEMENT",
+    "card1title": "COBie INTEGRATION",
+    "card1desc": "Structured data for facility management. Service life and maintenance cycles.",
+    "card2title": "MAINTENANCE",
+    "card2desc": "Chemical cleaning and inspection protocols embedded directly in the digital twin.",
+    "card3title": "WARRANTY",
+    "card3desc": "Digital system passport with batch traceability and warranty period tracking."
+  },
+  "accessForm": {
+    "eyebrow": "SECURE DATA CENTRE",
+    "title": "REQUEST ARCHIVE ACCESS",
+    "description": "Due to strict version control, access to the CAD/BIM library is generated individually via a secure link.",
+    "successTitle": "LICENCE ISSUED",
+    "successDesc": "An access link has been sent to your corporate email.",
+    "successBack": "Go back",
+    "labelName": "Architect / Lead Engineer Name *",
+    "labelCompany": "Company / Architecture Studio *",
+    "labelProjectType": "Project Type *",
+    "labelEnv": "Preferred Environment *",
+    "labelEmail": "Corporate Email to Receive Link *",
+    "placeholderName": "Name...",
+    "placeholderCompany": "Studio...",
+    "placeholderSelect": "-- Select --",
+    "placeholderEmail": "arch@studio.com",
+    "optIndustrial": "Industrial",
+    "optMilitary": "Military",
+    "optInfrastructure": "Infrastructure",
+    "optPharma": "Pharma / Clean Rooms",
+    "optRevit": "Autodesk Revit",
+    "optArchiCAD": "ArchiCAD",
+    "optAutoCAD": "AutoCAD (2D)",
+    "optIFC": "OpenBIM (IFC)",
+    "btnSubmitting": "VALIDATING...",
+    "btnSubmit": "GENERATE SECURE ACCESS"
+  }
+}

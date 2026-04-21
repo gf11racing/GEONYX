@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "GEONYX | Agro, Biogás, Fertilizantes y Entornos Animales – Protección químicamente resistente",
+    "description": "GEONYX diseña sistemas de suelo y protección minerales para granjas agrícolas, plantas de biogás, silos, almacenes de purín y entornos ganaderos – resistentes al amoniaco, ácidos, corrosión biogénica, fertilizantes y entornos orgánicos agresivos."
+  },
+  "tender": {
+    "text": "Las superficies en almacenes de fertilizantes, granjas, establos, salas de ordeño, plantas de biogás, plantas de rendering, sitios de compostaje y zoológicos se ejecutarán con sistemas geopolímeros minerales tipo GEONYX o equivalente, combinando ARMOR / CHEM / HYDRO / THERM / REPAIR según la agresividad del entorno y la carga mecánica.",
+    "copy": "COPIAR TEXTO DE LICITACIÓN",
+    "copied": "¡TEXTO COPIADO!"
+  },
+  "hero": {
+    "eyebrow": "AGRO, BIOGÁS, FERTILIZANTES Y ENTORNOS ANIMALES",
+    "titleLine1": "SUPERFICIES QUE RESISTEN",
+    "titleLine2": "EL ESTIÉRCOL Y EL AMONIACO",
+    "description": "En entornos agro y biogás el hormigón vive constantemente en estiércol, amoniaco y humedad. GEONYX construye sistemas minerales resistentes a la materia orgánica, agroquímicos y fermentación.",
+    "btn1": "DESCARGAR PERFIL TÉCNICO",
+    "btn2": "SOLICITAR INSPECCIÓN TÉCNICA"
+  },
+  "scope": {
+    "title": "ALCANCE",
+    "zonesLabel": "ZONAS:",
+    "systemsLabel": "SISTEMAS:",
+    "z1": "Granjas ganaderas (vacuno, porcino, avícola)",
+    "z2": "Establos, boxes y pasillos para animales",
+    "z3": "Áreas de almacenamiento y compostaje de estiércol",
+    "z4": "Cobertizos y superficies de hormigón para pienso y ensilaje",
+    "z5": "Plataformas de carga/descarga de estiércol y pienso",
+    "z6": "Reactores de biogás y pasillos técnicos",
+    "z7": "Lagunas de purín, decantadores y balsas de decantación",
+    "z8": "Canales, fosas sépticas y canaletas de drenaje para purín",
+    "z9": "Zonas de lavado de maquinaria y cisternas de purín",
+    "z10": "Infraestructura agro alrededor de granjas (zonas de servicio)",
+    "link1": "↓ DÓNDE SE USA",
+    "link2": "↓ SELECCIÓN DE SISTEMA",
+    "link3": "↓ PAQUETE DE OFERTA"
+  },
+  "manifesto": {
+    "titleLine1": "LA MATERIA ORGÁNICA Y LOS AGROQUÍMICOS",
+    "titleLine2": "DESTRUYEN EL HORMIGÓN MÁS RÁPIDO.",
+    "body": "Estiércol, amoniaco, silos de fertilizantes, digestato y humedad constante destruyen el hormigón estándar en pocos años. GEONYX reemplaza pintura y revestimientos temporales con sistemas minerales específicamente diseñados para entornos agro y biogás."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEMA:",
+    "solutionLabel": "SOLUCIÓN:",
+    "suitableLabel": "Sistemas adecuados:",
+    "b1": {
+      "tag": "ALMACENES DE FERTILIZANTES",
+      "title": "SILOS Y ALMACENES DE FERTILIZANTES MINERALES",
+      "problem": "Los fertilizantes minerales (nitrato de amonio, fosfatos, sales de potasio) combinados con humedad forman un ambiente altamente corrosivo. El hormigón comienza a desmoronarse y los equipos de carga agravan el daño.",
+      "solution": "GEONYX CHEM + ARMOR crean una superficie mineral densa con alta resistencia química y mecánica. Los detalles HYDRO en juntas, muros y drenaje detienen la penetración de soluciones en la estructura.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "GRANJAS Y ESTABLOS",
+      "title": "GRANJAS, ESTABLOS Y SALAS DE ORDEÑO – ESTIÉRCOL, ORINA Y AMONIACO",
+      "problem": "En establos y salas de ordeño el suelo está permanentemente mojado – estiércol, orina, agua de lavado y desinfectantes. El hormigón se come, aparecen hoyos y zonas resbaladizas.",
+      "solution": "GEONYX HYDRO + CHEM proporcionan una superficie impermeable y resistente que no se degrada por el amoniaco y la materia orgánica. ARMOR soporta el tráfico de animales, tractores y equipos de alimentación.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "BIOGÁS Y LAGUNAS",
+      "title": "BIOGÁS Y DIGESTATO – AMBIENTE ÁCIDO AGRESIVO",
+      "problem": "En plantas de biogás el hormigón está en contacto con digestato, gases, condensación y alta humedad. El hormigón clásico y los revestimientos de resina se agrietan y delamian.",
+      "solution": "GEONYX CHEM + HYDRO construyen sistemas minerales para depósitos de digestato, canales y plataformas, resistentes a ácidos orgánicos y gases. THERM se usa en zonas con temperaturas elevadas alrededor de reactores.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "PLANTAS DE RENDERING",
+      "title": "PLANTAS DE RENDERING Y RESIDUOS ANIMALES",
+      "problem": "En las plantas de rendering el suelo absorbe sangre, grasa, agua, soluciones agresivas de limpieza y cargas pesadas. Los revestimientos estándar rápidamente se vuelven porosos y retienen olores.",
+      "solution": "GEONYX CHEM crea una superficie densa y resistente sin poros ni microfisuras. HYDRO protege zonas de humedad permanente, ARMOR garantiza resistencia para maquinaria y contenedores.",
+      "systems": "CHEM"
+    },
+    "b5": {
+      "tag": "COMPOSTAJE",
+      "title": "COMPOST Y ÁREAS ABIERTAS DE RESIDUOS",
+      "problem": "Las instalaciones de compostaje combinan materia orgánica, humedad, acidez y tráfico pesado de maquinaria. El hormigón se degrada y aparecen baches lodosos.",
+      "solution": "GEONYX ARMOR + CHEM construyen una superficie mineral resistente al desgaste para cargadoras y excavadoras. Los detalles HYDRO limitan la infiltración en el suelo.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "tag": "INVERNADEROS",
+      "title": "INVERNADEROS, HIDROPONIA Y AGROQUÍMICOS",
+      "problem": "En invernaderos e hidroponía el suelo está permanentemente mojado – soluciones nutritivas, correctores ácido/alcalino, riego por goteo y condensación.",
+      "solution": "GEONYX HYDRO + CHEM proporcionan una superficie impermeable y resistente. ARMOR soporta el tráfico de carros. La superficie se diseña para dirigir el agua hacia canaletas y sumideros.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "ZOOS Y ACUARIOS",
+      "title": "ZOOS, ACUARIOS Y PISCINAS PARA ANIMALES",
+      "problem": "En zoos y acuarios suelos y canales soportan agua, excrementos, sal, cloro y desgaste mecánico. Las grietas y fugas conducen a pérdidas de agua.",
+      "solution": "GEONYX HYDRO crea sistemas monolíticos impermeables para canales y zonas húmedas. CHEM proporciona resistencia a la sal y el cloro. ARMOR protege los pasillos de servicio.",
+      "systems": "HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "colParam": "PARÁMETRO",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Hormigón estándar con revestimiento",
+    "colEpoxy": "Revestimiento epoxi / PU",
+    "r1param": "Resistencia al estiércol, orina y amoniaco",
+    "r1geonyx": "Alta – configuración mineral CHEM",
+    "r1standard": "Baja – corrosión y desmoronamiento rápidos",
+    "r1epoxy": "Media – resina atacada, vida útil limitada",
+    "r2param": "Resistencia a la humedad permanente y fermentación",
+    "r2geonyx": "Alta – impermeabilidad HYDRO",
+    "r2standard": "Media – absorción capilar y congelación",
+    "r2epoxy": "Media – riesgo de ampollas y delamación",
+    "r3param": "Resistencia mecánica (cargadoras, tractores)",
+    "r3geonyx": "Alta – ARMOR, >110 MPa",
+    "r3standard": "Media – desgaste y roderas",
+    "r3epoxy": "Media – sensible a impactos y arañazos",
+    "r4param": "Vida útil en operación 24/7",
+    "r4geonyx": "Larga, con REPAIR local",
+    "r4standard": "Corta – reparaciones frecuentes",
+    "r4epoxy": "Media – renovación periódica",
+    "r5param": "Riesgo de fugas y contaminación del suelo",
+    "r5geonyx": "Bajo – detalles impermeables HYDRO",
+    "r5standard": "Alto – grietas y poros",
+    "r5epoxy": "Medio – depende de la adherencia",
+    "r6param": "Tiempo de reparación / parada",
+    "r6geonyx": "Ventanas cortas, REPAIR por fases",
+    "r6standard": "Paradas largas y equipos pesados",
+    "r6epoxy": "Tiempo significativo para renovación",
+    "r7param": "Coste total del ciclo de vida",
+    "r7geonyx": "Menor en horizonte de 10+ años",
+    "r7standard": "Bajo inicialmente, alto a largo plazo",
+    "r7epoxy": "Medio – costes significativos cada 5–7 años"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE USA",
+    "subtitle": "Los sistemas GEONYX cubren el ciclo completo – de almacenes de fertilizantes y granjas a biogás, compost y zoos.",
+    "a1title": "Almacenes de fertilizantes minerales",
+    "a1desc": "Áreas interiores y exteriores para nitrato de amonio, fosfatos y fertilizantes mixtos.",
+    "a2title": "Granjas, establos y salas de ordeño",
+    "a2desc": "Pasillos, boxes, líneas de ordeño y corrales.",
+    "a3title": "Invernaderos e hidroponía",
+    "a3desc": "Pasillos de producción, corredores técnicos y zonas de mezcla de soluciones.",
+    "a4title": "Plantas de biogás",
+    "a4desc": "Depósitos de digestato, canales, plataformas de servicio y pozos de recepción.",
+    "a5title": "Instalaciones de compostaje",
+    "a5desc": "Plataformas de compost, depósitos temporales y rutas para cargadoras.",
+    "a6title": "Plantas de rendering y residuos animales",
+    "a6desc": "Zonas de recepción, procesamiento, lavado y almacenamiento temporal.",
+    "a7title": "Zoos y acuarios",
+    "a7desc": "Piscinas para animales, pasillos de servicio y cuartos húmedos.",
+    "a8title": "Lagunas, canales y drenaje",
+    "a8desc": "Canales de purín, lagunas y canaletas de drenaje alrededor de las instalaciones agro."
+  },
+  "systems": {
+    "eyebrow": "TECNOLOGÍA",
+    "title": "SELECCIÓN DE SISTEMA GEONYX",
+    "subtitle": "En proyectos agro y biogás la selección del sistema depende de la combinación estiércol/amoniaco, humedad, tráfico y régimen de temperatura.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Sistemas minerales con alta resistencia química a estiércol, amoniaco, ácidos orgánicos, agroquímicos y digestato.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Soluciones impermeables para lagunas, canales, zonas de lavado y superficies permanentemente húmedas.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Suelos mecánicamente resistentes para tráfico pesado – tractores, cargadoras, remolques y contenedores.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Sistemas para zonas con temperaturas elevadas alrededor de reactores, tuberías y procesos calientes.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Soluciones geopolímeras rápidas para reparación local de hormigón corroído y juntas."
+  },
+  "workflow": {
+    "eyebrow": "PROCESO",
+    "title": "PROCESO DE EJECUCIÓN",
+    "w1step": "01",
+    "w1title": "Inspección del sitio y toma de muestras",
+    "w1desc": "Evaluación del hormigón existente, entornos agresivos y régimen de limpieza.",
+    "w2step": "02",
+    "w2title": "Zonificación por función y riesgo",
+    "w2desc": "División en zonas: almacén de fertilizantes, granjas, establos, ordeño, biogás, compost, rendering, zoo.",
+    "w3step": "03",
+    "w3title": "Selección del sistema GEONYX",
+    "w3desc": "Selección de ARMOR / CHEM / HYDRO / THERM / REPAIR para cada zona.",
+    "w4step": "04",
+    "w4title": "Preparación del soporte y detalles",
+    "w4desc": "Preparación mecánica, tratamiento de juntas, canales, sumideros y detalles críticos.",
+    "w5step": "05",
+    "w5title": "Aplicación por fases",
+    "w5desc": "Sistemas aplicados por fases para que la granja o planta continúe operando.",
+    "w6step": "06",
+    "w6title": "Control e instrucciones de operación",
+    "w6desc": "Inspección, documentación y formación para limpieza y mantenimiento."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE OFERTA",
+    "titleSub": "(B2B / B2G)",
+    "description": "Para sitios agro, biogás y de fertilizantes GEONYX prepara un paquete técnico completo para inversores, bancos, organismos reguladores y licitaciones públicas.",
+    "qualityTitle": "GARANTÍA DE CALIDAD",
+    "qualityDesc": "Todos los documentos cumplen con los Eurocódigos y normas vigentes.",
+    "i1": "Zonificación por agresividad – estiércol, fertilizantes, digestato, agroquímicos",
+    "i2": "Descripción de sistemas ARMOR / CHEM / HYDRO / THERM / REPAIR por zona",
+    "i3": "Detalles para lagunas, canales, silos y drenaje",
+    "i4": "Evaluación del riesgo de fugas y medidas de protección del suelo y aguas",
+    "i5": "Calendario de ejecución recomendado sin parar toda la instalación",
+    "i6": "Condiciones de garantía e instrucciones de limpieza y mantenimiento"
+  },
+  "docs": {
+    "title": "Documentación",
+    "d1name": "Agro & Biogas Floors Guide",
+    "d1sub": "Sistemas de suelo GEONYX (PDF)",
+    "d2name": "Fertilizer Warehouses Spec",
+    "d2sub": "Requisitos técnicos (PDF)",
+    "d3name": "Manure & Lagoon Protection",
+    "d3sub": "Protección de lagunas (PDF)",
+    "d4name": "Zoo & Aquatic Surfaces",
+    "d4sub": "Sistemas para zoos (PDF)"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿RESISTIRÁN LOS SISTEMAS GEONYX EL ESTIÉRCOL, LA ORINA Y EL AMONIACO A LARGO PLAZO?",
+    "a1": "Sí. Las configuraciones CHEM están diseñadas para acidez orgánica, amoniaco y agroquímicos. En la auditoría seleccionamos el sistema específico basado en sus procesos.",
+    "q2": "¿PODEMOS CONTINUAR OPERANDO EN LA GRANJA O PLANTA DE BIOGÁS DURANTE LAS REPARACIONES?",
+    "a2": "Normalmente – sí. Diseñamos ejecución por fases para que solo se cierren zonas individuales.",
+    "q3": "¿SON LOS SISTEMAS ADECUADOS PARA ESPACIOS ABIERTOS Y LAGUNAS EXTERNAS?",
+    "a3": "Sí. Las configuraciones HYDRO y ARMOR están desarrolladas para condiciones exteriores, ciclos hielo/deshielo y tráfico pesado de maquinaria."
+  },
+  "cta": {
+    "title": "ZONIFICACIÓN INTEGRAL DEL SITIO",
+    "description": "Cada sitio tiene riesgos específicos. Integramos 6 matrices especializadas en un sistema: de mecánica, química y choque térmico, a impermeabilización, antiestático y arquitectura.",
+    "btn": "VER TODOS LOS SISTEMAS DE INGENIERÍA"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "GEONYX | Careers and Development – Work in Industrial Manufacturing",
+    "description": "Career opportunities at GEONYX – positions for engineers, technical specialists and production staff in the field of industrial flooring and mineral systems for infrastructure. Long-term professional development, training and participation in strategic industrial projects."
+  },
+  "hero": {
+    "eyebrow": "JOIN THE ELITE",
+    "titleLine1": "WE'RE NOT LOOKING FOR EMPLOYEES.",
+    "titleLine2": "WE'RE LOOKING FOR",
+    "titleHighlight": "CHARACTER",
+    "description1": "GEONYX is a technology company disguised as a construction firm. You won't find trowels and spades here. We work with laser systems, tablets and chemistry.",
+    "description2": "We invest in you through our",
+    "academyName": "Geopolymer Academy",
+    "description3": ", because nobody is born knowing everything. The path from apprentice to chief technologist is mapped out and depends solely on your results. No nepotism – only metrics.",
+    "btnPositions": "VIEW POSITIONS"
+  },
+  "positions": {
+    "sales": {
+      "sector": "Sales",
+      "eyebrow": "COMMERCIAL FORCE",
+      "title": "TECHNICAL SALES REPRESENTATIVE",
+      "description": "You're not a brochure salesperson. Your job is to enter the most demanding conditions, identify the problem and personally carry out a pilot test (Demo Application). You sell through a demonstration of strength, not sweet talk.",
+      "req1": "Willingness to travel intensively",
+      "req2": "Technical literacy",
+      "req3": "Willingness to 'get your hands dirty'"
+    },
+    "production": {
+      "sector": "Production",
+      "eyebrow": "THE PRODUCTION HEARTBEAT",
+      "title": "PRODUCTION & QUALITY CONTROL OPERATOR",
+      "description": "You run the GEONYX kitchen. This is where the magic is born. You are responsible for transforming raw materials into the perfect product, operating dosing systems and mixers. There is no room for guesswork – everything is to the gram.",
+      "req1": "Iron discipline",
+      "req2": "Attention to detail",
+      "req3": "Physical endurance"
+    },
+    "rnd": {
+      "sector": "Innovation",
+      "eyebrow": "INNOVATION CENTRE",
+      "title": "R&D ENGINEER – INNOVATION",
+      "description": "GEONYX does not stand still. We're looking for a visionary who will optimise existing formulas and develop new products. You are the person who says 'this can be done better' and proves it in the laboratory.",
+      "req1": "Knowledge of chemistry/building materials",
+      "req2": "Analytical thinking",
+      "req3": "Experimental mindset"
+    },
+    "requirementsLabel": "REQUIREMENTS:",
+    "applyBtn": "APPLY NOW"
+  },
+  "form": {
+    "title": "ARE YOU READY?",
+    "subtitle": "If you recognised yourself in the lines above, take action.",
+    "successTitle": "APPLICATION RECEIVED!",
+    "successDesc": "Thank you! Please send your CV to",
+    "successEmail": "office@geonyxgroup.com",
+    "successDesc2": "to complete the process.",
+    "successNewBtn": "Submit another",
+    "labelPosition": "SELECT POSITION *",
+    "placeholderPosition": "-- Please Select --",
+    "labelName": "FULL NAME *",
+    "placeholderName": "John Smith",
+    "labelPhone": "PHONE *",
+    "placeholderPhone": "+1 555 ...",
+    "labelEmail": "EMAIL *",
+    "placeholderEmail": "name@mail.com",
+    "labelExperience": "How will your experience make GEONYX stronger? *",
+    "placeholderExperience": "Be specific. Don't use templates.",
+    "cvLabel": "ATTACH CV",
+    "cvDesc": "Send your CV directly to",
+    "cvSubject": "\"Application — [Your Name]\"",
+    "cvSubjectLabel": "with subject:",
+    "btnSubmitting": "SENDING...",
+    "btnSubmit": "SUBMIT APPLICATION",
+    "errorGeneral": "An error occurred during submission. Please try again later.",
+    "errorFileSize": "The file is too large to send.",
+    "errorLimit": "Sending limit reached. Please contact us directly.",
+    "errorUnexpected": "An unexpected error occurred. Please check the fields.",
+    "positionSales": "SALES",
+    "positionProduction": "PRODUCTION",
+    "positionRnd": "R&D TECHNOLOGIST"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "hero": {
+    "eyebrow": "HYDRAULIC ENGINEERING & WATER PROTECTION",
+    "description": "Mineral systems for watertightness and pressure resistance – for dams, reservoirs, water treatment plants and marine infrastructure. Engineered for W20, 15 Bar and long service life even underwater.",
+    "statWater": "WATERTIGHTNESS",
+    "statWaterValue": "Class W20",
+    "statPressure": "PRESSURE",
+    "statPressureValue": "Up to 15 Bar",
+    "statDrinking": "DRINKING WATER",
+    "statDrinkingValue": "Certified",
+    "statLife": "DESIGN LIFE",
+    "statLifeValue": "≥ 25 years",
+    "btn1": "TECHNICAL DATA SHEET",
+    "btn2": "REQUEST ENGINEERING AUDIT"
+  },
+  "diagnostics": {
+    "eyebrow": "WATER AGGRESSION",
+    "title": "WATER IS UNFORGIVING. GEONYX HYDRO IS NOT.",
+    "subtitle": "8 hydraulic engineering scenarios where standard concrete is slowly losing the battle.",
+    "d1": {
+      "title": "UNDERWATER REPAIR WITHOUT DEWATERING",
+      "problem": "Draining a dam, reservoir or basin costs millions and halts the operation of critical infrastructure.",
+      "solution": "GEONYX HYDRO cures underwater without washout. Divers perform local repairs on operating structures – with minimal downtime."
+    },
+    "d2": {
+      "title": "HYDROSTATIC PRESSURE UP TO 15 BAR",
+      "problem": "Water under pressure (tens of metres of head) forces through pores and micro-cracks, compromising the structure.",
+      "solution": "GEONYX HYDRO delivers Class W20 performance and resistance to positive pressure up to 15 Bar – no breakthrough, no layer delamination."
+    },
+    "d3": {
+      "title": "CAVITATION AND HIGH-VELOCITY FLOW",
+      "problem": "Vacuum bubbles and turbulent flow in spillways, channels and sluices erode concrete and produce deep pitting.",
+      "solution": "Extremely dense and smooth surface with low abrasion (AR ≤ 0.5), resistant to cavitation and mechanical wear from flow."
+    },
+    "d4": {
+      "title": "BIOGENIC CORROSION IN SEWERS AND WWTP",
+      "problem": "Bacteria in sewage convert gases into aggressive acids that attack concrete above the waterline.",
+      "solution": "Mineral immunity to biogenic corrosion, combined where required with GEONYX CHEM – protecting both wet and gas zones in a single solution."
+    },
+    "d5": {
+      "title": "CHLORIDE ATTACK AND MARINE ENVIRONMENT",
+      "problem": "Sea salt penetrates through pores, reaches the reinforcement and accelerates corrosion of coastal structures and quays.",
+      "solution": "Dense mineral barrier that limits chloride migration and extends the service life of reinforced elements in marine environments."
+    },
+    "d6": {
+      "title": "LEACHING AND \"LEOPARD SKIN\"",
+      "problem": "Soft or demineralised water dissolves lime from concrete, causing staining, porosity and loss of strength.",
+      "solution": "Geopolymer structure with no free lime – nothing to leach out; the surface remains stable and dense."
+    },
+    "d7": {
+      "title": "DRINKING WATER SAFETY",
+      "problem": "Standard epoxy coatings can release monomers and solvents into drinking water – unacceptable for operators and regulators.",
+      "solution": "GEONYX HYDRO is a mineral system certified for contact with drinking water to DVGW/BS standards – no organic toxic components."
+    },
+    "d8": {
+      "title": "ABRASION FROM SILT AND SAND",
+      "problem": "Water laden with sand and silt acts as a continuous abrasive on the walls and floors of channels and basins.",
+      "solution": "Surface hardness up to Mohs 9 with very low volume loss – significantly more resistant than standard concrete and renders."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "TECHNICAL CROSS-SECTION OF GEONYX HYDRO",
+    "sectionSubtitle": "Interactive layer model – from the substrate to the working surface.",
+    "h1": {
+      "title": "1. CONCRETE SUBSTRATE",
+      "subtitle": "Saturated Substrate",
+      "desc": "Existing reinforced concrete structure, cleaned by high-pressure hydroblasting (2500 bar) to open the capillaries."
+    },
+    "h2": {
+      "title": "2. CRYSTALLINE PRIMER",
+      "subtitle": "Active Penetration",
+      "desc": "Active primer that penetrates deep into the concrete pores and crystallises on contact with moisture, blocking capillary rise."
+    },
+    "h3": {
+      "title": "3. HYDRO-MORTAR",
+      "subtitle": "Fiber Reinforced Body",
+      "desc": "Primary structural layer, fibre-reinforced. Withstands hydrostatic pressure up to 20 Bar (W20) and is watertight throughout its mass."
+    },
+    "h4": {
+      "title": "4. SMOOTH FINISH",
+      "subtitle": "Hydraulic Flow Surface",
+      "desc": "Smooth surface membrane to reduce friction and increase hydraulic flow rate. Resistant to abrasion and chemicals."
+    }
+  },
+  "engineering": {
+    "eyebrow": "ENGINEERING DATA",
+    "title": "LABORATORY TESTS AND FIELD TRIALS",
+    "subtitle": "Independent tests in accredited laboratories – full protocols available in TDS.",
+    "block1title": "WATER IMPERMEABILITY (W-CLASS)",
+    "block1note": "GEONYX HYDRO achieves Class W20 – a water column of 200 metres without breakthrough.",
+    "block2title": "BREAKTHROUGH PRESSURE",
+    "block2note": "Comparison of hydrostatic pressure resistance across different systems.",
+    "block3title": "NRW REDUCTION (LOSSES)",
+    "block3note": "Difference in water losses over 20 years without/with HYDRO protection."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANCE",
+    "title": "OPERATIONAL SUPERIORITY",
+    "r1": {
+      "title": "UNDERWATER APPLICATION",
+      "desc": "Curing under active water – divers can work even in wet or partially submerged zones."
+    },
+    "r2": {
+      "title": "CLASS W20 / 15 BAR",
+      "desc": "Water impermeability Class W20 and resistance to both positive and negative hydrostatic pressure."
+    },
+    "r3": {
+      "title": "DRINKING WATER (DVGW/BS)",
+      "desc": "Certified for contact with drinking water – no organic monomers, no toxic leaching."
+    },
+    "r4": {
+      "title": "MARINE AND COASTAL PROTECTION",
+      "desc": "Resistance to chlorides, sea salt and sulphates – for port structures and quay walls."
+    },
+    "r5": {
+      "title": "ZERO LOSSES (NRW)",
+      "desc": "Joint-free and dense system minimises water losses in reservoirs, dams and distribution networks."
+    }
+  },
+  "financial": {
+    "title": "WHEN WATER IS AN ASSET, NOT A PROBLEM",
+    "subtitle": "Comparison of losses and costs in protected vs unprotected hydraulic structures.",
+    "quote": "AN UNPROTECTED DAM LOSES WATER. AND MONEY.",
+    "quoteHighlight": "GEONYX HYDRO SEALS BOTH."
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "subtitle": "25-year life cycle comparison for hydraulic engineering assets.",
+    "colParam": "PARAMETER",
+    "colHydro": "GEONYX HYDRO",
+    "colEpoxy": "Epoxy waterproofing",
+    "colStd": "Standard concrete",
+    "row1": "Water impermeability class",
+    "row2": "Underwater application",
+    "row3": "Drinking water",
+    "row4": "Chloride resistance",
+    "row5": "Design Life",
+    "val1hydro": "W20 – 15 Bar",
+    "val1epoxy": "W8 – W12",
+    "val1std": "W4 – unprotected",
+    "val2hydro": "Yes – under active water",
+    "val2epoxy": "No – requires dry surface",
+    "val2std": "No",
+    "val3hydro": "Certified",
+    "val3epoxy": "Limited",
+    "val3std": "Not applicable",
+    "val4hydro": "Very high",
+    "val4epoxy": "Medium",
+    "val4std": "Low",
+    "val5hydro": "≥25 yrs",
+    "val5epoxy": "8–12 yrs",
+    "val5std": "5–8 yrs"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "Structures with high risk of water infiltration, pressure and hydrochemical aggression.",
+    "a1": {
+      "title": "Dams and Hydropower Plants",
+      "desc": "Lining of dam bodies, intake towers and gate chambers."
+    },
+    "a2": {
+      "title": "Water Treatment Plants",
+      "desc": "Bio-basins, clarifiers and anaerobic reactors (biogenic corrosion)."
+    },
+    "a3": {
+      "title": "Drinking Water Reservoirs",
+      "desc": "Pressure tanks and water towers (DVGW/BS certified)."
+    },
+    "a4": {
+      "title": "Marine Infrastructure",
+      "desc": "Quays, breakwaters, underwater tunnels and platforms."
+    },
+    "a5": {
+      "title": "Channels and Sluices",
+      "desc": "Hydraulic protective linings against cavitation and flow abrasion."
+    },
+    "a6": {
+      "title": "Mine Tailings Facilities",
+      "desc": "Watertight impoundments for containment of process liquids."
+    },
+    "a7": {
+      "title": "Pumping Stations",
+      "desc": "Wet wells and tunnels carrying aggressive wastewater."
+    },
+    "a8": {
+      "title": "Tunnels and Metro",
+      "desc": "Vaults and walls subject to groundwater ingress."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "subtitle": "Precision execution under active water and underwater conditions.",
+    "p1": {
+      "title": "Hydro-audit of the structure",
+      "desc": "Analysis of pressure, leaks, water chemical profile and level of biogenic activity."
+    },
+    "p2": {
+      "title": "Selection of HYDRO configuration",
+      "desc": "System selection – crystalline primer, HYDRO-MORTAR, SMOOTH FINISH or combination with CHEM."
+    },
+    "p3": {
+      "title": "Hydroblasting",
+      "desc": "Water jet at 2500 bar to open pores and remove weak zones."
+    },
+    "p4": {
+      "title": "Crystalline primer",
+      "desc": "Application of crystalline primer – activates upon moisture contact and blocks capillary flow."
+    },
+    "p5": {
+      "title": "Application and sealing",
+      "desc": "Application of HYDRO-MORTAR and SMOOTH FINISH per the technical protocol – including underwater where required."
+    },
+    "p6": {
+      "title": "Hydraulic test and documentation",
+      "desc": "Water impermeability test, protocols, TDS package and warranty card."
+    }
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "HYDRO OFFER PACKAGE (B2B / B2G)",
+    "desc": "Complete documentation for dams, reservoirs, WWTP and marine infrastructure.",
+    "qualityLabel": "QUALITY ASSURANCE",
+    "qualityDesc": "Compliant with DVGW, BS and Eurocode hydraulic engineering standards.",
+    "doc1": "TDS – Technical specifications and hydraulic testing",
+    "doc2": "Drinking water certificate (DVGW / BS 6920)",
+    "doc3": "W20 Protocol – water impermeability",
+    "doc4": "Underwater execution methodology",
+    "doc5": "BIM details for waterproofing layers",
+    "doc6": "Tender specification for hydraulic engineering projects",
+    "copyBtn": "COPY TENDER TEXT",
+    "copiedBtn": "TEXT COPIED!"
+  },
+  "downloads": {
+    "title": "TECHNICAL FILES AND DOWNLOADS",
+    "dl1": {
+      "title": "GEONYX HYDRO – TDS",
+      "sub": "Technical parameters and W-class"
+    },
+    "dl2": {
+      "title": "Drinking water – DVGW/BS",
+      "sub": "Certificate of conformity"
+    },
+    "dl3": {
+      "title": "Hydraulic test W20",
+      "sub": "Protocol from an accredited laboratory"
+    },
+    "dl4": {
+      "title": "Underwater execution methodology",
+      "sub": "Steps, diving requirements and quality control"
+    }
+  },
+  "cta": {
+    "title": "YOUR INFRASTRUCTURE SHOULD NOT LOSE WATER – OR MONEY.",
+    "desc": "Describe the hydraulic structure and the problem – we will propose a HYDRO configuration, W-class documentation and TCO analysis.",
+    "btn1": "REQUEST HYDRO AUDIT",
+    "btn2": "DOWNLOAD TDS",
+    "btn3": "CONTACT AN ENGINEER"
+  },
+  "footerBand": {
+    "label": "TECHNOLOGY PARTNER FOR CRITICAL INFRASTRUCTURE",
+    "desc": "GEONYX HYDRO protects dams, reservoirs and water treatment plants where standard concrete fails."
+  },
+  "shared": {
+    "threat": "THREAT",
+    "solution": "SOLUTION"
+  }
+}

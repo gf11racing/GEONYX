@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "eyebrow": "ENDÜSTRİYEL YENİLİKLER",
+    "titleLine1": "ENDÜSTRİYEL",
+    "titleLine2": "JEOPOLİMER",
+    "titleLine3": "ÇÖZÜMLER",
+    "description": "Ağır sanayi, altyapı ve madencilik için gelişmiş malzemeler geliştiriyoruz.",
+    "descriptionBold": "Asit, ateş ve zamana karşı garantili direnç.",
+    "btnSectors": "ENDÜSTRİYEL SEKTÖRLER",
+    "btnTech": "TEKNİK ÖZELLİKLER",
+    "statChemistry": "KİMYA",
+    "statStrength": "MUKAVEMET",
+    "statFire": "YANGIN",
+    "statEco": "EKO",
+    "fireClass": "A1 Sınıfı"
+  },
+  "manifesto": {
+    "title": "Mühendislik",
+    "titleHighlight": "betonun ötesinde",
+    "body": "Standart kaplamalar endüstrinin zayıf halkasıdır. Sıradan beton ve epoksinin başarısız olduğu yerde dayanan monolitik, kimyasal dirençli bir zırh yaratıyoruz."
+  },
+  "eco": {
+    "eyebrow": "SÜRDÜRÜLEBİLİRLİK & STANDARTLAR",
+    "titleLine1": "ENDÜSTRİYEL",
+    "titleLine2": "DEKARBONLAMA & ESG",
+    "subtitle": "Karbon ayak izinizi %80'e kadar azaltın ve AB Yeşil Mutabakatı gereksinimlerini karşılayın.",
+    "body": "Endüstriyel inşaatı ekolojik bir varlığa dönüştüren sürdürülebilir bir altyapı çözümü.",
+    "col1Title": "DÖNGÜSEL EKONOMİ",
+    "col1Body": "Endüstriyel yan ürünleri (cüruf, kül) yüksek mukavemetli kompozitlere dönüştürüyoruz.",
+    "col2Title": "GÜVENLİ ORTAM (HSEQ)",
+    "col2Body": "Sıfır uçucu organik bileşik emisyonu (VOC İçermez). Kapalı alanlar ve gıda endüstrisi için güvenli.",
+    "col3Title": "DÜŞÜK KARBONLU SÜREÇ",
+    "col3Body": "Klinker yakmadan soğuk sentez. Her metrekare başına tonlarca CO2 emisyonu tasarrufu sağlar."
+  },
+  "trustbridge": {
+    "eyebrow": "TEKNOLOJİ ORTAĞI",
+    "titleLine1": "KAPSAMLI",
+    "titleHighlight": "MÜHENDİSLİK",
+    "body": "Sadece yüklenici değil, teknoloji ortağıyız. Laboratuvar analizinden ve tasarımdan koruyucu sistemlerin uygulanmasına kadar tam bir döngü sunuyoruz.",
+    "btn": "LİSANSLARIMIZI GÖRÜNTÜLE"
+  },
+  "systems": {
+    "armor": {
+      "label": "AŞIRI MEKANİK",
+      "desc": "Ağır sanayi, askeri-sanayi kompleksleri ve büyük ölçekli depo lojistiği için zırhlı jeopolimer matrisler.",
+      "badge": "> 110 MPa MUKAVEMET"
+    },
+    "chem": {
+      "label": "KİMYASAL KORUMA",
+      "desc": "Konsantre asitlere, bazlara ve agresif çözücülere karşı mutlak mineral bağışıklığı. WHG sertifikalı.",
+      "badge": "pH 1-14 DİRENÇ"
+    },
+    "therm": {
+      "label": "TERMAL GÜVENLİK",
+      "desc": "Erimiş metal sıçramaları, yangın ve döngüsel termal şoka dayanacak şekilde tasarlanmış yanmaz sistemler.",
+      "badge": "A1fl SINIFI / 1200°C"
+    },
+    "hydro": {
+      "label": "HİDROLİK MÜHENDİSLİK & ALTYAPI",
+      "desc": "Baraj duvarları, arıtma tesisleri ve limanlar için su geçirmez bariyerler. Su altı yerleşim ve kürleme imkânı.",
+      "badge": "W20 / SU ALTI ONARIMI"
+    }
+  },
+  "solutions": {
+    "s1": {
+      "eyebrow": "TEKNOLOJİ",
+      "title": "GEONYX® MATRIX",
+      "solutionLabel": "ÇÖZÜM",
+      "body": "Patentli jeopolimer matrisimiz evrensel bir kalkan. Atık havuzları, kimyasal tanklar, hangarlar ve tünellere uygulanabilir. pH 1-14 ve 1000°C üzeri sıcaklıklara dayanıklılık.",
+      "btn": "TEKNİK ÖZELLİKLER",
+      "badge": "İnovasyon"
+    },
+    "s2": {
+      "eyebrow": "UYUMLULUK",
+      "title": "STANDARTLAR & SERTİFİKASYON",
+      "solutionLabel": "ÇÖZÜM",
+      "body": "BDS EN 206 ve ISO 9001'e sıkı sıkıya çalışıyoruz. Her sistem, eksiksiz teknik pasaport, HSEQ güvenlik planı ve kamu ve kurumsal denetimler için garanti ile gelir.",
+      "btn": "SERTİFİKALARI GÖRÜNTÜLE",
+      "badge": "ISO / BDS"
+    },
+    "s3": {
+      "eyebrow": "MÜHENDİSLİK",
+      "title": "TASARIM VE DENETİM",
+      "solutionLabel": "ÇÖZÜM",
+      "body": "Tesislerinizin uzman değerlendirmesini ve bütçe hazırlamasını talep edin. Mühendislerimiz ayrıntılı durum analizi yapar ve kalıcı koruma için optimize edilmiş çözümler önerir.",
+      "btn": "DENETİM TALEP ET",
+      "badge": "Tasarım"
+    }
+  }
+}

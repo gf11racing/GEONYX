@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "solutions": "ÇÖZÜMLER",
+    "systems": "SİSTEMLER",
+    "techCenter": "TEKNİK MERKEZ",
+    "references": "REFERANSLAR",
+    "company": "ŞİRKET",
+    "contacts": "İLETİŞİM",
+    "projectInquiry": "PROJE TALEBİ"
+  },
+  "navChildren": {
+    "heavy": "Ağır Sanayi",
+    "food": "Gıda & İlaç",
+    "agro": "Tarım & Ekoloji",
+    "water": "Su Altyapısı",
+    "energy": "Enerji & Madencilik",
+    "transport": "Ulaşım & Otoparklar",
+    "urban": "Kentsel Çevre",
+    "archZone": "Mimari Bölge",
+    "techMaps": "Teknik Haritalar",
+    "cadBim": "CAD & BIM Detayları",
+    "certs": "Sertifikalar",
+    "aboutMain": "Hakkımızda",
+    "careers": "Kariyer",
+    "hseq": "HSEQ & Sürdürülebilirlik"
+  },
+  "mega": {
+    "solutions": {
+      "heavy": { "title": "AĞIR SANAYİ & LOJİSTİK", "desc": "Aşırı mekanik yükler için zemin ve sistemler.", "badge": "AŞIRI YÜKLER" },
+      "food": { "title": "GIDA, İÇECEK, İLAÇ & HİJYEN", "desc": "Taviz vermeden hijyen. Derzisiz, temizlenmesi kolay zeminler.", "badge": "HİJYEN KONTROLÜ" },
+      "agro": { "title": "TARIM, BİYOGAZ, GÜBRE & HAYVANSAL ORTAMLAR", "desc": "Organik asitler, gübre, amonyak ve saldırgan sulardan koruma.", "badge": "ORGANİK SALDIRGANLIK" },
+      "water": { "title": "SU, ATIK SU & DENİZ ALTYAPISI", "desc": "%100 su geçirmezlik ve tuz ile erozyona direnç.", "badge": "SU KORUMASI" },
+      "energy": { "title": "ENERJİ, MADENCİLİK & AĞIR KORUMA", "desc": "Yanmaz ve kimyasal dayanımlı sistemler.", "badge": "KRİTİK ALTYAPI" },
+      "transport": { "title": "ULAŞIM, OTOPARKLAR, GARAJLAR & TRAFİK", "desc": "Tuza dayanıklı, yüksek tutuşlu zeminler ve rampalar.", "badge": "YOĞUN TRAFİK BÖLGELERİ" },
+      "urban": { "title": "KENTSEL ÇEVRE, İNŞAAT & YÜKSEK TEKNOLOJİ", "desc": "Cepheler ve kentsel çevreler için UHPC çözümler.", "badge": "KENTSEL ALTYAPI" }
+    },
+    "techCenter": {
+      "archZone": { "title": "MİMARİ BÖLGE", "desc": "Tasarım için dokular, PBR haritaları ve görsel varlıklar.", "label": "DESIGN RESOURCES", "heroTitle": "DESIGN CENTER", "buttonText": "GALERİYE GİT", "badge": "TASARIM DESTEĞİ" },
+      "techMaps": { "title": "TEKNİK HARİTALAR", "desc": "Tüm sistemler için ayrıntılı özellikler (TDS) ve MSDS.", "label": "SPECIFICATIONS", "heroTitle": "DOC CENTER", "buttonText": "TDS İNDİR", "badge": "TEKNİK DOKÜMANTASYON" },
+      "cadBim": { "title": "CAD & BIM KÜTÜPHANESİ", "desc": ".DWG ve Revit formatında hazır sistem detayları.", "label": "INTEGRATION", "heroTitle": "CAD / BIM ASSETS", "buttonText": "ERİŞİM TALEP ET", "badge": "BIM & MÜHENDİSLİK MODELLERİ" },
+      "certs": { "title": "SERTİFİKALAR", "desc": "HACCP, ISO ve performans beyanları.", "label": "COMPLIANCE", "heroTitle": "SERTİFİKASYON", "buttonText": "SERTİFİKALARI GÖR", "badge": "UYUMLULUK & SERTİFİKASYON" }
+    },
+    "about": {
+      "main": { "title": "HAKKIMIZDA", "desc": "İnovasyon ve sürdürülebilir kalkınma felsefesi.", "label": "ŞİRKET HAKKINDA", "heroTitle": "HAKKIMIZDA", "buttonText": "DAHA FAZLA BİLGİ", "badge": "ŞİRKET" },
+      "careers": { "title": "KARİYER & GELİŞİM", "desc": "GEONYX ekibinin bir parçası olun.", "label": "EKİP & GELİŞİM", "heroTitle": "GEONYX'TE KARİYER", "buttonText": "AÇIK POZİSYONLAR", "badge": "PROFESYONEL GELİŞİM" },
+      "hseq": { "title": "HSEQ & SÜRDÜRÜLEBİLİRLİK", "desc": "Sağlık, güvenlik ve çevreye olan taahhütlerimiz.", "label": "SORUMLULUK", "heroTitle": "GÜVENLİK STANDARTLARI", "buttonText": "DAHA FAZLA GÖR", "badge": "GÜVENLİK & SÜRDÜRÜLEBİLİRLİK" }
+    },
+    "systems": {
+      "armor": { "title": "GEONYX ARMOR (MEKANİK DAYANIM)",   "desc": "Mekanik dayanım ve endüstriyel zeminler.", "tech": "MEKANİK KORUMA" },
+      "chem":  { "title": "GEONYX CHEM (KİMYASAL KORUMA)",   "desc": "Agresif kimyasallara ve yakıtlara karşı koruma.", "tech": "KİMYASAL KORUMA" },
+      "hydro": { "title": "GEONYX HYDRO (SU KORUMASI)",       "desc": "Su geçirmez ve hidroteknik sistemler.", "tech": "SU GEÇİRMEZLİK" },
+      "therm": { "title": "GEONYX THERM (ISIL GÜVENLİK)",    "desc": "Yangın ve termal risk için yanmaz çözümler.", "tech": "ISIL KORUMA" }
+    }
+  },
+  "footer": {
+    "tagline": "Kritik altyapı için endüstriyel jeopolimer çözümler.",
+    "solutions": "ÇÖZÜMLER",
+    "systems": "SİSTEMLER",
+    "company": "ŞİRKET",
+    "legal": "HUKUKİ",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsConditions": "Kullanım Şartları",
+    "allRightsReserved": "Tüm hakları saklıdır."
+  },
+  "buttons": {
+    "learnMore": "DAHA FAZLA BİLGİ",
+    "requestInspection": "MÜHENDİSLİK DENETİMİ TALEP ET",
+    "downloadTDS": "TDS İNDİR",
+    "contactEngineer": "MÜHENDİSLE İLETİŞİM",
+    "projectInquiry": "PROJE TALEBİ",
+    "viewLicenses": "LİSANSLARIMIZI GÖRÜN",
+    "copyTender": "İHALE METNİNİ KOPYALA",
+    "copied": "METİN KOPYALANDI!"
+  },
+  "common": {
+    "threat": "TEHDİT",
+    "solution": "ÇÖZÜM",
+    "zones": "BÖLGELER:",
+    "systems": "SİSTEMLER:"
+  },
+  "ticker": {
+    "aurubis": "METALÜRJİ", "kaufland": "LOJİSTİK", "lufthansa": "HAVACILIK", "dundee": "MADENCİLİK",
+    "iso9001": "KALİTE", "iso14001": "EKOLOJİ", "haccp": "GIDA", "bds": "STANDART",
+    "learnMore": "DAHA FAZLA BİLGİ",
+    "partnersLabel": "GÜVENİLİR ORTAKLAR",
+    "certsLabel": "SERTİFİKALI STANDARTLAR"
+  }
+}

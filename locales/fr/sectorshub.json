@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "eyebrow": "REGISTRE DES SYSTÈMES",
+    "title": "CATALOGUE INDUSTRIEL",
+    "subtitle": "SECTEURS OPÉRATIONNELS & APPLICATIONS",
+    "stat1label": "SECTEURS ACTIFS",
+    "stat2label": "CERTIFICATION",
+    "stat3label": "DURÉE DE VIE"
+  },
+  "sectors": {
+    "s01title": "INDUSTRIE LOURDE & LOGISTIQUE",
+    "s01subtitle": "CHARGES EXTRÊMES",
+    "s01desc": "Revêtements de sol pour charges mécaniques extrêmes, vibrations et trafic 24/7.",
+    "s02title": "ALIMENTATION, BOISSONS & PHARMACIE",
+    "s02subtitle": "HYGIÈNE & CONFORMITÉ GMP",
+    "s02desc": "Systèmes bactériostatiques sans joints. Résistance aux jets de vapeur et aux produits chimiques.",
+    "s03title": "AGRO, BIOGAZ & ÉCOLOGIE",
+    "s03subtitle": "AGRESSION ORGANIQUE",
+    "s03desc": "Protection contre les acides organiques, le fumier, l'ammoniac et les jus agressifs.",
+    "s04title": "EAU & INFRASTRUCTURE MARINE",
+    "s04subtitle": "HYDROTECHNIQUE",
+    "s04desc": "Étanchéité à 100% et résistance aux sels et à l'érosion.",
+    "s05title": "ÉNERGIE, MINES & DÉFENSE",
+    "s05subtitle": "INFRASTRUCTURE CRITIQUE",
+    "s05desc": "Systèmes ininflammables et chimiquement résistants pour les centrales nucléaires, thermiques, les mines et les installations militaires.",
+    "s06title": "TRANSPORT & PARKINGS",
+    "s06subtitle": "TRAFIC & CIRCULATION",
+    "s06desc": "Sols et rampes à haute adhérence, résistants aux lessives et aux sels.",
+    "s07title": "ENVIRONNEMENT URBAIN & CONSTRUCTION",
+    "s07subtitle": "UHPC & DESIGN",
+    "s07desc": "Solutions UHPC pour façades, éléments et environnements urbains."
+  },
+  "cta": {
+    "eyebrow": "INGÉNIERIE SPÉCIALISÉE",
+    "title": "VOUS NE TROUVEZ PAS VOTRE CAS D'USAGE?",
+    "body": "Nos ingénieurs chimistes développent des matrices modifiées pour des environnements spécifiques (Custom Formulations). Contactez-nous pour une analyse en laboratoire.",
+    "btn": "DEMANDER UN DÉVELOPPEMENT"
+  }
+}

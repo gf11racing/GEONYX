@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "GEONYX | Alimentación, Bebidas, Farmacia e Higiene – Suelos industriales sin juntas",
+    "description": "GEONYX diseña sistemas de suelo minerales sin juntas para la industria alimentaria, bebidas, farmacéutica e higiene – resistentes a productos químicos, vapor, agua caliente, biofilm y detergentes agresivos. Compatibles con HACCP, IFS, BRC y normas GMP."
+  },
+  "tender": {
+    "text": "Los suelos y sistemas de protección hidro-química en zonas de producción, lavado, envasado, refrigeración, almacenamiento y cocinas se ejecutarán con sistemas geopolímeros minerales tipo GEONYX o equivalente, combinando ARMOR / CHEM / HYDRO / THERM / REPAIR según el riesgo higiénico y tecnológico.",
+    "copy": "COPIAR TEXTO DE LICITACIÓN",
+    "copied": "¡TEXTO COPIADO!"
+  },
+  "hero": {
+    "eyebrow": "ALIMENTACIÓN, BEBIDAS, FARMACIA E HIGIENE",
+    "titleLine1": "SUPERFICIES",
+    "titleLine2": "APROBADAS POR LOS INSPECTORES",
+    "description": "En alimentación, bebidas y farmacia el suelo forma parte de la seguridad del producto. GEONYX proporciona superficies minerales, sin juntas y fáciles de limpiar, resistentes al agua caliente, vapor y productos químicos, compatibles con HACCP y normas farmacéuticas.",
+    "btn1": "DESCARGAR GUÍA HACCP",
+    "btn2": "SOLICITAR INSPECCIÓN TÉCNICA"
+  },
+  "scope": {
+    "title": "ALCANCE",
+    "zonesLabel": "ZONAS:",
+    "systemsLabel": "SISTEMAS:",
+    "z1": "Plantas de procesado lácteo y queserías",
+    "z2": "Procesado de carne y mataderos",
+    "z3": "Plantas de refrescos y agua embotellada",
+    "z4": "Cervecerías y bebidas (cerveza, sidra, etc.)",
+    "z5": "Panaderías, confiterías y productos congelados",
+    "z6": "Producción farmacéutica (API, comprimidos, jarabes)",
+    "z7": "Fábricas de cosmética e higiene personal",
+    "z8": "Salas blancas y zonas estériles",
+    "z9": "Zonas de envasado y logística con refrigeración",
+    "z10": "Zonas húmedas, lavaderos y zonas CIP/COP",
+    "link1": "↓ DÓNDE SE USA",
+    "link2": "↓ SELECCIÓN DE SISTEMA",
+    "link3": "↓ PAQUETE DE OFERTA"
+  },
+  "manifesto": {
+    "titleLine1": "LA LIMPIEZA EN PRODUCCIÓN",
+    "titleLine2": "EMPIEZA POR EL SUELO.",
+    "body": "Todo programa de seguridad alimentaria o producción farmacéutica se basa en tres cosas: superficies sin zonas ocultas, limpieza predecible y control del riesgo de contaminación. Si el suelo se descascarilla, acumula agua en juntas, es resbaladizo o reacciona con los productos de limpieza, ni el plan HACCP ni los protocolos de limpieza pueden compensarlo. GEONYX reemplaza 'pintura sobre hormigón' por un sistema mineral monolítico."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEMA:",
+    "solutionLabel": "SOLUCIÓN:",
+    "suitableLabel": "Sistemas adecuados:",
+    "b1": {
+      "tag": "PROCESADO DE PESCADO",
+      "title": "PESCADO, SAL, SANGRE Y CHOQUE TÉRMICO",
+      "problem": "Las plantas de procesado de pescado representan el 'escenario infernal' para suelos – combinación de agua salada, sangre, grasa, hielo, agua caliente y vapor. Los revestimientos estándar se agrietan por el choque térmico; las juntas retienen biofilm.",
+      "solution": "GEONYX CHEM + HYDRO construye un sistema mineral sin juntas, químicamente resistente con textura antideslizante controlada. El suelo está diseñado para absorber ciclos térmicos – de zonas de hielo al lavado con agua caliente.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "CARNE Y LÁCTEOS",
+      "title": "GRASA, SANGRE Y VAPOR",
+      "problem": "En mataderos y lecherías el suelo absorbe sangre, grasa, leche, salmueras y potentes agentes de limpieza alcalinos/ácidos. El agua caliente y vapor se combinan con impactos de carros y mesas de acero inoxidable.",
+      "solution": "GEONYX CHEM proporciona un sistema mineral resistente a ácidos orgánicos, agentes alcalinos y grasas. ARMOR da la resistencia mecánica necesaria para el tráfico, HYDRO se usa en zonas permanentemente húmedas.",
+      "systems": "CHEM"
+    },
+    "b3": {
+      "tag": "BEBIDAS Y EMBOTELLADO",
+      "title": "AZÚCAR, ESPUMA Y VIDRIO ROTO",
+      "problem": "En fábricas de bebidas los suelos están constantemente mojados – agua, jarabes, soluciones azucaradas, espuma, soluciones CIP. El azúcar hace el suelo pegajoso y acelera el deterioro. El vidrio roto corta los revestimientos estándar.",
+      "solution": "GEONYX CHEM + HYDRO forma una superficie densa sobre la que los jarabes permanecen 'en la superficie'. ARMOR proporciona resistencia al impacto y al tráfico. Los detalles de canales se ejecutan sin aristas vivas.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "PANADERÍAS",
+      "title": "HARINA, POLVO Y CHOQUE TÉRMICO",
+      "problem": "En panaderías la harina está en todas partes y se convierte en masa pegajosa al mojarse. Los carros calientes de los hornos crean choques térmicos locales. Los revestimientos se oscurecen y se descascaran.",
+      "solution": "GEONYX ARMOR + THERM crea una superficie resistente al choque térmico. La estructura está diseñada para que la harina no penetre en los poros. HYDRO se añade en zonas de limpieza húmeda.",
+      "systems": "THERM"
+    },
+    "b5": {
+      "tag": "COSMÉTICA",
+      "title": "ACEITES, ALCOHOLES Y DISOLVENTES",
+      "problem": "La producción de cosméticos incluye aceites esenciales y alcoholes que atacan las resinas estándar. Se requiere higiene farmacéutica y aspecto representativo para inspecciones.",
+      "solution": "GEONYX CHEM ofrece una matriz mineral que no se hincha en contacto con fluidos. ARMOR garantiza estabilidad, HYDRO protege zonas de limpieza húmeda. La superficie permanece visualmente limpia.",
+      "systems": "CHEM"
+    },
+    "b6": {
+      "tag": "PRODUCTOS DE HIGIENE",
+      "title": "AGENTES DE LIMPIEZA AGRESIVOS",
+      "problem": "En la fabricación de detergentes los componentes concentrados son muy agresivos. Derrames y aclarados pueden destruir rápidamente el hormigón ordinario.",
+      "solution": "GEONYX CHEM está desarrollado para resistir bases y ácidos fuertes. ARMOR da resistencia para recipientes pesados, HYDRO protege contra la penetración. Un suelo que resiste sus propios productos.",
+      "systems": "CHEM"
+    },
+    "b7": {
+      "tag": "FARMACIA Y CANNABIS",
+      "title": "ZONAS LIMPIAS Y PROCESOS FARMACÉUTICOS",
+      "problem": "En salas blancas y producción farmacéutica el suelo debe ser liso, sin juntas y fácil de validar. Cualquier grieta es un riesgo de contaminación.",
+      "solution": "GEONYX CHEM + HYDRO proporcionan una superficie sin juntas compatible con desinfectantes farmacéuticos. ARMOR da estabilidad para equipos. Los detalles se ejecutan según lógica farma – radios, sin bolsillos.",
+      "systems": "CHEM"
+    },
+    "b8": {
+      "tag": "SUPERMERCADOS",
+      "title": "CARNICERÍAS Y MOSTRADORES DE PESCADO",
+      "problem": "En secciones de carnicería de supermercados hay agua, sangre, grasa y tráfico. Las juntas de azulejos se oscurecen y llenan de biofilm; el resbalamiento es un riesgo.",
+      "solution": "GEONYX CHEM reemplaza los azulejos por un sistema mineral monolítico – sin juntas, con antideslizante. ARMOR gestiona el tráfico de traspaletas, REPAIR permite reparaciones rápidas.",
+      "systems": "CHEM"
+    },
+    "b9": {
+      "tag": "RESTAURACIÓN COLECTIVA",
+      "title": "COCINAS ESCOLARES Y HOSPITALARIAS",
+      "problem": "Las cocinas colectivas tienen humedad, agua caliente y grasas. Los azulejos y pinturas estándar se deterioran rápidamente y son difíciles de limpiar.",
+      "solution": "GEONYX CHEM + HYDRO ofrece una superficie antideslizante y fácil de limpiar. ARMOR proporciona resistencia a los carros, REPAIR permite reparaciones en períodos vacacionales.",
+      "systems": "HYDRO"
+    },
+    "b10": {
+      "tag": "ZONAS REFRIGERADAS",
+      "title": "CÁMARAS FRIGORÍFICAS Y DE CONGELACIÓN",
+      "problem": "En cámaras (-25°C) las juntas se congelan y son destruidas por el tráfico. Las reparaciones son difíciles a bajas temperaturas.",
+      "solution": "GEONYX ARMOR + HYDRO ofrece un sistema monolítico resistente al choque térmico. REPAIR permite intervenciones en ventanas de tiempo cortas.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "colParam": "PARÁMETRO",
+    "colGeonyx": "GEONYX",
+    "colCeramic": "Azulejos cerámicos",
+    "colEpoxy": "Revestimiento epoxi / PU",
+    "r1param": "Higiene y limpieza de juntas",
+    "r1geonyx": "Sin juntas / limpieza fácil",
+    "r1ceramic": "Muchas juntas, difíciles de limpiar",
+    "r1epoxy": "Juntas y transiciones, riesgo de descascarado",
+    "r2param": "Resistencia al agua caliente y vapor",
+    "r2geonyx": "Alta (mineral, termoestable)",
+    "r2ceramic": "Media (juntas comprometidas)",
+    "r2epoxy": "Media a baja (riesgo de ampollas)",
+    "r3param": "Resistencia a agentes de limpieza agresivos",
+    "r3geonyx": "Alta (configuración CHEM)",
+    "r3ceramic": "Media (juntas sufren)",
+    "r3epoxy": "Limitada",
+    "r4param": "Riesgo de resbalamiento en húmedo",
+    "r4geonyx": "Antideslizante controlado",
+    "r4ceramic": "Variable",
+    "r4epoxy": "Alto riesgo con desgaste",
+    "r5param": "Vida útil en producción 24/7",
+    "r5geonyx": "Larga, con REPAIR local",
+    "r5ceramic": "Media, sustitución periódica",
+    "r5epoxy": "Media"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE USA",
+    "subtitle": "Todos los escenarios típicos 'nave + máquinas + tráfico + palés' – de centros logísticos y fábricas a depósitos ferroviarios y centros de datos.",
+    "a1title": "Procesado lácteo y lecherías",
+    "a1desc": "Ácido químico y láctico, agua e higiene.",
+    "a2title": "Procesado de carne y mataderos",
+    "a2desc": "Sangre, grasa, agua caliente y limpieza intensa.",
+    "a3title": "Producción de bebidas",
+    "a3desc": "Azúcar, jarabes, vidrio y sistemas CIP.",
+    "a4title": "Panaderías industriales",
+    "a4desc": "Harina, calor de hornos y tráfico mecánico.",
+    "a5title": "Farmacia y salas blancas",
+    "a5desc": "Entornos estériles, fácil limpieza y desinfección.",
+    "a6title": "Cocinas colectivas",
+    "a6desc": "Cocción intensiva, grasas y seguridad.",
+    "a7title": "Almacenes frigoríficos",
+    "a7desc": "Bajas temperaturas y resistencia a la congelación.",
+    "a8title": "Supermercados",
+    "a8desc": "Zonas de productos frescos y tráfico intenso de clientes."
+  },
+  "systems": {
+    "eyebrow": "TECNOLOGÍA",
+    "title": "SELECCIÓN DE SISTEMA GEONYX",
+    "subtitle": "La selección del sistema depende de la combinación de carga mecánica, agresión química y requisitos de temperatura, ESD e higiene. GEONYX configura soluciones por zona – en lugar de 'un revestimiento para todo'.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Sistemas químicamente resistentes para zonas con ácidos agresivos, álcalis y agentes de limpieza.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Sistemas impermeables y fáciles de limpiar para producción húmeda y lavaderos.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Revestimientos de alta resistencia para zonas de almacenamiento y logística con tráfico intensivo.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Sistemas termorresistentes para zonas con hornos, congelación y vapor.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Soluciones de reparación rápida para la restauración de zonas comprometidas."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE OFERTA",
+    "titleSub": "(B2B / B2G)",
+    "description": "Para instalaciones alimentarias, farmacéuticas e higiénicas GEONYX prepara un paquete completo para aprobación interna y organismos de auditoría.",
+    "qualityTitle": "GARANTÍA DE CALIDAD",
+    "qualityDesc": "Todos los documentos cumplen con los Eurocódigos y normas vigentes.",
+    "i1": "Zonificación por riesgo higiénico",
+    "i2": "Especificaciones técnicas de sistemas por zona",
+    "i3": "Compatibilidad con HACCP, IFS, BRC, GMP",
+    "i4": "Detalles para juntas, sifones y transiciones",
+    "i5": "Calendario de ejecución recomendado",
+    "i6": "Condiciones de garantía e instrucciones de limpieza"
+  },
+  "docs": {
+    "title": "Documentación",
+    "d1name": "Hygienic Floors Guide",
+    "d1sub": "Sistemas de suelo (PDF)",
+    "d2name": "Wet Food Zones Design",
+    "d2sub": "Guía de diseño (PDF)",
+    "d3name": "Cosmetics & Pharma Spec",
+    "d3sub": "Requisitos técnicos (PDF)",
+    "d4name": "Public Kitchens Manual",
+    "d4sub": "Guía de cocinas (PDF)"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿SON LOS SISTEMAS GEONYX COMPATIBLES CON NUESTROS PRODUCTOS DE LIMPIEZA Y DESINFECCIÓN?",
+    "a1": "Sí. En la fase de auditoría recopilamos la lista de productos químicos utilizados y seleccionamos una configuración CHEM que los tolere a largo plazo.",
+    "q2": "¿PUEDEN REALIZARSE REPARACIONES SIN DETENER TODA LA PRODUCCIÓN?",
+    "a2": "En la mayoría de los casos – sí. Trabajamos por fases, zona a zona, con ventanas nocturnas y de fin de semana.",
+    "q3": "¿QUÉ NIVEL DE ANTIDESLIZANTE PODEMOS ESPERAR EN CONDICIONES HÚMEDAS?",
+    "a3": "La textura y la clase antideslizante se establecen desde la fase de proyecto, según el tipo de procesos y los requisitos de seguridad."
+  },
+  "cta": {
+    "title": "ZONIFICACIÓN INTEGRAL DEL SITIO",
+    "description": "Cada instalación tiene riesgos específicos. Integramos 6 matrices especializadas en un sistema: de mecánica, química y choque térmico, a impermeabilización, antiestático y arquitectura. Una tecnología que garantiza cobertura del 100% y plena compatibilidad.",
+    "btn": "VER TODOS LOS SISTEMAS DE INGENIERÍA"
+  }
+}

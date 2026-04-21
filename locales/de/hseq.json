@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "GEONYX | HSEQ und Nachhaltigkeit – Gesundheit, Sicherheit, Qualität und Umwelt",
+    "description": "HSEQ-Politik und nachhaltige Entwicklung bei GEONYX – Engagement für Gesundheit und Sicherheit, Produktqualität und Umweltschutz. Mineralische Industriesysteme mit geringem CO2-Fußabdruck und langer Lebensdauer für Infrastruktur und Industrie."
+  },
+  "hero": {
+    "eyebrow": "UNTERNEHMENSSTANDARD (HSEQ & ESG)",
+    "titleLine1": "KOMPROMISSLOSEM RISIKO- UND",
+    "titleLine2": "QUALITÄTSMANAGEMENT",
+    "description": "Industrielle Führung erfordert mehr als technologische Innovation – sie verlangt absolute Verantwortung. Bei GEONYX unterliegt jeder Prozess – von der Synthese der Rohstoffe bis zur finalen Polymerisation auf der Baustelle – einem strengen Unternehmenskodex."
+  },
+  "healthSafety": {
+    "badge": "Arbeitssicherheit",
+    "eyebrow": "KULTUR \"NULL RISIKO\"",
+    "title": "BERUFLICHES RISIKOMANAGEMENT",
+    "description": "Für uns ist Sicherheit keine Dokumentation, sondern gelebte Praxis. Unsere Teams arbeiten nach strengen Protokollen zur Arbeitsplatzsicherheitsanalyse (Job Safety Analysis - JSA). Durch die Entwicklung von Systemen mit 100% Abwesenheit von flüchtigen organischen Verbindungen (VOC-frei) und toxischen Lösungsmitteln eliminieren wir Atemwegsrisiken für Applikateure und Baupersonal.",
+    "tag1": "ISO 45001",
+    "tag2": "JSA Protocols"
+  },
+  "sustainability": {
+    "badge": "CO2-Neutralität",
+    "eyebrow": "ÖKOLOGISCHER FUSSABDRUCK",
+    "title": "DEKARBONISIERUNG UND EPD",
+    "description": "Portlandzement erzeugt 8% der weltweiten CO2-Emissionen. GEONYX verändert das Paradigma. Unsere Geopolymer-Technologie reduziert den CO2-Fußabdruck um bis zu 80% gegenüber konventionellem Beton. Durch Umweltproduktdeklarationen (EPD) und Lebenszyklusanalyse (LCA) liefern wir transparente Dekarbonisierungsdaten.",
+    "tag1": "ISO 14001",
+    "tag2": "LEED / BREEAM"
+  },
+  "quality": {
+    "badge": "Qualitätskontrolle",
+    "eyebrow": "VOLLSTÄNDIGE RÜCKVERFOLGBARKEIT",
+    "title": "QA/QC-CHARGENKONTROLLE",
+    "description": "Industrieller Maßstab duldet keine Variationen. Unsere Qualitätskontrolle (QC) ist vollständig laborbasiert und instrumental. Jede Rohstoffcharge durchläuft eine eingehende Spektralanalyse, und Referenzproben aus jeder Produktion werden archiviert. Diese absolute Rückverfolgbarkeit garantiert, dass die mechanischen Eigenschaften mit 100%iger Genauigkeit reproduziert werden.",
+    "tag1": "ISO 9001",
+    "tag2": "TDS Verification"
+  },
+  "governance": {
+    "badge": "Governance",
+    "eyebrow": "ESG-KONFORMITÄT",
+    "title": "ETHISCHE LIEFERKETTE",
+    "description": "Verantwortung beginnt vor der Produktion. Wir auditieren unsere Rohstofflieferanten gemäß den strengsten europäischen Richtlinien. Alle Komponenten in den mineralischen Matrizen von GEONYX sind vollständig konform mit der REACH-Verordnung und garantieren die Abwesenheit von Konfliktmineralien und toxischen Vorläufern in unserer Lieferkette.",
+    "tag1": "REACH Compliant",
+    "tag2": "Supply Audit"
+  },
+  "standards": {
+    "eyebrow": "UNTERNEHMENSPOLITIK",
+    "title": "OFFIZIELLE NORMEN",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Qualitätsmanagement",
+        "description": "Qualitätsmanagementsystem (QMS). Gegenstand kontinuierlicher unabhängiger Audits."
+      },
+      "iso14001": {
+        "subtitle": "Umweltmanagement",
+        "description": "Umweltmanagement. Null Abfall auf Deponien und Emissionskontrolle."
+      },
+      "iso45001": {
+        "subtitle": "Gesundheit & Sicherheit",
+        "description": "Arbeitssicherheit und Gesundheitsschutz. Institutionalisierter Schutz der Gesundheit am Arbeitsplatz."
+      },
+      "reach": {
+        "subtitle": "Chemische Konformität",
+        "description": "Vollständige Konformität mit EU-Richtlinien zu chemischer Sicherheit und Hygiene (HACCP/GMP)."
+      }
+    },
+    "btnDownload": "INTEGRIERTE HSEQ-POLITIK HERUNTERLADEN (PDF)"
+  },
+  "cta": {
+    "title": "TECHNOLOGIEPARTNER FÜR KRITISCHE INFRASTRUKTUR",
+    "description": "Von der vorgelagerten Ingenieuranalyse und Lebenszyklusbewertung (LCA) bis zur tadellosen Ausführung auf der Baustelle.",
+    "btn": "HSEQ-ABTEILUNG KONTAKTIEREN"
+  }
+}

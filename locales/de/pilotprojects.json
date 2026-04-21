@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "GEONYX | Referenzen – Realisierte Industrieprojekte und Objekte",
+    "description": "Referenzen und realisierte Projekte mit GEONYX-Systemen – Industrieböden, Chemikalienschutz, Wasserschutz und thermische Sicherheit für Schwerindustrie, Lebensmittel und Pharma, Logistik, Energie und Infrastruktur. Langfristige Lösungen für kritische Bereiche."
+  },
+  "hero": {
+    "eyebrow": "OPERATIVE BERICHTE",
+    "titleLine1": "OPERATIVES",
+    "titleLine2": "ARCHIV.",
+    "description": "KEINE VERSPRECHEN. INGENIEURSFAKTEN. Sehen Sie, wie GEONYX-Technologien kritisch kompromittierte Industrieböden in unzerstörbare monolithische Systeme verwandeln.",
+    "btnReports": "BERICHTE ANSEHEN"
+  },
+  "slider": {
+    "eyebrow": "VISUELLE KONTROLLE",
+    "title": "VON DER RUINE ZUM MONOLITH",
+    "instruction": "ZIEHEN SIE, UM DIE STRUKTURELLE TRANSFORMATION ZU SEHEN",
+    "labelAfter": "NACHHER: GEONYX ARMOR",
+    "labelBefore": "VORHER: DEGRADIERTER BETON"
+  },
+  "metrics": {
+    "m1value": "500.000 m²+",
+    "m1label": "INSTALLIERTE SYSTEME",
+    "m2value": "100%",
+    "m2label": "INDUSTRIELLER FOKUS",
+    "m3value": "0",
+    "m3label": "KOMPROMISSE BEI DER QUALITÄT"
+  },
+  "cases": {
+    "problemLabel": "PROBLEM",
+    "resultLabel": "ERGEBNIS",
+    "applyBtn": "INGENIEURSBEGEHUNG ANFORDERN",
+    "case1": {
+      "eyebrow": "Case #001",
+      "sector": "AGRARSEKTOR",
+      "title": "INTENSIVE TIERHALTUNG",
+      "solutionLabel": "LÖSUNG: GEONYX CHEM",
+      "problem": "Aggressive biogene Säure (pH < 3) und Ammoniak aus Gülle hatten den Standardbeton in weniger als 3 Jahren bis zur Bewehrung zerfressen. Die kompromittierten Fugen erzeugten Pathogene.",
+      "s1title": "Immunität gegen organische Säuren:",
+      "s1desc": "Vollständige Inertheit gegenüber Urin und Milchsäure.",
+      "s2title": "Bakteriostatischer Monolith:",
+      "s2desc": "Fugenfreies, porenloses System, das die Biofilmbildung eliminiert.",
+      "s3title": "Zootechnische Sicherheit:",
+      "s3desc": "Textur mit R12-Profil für sicheren Huffgriff.",
+      "result": "Strukturelle Korrosion gestoppt. Der Hof besteht die strengsten Veterinärprüfungen und die Traumarate wurde auf null gesenkt."
+    },
+    "case2": {
+      "eyebrow": "Case #002",
+      "sector": "METALLURGIE",
+      "title": "SCHWERMASCHINENBAU",
+      "solutionLabel": "LÖSUNG: GEONYX ARMOR",
+      "problem": "Die Betonplatte war bis in eine Tiefe von 50 mm mit Hydrauliköl gesättigt. Vibrationen von 200-Tonnen-Pressen und Stoßbelastungen durch herabfallende Metallteile hatten die Fugen in Krater verwandelt.",
+      "s1title": "Chemisches Fräsen:",
+      "s1desc": "Tiefenextraktion der Öle aus dem Beton mit Spezialgrundierungen.",
+      "s2title": "Vibrationsabsorption:",
+      "s2desc": "Auftragen einer duktilen Geopolymermatrix (12 mm).",
+      "s3title": "Fugenfreies Engineering:",
+      "s3desc": "Eliminierung aller Schwachstellen auf dem Boden.",
+      "result": "5 Jahre Betrieb unter 24/7-Vibrationsbelastung. Null Volumenverlust."
+    },
+    "case3": {
+      "eyebrow": "Case #003",
+      "sector": "CHEMIEWERK",
+      "title": "EXTREME CHEMISCHE AGGRESSION",
+      "solutionLabel": "LÖSUNG: GEONYX CHEM",
+      "problem": "Produktionsleckagen von konzentrierter Schwefelsäure (H₂SO₄ 98%) zerstörten Beton innerhalb von Wochen. Herkömmliche Epoxidbeschichtungen quollen auf, lösten sich ab und schufen das Risiko einer Umweltkatastrophe.",
+      "s1title": "Mineralschild:",
+      "s1desc": "Vollständige Inertheit gegenüber konzentrierten Säuren und aggressiven Lösungsmitteln.",
+      "s2title": "Sekundäre Einschließung:",
+      "s2desc": "Errichtung einer undurchdringlichen 'Auffangwanne' (WHG-zertifiziert).",
+      "s3title": "ATEX-Sicherheit:",
+      "s3desc": "Antistatische Ausführung zur Explosionsverhütung.",
+      "result": "Die Produktion ist gegen Umweltstrafen abgesichert. 100% Rückhaltung von Verschüttungen an der Oberfläche."
+    },
+    "case4": {
+      "eyebrow": "Case #004",
+      "sector": "LOGISTIK",
+      "title": "HOCHBELASTETER LOGISTIK-HUB",
+      "solutionLabel": "LÖSUNG: GEONYX ARMOR (RAPID)",
+      "problem": "Kritischer Bedarf an der Sanierung von 2.000 m² einer aktiven Ladezone. Durch Schubmasterverkehr vollständig kompromittierte Fugen. Jede Minute Logistikstillstand kostete zehntausende Euro.",
+      "s1title": "Chrono-Engineering:",
+      "s1desc": "Einsatz von Beschleunigern für extrem schnelle Polymerisation (4–6 Stunden).",
+      "s2title": "Zonierung:",
+      "s2desc": "Arbeit in Abschnitten ohne Unterbrechung der benachbarten Korridore.",
+      "s3title": "Scherwiderstand:",
+      "s3desc": "Schutz gegen die kleinen, harten Räder von Palettenwagen.",
+      "result": "Der Boden wurde am Samstagabend gefräst und verlegt. Am Sonntagmorgen (weniger als 12 Stunden später) operierten Gabelstapler auf der neuen Oberfläche."
+    }
+  },
+  "clients": {
+    "label": "INDUSTRIEFÜHRER, DIE GEONYX INTEGRIERT HABEN"
+  },
+  "cta": {
+    "title": "ANALYSIEREN SIE IHR RISIKO.",
+    "subtitle": "Warten Sie nicht, bis ein Strukturversagen Ihre Produktion stoppt. Fordern Sie eine technische Bewertung von unserem Ingenieur an.",
+    "btn": "INGENIEURSBEGEHUNG ANFORDERN"
+  }
+}

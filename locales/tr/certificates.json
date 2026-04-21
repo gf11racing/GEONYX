@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "GEONYX | Sertifikalar ve Uyumluluk – CE, EN, ISO, HACCP",
+    "description": "GEONYX resmi sertifikaları ve uygunluk beyanları – CE işareti, EN standartları, ISO protokolleri, HACCP onayı ve ARMOR, CHEM, HYDRO ve THERM endüstriyel mineral sistemleri için laboratuvar testleri."
+  },
+  "hero": {
+    "eyebrow": "DÜZENLEYICI UYUMLULUK",
+    "titleLine1": "SERTİFİKALI",
+    "titleLine2": "KALİTE",
+    "description": "Mühendislik güveni vaatlere değil, bağımsız laboratuvar kontrolüne ve Avrupa direktiflerine sıkı uyuma dayanır. GEONYX sistemleri en katı standartları karşılayacak ve aşacak şekilde tasarlanmıştır."
+  },
+  "structural": {
+    "badge": "YAPI",
+    "eyebrow": "HUKUKİ TEMEL",
+    "title": "CE İŞARETİ & YAPISAL BÜTÜNLÜK",
+    "subtitle": "EN 13813 VE EN 1504-2 UYUMLULUĞU",
+    "description": "Avrupa Birliği toprakları için tam yasal pasaport. Tüm GEONYX sistemleri, zemin şapları (EN 13813) ve beton yapıların korunmasına yönelik sistemler (EN 1504-2) için uyumlaştırılmış standartlara uygun olarak geliştirilmektedir. Her parti, beyan edilen sınıfları garantieleyen bir Performans Beyanı (DoP) ile birlikte gelir."
+  },
+  "fireSafety": {
+    "badge": "YANGIN GÜVENLİĞİ",
+    "eyebrow": "YANGIN GÜVENLİĞİ",
+    "title": "YANGIN VE ACİL DURUM GÜVENLİĞİ",
+    "subtitle": "YANMAZLIK AVRUPA SINIFI (EN 13501-1)",
+    "description": "Altyapı tesisleri (tüneller, metro istasyonları) ve kamu binaları için kritik parametre. Jeopolimer matrislerimizin mineral yapısı en yüksek yangın direnci sınıflarını (Euroclass A1fl / Bfl-s1) sağlar. Sistemler yanmayı sürdürmez, toksik duman yaymaz ve aşırı sıcaklıklarda yapısal patlamaları (Spalling) önler.",
+    "tagNonCombustible": "YANMAZ"
+  },
+  "hse": {
+    "badge": "HSE STANDARDI",
+    "eyebrow": "GÜVENLİK VE EKOLOJİ",
+    "title": "SAĞLIK, GÜVENLİK VE ÇEVRE",
+    "subtitle": "KAYMA DİRENCİ VE SU KORUMA (WHG)",
+    "description": "Personel ve çevre koruması. Yüzeylemiz, sürtünme katsayısı (DIN 51130 / DIN 51097) için test edilmekte ve yağ dökülmelerinde bile güvenli çalışma koşulları için R9'dan R13'e kadar kayma direnci sınıfları sunmaktadır. GEONYX CHEM serisi, tehlikeli kimyasalların ikincil sızdırmazlığı için Alman Su Kaynakları Kanunu'na (WHG §19) uymak üzere tasarlanmıştır.",
+    "tagVocFree": "VOC-FREE"
+  },
+  "hygiene": {
+    "badge": "HİJYEN",
+    "eyebrow": "HİJYEN VE ECZACILIK",
+    "title": "HİJYEN VE ASEPTİK KONTROL",
+    "subtitle": "HACCP, GMP VE GIDA TEMASI",
+    "description": "Saf mineral formül (çözücü ve plastikleştirici içermez) gıda ve ilaç endüstrisi için referanstır. Monolitik, bakteriyostatik yüzey biyofilm gelişme riskini ortadan kaldırır. HACCP sistemleri, İyi Üretim Uygulamaları (GMP) ve içme suyu ile doğrudan temas standartlarının katı gereksinimlerini karşılar.",
+    "tagHaccp": "HACCP ONAYLANDI",
+    "tagGmp": "GMP UYUMLU",
+    "tagDrinkingWater": "İÇME SUYU İÇİN GÜVENLİ"
+  },
+  "qualityMgmt": {
+    "eyebrow": "ISO 9001:2015 VE TAM İZLENEBİLİRLİK",
+    "title": "KALİTE KONTROL PROTOKOLLERİ",
+    "description": "Endüstriyel üretim varyasyonlara tahammül etmez. GEONYX'teki süreçler {{bold}} ilkeleri üzerine yapılandırılmıştır. İnce fraksiyonun gelen kontrolünden nihai ürünün lazer spektroskopisine kadar – her adım belgelenir. Bu, kalitenin %100 tekrarlanabilirliğini ve mutlak parti izlenebilirliğini garanti eder.",
+    "tagTraceability": "PARTİ İZLENEBİLİRLİĞİ",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Kalite Yönetimi",
+        "description": "Kalite Yönetim Sistemi. Sürekli bağımsız denetime tabi."
+      },
+      "iso14001": {
+        "subtitle": "Çevre Yönetimi",
+        "description": "Çevre yönetimi. Depolara sıfır atık ve emisyon kontrolü."
+      },
+      "iso45001": {
+        "subtitle": "Sağlık & Güvenlik",
+        "description": "İş sağlığı ve güvenliği. Kurumsal personel koruması."
+      },
+      "reach": {
+        "subtitle": "Kimyasal Uyumluluk",
+        "description": "Kimyasal güvenlik ve hijyen konusunda AB direktifleriyle tam uyumluluk."
+      }
+    }
+  },
+  "disclaimer": {
+    "title": "AKREDİTASYON DURUMU",
+    "description": "Şu anda GEONYX sistemleri, akredite Avrupa laboratuvarlarında genişletilmiş bağımsız testlerin (Third-party testing) son aşamasından geçmektedir. Amaç, uluslararası sertifikaların tam yelpazesini elde etmektir. Resmi test protokolleri bu portalda yayınlanacak ve yasallaştırılmalarının hemen ardından doğrudan indirme için hazır olacaktır. Belirli proje soruları için lütfen teknik departmanımızla iletişime geçin.",
+    "btn": "TEKNİK DEPARTMANLA İLETİŞİME GEÇ"
+  }
+}

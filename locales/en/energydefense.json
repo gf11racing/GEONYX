@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "GEONYX | Energy, Mining & Heavy Defence – Industrial and Abrasion-Resistant Systems",
+    "description": "GEONYX develops mineral protective systems for energy, mining and heavy industry – resistant to extreme abrasion, impact loads, chains, ore, vibrations, oils and thermal shock. Long-lasting protection of concrete and critical infrastructure under heavy-duty operation."
+  },
+  "tender": {
+    "text": "Floor, structural and protective systems in energy, mining and defence facilities (boiler rooms, turbine halls, substations, battery parks, mines, fuel warehouses, tunnels and protective structures) shall be executed with mineral geopolymer systems of the GEONYX type or equivalent, combining ARMOR / CHEM / THERM / HYDRO / REPAIR according to the risk profile by zone. Systems must achieve fire class A1 (for relevant zones), high chemical and mechanical resistance, local repair capability and minimal downtime."
+  },
+  "hero": {
+    "eyebrow": "ENERGY, MINING & HEAVY DEFENCE",
+    "title1": "SURFACES FOR",
+    "title2": "HIGH RISK.",
+    "description": "In energy and mining, fire, chemicals, impact and vibration are daily realities. GEONYX combines ARMOR, CHEM, THERM and HYDRO in mineral systems that protect the structure and limit damage in the event of an incident.",
+    "btn1": "REQUEST RISK AUDIT",
+    "btn2": "DOWNLOAD THERM/ARMOR PROFILE",
+    "scope": "SCOPE",
+    "zonesLabel": "ZONES:",
+    "zone1": "Coal and gas power plants & cogeneration",
+    "zone2": "Boilers, turbine halls and machine rooms",
+    "zone3": "Flue ducts, gas ducts and electrostatic precipitators",
+    "zone4": "Silos for ash, lime and reagents",
+    "zone5": "Transformer bays and electrical substations",
+    "zone6": "Open-cast mines, coal and ore faces",
+    "zone7": "Underground galleries, stores and repair chambers",
+    "zone8": "Conveyor routes, transfer towers and bunkers",
+    "zone9": "Crusher, screen and loading stations",
+    "zone10": "Slag yards, tailings ponds and settlers",
+    "systemsLabel": "SYSTEMS:",
+    "anchorApplications": "↓ WHERE IT IS USED",
+    "anchorSystem": "↓ SYSTEM SELECTION",
+    "anchorOffer": "↓ OFFER PACKAGE"
+  },
+  "manifesto": {
+    "title1": "WHEN AN ERROR",
+    "title2": "COSTS LIVES AND MILLIONS.",
+    "description": "In energy, mining and defence facilities, the floor, structure and protective layers are part of the safety system. A fuel spill, a spark, thermal shock or chemical attack must not turn the concrete into the weakest link. GEONYX engineers mineral systems with fire class A1, high chemical resistance and mechanical strength – so that an incident remains local and the facility returns to operation as quickly as possible."
+  },
+  "zigzag": {
+    "problem": "PROBLEM:",
+    "solution": "SOLUTION:",
+    "suitableSystems": "Suitable systems:",
+    "block1": {
+      "tag": "BOILER ROOMS & TURBINE HALLS",
+      "title": "POWER PLANTS, COMBINED CYCLE & BIOMASS",
+      "problem": "In boiler rooms and turbine halls there are hot surfaces, oils, steam and vibration. Concrete cracks from thermal cycles, spills penetrate the structure and standard paints burn off and peel.",
+      "solution": "GEONYX THERM + ARMOR provide a mineral floor with class A1, resistant to sparks and thermal shock with high mechanical strength for heavy machinery. HYDRO and CHEM are added in condensation and aggressive-fluid zones, while REPAIR allows local repair between campaigns.",
+      "systems": "THERM"
+    },
+    "block2": {
+      "tag": "TRANSFORMERS & OILS",
+      "title": "SUBSTATIONS & TRANSFORMER BAYS",
+      "problem": "In transformer bays and substations, oils, arcs and sparks create a risk of fire and contamination. Cracked concrete and uncontrolled gradients direct spills in the wrong direction.",
+      "solution": "GEONYX ARMOR forms resistant bunds and channels for spill control. THERM and CHEM increase fire and chemical resistance, while HYDRO limits penetration into the structure and soil.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "LITHIUM BATTERIES",
+      "title": "BATTERY PARKS (BESS) & UPS HALLS",
+      "problem": "Lithium-ion batteries carry the risk of thermal runaway, electrolytes and toxic fumes. Standard coatings can burn, release toxic gases and break down at high temperature.",
+      "solution": "GEONYX THERM + CHEM provide a non-combustible, mineral surface resistant to electrolytes and cleaning agents. ARMOR ensures strength for heavy cabinets and racking, while REPAIR allows rapid recovery after an incident.",
+      "systems": "THERM"
+    },
+    "block4": {
+      "tag": "MINES & RAMPS",
+      "title": "MINES, RAMPS & ORE WORKS",
+      "problem": "In mines, floors and ramps absorb abrasive ore, mud, water and heavy traffic from dump trucks and machinery. Concrete wears quickly, potholes and dust appear.",
+      "solution": "GEONYX ARMOR offers high-strength mineral surfacing with extreme abrasion resistance. HYDRO protects against water and freezing, while REPAIR is used for rapid filling of ruts and failed sections.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "PULPS & CHEMICALS",
+      "title": "PROCESSING PLANTS & PULPS",
+      "problem": "In processing plants, concrete is subjected to abrasive pulps, variable-pH solutions and impact loads from equipment. Standard linings wear quickly and leak.",
+      "solution": "GEONYX CHEM + ARMOR build wear-resistant and chemically resistant surfaces for sumps, channels and platforms. HYDRO controls ingress, while REPAIR extends the life of critical details.",
+      "systems": "CHEM"
+    },
+    "block6": {
+      "tag": "FUELS & SPILLS",
+      "title": "FUEL & CHEMICAL WAREHOUSES",
+      "problem": "In warehouses for diesel, petrol, reagents and explosive substances, spills and vapours are a serious risk. Cracks and joints allow penetration into concrete and soil.",
+      "solution": "GEONYX CHEM + HYDRO create a mineral 'bund' with controlled drainage and chemical resistance. THERM improves fire behaviour, while REPAIR allows local recovery without shutting down the entire warehouse.",
+      "systems": "CHEM"
+    },
+    "block7": {
+      "tag": "TUNNELS & FIRE",
+      "title": "TUNNELS, GALLERIES & EVACUATION ROUTES",
+      "problem": "In tunnels and underground galleries, fire, smoke and dripping water can quickly compromise the structure. Organic coatings emit smoke and toxic gases when burning.",
+      "solution": "GEONYX THERM provides non-combustible, mineral coatings with class A1, resistant to thermal shock. HYDRO and ARMOR are combined for water and traffic control, while REPAIR allows staged rehabilitation.",
+      "systems": "THERM"
+    },
+    "block8": {
+      "tag": "HEAVY DEFENCE",
+      "title": "PROTECTIVE BUNKERS & CRITICAL INFRASTRUCTURE",
+      "problem": "Protective structures must withstand impact, vibration and fire without losing load-bearing capacity. Cracked and poorly protected surfaces reduce the level of protection.",
+      "solution": "GEONYX ARMOR + THERM provide high-strength, non-combustible systems for floors and walls. CHEM and HYDRO are added according to the environment, while REPAIR enables strengthening and life extension of existing structures.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "colParam": "PARAMETER",
+    "colStd": "Standard concrete + paint",
+    "colEpoxy": "Epoxy / PU coatings",
+    "row1": "Fire resistance (class)",
+    "row2": "Resistance to fuels & chemicals",
+    "row3": "Mechanical strength & abrasion",
+    "row4": "Behaviour under thermal shock",
+    "row5": "Life cycle in 24/7 operation",
+    "row6": "Repair time / downtime",
+    "row7": "Total life-cycle cost",
+    "val1geonyx": "A1, mineral matrix, non-combustible",
+    "val1std": "Depends on paint, often organic",
+    "val1epoxy": "Organic resins, smoke and toxic gases",
+    "val2geonyx": "High (CHEM configuration)",
+    "val2std": "Low – concrete and paint degrade",
+    "val2epoxy": "Medium – sensitive to solvents and acids",
+    "val3geonyx": "High – ARMOR for heavy traffic and impact",
+    "val3std": "Medium – rapid wear",
+    "val3epoxy": "Medium – coating wears, concrete remains unprotected",
+    "val4geonyx": "Stable – THERM systems",
+    "val4std": "Cracking and spalling",
+    "val4epoxy": "Blistering and delamination",
+    "val5geonyx": "Long, with local REPAIR",
+    "val5std": "Short to medium, frequent repairs",
+    "val5epoxy": "Medium, periodic re-laying required",
+    "val6geonyx": "Phased repair, short windows",
+    "val6std": "Long zone shutdowns",
+    "val6epoxy": "Significant downtime for re-laying",
+    "val7geonyx": "Lower over 10–15 year horizon",
+    "val7std": "Low initial, high long-term",
+    "val7epoxy": "Medium, with high risk costs at incident"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "GEONYX systems cover the full spectrum – from power plants and mines to fuel warehouses and protective structures.",
+    "a1title": "Power plants & combined cycle",
+    "a1desc": "Boiler rooms, turbine halls, ash zones and machine rooms.",
+    "a2title": "Substations & transformer bays",
+    "a2desc": "Transformer bunds, oil sumps and service platforms.",
+    "a3title": "Battery parks (BESS) & UPS",
+    "a3desc": "Halls with batteries, inverters and electronic equipment.",
+    "a4title": "Mines & mining ramps",
+    "a4desc": "Floor surfacing, ramps, service zones and working platforms.",
+    "a5title": "Processing plants",
+    "a5desc": "Pulp sumps, channels, equipment platforms and chemical areas.",
+    "a6title": "Fuel & chemical warehouses",
+    "a6desc": "Tanker ramps, tank platforms and emergency bunds.",
+    "a7title": "Tunnels & underground galleries",
+    "a7desc": "Road tunnels, mine galleries and evacuation corridors.",
+    "a8title": "Protective bunkers & critical infrastructure",
+    "a8desc": "Control rooms, shelters and specialised halls."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGY",
+    "title": "GEONYX SYSTEM SELECTION",
+    "subtitle": "For every energy, mining or defence facility GEONYX combines ARMOR, CHEM, THERM, HYDRO and REPAIR according to the primary risk – fire, chemistry, traffic, water or the need for strengthening.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "High-strength floor and structural systems for heavy machinery, vibrations and impact loads.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Mineral solutions with high resistance to fuels, oils, acids, alkalis and reagents in energy and mining.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Non-combustible systems with class A1, designed for sparks, thermal shock and high temperatures.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Systems for protection from water, condensation and aggressive fluids in channels, sumps and underground sections.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Rapid geopolymer solutions for repair, strengthening and life extension of existing structures."
+  },
+  "workflow": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "w1step": "01",
+    "w1title": "Risk & Technical Audit",
+    "w1desc": "Identification of fire, chemical, mechanical and hydraulic risks by zone.",
+    "w2step": "02",
+    "w2title": "Site Zoning",
+    "w2desc": "Separation of boiler rooms, substations, mine sections, warehouses and tunnels by load type.",
+    "w3step": "03",
+    "w3title": "GEONYX System Design",
+    "w3desc": "Selection of ARMOR / CHEM / THERM / HYDRO / REPAIR, detailed solutions for joints, edges and sumps.",
+    "w4step": "04",
+    "w4title": "Substrate Preparation",
+    "w4desc": "Removal of old coatings, crack repair, strengthening where needed and protection of adjacent systems.",
+    "w5step": "05",
+    "w5title": "Application to Operational Schedule",
+    "w5desc": "Phased execution in line with the production regime – campaigns, emergency windows, night shifts.",
+    "w6step": "06",
+    "w6title": "Testing & Commissioning",
+    "w6desc": "Verification of adhesion, surface properties and fire behaviour; maintenance instructions and future REPAIR interventions."
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "OFFER PACKAGE",
+    "subtitle": "(B2B / B2G)",
+    "description": "For energy, mining and defence facilities GEONYX prepares documentation for the investor, supervision, banks, insurers and regulators.",
+    "qualityLabel": "QUALITY GUARANTEE",
+    "qualityDesc": "All documents comply with the current Eurocodes and standards.",
+    "doc1": "Risk profile by zone – fire, chemistry, mechanics, water",
+    "doc2": "Technical specifications for ARMOR / CHEM / THERM / HYDRO / REPAIR",
+    "doc3": "Detailed drawings of sumps, joints, edges and spill zones",
+    "doc4": "Compliance with fire and industrial standards (class A1, etc.)",
+    "doc5": "Recommended phased execution schedule without shutting down the entire facility",
+    "doc6": "Warranty conditions and plan for inspections and REPAIR interventions",
+    "copyBtn": "COPY TENDER TEXT",
+    "copiedBtn": "TEXT COPIED!"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1title": "Power & Heat Plants",
+    "d1sub": "GEONYX systems (PDF)",
+    "d2title": "Substations & BESS",
+    "d2sub": "Floor solutions (PDF)",
+    "d3title": "Mining Structures",
+    "d3sub": "Mineral surfacing (PDF)",
+    "d4title": "High-Risk Protection",
+    "d4sub": "Tunnel systems (PDF)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1title": "DO WE NEED A FULL SITE SHUTDOWN DURING EXECUTION?",
+    "q1answer": "Not necessarily. In most cases we work in phases – block by block, gallery by gallery or bay by bay, with windows aligned to production and safety requirements.",
+    "q2title": "CAN GEONYX SYSTEMS ACHIEVE FIRE CLASS A1 AND BE INTEGRATED INTO OUR FIRE SCENARIOS?",
+    "q2answer": "Yes. THERM and ARMOR solutions are mineral and non-combustible, with class A1 for the relevant layers. We provide the data required for fire scenarios and assessments.",
+    "q3title": "WHAT HAPPENS IN THE EVENT OF A HEAVY FUEL OR CHEMICAL SPILL ON THE SURFACE?",
+    "q3answer": "CHEM + HYDRO configurations limit penetration into the structure and soil. The surface is washed down and, if needed, a local REPAIR is carried out without replacing the entire system."
+  },
+  "cta": {
+    "title": "COMPREHENSIVE SITE ZONING",
+    "description": "Every facility has specific risks. We integrate 6 specialised matrices into one system: from mechanics, chemistry and thermal shock to waterproofing, antistatics and architecture. One technology that guarantees 100% coverage of needs and full compatibility.",
+    "btn": "SEE ALL ENGINEERING SYSTEMS"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "header": {
+    "eyebrow": "PROTOCOLE JURIDIQUE 07",
+    "title": "POLITIQUE DE CONFIDENTIALITÉ",
+    "subtitle": "LA SÉCURITÉ DE VOS INFORMATIONS EST GARANTIE."
+  },
+  "block1": {
+    "title": "RESPONSABLE DU TRAITEMENT",
+    "body": "Vos données sont gérées par \"GEONYX GROUP\" SARL, en qualité de responsable du traitement, dans le strict respect du Règlement (UE) 2016/679 (RGPD). Nous assumons l'entière responsabilité juridique de la protection de vos informations."
+  },
+  "block2": {
+    "title": "SECRET INDUSTRIEL (NDA)",
+    "body": "Nous comprenons la spécificité du travail dans des installations sécurisées et des environnements de production. \"GEONYX GROUP\" SARL garantit une totale confidentialité. Aucune partie de vos plans, schémas de procédés ou photographies de site ne sera partagée avec des tiers sans votre consentement écrit explicite."
+  },
+  "block3": {
+    "title": "FINALITÉ DES DONNÉES",
+    "intro": "Nous collectons uniquement des informations techniques et de contact nécessaires pour :",
+    "li1": "L'élaboration de cahiers des charges techniques précis et de devis.",
+    "li2": "L'émission de documents de garantie.",
+    "li3": "La fourniture d'un service après-garantie."
+  },
+  "footer": {
+    "note": "Ce document est valide conformément aux Conditions Générales de \"GEONYX GROUP\" SARL. Pour contacter le service juridique :"
+  }
+}

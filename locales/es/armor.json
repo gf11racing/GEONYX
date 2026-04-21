@@ -1,0 +1,278 @@
+{
+  "hero": {
+    "eyebrow": "SISTEMA DE RESISTENCIA EXTREMA",
+    "description": "BLINDAJE MINERAL PARA INDUSTRIA PESADA, MINERÍA Y ENERGÍA. Sistema compuesto para vehículos de cadenas, abrasión y cargas de impacto con Design Life ≥20 años en operación industrial.",
+    "descriptionBold": "Design Life ≥20 años",
+    "statPressure": "PRESIÓN",
+    "statHardness": "DUREZA",
+    "statWear": "DESGASTE",
+    "statTemp": "TEMPERATURA",
+    "btn1": "FICHA TÉCNICA",
+    "btn2": "SOLICITAR AUDITORÍA DE INGENIERÍA"
+  },
+  "certStrip": {
+    "cert1": "CLASE CT-C80-F10",
+    "cert2": "RESISTENCIA AL DESGASTE",
+    "cert4": "NO COMBUSTIBLE",
+    "cert5": "CERTIFICADO"
+  },
+  "diagnostics": {
+    "eyebrow": "ANÁLISIS DE AMENAZAS",
+    "title": "AGRESIÓN INDUSTRIAL. NOSOTROS LA ABSORBEMOS.",
+    "subtitle": "8 cargas mecánicas y operativas críticas para las que el hormigón estándar no está diseñado.",
+    "d1": {
+      "title": "ABRASIÓN EXTREMA",
+      "problem": "La fricción de cadenas, neumáticos y minerales actúa como papel de lija sobre el hormigón, eliminando milímetros de material cada año.",
+      "solution": "Superficie mineral con dureza Mohs 9 y AR ≤ 0.5 – pérdida mínima de volumen tras 1 000 ciclos de abrasión."
+    },
+    "d2": {
+      "title": "CARGA CONCENTRADA",
+      "problem": "Las cadenas, ejes pesados y ruedas de puentes-grúa concentran toneladas de carga en una pequeña área de contacto y agrietan la superficie.",
+      "solution": "Resistencia a compresión >110 N/mm² y alta resistencia al cizallamiento – capa monolítica que no se delaminiza ni se aplasta bajo vehículos de cadenas."
+    },
+    "d3": {
+      "title": "CARGA DE IMPACTO",
+      "problem": "Piezas, cubos, matrices y herramientas que caen agrietan el hormigón, rompen aristas y abren 'nidos' para daños posteriores.",
+      "solution": "Matriz mineral dúctil que absorbe la energía de impacto sin fractura frágil repentina – las aristas permanecen intactas y la superficie estable."
+    },
+    "d4": {
+      "title": "VIBRACIONES",
+      "problem": "Las vibraciones constantes de turbinas, prensas y grúas provocan fatiga del material, microfisuras y desprendimiento de recubrimientos.",
+      "solution": "Unión monolítica con el soporte y estructura resistente a vibraciones – el sistema actúa como un único cuerpo, sin huecos ni zonas débiles."
+    },
+    "d5": {
+      "title": "JUNTAS Y ARISTAS ROTAS",
+      "problem": "Las juntas y aristas son la zona más débil de los suelos industriales. Los impactos de carretillas elevadoras y ruedas duras rompen aristas, forman baches y generan vibraciones en los equipos.",
+      "solution": "GEONYX ARMOR permite soluciones monolíticas o de juntas mínimas con aristas reforzadas. Donde existen juntas, están protegidas estructuralmente para que no fallen bajo el tráfico de maquinaria pesada."
+    },
+    "d6": {
+      "title": "CARGA DE FATIGA DINÁMICA",
+      "problem": "La circulación constante por las mismas rutas provoca fatiga del material. Aparecen microfisuras, asentamientos locales y 'roderas' en zonas de alto tráfico.",
+      "solution": "El sistema mineral ARMOR distribuye las cargas dinámicas en profundidad y previene la formación de fisuras de fatiga, garantizando una superficie estable incluso en operación 24/7."
+    },
+    "d7": {
+      "title": "CIMENTACIONES LOCALES DE MAQUINARIA",
+      "problem": "La maquinaria pesada y las estructuras ancladas concentran cargas en pequeños puntos de apoyo. Esto provoca aplastamiento y fisuración alrededor de los anclajes con hormigón estándar.",
+      "solution": "GEONYX ARMOR construye una superficie de alta resistencia con excelente resistencia a compresión y cizallamiento, adecuada para la integración con cimentaciones de maquinaria sin fallo local."
+    },
+    "d8": {
+      "title": "TIEMPO DE INACTIVIDAD (DOWNTIME)",
+      "problem": "Cada reparación de juntas y baches detiene la producción, bloquea equipos y suele costar más que el propio material.",
+      "solution": "Sistemas ARMOR con protocolos REPAIR – reparaciones locales en 24–48 horas y trabajos por fases sin prolongadas paradas de línea."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "SECCIÓN TÉCNICA DE GEONYX ARMOR",
+    "sectionSubtitle": "Modelo interactivo de capas – desde el soporte hasta la superficie de trabajo.",
+    "h1": {
+      "title": "1. SOPORTE DE HORMIGÓN",
+      "subtitle": "Estructura portante",
+      "desc": "Soporte de hormigón – estructura portante (hormigón existente, acero o solera antigua)."
+    },
+    "h2": {
+      "title": "2. PREPARACIÓN Y CAPA DE ADHERENCIA",
+      "subtitle": "Perfil CSP",
+      "desc": "Perfilado mecánico (perfil CSP) y unión mineral con el soporte."
+    },
+    "h3": {
+      "title": "3. CAPA COMPUESTA ESTRUCTURAL",
+      "subtitle": "Armadura",
+      "desc": "Matriz mineral armada 8–12 mm (hasta 25 mm bajo carga extrema)."
+    },
+    "h4": {
+      "title": "4. CAPA PROTECTORA SUPERFICIAL",
+      "subtitle": "Textura",
+      "desc": "Textura finamente ajustada para agarre y limpieza fácil."
+    }
+  },
+  "engineering": {
+    "eyebrow": "DATOS DE INGENIERÍA",
+    "title": "EVIDENCIAS DEL LABORATORIO",
+    "subtitle": "Ensayos independientes en laboratorios acreditados – protocolos completos disponibles en TDS.",
+    "block1title": "Escala de Mohs (Dureza)",
+    "block1note": "GEONYX ARMOR se aproxima a la dureza del diamante y supera al hormigón estándar y al acero en resistencia al desgaste.",
+    "block2title": "Ensayo Böhme (Abrasión)",
+    "block2note": "Hasta 8 veces menos pérdida de volumen tras 1 000 ciclos de fricción respecto al hormigón industrial ordinario.",
+    "block3title": "Ductilidad (Tensión-Deformación)",
+    "block3brittle": "FRACTURA REPENTINA",
+    "block3absorb": "ABSORCIÓN DE ENERGÍA",
+    "block3note": "Comportamiento lineal sin fractura repentina – matriz compuesta que absorbe energía en lugar de romperse."
+  },
+  "operational": {
+    "eyebrow": "RENDIMIENTO",
+    "title": "SUPERIORIDAD OPERATIVA",
+    "r1": {
+      "title": "TOLERANCIA A LA HUMEDAD",
+      "desc": "Aplicación sobre hormigón 'verde' y soportes con humedad residual. Estructura transpirable que reduce el riesgo de presión osmótica y delaminación."
+    },
+    "r2": {
+      "title": "SIN GENERACIÓN DE CHISPAS",
+      "desc": "Lógica ATEX para minas, depósitos de combustible y municiones. La superficie no genera chispas mecánicas al impacto."
+    },
+    "r3": {
+      "title": "CLASE XF4 / HIELO–DESHIELO",
+      "desc": "Inmunidad total a los ciclos de hielo/deshielo y sales (fundentes). Adecuado para rampas exteriores, muelles y hangares."
+    },
+    "r4": {
+      "title": "SISTEMA SIN JUNTAS O DE JUNTAS MÍNIMAS",
+      "desc": "Diseño por zonas con un número mínimo de juntas industriales – menos puntos de reparación y menor riesgo de fallo."
+    },
+    "r5": {
+      "title": "CERTIFICACIÓN GLOBAL",
+      "desc": "EN 13813, CE Mark, ISO 9001. Documentación de ingeniería completa para inversores públicos y privados."
+    }
+  },
+  "financial": {
+    "title": "CUANDO EL SUELO ES UNA INVERSIÓN, NO UN GASTO",
+    "subtitle": "Comparación del coste total de propiedad a 20 años – hormigón estándar con reparaciones periódicas frente a GEONYX ARMOR con intervenciones mínimas.",
+    "quote": "EL HORMIGÓN SE PAGA MUCHAS VECES.",
+    "quoteHighlight": "GEONYX ARMOR – UNA SOLA VEZ."
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "subtitle": "Comparación del ciclo operativo de 20 años entre hormigón estándar y GEONYX ARMOR en régimen industrial de 3 turnos.",
+    "colParam": "PARÁMETRO",
+    "colStd": "Hormigón estándar",
+    "colEpoxy": "Sistema epoxi",
+    "row1": "Design Life",
+    "row2": "Número de reparaciones (20 años)",
+    "row3": "Downtime",
+    "row4": "Resistencia a la abrasión",
+    "row5": "Coste total en 20 años",
+    "val1armor": "≥20 años",
+    "val1std": "5–8 años",
+    "val1epoxy": "7–10 años",
+    "val2armor": "0–1",
+    "val2std": "3–5",
+    "val2epoxy": "2–4",
+    "val3armor": "mínimo",
+    "val3std": "alto",
+    "val3epoxy": "medio",
+    "val5armor": "Bajo",
+    "val5std": "Alto",
+    "val5epoxy": "Medio"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE UTILIZA",
+    "subtitle": "Instalaciones con alta agresión mecánica, tráfico pesado y cargas extremas.",
+    "a1": {
+      "title": "Metalurgia Pesada",
+      "desc": "Fundiciones, laminadores, zonas de escoria y metal fundido."
+    },
+    "a2": {
+      "title": "Centros Logísticos",
+      "desc": "Pasillos VNA, rampas, muelles de carga y tráfico intensivo de carretillas elevadoras."
+    },
+    "a3": {
+      "title": "Minas e Instalaciones de Procesamiento",
+      "desc": "Trituradoras, molinos, zonas de flotación y talleres para maquinaria pesada."
+    },
+    "a4": {
+      "title": "Energía",
+      "desc": "Salas de turbinas, plataformas de mantenimiento, bunkers de carbón y cenizas."
+    },
+    "a5": {
+      "title": "Fabricación de Automóviles",
+      "desc": "Talleres de prensas, líneas de montaje, robots de soldadura y zonas de prueba."
+    },
+    "a6": {
+      "title": "Industria de Defensa",
+      "desc": "Bases de reparación para vehículos de cadenas, depósitos de municiones (ATEX)."
+    },
+    "a7": {
+      "title": "Reciclaje y Residuos",
+      "desc": "Chatarrerías, instalaciones de clasificación y vertederos de residuos."
+    },
+    "a8": {
+      "title": "Aviación",
+      "desc": "Hangares de mantenimiento, zonas de tren de aterrizaje pesado y servicio de motores."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESO",
+    "title": "PROCESO DE EJECUCIÓN",
+    "subtitle": "Control de ingeniería desde el primer análisis hasta la recepción final de la obra.",
+    "p1": {
+      "step": "01",
+      "title": "Auditoría de Ingeniería",
+      "desc": "Análisis de cargas, zonificación y perfil de riesgo."
+    },
+    "p2": {
+      "step": "02",
+      "title": "Diseño",
+      "desc": "Determinación del espesor (8–25 mm) y del sistema."
+    },
+    "p3": {
+      "step": "03",
+      "title": "Preparación del Soporte",
+      "desc": "Perfilado mecánico (perfil CSP), limpieza, control de humedad."
+    },
+    "p4": {
+      "step": "04",
+      "title": "Aplicación",
+      "desc": "Aplicación del sistema compuesto ARMOR según el protocolo tecnológico."
+    },
+    "p5": {
+      "step": "05",
+      "title": "Control de Calidad",
+      "desc": "Verificación de adherencia, espesor y planitud."
+    },
+    "p6": {
+      "step": "06",
+      "title": "Documentación",
+      "desc": "Entrega documentada con ficha técnica."
+    }
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE LICITACIÓN (B2B / B2G)",
+    "desc": "Documentación de ingeniería completa para inversores, proyectistas y licitaciones públicas.",
+    "qualityLabel": "GARANTÍA DE CALIDAD",
+    "qualityDesc": "Todos los documentos cumplen con los Eurocódigos y normas vigentes.",
+    "doc1": "Technical Data Sheet (TDS)",
+    "doc2": "Declaración CE",
+    "doc3": "Protocolos de laboratorio",
+    "doc4": "Procedimiento de ejecución",
+    "doc5": "Detalles BIM",
+    "doc6": "Especificación de licitación (texto listo para usar)",
+    "copyBtn": "COPIAR TEXTO DE LICITACIÓN",
+    "copiedBtn": "¡TEXTO COPIADO!"
+  },
+  "downloads": {
+    "title": "ARCHIVOS TÉCNICOS Y DESCARGAS",
+    "dl1": {
+      "title": "Technical Data Sheet",
+      "sub": "Parámetros de ingeniería completos y resultados de ensayos"
+    },
+    "dl2": {
+      "title": "Laboratory Report",
+      "sub": "Resumen de resultados de ensayos"
+    },
+    "dl3": {
+      "title": "BIM Library",
+      "sub": "Detalles de diseño"
+    },
+    "dl4": {
+      "title": "Engineering Specification",
+      "sub": "Texto listo para documentación de licitación"
+    }
+  },
+  "cta": {
+    "title": "DISEÑE PARA 20 AÑOS. NO PARA 3.",
+    "subtitle": "Sistema de ingeniería para instalaciones con cargas mecánicas extremas y alto riesgo operativo.",
+    "desc": "Documentación técnica completa y consultoría de ingeniería para inversores, proyectistas y operadores de industria pesada e infraestructura crítica.",
+    "btn1": "DESCARGAR ESPECIFICACIONES TÉCNICAS (TDS)",
+    "btn2": "DESCARGAR BIM Y DETALLES",
+    "btn3": "SOLICITAR AUDITORÍA DE INGENIERÍA"
+  },
+  "footerBand": {
+    "label": "SOCIO TECNOLÓGICO PARA INFRAESTRUCTURA CRÍTICA",
+    "desc": "Necesita un sistema que soporte minas, acerías, centros logísticos o instalaciones energéticas. GEONYX ARMOR combina tecnología geopolimérica, datos de laboratorio y ensayos de campo para entregarle un pavimento que puede ser defendido ante cualquier inversor y auditor."
+  },
+  "shared": {
+    "threat": "AMENAZA",
+    "solution": "SOLUCIÓN"
+  }
+}

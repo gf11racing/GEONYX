@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "eyebrow": "ŞİRKET HAKKINDA",
+    "title": "BİZ GEONYX'İZ.",
+    "titleHighlight": "MADDENİN MÜHENDİSLERİ.",
+    "description": "Yüksek teknolojili jeopolimer matrislerin geliştirilmesi ve uygulanmasında öncüler. Biz yalnızca inşaat malzemeleri tedarikçisi değiliz. Endüstriyel altyapının yaşam döngüsünü yeniden tanımlayan bir teknoloji şirketiyiz."
+  },
+  "philosophy": {
+    "badge": "FELSEFİ YAKLAŞIM",
+    "eyebrow": "PARADİGMA DEĞİŞİMİ",
+    "title": "PLANLI ESKİMENİN SONU",
+    "body1": "Endüstri gelişiyor, ancak altyapı geride kalıyor. Standart beton 19. yüzyıl teknolojisidir ve epoksi reçineler kısa ömürlü petrokimyasal uzlaşmalardır. Misyonumuz, sürekli onarım döngüsüne (Downtime) son vermektir.",
+    "body2": "Anorganik matrisler yaratarak, tesisinizdeki en savunmasız halkayı — zemini — en dayanıklı yapısal varlığınıza dönüştürüyoruz. 50 yıllık operasyonel döngü için tasarlıyoruz."
+  },
+  "rd": {
+    "badge": "Ar-Ge LABORATUVARI",
+    "eyebrow": "Ar-Ge VE SENTEZLİYORUZ",
+    "title": "LABORATUVAR HASSASIYETI VE İNOVASYON",
+    "body1": "GEONYX'in gücü araştırma ve geliştirme faaliyetlerimizde yatmaktadır. Hazır ticari reçineler karıştırmıyoruz. Moleküler düzeyde kendi jeopolimer kristal kafeslerimizi sentezliyoruz.",
+    "body2": "Her formül; termodinamik kararlılık, kimyasal inertlik ve basınç dayanımı için bağımsız Avrupa laboratuvarları ve malzeme test enstitüleri tarafından doğrulanan amansız stres testlerinden geçmektedir."
+  },
+  "liability": {
+    "badge": "SORUMLULUK",
+    "eyebrow": "TEK KAYNAK SORUMLULUĞU",
+    "title": "TEK GARANTİ. SIFIR SORUMLULUK AKTARIMI.",
+    "body1": "İnşaatta en büyük risk bölünmüş sorumluluktur — üretici yükleniciye, yüklenici betona yüklenir. GEONYX döngüyü kapatır.",
+    "body2": "Teknolojiyi üretiyoruz, saha yapısal denetimini gerçekleştiriyoruz ve uygulamayı sertifikalandırıyoruz. Tek bir ortak, uzlaşmasız bir garanti ve mutlak hukuki güvenlik elde ediyorsunuz."
+  },
+  "qaqc": {
+    "badge": "QA / QC",
+    "eyebrow": "QA/QC UYGULAMASI",
+    "title": "SERTİFİKALI TEKNİSYENLER VE PROTOKOLLER",
+    "body1": "Yüksek teknolojili mineral matrislerle çalışmak, genel işçi değil, klinik disiplin gerektirir. Uygulama ekiplerimiz (Certified Application Technicians) katı mühendislik protokollerine (Method Statements) göre çalışır.",
+    "body2": "Çiğlenme noktası (Dew Point) izlemesinden ekzotermik reaksiyonun gerçek zamanlı kontrolüne kadar. Belirlenen zaman dilimlerine (time-slots) sıkı sıkıya uyularak üretiminizin kesinti süresi en aza indirilmesi garanti edilmektedir."
+  },
+  "esg": {
+    "badge": "ESG HAZIRLIĞI",
+    "eyebrow": "ESG VE DÖNGÜSEL EKONOMİ",
+    "title": "DÜŞÜK KARBONLU BİR GELECEK (LOW CARBON)",
+    "body1": "Kurumsal sorumluluk, karbon ayak izinin radikal biçimde azaltılmasını gerektirmektedir. Portland çimentosunun enerji yoğun üretimi ve epoksilerin toksik petrokimyasının aksine, GEONYX teknolojileri %80'e kadar CO2 emisyonu tasarrufu sağlar.",
+    "body2": "Sistemlerimiz %100 çözücü içermez (VOC-Free) ve yeşil binalarınızın LEED ve BREEAM sertifikası kriterlerini karşılamasına doğrudan katkıda bulunur."
+  },
+  "certs": {
+    "eyebrow": "KURUMSAL POLİTİKA",
+    "title": "RESMİ GÜVEN STANDARTLARI",
+    "c1title": "ISO 9001:2015",
+    "c1sub": "Quality Management",
+    "c1body": "Quality Management System (QMS). Sürekli bağımsız denetime tabidir.",
+    "c2title": "ISO 14001:2015",
+    "c2sub": "Environmental Mgmt",
+    "c2body": "Çevre yönetimi. Depolama alanlarına sıfır atık ve emisyon kontrolü.",
+    "c3title": "ISO 45001:2018",
+    "c3sub": "Health & Safety",
+    "c3body": "Occupational Health & Safety. İş yerinde sağlığın kurumsal koruması.",
+    "c4title": "REACH & VOC",
+    "c4sub": "Chemical Compliance",
+    "c4body": "Kimyasal güvenlik ve hijyene ilişkin AB direktifleriyle tam uyumluluk."
+  },
+  "cta": {
+    "title": "BİLİME GÜVEN.",
+    "body": "Teknik uzmanlık, niceliksel analiz ve sahanızın yapısal denetimi için mühendislik ekibimizle iletişime geçin.",
+    "btn": "BİZİMLE İLETİŞİME GEÇİN"
+  }
+}

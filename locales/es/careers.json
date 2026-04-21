@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "GEONYX | Carreras y Desarrollo – Trabajo en la Producción Industrial",
+    "description": "Oportunidades de carrera en GEONYX – puestos para ingenieros, especialistas técnicos y personal de producción en el ámbito de los suelos industriales y sistemas minerales para infraestructura. Desarrollo profesional a largo plazo, formación y participación en proyectos industriales estratégicos."
+  },
+  "hero": {
+    "eyebrow": "ÚNASE A LA ÉLITE",
+    "titleLine1": "NO BUSCAMOS EMPLEADOS.",
+    "titleLine2": "BUSCAMOS",
+    "titleHighlight": "CARÁCTERES",
+    "description1": "GEONYX es una empresa tecnológica disfrazada de empresa constructora. Aquí no encontrará paletas y palas. Trabajamos con sistemas láser, tabletas y química.",
+    "description2": "Invertimos en usted a través de nuestra",
+    "academyName": "Academia de Geopolímeros",
+    "description3": ", porque nadie nace sabiendo. El camino de aprendiz a tecnólogo jefe está trazado y depende únicamente de sus resultados. Sin enchufismo, solo métricas.",
+    "btnPositions": "VER POSICIONES"
+  },
+  "positions": {
+    "sales": {
+      "sector": "Ventas",
+      "eyebrow": "FUERZA COMERCIAL",
+      "title": "REPRESENTANTE TÉCNICO COMERCIAL",
+      "description": "Usted no es un vendedor de folletos. Su tarea es entrar en las condiciones más duras, identificar el problema y realizar personalmente una prueba piloto (Demo Application). Usted vende a través de la demostración de fuerza, no de palabras dulces.",
+      "req1": "Disponibilidad para viajar intensamente",
+      "req2": "Competencia técnica",
+      "req3": "Voluntad de 'mancharse las manos'"
+    },
+    "production": {
+      "sector": "Producción",
+      "eyebrow": "EL CORAZÓN DE LA PRODUCCIÓN",
+      "title": "OPERADOR DE PRODUCCIÓN Y CONTROL DE CALIDAD",
+      "description": "Usted dirige la cocina de GEONYX. Aquí nace la magia. Es responsable de convertir las materias primas en el producto perfecto, operando sistemas de dosificación y mezcladoras. No hay lugar para las aproximaciones: todo es al gramo.",
+      "req1": "Disciplina de hierro",
+      "req2": "Minuciosidad en los detalles",
+      "req3": "Resistencia física"
+    },
+    "rnd": {
+      "sector": "Innovación",
+      "eyebrow": "CENTRO DE INNOVACIÓN",
+      "title": "INGENIERO I+D – INNOVACIÓN",
+      "description": "GEONYX no se detiene. Buscamos un visionario que optimice las fórmulas actuales y desarrolle nuevos productos. Usted es la persona que dice 'esto puede hacerse mejor' y lo demuestra en el laboratorio.",
+      "req1": "Conocimientos de química/materiales de construcción",
+      "req2": "Pensamiento analítico",
+      "req3": "Espíritu experimentador"
+    },
+    "requirementsLabel": "REQUISITOS:",
+    "applyBtn": "POSTULARSE AHORA"
+  },
+  "form": {
+    "title": "¿ESTÁ LISTO?",
+    "subtitle": "Si se reconoció en las líneas anteriores, actúe.",
+    "successTitle": "¡CANDIDATURA RECIBIDA!",
+    "successDesc": "¡Gracias! Por favor, envíe su CV a",
+    "successEmail": "office@geonyxgroup.com",
+    "successDesc2": "para completar el proceso.",
+    "successNewBtn": "Enviar otra",
+    "labelPosition": "SELECCIONAR POSICIÓN *",
+    "placeholderPosition": "-- Por favor seleccione --",
+    "labelName": "NOMBRE Y APELLIDOS *",
+    "placeholderName": "Juan García",
+    "labelPhone": "TELÉFONO *",
+    "placeholderPhone": "+34 ...",
+    "labelEmail": "EMAIL *",
+    "placeholderEmail": "nombre@correo.com",
+    "labelExperience": "¿Cómo hará su experiencia a GEONYX más fuerte? *",
+    "placeholderExperience": "Sea concreto. No use plantillas.",
+    "cvLabel": "ADJUNTAR CV",
+    "cvDesc": "Envíe su CV directamente a",
+    "cvSubject": "\"Candidatura — [Su Nombre]\"",
+    "cvSubjectLabel": "con asunto:",
+    "btnSubmitting": "ENVIANDO...",
+    "btnSubmit": "ENVIAR CANDIDATURA",
+    "errorGeneral": "Se produjo un error al enviar. Por favor, inténtelo de nuevo más tarde.",
+    "errorFileSize": "El archivo es demasiado grande para enviarse.",
+    "errorLimit": "Límite de envío alcanzado. Por favor, contáctenos directamente.",
+    "errorUnexpected": "Se produjo un error inesperado. Por favor, verifique los campos.",
+    "positionSales": "VENTAS",
+    "positionProduction": "PRODUCCIÓN",
+    "positionRnd": "TECNÓLOGO I+D"
+  }
+}

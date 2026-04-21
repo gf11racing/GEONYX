@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "eyebrow": "NOMENCLATURA TECNOLÓGICA",
+    "title": "REGISTRO DE SISTEMAS",
+    "subtitle1": "// ÍNDICE DE MATRICES DE INGENIERÍA GEONYX®",
+    "subtitle2": "// SELECCIONE UN SISTEMA PARA ESPECIFICACIONES TÉCNICAS",
+    "stat1label": "SISTEMAS PRINCIPALES",
+    "stat2label": "CLASE DE FUEGO",
+    "stat3label": "VIDA ÚTIL"
+  },
+  "systems": {
+    "sys01category": "MECÁNICA",
+    "sys01desc": "Sistema blindado para la industria pesada. Absorbe vibraciones, soporta cargas de impacto y tráfico de maquinaria pesada de cadenas.",
+    "sys02category": "QUÍMICA",
+    "sys02desc": "Barrera químicamente inerte (WHG). Protección total contra ácidos concentrados, bases y disolventes agresivos.",
+    "sys03category": "TERMODINÁMICA",
+    "sys03desc": "Sistema para amplitudes de temperatura extremas. Soporta el choque térmico (vapor/agua helada), metal fundido y fuego directo.",
+    "sys04category": "HIDROTECNIA",
+    "sys04desc": "Membranas minerales impermeables para muros de presas, plantas de tratamiento de agua e infraestructura marina. Operación bajo el agua."
+  },
+  "cta": {
+    "eyebrow": "INGENIERÍA ESPECIALIZADA",
+    "title": "¿NO ENCUENTRA SU CASO DE USO?",
+    "body": "Nuestros ingenieros químicos desarrollan matrices modificadas para entornos específicos (Custom Formulations). Contáctenos para análisis de laboratorio.",
+    "btn": "SOLICITAR DESARROLLO"
+  }
+}

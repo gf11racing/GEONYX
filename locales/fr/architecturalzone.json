@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "GEONYX | Zone Architecturale – Surfaces minérales design et solutions de façade",
+    "description": "La zone architecturale GEONYX propose des revêtements minéraux haute durabilité pour espaces publics, commerces, façades et architecture moderne. Systèmes sans joint avec haute esthétique, résistance mécanique et longue durée de vie."
+  },
+  "hero": {
+    "eyebrow": "ZONE ARCHITECTURALE",
+    "titleLine1": "CENTRE",
+    "titleLine2": "TECHNIQUE",
+    "description": "Portail d'ingénierie pour architectes et concepteurs.",
+    "descriptionLine2": "Textures, détails CAO et spécifications pour marchés publics."
+  },
+  "textures": {
+    "badge": "Textures",
+    "eyebrow": "STRUCTURE DE SURFACE",
+    "title": "CLASSIFICATION VISUELLE ET TACTILE",
+    "description": "Les surfaces GEONYX sont classifiées selon la valeur de réflexion lumineuse (LRV) et l'indice de rugosité (Surface Roughness). Des revêtements très mats (Deep Matte) pour l'absorption de la lumière aux finitions satinées. Nous fournissons des textures correspondant aux propriétés physiques réelles du matériau.",
+    "btn": "PARCOURIR LA BIBLIOTHÈQUE"
+  },
+  "monolith": {
+    "badge": "Monolithe",
+    "eyebrow": "INTÉGRATION SANS JOINT",
+    "title": "CONTINUITÉ STRUCTURELLE",
+    "description": "La technologie GEONYX permet la pose sur de grandes surfaces sans interruptions par joints de dilatation (Seamless Application). Cela assure la propreté hygiénique et élimine le réseau de joints caractéristique des carrelages. Une surface minérale unique et continue de mur à mur.",
+    "btn": "TECHNOLOGIE D'APPLICATION"
+  },
+  "assets3d": {
+    "badge": "Assets 3D",
+    "eyebrow": "ACTIFS NUMÉRIQUES",
+    "title": "CARTES PBR POUR V-RAY / CORONA / BIM",
+    "description": "Surfaces numérisées par scan 8K. Le pack complet inclut des cartes physiquement correctes : Diffuse, Reflection, Glossiness, Normal et Displacement. Matériaux prêts à intégrer dans vos visualisations BIM et CAO avant exécution.",
+    "btn": "TÉLÉCHARGER PBR ZIP (8K)"
+  },
+  "documentation": {
+    "eyebrow": "CENTRE DE DONNÉES",
+    "title": "DOCUMENTATION TECHNIQUE",
+    "subtitle": "PASSEPORTS DES SYSTÈMES ET DÉCLARATIONS DE PERFORMANCES (DoP)",
+    "btnTds": "[TDS Technical Data]",
+    "btnMsds": "[MSDS Safety Data]",
+    "btnDop": "[DoP Declaration]"
+  },
+  "cadBim": {
+    "eyebrow": "INGÉNIERIE",
+    "title": "DÉTAILS ET NŒUDS CONSTRUCTIFS",
+    "subtitle": "FICHIERS .DWG ET .RVT NORMALISÉS POUR CONCEPTEURS",
+    "btnDwg": "TÉLÉCHARGER .DWG",
+    "btnRvt": "TÉLÉCHARGER .RVT",
+    "detailA": {
+      "title": "DÉTAIL A : MUR-SOL",
+      "desc": "Détail pour caniveau hygiénique et liaison murale."
+    },
+    "detailB": {
+      "title": "DÉTAIL B : DRAINAGE",
+      "desc": "Détail pour liaison avec drains linéaires et drainage ponctuel."
+    },
+    "detailC": {
+      "title": "DÉTAIL C : JOINTS ET FISSURES",
+      "desc": "Détail pour traitement des joints de dilatation et fissures."
+    }
+  },
+  "tender": {
+    "title": "TEXTES DE BORDEREAU DE PRIX (TENDER SPECS)",
+    "subtitle": "SPÉCIFICATIONS PRÊTES POUR MARCHÉS PUBLICS ET APPELS D'OFFRES",
+    "text": "Fourniture et pose d'un revêtement minéral haute durabilité type GEONYX®, épaisseur 6–9 mm. Résistance à la compression >110 N/mm² selon EN 13892-2. Résistance à l'usure <1,5 cm³/50cm² selon DIN 52108 (Böhme). Classe de réaction au feu A1fl. Le produit doit posséder le marquage CE et la déclaration DoP...",
+    "btnCopy": "COPIER LE TEXTE",
+    "btnCopied": "COPIÉ !"
+  },
+  "certifications": {
+    "title": "CERTIFICATS ET NORMES",
+    "items": {
+      "iso9001": "Management de la qualité",
+      "en13813": "Matériau de chape",
+      "haccp": "Sécurité alimentaire",
+      "whg": "Loi sur les ressources en eau",
+      "din51130": "Résistance au glissement R9-R13",
+      "euroclass": "Sécurité incendie"
+    }
+  }
+}

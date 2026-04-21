@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "GEONYX | Fichas Técnicas y Documentación de Sistema",
+    "description": "Biblioteca centralizada de fichas técnicas (TDS), declaraciones de prestaciones (DoP), certificados y detalles de sistemas para GEONYX ARMOR, CHEM, HYDRO y THERM – destinados a diseñadores, inversores y contratistas en construcción industrial e infraestructura."
+  },
+  "hero": {
+    "eyebrow": "FICHAS TÉCNICAS",
+    "titleLine1": "LOS DATOS",
+    "titleLine2": "NO MIENTEN.",
+    "description": "Aquí no hay lugar para el marketing. Aquí hablan los parámetros físico-mecánicos empíricos, los ensayos de laboratorio independientes y los certificados normativos. Resistencia al cortante, índice de desgaste, inercia química y huella de carbono.",
+    "btnCatalog": "DESCARGAR CATÁLOGO COMPLETO"
+  },
+  "blockSDS": {
+    "eyebrow": "ESPECIFICACIONES",
+    "title": "FICHAS TÉCNICAS DE SISTEMA (SDS) Y PRODUCTO (PDS)",
+    "description": "Definición precisa de cada variable. La lógica de ingeniería requiere separar el sistema global (System Data Sheet) de sus componentes (Product Data Sheets). Desde el módulo de elasticidad del sistema según EN 13813, hasta el tiempo de vida útil en el recipiente (Pot Life) de cada imprimación y sellante individual.",
+    "btnSDS": "DESCARGAR PASAPORTES DE SISTEMA (SDS)",
+    "btnPDS": "DESCARGAR PASAPORTES DE PRODUCTO (PDS)"
+  },
+  "blockDoP": {
+    "eyebrow": "CONFORMIDAD Y ESG",
+    "title": "DECLARACIONES DE PRESTACIONES (DoP) Y ECOLOGÍA (EPD)",
+    "description": "El activo obligatorio para proyectos de infraestructura y contratos públicos (B2G). Las declaraciones DoP garantizan el pleno cumplimiento del Reglamento (UE) n.º 305/2011 (CPR). Las Declaraciones Ambientales de Producto (EPD) según ISO 14025 proporcionan datos precisos sobre la huella de carbono durante todo el ciclo de vida (ACV), garantizando el máximo de créditos para las certificaciones LEED v4 y BREEAM.",
+    "btnDoP": "DESCARGAR REGISTRO DoP (CE)",
+    "btnEPD": "DESCARGAR INFORMES EPD (ECO)"
+  },
+  "blockMSDS": {
+    "eyebrow": "SALUD Y SEGURIDAD",
+    "title": "FICHAS DE DATOS DE SEGURIDAD (MSDS)",
+    "description": "Seguridad para el operador y el entorno. Las fichas MSDS proporcionan el perfil químico completo, la clasificación REACH y los protocolos de manejo seguro. Las matrices GEONYX son sin COV y sin Bisfenol A, convirtiéndolas en el referente de higiene laboral.",
+    "btnMSDS": "DESCARGAR ARCHIVO MSDS"
+  },
+  "blockProtocols": {
+    "eyebrow": "EJECUCIÓN Y CONTROL",
+    "title": "PROTOCOLOS DE APLICACIÓN (METHOD STATEMENTS)",
+    "description": "Incluso el mejor sistema falla con una aplicación incorrecta. No solo damos instrucciones – proporcionamos las herramientas para la supervisión de obra. Acceso a protocolos tecnológicos (Method Statements) y formularios QA/QC listos para el control diario de obra.",
+    "btnMS": "FICHA TECNOLÓGICA (MS)",
+    "btnQAQC": "FORMULARIO QA/QC (PUNTO DE ROCÍO)"
+  },
+  "analyticsSection": {
+    "eyebrow": "PARÁMETROS TÉCNICOS",
+    "title": "PROTOCOLOS DE ENSAYO Y DIAGRAMAS",
+    "card1title": "Resistencia Química",
+    "card1desc": "Lista de reactivos probados (ácidos, bases, disolventes) según EN 13529. Tiempo de exposición e índice de degradación.",
+    "card1btn": "DESCARGAR TABLA",
+    "card2title": "Termodinámica y Fricción",
+    "card2desc": "Coeficientes de expansión térmica (CTE), resultados de ensayos de choque térmico y curvas de desgaste Böhme (DIN 52108).",
+    "card2btn": "DESCARGAR INFORME",
+    "card3title": "Conductividad Eléctrica",
+    "card3desc": "Mediciones de resistencia superficial/volumétrica. Informes de Walking Body Voltage para salas limpias y zonas ATEX.",
+    "card3btn": "DESCARGAR ANÁLISIS ESD"
+  },
+  "lifecycle": {
+    "eyebrow": "MANTENIMIENTO",
+    "title": "GESTIÓN DEL CICLO DE VIDA",
+    "description": "La durabilidad es función de una explotación correcta. Manuales de mantenimiento especializados para equipos de gestión de instalaciones. Productos de limpieza aprobados, procedimientos ante derrames químicos extremos y calendarios de inspección periódica de suelos industriales.",
+    "btn": "DESCARGAR MANUAL DE MANTENIMIENTO"
+  }
+}

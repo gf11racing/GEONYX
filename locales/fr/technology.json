@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "eyebrow": "LA SCIENCE DE GEONYX",
+    "title": "GÉOPOLYMÈRE : LA SCIENCE DES SOLS INDESTRUCTIBLES.",
+    "description": "Nous ne coulons pas simplement du béton. Nous créons de la pierre artificielle par polymérisation inorganique avancée."
+  },
+  "intro": {
+    "title": "POURQUOI LE GÉOPOLYMÈRE ?",
+    "body": "GEONYX utilise une chimie avancée des polymères inorganiques. Contrairement au ciment Portland, qui repose sur l'hydratation, nos liaisons se forment par polycondensation d'aluminosilicates. Le résultat est un revêtement de sol avec une résistance chimique exceptionnelle, un durcissement plus rapide et une empreinte carbone nettement réduite."
+  },
+  "crossSection": {
+    "eyebrow": "AR SCANNER",
+    "title": "RADIOGRAPHIE DU SYSTÈME",
+    "note": "[SURVOLER POUR INSPECTER LES COUCHES]",
+    "layer4name": "TOP COAT: SEALER",
+    "layer4desc": "Couche de scellement stable aux UV et résistante aux produits chimiques. Classe antidérapante R13.",
+    "layer3name": "BODY COAT: GEOPOLYMER",
+    "layer3desc": "Matrice porteuse primaire. Quartz modifié et polymère inorganique. Résistance > 90 MPa.",
+    "layer2name": "PRIMER: BONDING AGENT",
+    "layer2desc": "Primaire à pénétration profonde. Crée une liaison moléculaire (Chemical Weld) avec le support.",
+    "layer1name": "SUBSTRATE: CONCRETE",
+    "layer1desc": "Support en béton armé (minimum C20/25). Sablé et nettoyé."
+  },
+  "chemistry": {
+    "eyebrow": "LA CHIMIE",
+    "badge": "Microstructure",
+    "title": "POLYCONDENSATION AU LIEU D'HYDRATATION",
+    "body": "Le béton est comme une éponge – plein de capillaires issus de l'eau évaporée. GEONYX est différent.",
+    "card1title": "Structure dense",
+    "card1body": "La réaction chimique expulse l'eau, créant un réseau 3D dense et non poreux.",
+    "card2title": "Origine minérale",
+    "card2body": "Nous n'utilisons pas de produits pétroliers (comme les époxies). GEONYX est 100% minéral, une \"pierre artificielle\"."
+  },
+  "speed": {
+    "eyebrow": "VITESSE ET EFFICACITÉ",
+    "badge": "Polymérisation Rapide",
+    "title": "LE TEMPS, C'EST DE L'ARGENT.",
+    "titleHighlight": "LITTÉRALEMENT.",
+    "body": "L'industrie ne peut pas attendre 28 jours que le béton sèche. Notre technologie permet une mise en service extrêmement rapide.",
+    "stat1value": "4–6 HEURES",
+    "stat1label": "Temps de prise",
+    "stat2value": "24 HEURES",
+    "stat2label": "Charge complète",
+    "note": "Sans interruption de la production"
+  },
+  "resistance": {
+    "eyebrow": "RÉSISTANCE EXTRÊME",
+    "badge": "Acide & Feu",
+    "title": "IMMUNITÉ CONTRE L'AGRESSION ET LE FEU",
+    "body": "Les sols standard capitulent face aux acides et aux incendies. GEONYX est conçu pour survivre.",
+    "item1title": "Résistance au feu (Classe A1)",
+    "item1body": "Contrairement aux époxies, qui brûlent et dégagent de la fumée, GEONYX est minéral et ininflammable jusqu'à 1000°C.",
+    "item2title": "Bouclier chimique",
+    "item2body": "Résistance totale aux acides concentrés, sels, sulfates et huiles de machine."
+  },
+  "eco": {
+    "statPrefix": "80% D'EMPREINTE",
+    "statHighlight": "CARBONE EN MOINS",
+    "body": "Nous utilisons des sous-produits industriels et ne nécessitons pas de cuisson énergivore comme le ciment. Choisir GEONYX, c'est choisir l'avenir."
+  },
+  "comparison": {
+    "title": "L'ARGUMENT FINAL",
+    "col1": "Propriété",
+    "col2": "Béton ordinaire",
+    "col3": "Époxyde (Résine)",
+    "col4": "GEONYX (Géopolymère)",
+    "row1": "Délai de mise en service",
+    "row1v2": "28 Jours (Lent)",
+    "row1v3": "3–7 Jours",
+    "row1v4": "24 Heures (Express)",
+    "row2": "Type de liaison",
+    "row2v2": "Mécanique (Faible)",
+    "row2v3": "Adhésif (Superficiel)",
+    "row2v4": "Chimique (Monolithe)",
+    "row3": "Résistance au feu",
+    "row3v2": "Classe A1",
+    "row3v3": "Brûle (Toxique)",
+    "row3v4": "Ininflammable (Classe A1)",
+    "row4": "Acides et huiles",
+    "row4v2": "Absorbe et s'effrite",
+    "row4v3": "Ramollit / Se tache",
+    "row4v4": "Résistance totale",
+    "row5": "Résistance à l'usure",
+    "row5v2": "Poussiéreux",
+    "row5v3": "Se raye facilement",
+    "row5v4": "Extrême (Sans poussière)",
+    "row6": "Émissions CO₂",
+    "row6v2": "Élevées (100%)",
+    "row6v3": "Très élevées (Pétrole)",
+    "row6v4": "-80% (Produit vert)"
+  },
+  "cta": {
+    "title": "LA SCIENCE EST DE VOTRE CÔTÉ.",
+    "body": "Contactez notre équipe d'ingénieurs pour une consultation technique.",
+    "btn": "CONTACTEZ-NOUS"
+  }
+}

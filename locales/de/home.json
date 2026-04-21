@@ -1,0 +1,90 @@
+{
+  "hero": {
+    "eyebrow": "INDUSTRIELLE INNOVATIONEN",
+    "titleLine1": "INDUSTRIELLE",
+    "titleLine2": "GEOPOLYMER",
+    "titleLine3": "LÖSUNGEN",
+    "description": "Wir entwickeln fortschrittliche Materialien für die Schwerindustrie, Infrastruktur und den Bergbau.",
+    "descriptionBold": "Garantierte Beständigkeit gegen Säuren, Feuer und Zeit.",
+    "btnSectors": "INDUSTRIESEKTOREN",
+    "btnTech": "TECHNISCHE SPEZIFIKATIONEN",
+    "statChemistry": "CHEMIE",
+    "statStrength": "FESTIGKEIT",
+    "statFire": "FEUER",
+    "statEco": "ÖKO",
+    "fireClass": "Klasse A1"
+  },
+  "manifesto": {
+    "title": "Ingenieurskunst",
+    "titleHighlight": "jenseits von Beton",
+    "body": "Standardböden sind das schwache Glied in der Industrie. Wir schaffen monolithische, chemisch beständige Panzerung, die dort hält, wo normaler Beton und Epoxid versagen."
+  },
+  "eco": {
+    "eyebrow": "NACHHALTIGKEIT & NORMEN",
+    "titleLine1": "INDUSTRIELLE",
+    "titleLine2": "DEKARBONISIERUNG & ESG",
+    "subtitle": "Reduzieren Sie Ihren CO2-Fußabdruck um bis zu 80% und erfüllen Sie die Anforderungen des EU Green Deal.",
+    "body": "Eine nachhaltige Infrastrukturlösung, die industrielles Bauen in einen ökologischen Vorteil verwandelt.",
+    "col1Title": "KREISLAUFWIRTSCHAFT",
+    "col1Body": "Wir verwandeln industrielle Nebenprodukte (Schlacke, Asche) in hochfeste Verbundwerkstoffe.",
+    "col2Title": "SICHERE UMGEBUNG (HSEQ)",
+    "col2Body": "Nullemissionen flüchtiger organischer Verbindungen (VOC-frei). Sicher für geschlossene Räume und die Lebensmittelindustrie.",
+    "col3Title": "KOHLENSTOFFARMER PROZESS",
+    "col3Body": "Kaltsynthese ohne Klinkerbrennvorgang. Spart Tonnen von CO2-Emissionen pro Quadratmeter."
+  },
+  "trustbridge": {
+    "eyebrow": "TECHNOLOGIEPARTNER",
+    "titleLine1": "UMFASSENDES",
+    "titleHighlight": "ENGINEERING",
+    "body": "Wir sind nicht nur Auftragnehmer, sondern ein Technologiepartner. Wir bieten den vollständigen Zyklus: von der Laboranalyse und Planung bis zur Implementierung von Schutzsystemen.",
+    "btn": "UNSERE LIZENZEN ANSEHEN"
+  },
+  "systems": {
+    "armor": {
+      "label": "EXTREME MECHANIK",
+      "desc": "Gepanzerte Geopolymer-Matrizen für die Schwerindustrie, militärisch-industrielle Komplexe und großangelegte Lagerlogistik.",
+      "badge": "> 110 MPa FESTIGKEIT"
+    },
+    "chem": {
+      "label": "CHEMISCHER SCHUTZ",
+      "desc": "Absoluter Mineralschutz gegen konzentrierte Säuren, Basen und aggressive Lösungsmittel. WHG-zertifiziert.",
+      "badge": "pH 1-14 BESTÄNDIGKEIT"
+    },
+    "therm": {
+      "label": "THERMISCHE SICHERHEIT",
+      "desc": "Unbrennbare Systeme, die Schmelzmetallausläufen, Feuer und zyklischem Thermoshock standhalten.",
+      "badge": "KLASSE A1fl / 1200°C"
+    },
+    "hydro": {
+      "label": "WASSERBAU & INFRASTRUKTUR",
+      "desc": "Wasserdichte Barrieren für Staudämme, Kläranlagen und Häfen. Unterwasserverlegung und -aushärtung möglich.",
+      "badge": "W20 / UNTERWASSERREPARATUR"
+    }
+  },
+  "solutions": {
+    "s1": {
+      "eyebrow": "TECHNOLOGIE",
+      "title": "GEONYX® MATRIX",
+      "solutionLabel": "LÖSUNG",
+      "body": "Unsere patentierte Geopolymer-Matrix ist ein universeller Schutzschild. Anwendbar für Abraumteiche, Chemietanks, Hangars und Tunnel. Beständigkeit gegenüber pH 1-14 und Temperaturen über 1000°C.",
+      "btn": "TECHNISCHE SPEZIFIKATIONEN",
+      "badge": "Innovation"
+    },
+    "s2": {
+      "eyebrow": "KONFORMITÄT",
+      "title": "NORMEN & ZERTIFIZIERUNG",
+      "solutionLabel": "LÖSUNG",
+      "body": "Wir arbeiten strikt nach BDS EN 206 und ISO 9001. Jedes System wird mit einem vollständigen technischen Pass, HSEQ-Sicherheitsplan und Garantie für öffentliche und Unternehmensaudits geliefert.",
+      "btn": "ZERTIFIKATE ANSEHEN",
+      "badge": "ISO / BDS"
+    },
+    "s3": {
+      "eyebrow": "ENGINEERING",
+      "title": "PLANUNG UND AUDIT",
+      "solutionLabel": "LÖSUNG",
+      "body": "Fordern Sie eine Experteneinschätzung Ihrer Anlagen und Budgetplanung an. Unsere Ingenieure führen eine detaillierte Zustandsanalyse durch und schlagen optimierte Lösungen für dauerhaften Schutz vor.",
+      "btn": "AUDIT BEANTRAGEN",
+      "badge": "Planung"
+    }
+  }
+}

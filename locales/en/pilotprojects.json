@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "GEONYX | References – Completed Industrial Projects and Sites",
+    "description": "References and completed projects with GEONYX systems – industrial floors, chemical protection, water protection and thermal safety for heavy industry, food and pharma, logistics, energy and infrastructure. Long-term solutions for critical zones."
+  },
+  "hero": {
+    "eyebrow": "OPERATIONAL REPORTS",
+    "titleLine1": "OPERATIONAL",
+    "titleLine2": "ARCHIVE.",
+    "description": "NOT JUST PROMISES. ENGINEERING FACTS. See how GEONYX technologies transform critically compromised industrial substrates into indestructible monolithic systems.",
+    "btnReports": "VIEW REPORTS"
+  },
+  "slider": {
+    "eyebrow": "VISUAL CONTROL",
+    "title": "FROM RUIN TO MONOLITH",
+    "instruction": "DRAG TO SEE THE STRUCTURAL TRANSFORMATION",
+    "labelAfter": "AFTER: GEONYX ARMOR",
+    "labelBefore": "BEFORE: DEGRADED CONCRETE"
+  },
+  "metrics": {
+    "m1value": "500,000 m²+",
+    "m1label": "INSTALLED SYSTEMS",
+    "m2value": "100%",
+    "m2label": "INDUSTRIAL FOCUS",
+    "m3value": "0",
+    "m3label": "COMPROMISES ON QUALITY"
+  },
+  "cases": {
+    "problemLabel": "PROBLEM",
+    "resultLabel": "RESULT",
+    "applyBtn": "REQUEST ENGINEERING INSPECTION",
+    "case1": {
+      "eyebrow": "Case #001",
+      "sector": "AGRO SECTOR",
+      "title": "INTENSIVE LIVESTOCK FARMING",
+      "solutionLabel": "SOLUTION: GEONYX CHEM",
+      "problem": "Aggressive biogenic acid (pH < 3) and ammonia from manure had corroded standard concrete down to the rebar in less than 3 years. Compromised joints were generating pathogens.",
+      "s1title": "Immunity to organic acids:",
+      "s1desc": "Complete inertness to urine and lactic acid.",
+      "s2title": "Bacteriostatic monolith:",
+      "s2desc": "A pore-free, joint-free system eliminating biofilm development.",
+      "s3title": "Zootechnical safety:",
+      "s3desc": "R12 profile texture providing hoof grip.",
+      "result": "Structural corrosion halted. The farm passes the strictest veterinary audits and trauma rates have been reduced to zero."
+    },
+    "case2": {
+      "eyebrow": "Case #002",
+      "sector": "METALLURGY",
+      "title": "HEAVY MACHINERY ENGINEERING",
+      "solutionLabel": "SOLUTION: GEONYX ARMOR",
+      "problem": "The concrete slab was saturated with hydraulic oils to a depth of 50 mm. Vibrations from 200-tonne presses and impact loading from falling metal components had turned the joints into craters.",
+      "s1title": "Chemical milling:",
+      "s1desc": "Deep extraction of oils from concrete using specialist primers.",
+      "s2title": "Vibration absorption:",
+      "s2desc": "Application of a ductile geopolymer matrix (12 mm).",
+      "s3title": "Joint-free engineering:",
+      "s3desc": "Elimination of all weak points across the floor.",
+      "result": "5 years of operation under 24/7 vibrational loading. Zero volume loss."
+    },
+    "case3": {
+      "eyebrow": "Case #003",
+      "sector": "CHEMICAL PLANT",
+      "title": "EXTREME CHEMICAL AGGRESSION",
+      "solutionLabel": "SOLUTION: GEONYX CHEM",
+      "problem": "Production leaks of concentrated sulphuric acid (H₂SO₄ 98%) were destroying concrete within weeks. Conventional epoxy coatings swelled, delaminated and created the risk of an environmental catastrophe.",
+      "s1title": "Mineral shield:",
+      "s1desc": "Complete inertness to concentrated acids and aggressive solvents.",
+      "s2title": "Secondary containment:",
+      "s2desc": "Construction of an impenetrable 'bund' (WHG Certified).",
+      "s3title": "ATEX Safety:",
+      "s3desc": "Anti-static finish to prevent explosions.",
+      "result": "Production is secured against environmental fines. 100% surface containment of spills."
+    },
+    "case4": {
+      "eyebrow": "Case #004",
+      "sector": "LOGISTICS",
+      "title": "HIGH-LOAD LOGISTICS HUB",
+      "solutionLabel": "SOLUTION: GEONYX ARMOR (RAPID)",
+      "problem": "Critical need to rehabilitate 2,000 m² of an active loading zone. Joints completely compromised by reach-truck traffic. Every minute of logistics downtime cost tens of thousands of euros.",
+      "s1title": "Chrono-engineering:",
+      "s1desc": "Use of accelerators for extremely fast polymerisation (4–6 hours).",
+      "s2title": "Zoning:",
+      "s2desc": "Work in sections without disrupting adjacent corridors.",
+      "s3title": "Shear resistance:",
+      "s3desc": "Protection against the small, hard wheels of pallet trucks.",
+      "result": "The floor was milled and laid on Saturday evening. By Sunday morning (less than 12 hours later) forklifts were operating on the new surface."
+    }
+  },
+  "clients": {
+    "label": "INDUSTRY LEADERS WHO INTEGRATED GEONYX"
+  },
+  "cta": {
+    "title": "ANALYSE YOUR RISK.",
+    "subtitle": "Don't wait for a structural failure to stop your production. Request a technical assessment from our engineer.",
+    "btn": "REQUEST ENGINEERING INSPECTION"
+  }
+}

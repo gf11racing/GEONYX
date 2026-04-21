@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -o \"['\\\\\"][^'\\\\\"]*\\\\\\\\.webp['\\\\\"]\")",
+      "Bash(xargs basename *)",
+      "Bash(grep -rho \"image.*:.*['\\\\\"][/]*GEONYX[^'\\\\\"]*\\\\\\\\.webp['\\\\\"]\" components --include=\"*.tsx\")",
+      "Read(//tmp/**)",
+      "Bash(grep -rh \"\\\\\\\\.webp\" /c/Users/gf11r/Documents/GitHub/GEONYX/components --include=\"*.tsx\")",
+      "Bash(npx tsc *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3002)",
+      "Bash(netstat -ano)",
+      "Bash(npm run *)",
+      "Bash(node -e \"try { require\\('C:/Users/gf11r/Documents/GitHub/GEONYX/locales/bg/energydefense.json'\\); console.log\\('OK'\\); } catch\\(e\\) { console.log\\('ERROR:', e.message\\); }\")",
+      "Bash(node -e 'try { require\\('\\\\''__TRACKED_VAR__'\\\\''\\); } catch\\(e\\) { console.log\\('\\\\''FAIL: __TRACKED_VAR__\\\\n'\\\\'', e.message\\); }')",
+      "Bash(node -e ' *)"
+    ]
+  }
+}

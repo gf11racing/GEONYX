@@ -1,0 +1,63 @@
+{
+  "hero": {
+    "eyebrow": "DIAGNÓSTICO DE INGENIERÍA",
+    "title": "SOLICITUD DE AUDITORÍA DE INGENIERÍA Y ESPECIFICACIÓN DEL SISTEMA",
+    "subtitle": "Nuestros ingenieros analizarán los requisitos estructurales, el entorno operativo y los riesgos específicos de su instalación para diseñar la matriz geopolimérica precisa."
+  },
+  "process": {
+    "title": "PROCESO",
+    "step1Title": "01. ANÁLISIS INICIAL",
+    "step1Body": "Entrevista técnica para definir el tipo de industria, la agresión química o mecánica y la escala del proyecto.",
+    "step2Title": "02. AUDITORÍA ESTRUCTURAL",
+    "step2Body": "Levantamiento de ingeniería in situ – desde la resistencia a la tracción y la humedad del sustrato hasta la evaluación de amplitudes térmicas y requisitos normativos.",
+    "step3Title": "03. ESPECIFICACIÓN DEL SISTEMA",
+    "step3Body": "Elaboración de un protocolo detallado con solución híbrida (Method Statement), estimación de costes y plan tecnológico de ejecución."
+  },
+  "form": {
+    "title": "FORMULARIO DE SOLICITUD",
+    "subtitle": "Complete el formulario y un ingeniero se pondrá en contacto con usted",
+    "nameLabel": "NOMBRE Y APELLIDOS *",
+    "namePlaceholder": "Carlos García",
+    "companyLabel": "EMPRESA / ORGANIZACIÓN *",
+    "companyPlaceholder": "Nombre de la empresa",
+    "phoneLabel": "TELÉFONO CORPORATIVO *",
+    "phonePlaceholder": "+34...",
+    "emailLabel": "EMAIL CORPORATIVO *",
+    "emailPlaceholder": "office@company.com",
+    "locationLabel": "UBICACIÓN DEL PROYECTO *",
+    "locationPlaceholder": "Ciudad / Zona industrial",
+    "scaleLabel": "ESCALA DEL PROYECTO (m² / m³)",
+    "scalePlaceholder": "ej. 2500 m2",
+    "sectorLabel": "SECTOR INDUSTRIAL *",
+    "sectorPlaceholder": "-- Seleccione sector --",
+    "threatsLabel": "FACTOR DE RIESGO PRINCIPAL (SE PUEDE ELEGIR MÁS DE UNO)",
+    "threat1": "Mecánica extrema y desgaste",
+    "threat2": "Agresión química (Ácidos/Bases)",
+    "threat3": "Choque térmico / Peligro de incendio",
+    "threat4": "Presión hidráulica / Humedad",
+    "threat5": "Protección ESD / Normas de higiene (HACCP)",
+    "submitBtn": "ENVIAR SOLICITUD DE AUDITORÍA",
+    "submittingBtn": "Procesando...",
+    "successTitle": "SOLICITUD RECIBIDA",
+    "successBody": "Su proyecto ha sido registrado en el sistema con alta prioridad. Un ingeniero se pondrá en contacto con usted en 24 horas.",
+    "newFormBtn": "Rellenar un nuevo formulario",
+    "sector1": "Industria pesada y logística",
+    "sector2": "Alimentos, bebidas y farmacia",
+    "sector3": "Agro, biogás y ecología",
+    "sector4": "Infraestructura acuática y marina",
+    "sector5": "Energía, minería y defensa",
+    "sector6": "Transporte y aparcamientos",
+    "sector7": "Entorno urbano y construcción",
+    "sector8": "Zonas high-tech y salas limpias",
+    "sector9": "Otra producción específica"
+  },
+  "contact": {
+    "phone": "+359 88 888 8888",
+    "email": "office@geonyx.bg",
+    "address": "Sofía, Bulgaria"
+  },
+  "guarantee": {
+    "title": "CONFIDENCIALIDAD GARANTIZADA (NDA) • RESPUESTA EN 24 HORAS",
+    "body": "CONFIDENCIALIDAD GARANTIZADA (NDA) • RESPUESTA EN 24 HORAS"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "GEONYX | Mimari Bölge – Tasarımcı Mineral Yüzeyler ve Cephe Çözümleri",
+    "description": "GEONYX Mimari Bölge, kamusal alanlar, perakende, cepheler ve modern mimari için yüksek dayanımlı mineral kaplamalar ve yüzeyler sunar. Yüksek estetik, mekanik direnç ve uzun hizmet ömrüyle fugasız sistemler."
+  },
+  "hero": {
+    "eyebrow": "MİMARİ BÖLGE",
+    "titleLine1": "TEKNİK",
+    "titleLine2": "MERKEZ",
+    "description": "Mimarlar ve tasarımcılar için mühendislik portalı.",
+    "descriptionLine2": "Dokular, CAD detayları ve kamu ihaleleri için teknik şartnameler."
+  },
+  "textures": {
+    "badge": "Dokular",
+    "eyebrow": "YÜZEY YAPISI",
+    "title": "GÖRSEL VE DOKUNMABİLİRSEL SINIFLANDIRMA",
+    "description": "GEONYX yüzeyleri, Işık Yansıma Değeri (LRV) ve yüzey pürüzlülük indeksine (Surface Roughness) göre sınıflandırılır. Işık emilimi için derin mat kaplamalardan (Deep Matte) saten bitişlere kadar. Malzemenin gerçek fiziksel özelliklerine karşılık gelen dokular sunuyoruz.",
+    "btn": "KÜTÜPHANEYİ KEŞFET"
+  },
+  "monolith": {
+    "badge": "Monolit",
+    "eyebrow": "FUGASIZ ENTEGRASYON",
+    "title": "YAPISAL SÜREKLİLİK",
+    "description": "GEONYX teknolojisi, dilatasyon derzleri olmadan büyük alanlara uygulama yapılmasını sağlar (Seamless Application). Bu, hijyenik temizliği garantiler ve fayansa özgü derzler ağını ortadan kaldırır. Duvardan duvara tek, sürekli bir mineral yüzey.",
+    "btn": "UYGULAMA TEKNOLOJİSİ"
+  },
+  "assets3d": {
+    "badge": "3D Varlıklar",
+    "eyebrow": "DİJİTAL VARLIKLAR",
+    "title": "V-RAY / CORONA / BIM İÇİN PBR HARİTALARI",
+    "description": "8K tarama ile dijitalleştirilmiş yüzeyler. Tam paket fiziksel olarak doğru haritalar içerir: Diffuse, Reflection, Glossiness, Normal ve Displacement. BIM ve CAD görselleştirmelerinize entegrasyon için hazır materyaller.",
+    "btn": "PBR ZIP (8K) İNDİR"
+  },
+  "documentation": {
+    "eyebrow": "VERİ MERKEZİ",
+    "title": "TEKNİK DOKÜMANTASYON",
+    "subtitle": "SİSTEM PASAPORTları VE PERFORMANS BEYANLARI (DoP)",
+    "btnTds": "[TDS Technical Data]",
+    "btnMsds": "[MSDS Safety Data]",
+    "btnDop": "[DoP Declaration]"
+  },
+  "cadBim": {
+    "eyebrow": "MÜHENDİSLİK",
+    "title": "YAPISAL DETAYLAR VE DÜĞÜMLER",
+    "subtitle": "TASARIMCILAR İÇİN STANDART .DWG VE .RVT DOSYALARI",
+    "btnDwg": "İNDİR .DWG",
+    "btnRvt": "İNDİR .RVT",
+    "detailA": {
+      "title": "DETAY A: DUVAR-ZEMİN",
+      "desc": "Hijyenik kovelama ve duvar bağlantısı için detay."
+    },
+    "detailB": {
+      "title": "DETAY B: DRENAJ",
+      "desc": "Lineer sifonlar ve nokta drenajı bağlantısı için detay."
+    },
+    "detailC": {
+      "title": "DETAY C: DERZLER VE ÇATLAKLAR",
+      "desc": "Dilatasyon derzi ve çatlak işlemesi için detay."
+    }
+  },
+  "tender": {
+    "title": "METRAJLı KEŞFE GÖRE METİNLER (TENDER SPECS)",
+    "subtitle": "KAMU İHALELERİ VE YARIŞMALAR İÇİN HAZIR ŞARTNAMEler",
+    "text": "Yüksek dayanımlı GEONYX® tipi mineral zemin kaplaması temini ve uygulaması, kalınlık 6–9 mm. EN 13892-2'ye göre basınç dayanımı >110 N/mm². DIN 52108 (Böhme) standartlarına göre aşınma direnci <1,5 cm³/50cm². Yangın sınıfı A1fl. Ürün CE işareti ve DoP beyanına sahip olmalıdır...",
+    "btnCopy": "METNİ PANOYA KOPYALA",
+    "btnCopied": "KOPYALANDI!"
+  },
+  "certifications": {
+    "title": "SERTİFİKALAR VE STANDARTLAR",
+    "items": {
+      "iso9001": "Kalite Yönetimi",
+      "en13813": "Şap Malzemesi",
+      "haccp": "Gıda Güvenliği",
+      "whg": "Su Kaynakları Kanunu",
+      "din51130": "Kayma Direnci R9-R13",
+      "euroclass": "Yangın Güvenliği"
+    }
+  }
+}

@@ -1,22 +1,23 @@
 
 import React, { useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Button } from './Button';
-import { 
-  ShieldCheck, FlaskConical, Flame, Droplets, Zap, 
-  Layers, ArrowRight, Activity, Database, Hash, 
+import {
+  ShieldCheck, FlaskConical, Flame, Droplets, Zap,
+  Layers, ArrowRight, Activity, Database, Hash,
   CheckCircle, ChevronRight, ArrowUpRight
 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { useLang } from '../hooks/useLang';
 
 const SYSTEMS = [
   {
     id: "01",
+    sKey: "sys01",
     code: "SYS-MCH",
-    category: "МЕХАНИКА",
     name: "GEONYX ARMOR",
-    description: "Бронирана система за тежка индустрия. Абсорбира вибрации, издържа на ударни натоварвания и трафик на тежка верижна техника.",
     specs: ["> 110 MPa ЯКОСТ", "ДУКТИЛНОСТ", "AR 0.5 ИЗНОСВАНЕ"],
     link: "/armor",
     image: "/GEONYX-heavy-impact.jpeg",
@@ -24,10 +25,9 @@ const SYSTEMS = [
   },
   {
     id: "02",
+    sKey: "sys02",
     code: "SYS-CHM",
-    category: "ХИМИЯ",
     name: "GEONYX CHEM",
-    description: "Химически инертна бариера (WHG). Пълна защита срещу концентрирани киселини, основи и агресивни разтворители.",
     specs: ["pH 0-14", "WHG СЕРТИФИКАТ", "ХЕРМЕТИЧНОСТ"],
     link: "/chem",
     image: "/GEONYX-chemical-plant.jpeg",
@@ -35,10 +35,9 @@ const SYSTEMS = [
   },
   {
     id: "03",
+    sKey: "sys03",
     code: "SYS-TRM",
-    category: "ТЕРМОДИНАМИКА",
     name: "GEONYX THERM",
-    description: "Система за екстремни температурни амплитуди. Издържа на термошок (пара/ледена вода), разтопен метал и директен огън.",
     specs: ["-40°C до +1200°C", "КЛАС A1fl", "ТЕРМОШОК"],
     link: "/therm",
     image: "/GEONYX-heavy-sparks.jpeg",
@@ -46,10 +45,9 @@ const SYSTEMS = [
   },
   {
     id: "04",
+    sKey: "sys04",
     code: "SYS-HYD",
-    category: "ХИДРОТЕХНИКА",
     name: "GEONYX HYDRO",
-    description: "Водоплътни минерални мембрани за язовирни стени, пречиствателни станции и морска инфраструктура. Работа под вода.",
     specs: ["W20 ВОДОПЛЪТНОСТ", "СУЛФАТОУСТОЙЧИВОСТ", "ПОДВОДНО"],
     link: "/hydro",
     image: "/GEONYX-marine-dam.jpeg",
@@ -59,6 +57,8 @@ const SYSTEMS = [
 
 export const SystemsHubPage: React.FC = () => {
   const navigate = useNavigate();
+  const { t } = useTranslation('systemshub');
+  const { to } = useLang();
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -75,32 +75,32 @@ export const SystemsHubPage: React.FC = () => {
                 <div className="max-w-3xl">
                     <div className="flex items-center gap-3 mb-6">
                         <Activity className="w-5 h-5 text-geo-yellow animate-pulse" />
-                        <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">
-                            ТЕХНОЛОГИЧНА НОМЕНКЛАТУРА
+                        <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                            {t('hero.eyebrow')}
                         </span>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-black text-white uppercase tracking-tight leading-none mb-6">
-                        СИСТЕМЕН <br/> РЕГИСТЪР
+                        {t('hero.title')}
                     </h1>
                     <p className="text-gray-400 text-lg leading-relaxed border-l-2 border-[#333] pl-6 font-mono text-sm uppercase tracking-wide">
-                        // ИНДЕКС НА ИНЖЕНЕРНИТЕ МАТРИЦИ GEONYX® <br/>
-                        // ИЗБЕРЕТЕ СИСТЕМА ЗА ТЕХНИЧЕСКИ СПЕЦИФИКАЦИИ
+                        {t('hero.subtitle1')} <br/>
+                        {t('hero.subtitle2')}
                     </p>
                 </div>
-                
+
                 {/* Dashboard Stats */}
                 <div className="hidden md:flex gap-8 border-t border-[#222] pt-6 md:border-t-0 md:pt-0">
                     <div className="text-right">
                         <div className="text-3xl font-black text-white font-mono">04</div>
-                        <div className="text-[10px] text-gray-600 font-bold uppercase tracking-widest">БАЗОВИ СИСТЕМИ</div>
+                        <div className="text-[10px] text-gray-600 font-bold uppercase tracking-widest">{t('hero.stat1label')}</div>
                     </div>
                     <div className="text-right">
                         <div className="text-3xl font-black text-white font-mono">A1</div>
-                        <div className="text-[10px] text-gray-600 font-bold uppercase tracking-widest">ПОЖАРЕН КЛАС</div>
+                        <div className="text-[10px] text-gray-600 font-bold uppercase tracking-widest">{t('hero.stat2label')}</div>
                     </div>
                     <div className="text-right">
                         <div className="text-3xl font-black text-white font-mono">50+</div>
-                        <div className="text-[10px] text-gray-600 font-bold uppercase tracking-widest">ГОДИНИ ЖИВОТ</div>
+                        <div className="text-[10px] text-gray-600 font-bold uppercase tracking-widest">{t('hero.stat3label')}</div>
                     </div>
                 </div>
             </div>
@@ -112,15 +112,15 @@ export const SystemsHubPage: React.FC = () => {
           {/* Grid Layout */}
           <div className="grid grid-cols-1 md:grid-cols-2 w-full">
               {SYSTEMS.map((sys, index) => (
-                  <div 
+                  <div
                     key={sys.id}
-                    onClick={() => navigate(sys.link)}
+                    onClick={() => navigate(to(sys.link))}
                     className="group relative h-[420px] w-full overflow-hidden border-r border-b border-[#222] cursor-pointer"
                   >
                       {/* 1. BACKGROUND IMAGE LAYER */}
                       <div className="absolute inset-0 z-0">
-                          <img 
-                            src={sys.image} 
+                          <img
+                            src={sys.image}
                             alt={sys.name}
                             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-60 grayscale-[0.3] group-hover:grayscale-0"
                             onError={(e) => { e.currentTarget.src = "/GEONYX-background.jpeg" }}
@@ -140,12 +140,12 @@ export const SystemsHubPage: React.FC = () => {
                       {/* 4. CONTENT (Bottom Left) */}
                       <div className="absolute inset-0 p-8 md:p-12 flex flex-col justify-end z-20">
                           <div className="transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
-                              
+
                               {/* Category Label */}
                               <div className="flex items-center gap-3 mb-4">
                                   <div className="h-[2px] w-6 bg-geo-yellow"></div>
-                                  <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-[10px] md:text-xs">
-                                      {sys.category}
+                                  <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                                      {t(`systems.${sys.sKey}category`)}
                                   </span>
                               </div>
 
@@ -154,7 +154,7 @@ export const SystemsHubPage: React.FC = () => {
                               </h3>
 
                               <p className="text-gray-300 text-sm md:text-base leading-relaxed max-w-md mb-6 opacity-90 group-hover:text-white transition-colors">
-                                  {sys.description}
+                                  {t(`systems.${sys.sKey}desc`)}
                               </p>
 
                               {/* Specs Tags & Arrow */}
@@ -166,7 +166,7 @@ export const SystemsHubPage: React.FC = () => {
                                           </span>
                                       ))}
                                   </div>
-                                  
+
                                   <div className="text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 -translate-x-2 group-hover:translate-x-0 transform">
                                       <ArrowUpRight size={28} />
                                   </div>
@@ -183,30 +183,30 @@ export const SystemsHubPage: React.FC = () => {
       <section className="bg-[#111] border-t border-[#222] py-20">
           <div className="container mx-auto px-6 md:px-10">
               <div className="flex flex-col lg:flex-row items-center justify-between gap-10 bg-[#161616] p-10 md:p-16 border border-[#222] relative overflow-hidden">
-                  
+
                   {/* Decorative Background */}
                   <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10 pointer-events-none"></div>
-                  
+
                   <div className="relative z-10 max-w-2xl text-center lg:text-left">
                       <div className="flex items-center justify-center lg:justify-start gap-3 mb-4">
                           <Database className="w-5 h-5 text-geo-yellow" />
-                          <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">СПЕЦИАЛИЗИРАН ИНЖЕНЕРИНГ</span>
+                          <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('cta.eyebrow')}</span>
                       </div>
                       <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-4 leading-tight">
-                          НЕ НАМИРАТЕ ВАШИЯ КАЗУС?
+                          {t('cta.title')}
                       </h2>
                       <p className="text-gray-400 text-lg">
-                          Нашите химически инженери разработват модифицирани матрици за специфични среди (Custom Formulations). Свържете се с нас за лабораторен анализ.
+                          {t('cta.body')}
                       </p>
                   </div>
 
                   <div className="relative z-10">
-                       <Button 
-                          variant="primary" 
-                          onClick={() => navigate('/request-inspection')}
+                       <Button
+                          variant="primary"
+                          onClick={() => navigate(to('/request-inspection'))}
                           className="bg-geo-yellow text-black hover:bg-white border-none text-lg px-10 py-5 font-black uppercase tracking-wider shadow-xl flex items-center gap-3"
                         >
-                            <Hash className="w-5 h-5" /> ЗАЯВИ РАЗРАБОТКА
+                            <Hash className="w-5 h-5" /> {t('cta.btn')}
                         </Button>
                   </div>
               </div>

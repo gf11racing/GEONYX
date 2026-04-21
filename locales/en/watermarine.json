@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "GEONYX | Water, Wastewater & Marine Infrastructure – Hydro and Anti-Corrosion Protection",
+    "description": "GEONYX develops mineral protective systems for drinking water, wastewater treatment plants (WWTP), sewerage, reservoirs, dams and marine infrastructure – resistant to hydrostatic pressure, chlorides, cavitation and biogenic corrosion. Long-lasting protection of concrete in aggressive water environments."
+  },
+  "tender": {
+    "text": "Hydraulic structures and surfaces in contact with water (drinking, waste or marine) shall be protected with mineral geopolymer systems of the GEONYX type or equivalent. The system must provide watertightness (W20), resistance to positive and negative pressure, sulphate resistance and (where applicable) certification for contact with drinking water or chloride resistance for marine environments.",
+    "copy": "COPY TENDER TEXT",
+    "copied": "TEXT COPIED!"
+  },
+  "hero": {
+    "eyebrow": "WATER, WASTEWATER & MARINE INFRASTRUCTURE",
+    "titleLine1": "WATERTIGHTNESS",
+    "titleLine2": "UNDER PRESSURE",
+    "description": "Protection of concrete from erosion, carbonation and chloride attack. Solutions for dams, treatment plants and harbours, applicable even underwater.",
+    "btn1": "DOWNLOAD HYDRO CATALOGUE",
+    "btn2": "REQUEST SITE INSPECTION"
+  },
+  "scope": {
+    "title": "SCOPE",
+    "zonesLabel": "ZONES:",
+    "systemsLabel": "SYSTEMS:",
+    "z1": "Wastewater treatment plants (WWTP)",
+    "z2": "Pumping stations and sewage pumping stations",
+    "z3": "Drinking water reservoirs and clean water chambers",
+    "z4": "Dam walls, spillways and bottom outlets",
+    "z5": "Pressure pipelines, tunnels and pressure shafts",
+    "z6": "Channels, collectors and inspection manholes for wastewater",
+    "z7": "Settlers, aeration basins and bio-basins",
+    "z8": "Harbours, quays and coastal protection structures",
+    "z9": "Dry docks, ship docks and dock chambers",
+    "z10": "Marine and river locks, ship canals and hydraulic galleries",
+    "link1": "↓ WHERE IT IS USED",
+    "link2": "↓ SYSTEM SELECTION",
+    "link3": "↓ OFFER PACKAGE"
+  },
+  "manifesto": {
+    "titleLine1": "WATER IS THE MOST PERSISTENT",
+    "titleLine2": "DESTROYER.",
+    "body": "Pressure, cavitation, chlorides, sulphates and freezing attack concrete infrastructure around the clock. GEONYX offers hydraulic geopolymers that create a watertight barrier (W20), stop rebar corrosion and withstand aggressive waters. From drinking water reservoirs to treatment plants and marine quays."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEM:",
+    "solutionLabel": "SOLUTION:",
+    "suitableLabel": "Suitable systems:",
+    "b1": {
+      "tag": "TREATMENT PLANTS",
+      "title": "BIOGENIC CORROSION AND SULPHATES",
+      "problem": "In wastewater treatment plants (WWTP) hydrogen sulphide is converted to sulphuric acid by bacteria (biogenic corrosion). It corrodes the concrete, exposes the rebar and leads to structural failures.",
+      "solution": "GEONYX HYDRO + CHEM create a protective layer with high sulphate resistance and immunity to acids (pH 1–14). The smooth surface improves hydraulics and prevents sludge build-up.",
+      "systems": "HYDRO, CHEM"
+    },
+    "b2": {
+      "tag": "DAM WALLS",
+      "title": "HYDROSTATIC PRESSURE AND FREEZING",
+      "problem": "Dam walls and spillways are subject to enormous water pressure, freeze/thaw cycles and water abrasion. Cracks and leaks can compromise wall stability.",
+      "solution": "GEONYX HYDRO provides watertightness under high pressure (W20) and freeze resistance (XF4). The system can be applied and cured underwater, allowing repairs without draining the reservoir.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "MARINE ENVIRONMENT",
+      "title": "SALT, WAVES AND CHLORIDE CORROSION",
+      "problem": "In harbours and quays seawater drives chlorides into the concrete, reaching the rebar and causing corrosion (spalling). Waves and tides create mechanical wear.",
+      "solution": "GEONYX HYDRO creates a dense barrier stopping chloride migration to the rebar. The system is resistant to salt water and mechanical impact from vessels and debris.",
+      "systems": "HYDRO"
+    },
+    "b4": {
+      "tag": "DRINKING WATER",
+      "title": "DRINKING WATER TANKS AND SAFETY",
+      "problem": "Drinking water reservoirs must be perfectly smooth to prevent bacterial retention and completely inert. Old concrete becomes rough and absorbs moisture.",
+      "solution": "GEONYX HYDRO is certified for contact with drinking water. The mineral matrix contains no solvents or toxins. The surface is smooth, easy to clean and prevents micro-organism growth.",
+      "systems": "HYDRO"
+    },
+    "b5": {
+      "tag": "SEWERAGE",
+      "title": "SEWERAGE AND COLLECTORS",
+      "problem": "Channels and collectors are exposed to aggressive wastewater, sand and biogenic sulphuric acid, which corrodes concrete in the upper part of the pipe.",
+      "solution": "GEONYX CHEM provides protection against acid attack, while HYDRO ensures watertightness of joints and inspection manholes. The system is resistant to abrasion from suspended solids.",
+      "systems": "CHEM, HYDRO"
+    },
+    "b6": {
+      "tag": "AQUAPARKS",
+      "title": "AQUAPARKS AND SWIMMING POOLS",
+      "problem": "Chlorine, ozone and constant moisture attack tile joints. The waterproofing beneath them often fails, leading to leaks and costly repairs.",
+      "solution": "GEONYX HYDRO is a jointless, monolithic system that serves simultaneously as waterproofing and a finish coating with aesthetic appearance and slip resistance. Resistant to UV and pool chemicals.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "INDUSTRIAL WATER",
+      "title": "INDUSTRIAL COOLING TOWERS",
+      "problem": "Process water with chemicals, high temperature and constant wetting destroy the concrete of cooling towers and process water tanks.",
+      "solution": "GEONYX THERM + CHEM provide resistance to temperature differentials and chemical additives in the water. The system protects rebar from corrosion and extends the service life of the structure.",
+      "systems": "CHEM, THERM"
+    },
+    "b8": {
+      "tag": "COASTAL PROTECTION",
+      "title": "COASTAL REINFORCEMENT AND BREAKWATERS",
+      "problem": "Erosion from waves, salt and mechanical impact from floating objects destroy coastal protection structures. Standard concrete wears quickly in the tidal zone.",
+      "solution": "High-strength GEONYX ARMOR (Marine) mortars for geometry restoration and protection against wave abrasion. Resistant to sulphates and chlorides.",
+      "systems": "ARMOR, HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "colParam": "PARAMETER",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Standard concrete / render",
+    "colPolymer": "Bitumen / polymer coating",
+    "r1param": "Watertightness (DIN 1048)",
+    "r1geonyx": "Class W20, 0 mm penetration at 5 Bar",
+    "r1standard": "High permeability under pressure",
+    "r1polymer": "Partial protection, risk of micro-penetration",
+    "r2param": "Resistance to negative pressure",
+    "r2geonyx": "Monolithic bond, no delamination",
+    "r2standard": "Not designed for counter-pressure",
+    "r2polymer": "High risk of debonding and blistering",
+    "r3param": "Underwater application",
+    "r3geonyx": "Possible, with divers and local repairs",
+    "r3standard": "Not applicable",
+    "r3polymer": "Usually impossible, requires dry surface",
+    "r4param": "Service life in hydraulic engineering",
+    "r4geonyx": "≥ 20 years with proper maintenance",
+    "r4standard": "Frequent repairs and injection",
+    "r4polymer": "5–10 years to serious rehabilitation",
+    "r5param": "Impact on NRW and losses",
+    "r5geonyx": "Significant reduction of leaks",
+    "r5standard": "No real control over losses",
+    "r5polymer": "Limited effect, short horizon"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "From industrial treatment plants to marine lighthouses and drinking water reservoirs.",
+    "a1title": "Wastewater treatment plants (WWTP)",
+    "a1desc": "Aeration basins, settlers, channels and pumping stations.",
+    "a2title": "Drinking water and reservoirs",
+    "a2desc": "Water bodies, towers, reservoirs and distribution manholes.",
+    "a3title": "Dam walls and hydropower",
+    "a3desc": "Spillways, pressure pipelines, locks and water towers.",
+    "a4title": "Harbours and quays",
+    "a4desc": "Quay walls, piles, breakwaters and docks.",
+    "a5title": "Sewerage and collectors",
+    "a5desc": "Main collectors, inspection manholes and drainage channels.",
+    "a6title": "Aquaparks and pools",
+    "a6desc": "Swimming pools, water slides and surrounding areas.",
+    "a7title": "Marine protection",
+    "a7desc": "Coastal protection structures, lighthouses and offshore platforms.",
+    "a8title": "Industrial waters",
+    "a8desc": "Cooling towers, process water tanks and neutralisation units."
+  },
+  "workflow": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "w1step": "01",
+    "w1title": "Hydraulic engineering audit",
+    "w1desc": "Inspection of the structure, measurement of carbonation, chlorides and concrete strength. Underwater inspection if required.",
+    "w2step": "02",
+    "w2title": "Protection design",
+    "w2desc": "Selection of GEONYX HYDRO system based on water aggression, pressure and mechanical loads.",
+    "w3step": "03",
+    "w3title": "Base preparation",
+    "w3desc": "Hydro-blasting (2500 bar) to remove compromised concrete and clean the rebar.",
+    "w4step": "04",
+    "w4title": "Geometry restoration",
+    "w4desc": "Reprofiling of spalled sections with high-strength geopolymer mortars (R4).",
+    "w5step": "05",
+    "w5title": "Application of the protection system",
+    "w5desc": "Placement of GEONYX HYDRO membrane – by hand or machine (shotcrete), including underwater.",
+    "w6step": "06",
+    "w6title": "Quality control and commissioning",
+    "w6desc": "Adhesion and watertightness tests. Issuance of certificates and warranty."
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "OFFER PACKAGE",
+    "titleSub": "(B2B / B2G)",
+    "description": "For water utilities, municipalities and industrial operators GEONYX prepares a complete set of documents for tenders and direct assignment.",
+    "qualityTitle": "QUALITY GUARANTEE",
+    "qualityDesc": "All documents comply with EN 1504 and national standards.",
+    "i1": "Technical specification for waterproofing and concrete protection",
+    "i2": "Details for joint treatment, penetrations and crack repair",
+    "i3": "Work organisation plan (incl. underwater works)",
+    "i4": "Material certificates (EN 1504-2, drinking water)",
+    "i5": "Bill of quantities (BoQ)",
+    "i6": "Warranty conditions and operation plan"
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGY",
+    "title": "GEONYX SYSTEM SELECTION",
+    "subtitle": "For hydraulic structures GEONYX combines HYDRO, CHEM, ARMOR and REPAIR according to water type, pressure and environmental aggression.",
+    "s1name": "GEONYX HYDRO",
+    "s1desc": "Specialised systems for watertightness (W20), resistant to positive and negative hydrostatic pressure.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Mineral protection against biogenic corrosion, sulphates and acids in treatment plants and sewerage.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "High-strength solutions for zones with cavitation, abrasion and mechanical impact in spillways and harbours.",
+    "s4name": "GEONYX REPAIR",
+    "s4desc": "Geopolymer mortars for structural restoration of spalled concrete and corroded rebar.",
+    "s5name": "GEONYX PURE",
+    "s5desc": "Certified systems for contact with drinking water, preventing micro-organism growth."
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1name": "Water & WWTP",
+    "d1sub": "GEONYX systems (PDF)",
+    "d2name": "Marine & Coastal",
+    "d2sub": "Protective solutions (PDF)",
+    "d3name": "Drinking Water",
+    "d3sub": "Certificates (PDF)",
+    "d4name": "Technical Data",
+    "d4sub": "EN 1504-2 (PDF)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "CAN GEONYX SYSTEMS BE APPLIED UNDERWATER?",
+    "a1": "Yes, certain configurations of GEONYX HYDRO are designed for application and curing underwater by diving teams, enabling repairs to dam walls and quays without draining the reservoir.",
+    "q2": "ARE THE MATERIALS SAFE FOR CONTACT WITH DRINKING WATER?",
+    "a2": "Yes, GEONYX HYDRO holds certificates for contact with drinking water. Its mineral nature releases no toxins, contains no solvents and does not alter the taste or composition of the water.",
+    "q3": "WHAT IS THE RESISTANCE TO SEAWATER AND CHLORIDES?",
+    "a3": "Extremely high. The systems are designed to stop chloride diffusion, protecting the rebar from corrosion even in aggressive saline environments and tidal zones."
+  },
+  "cta": {
+    "title": "COMPREHENSIVE SITE ZONING",
+    "description": "Every hydraulic structure has specific risks. We integrate specialised matrices into one system: from watertightness under pressure and chemical resistance, to abrasion resistance and drinking water contact. One technology that guarantees 100% coverage of needs.",
+    "btn": "EXPLORE ALL SYSTEMS"
+  }
+}

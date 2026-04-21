@@ -1,0 +1,270 @@
+{
+  "hero": {
+    "eyebrow": "THERMAL SAFETY AND FIRE",
+    "description": "Mineral heat-resistant flooring for metallurgy, energy and food industries – from shock freezing to molten metal. Class A1fl and temperature range -40°C / +1200°C.",
+    "statTemp": "TEMP RANGE",
+    "statTempValue": "-40°C / +1200°C",
+    "statClass": "FIRE CLASS",
+    "statClassValue": "A1fl",
+    "statExpansion": "THERMAL EXPANSION",
+    "statExpansionValue": "~8 μm/m·K",
+    "statLife": "DESIGN LIFE",
+    "statLifeValue": "≥ 20 years",
+    "btn1": "TECHNICAL DATA SHEET",
+    "btn2": "REQUEST ENGINEERING AUDIT"
+  },
+  "diagnostics": {
+    "eyebrow": "THERMAL AGGRESSION",
+    "title": "FROM -40°C TO +1200°C. THE SYSTEM DOES NOT FAIL.",
+    "subtitle": "8 thermal and operational scenarios that standard coatings cannot handle.",
+    "d1": {
+      "title": "STEAM THERMAL SHOCK",
+      "problem": "Steam cleaning at 120°C on a cold floor causes epoxy coatings to crack and delaminate instantly.",
+      "solution": "GEONYX THERM has a thermal expansion coefficient close to concrete and maintains bond integrity through repeated steam–cold cycles."
+    },
+    "d2": {
+      "title": "MOLTEN METAL AND SPARKS",
+      "problem": "Weld splatter and foundry processes (700°C+) burn through polymer floors and create fire hazards.",
+      "solution": "Mineral matrix resistant to direct contact with fire and molten metal – no ignition, no deformation."
+    },
+    "d3": {
+      "title": "SHOCK FREEZING",
+      "problem": "At -40°C standard coatings become brittle and crack under vibration and mechanical load.",
+      "solution": "GEONYX THERM retains load-bearing capacity and micro-elasticity under cryogenic conditions and frequent freeze–thaw cycles."
+    },
+    "d4": {
+      "title": "FIRE SAFETY AND SMOKE",
+      "problem": "In a fire, synthetic floor coverings emit dense toxic smoke and poisonous gases.",
+      "solution": "GEONYX THERM is class A1fl – non-combustible, contributes nothing to fire and produces no smoke or toxic fumes."
+    },
+    "d5": {
+      "title": "HOT OIL AND FATS",
+      "problem": "Boiling fats (180°C) and oils in the food industry corrode concrete and polymer layers.",
+      "solution": "Dense mineral structure that prevents fat penetration and remains stable at high temperatures and chemical exposure."
+    },
+    "d6": {
+      "title": "EXOTHERMIC PROCESSES",
+      "problem": "Chemical reactions in reactors and baths can raise the temperature to hundreds of degrees within seconds.",
+      "solution": "GEONYX THERM is designed for short-duration temperature peaks up to 1200°C, without loss of adhesion to concrete."
+    },
+    "d7": {
+      "title": "STERILISATION AND CIP",
+      "problem": "Autoclaving, pressurised hot water and aggressive cleaning agents destroy joints and weak zones.",
+      "solution": "Monolithic joint-free system resistant to CIP regimes, steam washing and disinfection in clean rooms and food facilities."
+    },
+    "d8": {
+      "title": "SPARK GENERATION IN ATEX ZONES",
+      "problem": "Mechanical sparks on impact in gas or dust zones can trigger an explosion.",
+      "solution": "Non-sparking configuration of GEONYX THERM – the surface generates no mechanical sparks on impact or friction."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "TECHNICAL CROSS-SECTION OF GEONYX THERM",
+    "sectionSubtitle": "Interactive layer model – from the substrate to the working surface.",
+    "h1": {
+      "title": "1. LOAD-BEARING CONCRETE",
+      "subtitle": "Prepared substrate",
+      "desc": "Structurally verified concrete, ground or milled, with corrected joints and defects for resistance to dynamic and thermal loads."
+    },
+    "h2": {
+      "title": "2. ADHESION ZONE",
+      "subtitle": "Thermally compatible bond",
+      "desc": "Special mineral bond with an expansion coefficient close to concrete – ensuring zero delamination under thermal shock."
+    },
+    "h3": {
+      "title": "3. THERM CORE",
+      "subtitle": "Heat-resistant layer",
+      "desc": "Primary GEONYX THERM layer that absorbs extreme temperature peaks and mechanical load without brittle fracture."
+    },
+    "h4": {
+      "title": "4. FUNCTIONAL FINISH",
+      "subtitle": "Anti-slip and hygiene",
+      "desc": "R12/R13 texture for safety, easy cleaning and compatibility with food, steam and aggressive cleaning agents."
+    }
+  },
+  "engineering": {
+    "eyebrow": "ENGINEERING DATA",
+    "title": "LABORATORY EVIDENCE",
+    "subtitle": "Independent tests in accredited laboratories – full protocols available in TDS.",
+    "block1title": "THERMAL EXPANSION (ΔL/L)",
+    "block1note": "GEONYX THERM expands at the same rate as concrete and generates no stress in the adhesion layer.",
+    "block2title": "TEMPERATURE CLASSIFICATION",
+    "block2note": "Comparison of maximum temperature range under stable adhesion.",
+    "block3title": "FIRE CLASS (A1fl)",
+    "block3note": "Mineral matrix with no combustible components – fire class A1fl per EN 13501-1."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANCE",
+    "title": "OPERATIONAL SUPERIORITY",
+    "r1": {
+      "title": "MONOLITHIC ADHESION UNDER THERMAL SHOCK",
+      "desc": "No delamination during transition from 500°C to ambient temperature – verified in fire simulations and real production conditions."
+    },
+    "r2": {
+      "title": "CLASS A1fl (NON-COMBUSTIBLE)",
+      "desc": "No contribution to fire, no smoke and no toxic gases – safe for evacuation and fire services."
+    },
+    "r3": {
+      "title": "HACCP COMPATIBILITY",
+      "desc": "Suitable for food production facilities – no hazardous components, easy cleaning, resistance to hot oil."
+    },
+    "r4": {
+      "title": "CRYOGENIC RESISTANCE",
+      "desc": "Operates at -40°C without change in strength – for cold stores, cooling tunnels and cryogenic storage."
+    },
+    "r5": {
+      "title": "ATEX / NON-SPARKING",
+      "desc": "Special configurations that generate no mechanical sparks – for zones with flammable gases, dust and ammunition."
+    }
+  },
+  "financial": {
+    "title": "TCO UNDER THERMAL LOAD",
+    "subtitle": "Maintenance cost comparison under extreme temperature conditions.",
+    "quote": "FLOORS IN METALLURGY ARE REPLACED EVERY 3–5 YEARS.",
+    "quoteHighlight": "GEONYX THERM – LASTS 20."
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "subtitle": "20-year cycle comparison for thermally loaded zones.",
+    "colParam": "PARAMETER",
+    "colTherm": "GEONYX THERM",
+    "colEpoxy": "Epoxy/PU",
+    "colStd": "Standard concrete",
+    "row1": "Thermal range",
+    "row2": "Fire class",
+    "row3": "Thermal shock resistance",
+    "row4": "HACCP compatibility",
+    "row5": "Design Life",
+    "val1therm": "-40°C to +1200°C",
+    "val1epoxy": "up to 80°C",
+    "val1std": "up to 300°C (degrades)",
+    "val2therm": "A1fl – non-combustible",
+    "val2epoxy": "Combustible – class B/C",
+    "val2std": "Not applicable",
+    "val3therm": "Exceptionally high",
+    "val3epoxy": "Low – delamination",
+    "val3std": "Medium – cracking",
+    "val4therm": "Full",
+    "val4epoxy": "Partial",
+    "val4std": "Not recommended",
+    "val5therm": "≥20 yrs",
+    "val5epoxy": "5–8 yrs",
+    "val5std": "3–5 yrs"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "Facilities with thermal aggression, fire hazard or extreme temperature cycles.",
+    "a1": {
+      "title": "Metallurgy and Foundry",
+      "desc": "Foundries, casting zones, furnace areas and zones with molten metal splatter."
+    },
+    "a2": {
+      "title": "Food and Beverage Industry",
+      "desc": "Production facilities with hot oil, steam and aggressive cleaning (HACCP)."
+    },
+    "a3": {
+      "title": "Energy and Nuclear Power",
+      "desc": "Turbine halls, boiler rooms and fire-rated zones requiring class A1."
+    },
+    "a4": {
+      "title": "Aviation Industry",
+      "desc": "Hangars with ATEX requirements and fire-resistant flooring."
+    },
+    "a5": {
+      "title": "Chemical and Petroleum Industry",
+      "desc": "ATEX zones, reactors and areas with ignition risk."
+    },
+    "a6": {
+      "title": "Cold Storage Facilities",
+      "desc": "Cryogenic warehouses at -30°C/-40°C with heavy forklift traffic."
+    },
+    "a7": {
+      "title": "Pharmaceutical Industry",
+      "desc": "Sterilisation zones, autoclaving and CIP programmes."
+    },
+    "a8": {
+      "title": "Defence Industry",
+      "desc": "Blast-protected bunkers, ATEX rooms for ammunition."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "subtitle": "Controlled execution under active thermal conditions.",
+    "p1": {
+      "title": "Thermal Zone Audit",
+      "desc": "Mapping of temperature peaks, cycles and operations by zone."
+    },
+    "p2": {
+      "title": "THERM Configuration Selection",
+      "desc": "Selection of exact thickness and system (standard, ATEX or cryogenic)."
+    },
+    "p3": {
+      "title": "Substrate Preparation",
+      "desc": "Mechanical profiling, levelling of irregularities and thermal activation of adhesion."
+    },
+    "p4": {
+      "title": "Layer Application",
+      "desc": "Application following the thermal-technological protocol with temperature and adhesion monitoring."
+    },
+    "p5": {
+      "title": "Quality Control and Testing",
+      "desc": "Verification of adhesion, hardness and levelness. Thermal test where required."
+    },
+    "p6": {
+      "title": "Documentation and Handover",
+      "desc": "TDS package, ATEX/HACCP certificates and maintenance instructions."
+    }
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "THERM TENDER PACKAGE (B2B / B2G)",
+    "desc": "Complete documentation for thermally loaded zones in metallurgy, food and energy industries.",
+    "qualityLabel": "QUALITY ASSURANCE",
+    "qualityDesc": "All documents comply with HACCP, ATEX and EN 13501-1 requirements.",
+    "doc1": "TDS – Technical specifications and thermal resistance",
+    "doc2": "Fire class A1fl – Certificate and protocol",
+    "doc3": "ATEX configuration and non-sparking documentation",
+    "doc4": "HACCP compatibility (if required)",
+    "doc5": "Expansion joint and thermal zone details",
+    "doc6": "Tender specification for thermally loaded zones",
+    "copyBtn": "COPY TENDER TEXT",
+    "copiedBtn": "TEXT COPIED!"
+  },
+  "downloads": {
+    "title": "TECHNICAL FILES AND DOWNLOADS",
+    "dl1": {
+      "title": "GEONYX THERM – TDS",
+      "sub": "Technical parameters and thermal resistance"
+    },
+    "dl2": {
+      "title": "Fire Class A1fl",
+      "sub": "Certificate and EN 13501-1 protocol"
+    },
+    "dl3": {
+      "title": "ATEX / Non-Sparking",
+      "sub": "Documentation for explosion-protected zones"
+    },
+    "dl4": {
+      "title": "HACCP Declaration",
+      "sub": "Compatibility with food production facilities"
+    }
+  },
+  "cta": {
+    "title": "FIRE SAFETY. THERMAL RESISTANCE. MINIMUM DOWNTIME.",
+    "desc": "Describe the thermal load of your zones – we will propose a THERM configuration, ATEX/HACCP documentation and TCO analysis.",
+    "btn1": "REQUEST TECHNICAL AUDIT",
+    "btn2": "DOWNLOAD TDS",
+    "btn3": "CONTACT AN ENGINEER"
+  },
+  "footerBand": {
+    "label": "TECHNOLOGY PARTNER FOR CRITICAL INFRASTRUCTURE",
+    "desc": "GEONYX THERM provides thermal protection where standard floor coverings burn, melt or delaminate."
+  },
+  "shared": {
+    "threat": "THREAT",
+    "solution": "SOLUTION"
+  }
+}

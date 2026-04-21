@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "eyebrow": "TEKNOLOJİ NOMANKLATÜRÜ",
+    "title": "SİSTEM KAYDI",
+    "subtitle1": "// GEONYX® MÜHENDİSLİK MATRİSLERİ İNDEKSİ",
+    "subtitle2": "// TEKNİK ÖZELLİKLER İÇİN SİSTEM SEÇİN",
+    "stat1label": "TEMEL SİSTEMLER",
+    "stat2label": "YANGIN SINIFI",
+    "stat3label": "HİZMET ÖMRÜ"
+  },
+  "systems": {
+    "sys01category": "MEKANİK",
+    "sys01desc": "Ağır sanayi için zırhlı sistem. Titreşimleri emer, darbe yüklerine ve ağır paletli araç trafiğine dayanır.",
+    "sys02category": "KİMYA",
+    "sys02desc": "Kimyasal inert bariyer (WHG). Konsantre asitlere, bazlara ve agresif çözücülere karşı tam koruma.",
+    "sys03category": "TERMODİNAMİK",
+    "sys03desc": "Aşırı sıcaklık genlikleri için sistem. Termal şoka (buhar/buz suyu), erimiş metale ve doğrudan ateşe dayanır.",
+    "sys04category": "HİDROTEKNİK",
+    "sys04desc": "Baraj duvarları, su arıtma tesisleri ve deniz altyapısı için su geçirmez mineral membranlar. Su altı operasyonu."
+  },
+  "cta": {
+    "eyebrow": "UZMANLAŞMIŞ MÜHENDİSLİK",
+    "title": "KULLANIM ALANINIZIBULAMADI MISINIZ?",
+    "body": "Kimya mühendislerimiz, özel ortamlar için modifiye matrisler geliştirmektedir (Custom Formulations). Laboratuvar analizi için bizimle iletişime geçin.",
+    "btn": "GELİŞTİRME TALEP ET"
+  }
+}

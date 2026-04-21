@@ -1,0 +1,25 @@
+{
+  "header": {
+    "eyebrow": "LEGAL PROTOCOL 07",
+    "title": "PRIVACY POLICY",
+    "subtitle": "THE SECURITY OF YOUR INFORMATION IS GUARANTEED."
+  },
+  "block1": {
+    "title": "DATA CONTROLLER",
+    "body": "Your data is managed by \"GEONYX GROUP\" Ltd., acting as data controller, in strict compliance with Regulation (EU) 2016/679 (GDPR). We bear full legal responsibility for the protection of your information."
+  },
+  "block2": {
+    "title": "INDUSTRIAL SECRECY (NDA)",
+    "body": "We understand the nature of work in secure facilities and production environments. \"GEONYX GROUP\" Ltd. guarantees complete confidentiality. No part of your drawings, process diagrams or site photographs will be shared with third parties without your explicit written consent."
+  },
+  "block3": {
+    "title": "PURPOSE OF DATA",
+    "intro": "We collect only technical and contact information necessary for:",
+    "li1": "Preparing precise technical specifications and quotations.",
+    "li2": "Issuing warranty documents.",
+    "li3": "Providing post-warranty service."
+  },
+  "footer": {
+    "note": "This document is valid in accordance with the General Terms and Conditions of \"GEONYX GROUP\" Ltd. To contact the legal department:"
+  }
+}

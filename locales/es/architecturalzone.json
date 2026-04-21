@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "GEONYX | Zona Arquitectónica – Superficies minerales de diseño y soluciones de fachada",
+    "description": "La zona arquitectónica GEONYX ofrece revestimientos minerales de alta durabilidad para espacios públicos, comercios, fachadas y arquitectura moderna. Sistemas sin juntas con alta estética, resistencia mecánica y larga vida útil."
+  },
+  "hero": {
+    "eyebrow": "ZONA ARQUITECTÓNICA",
+    "titleLine1": "CENTRO",
+    "titleLine2": "TÉCNICO",
+    "description": "Portal de ingeniería para arquitectos y diseñadores.",
+    "descriptionLine2": "Texturas, detalles CAD y especificaciones para licitaciones públicas."
+  },
+  "textures": {
+    "badge": "Texturas",
+    "eyebrow": "ESTRUCTURA SUPERFICIAL",
+    "title": "CLASIFICACIÓN VISUAL Y TÁCTIL",
+    "description": "Las superficies GEONYX se clasifican según el Valor de Reflectancia de Luz (LRV) y el índice de rugosidad (Surface Roughness). Desde revestimientos muy mate (Deep Matte) para la absorción de luz hasta acabados satinados. Proporcionamos texturas que corresponden a las propiedades físicas reales del material.",
+    "btn": "EXPLORAR BIBLIOTECA"
+  },
+  "monolith": {
+    "badge": "Monolito",
+    "eyebrow": "INTEGRACIÓN SIN JUNTAS",
+    "title": "CONTINUIDAD ESTRUCTURAL",
+    "description": "La tecnología GEONYX permite la aplicación en grandes superficies sin interrupciones por juntas de dilatación (Seamless Application). Esto garantiza limpieza higiénica y elimina la red de juntas característica del azulejo. Una superficie mineral única y continua de pared a pared.",
+    "btn": "TECNOLOGÍA DE APLICACIÓN"
+  },
+  "assets3d": {
+    "badge": "Assets 3D",
+    "eyebrow": "ACTIVOS DIGITALES",
+    "title": "MAPAS PBR PARA V-RAY / CORONA / BIM",
+    "description": "Superficies digitalizadas mediante escáner 8K. El paquete completo incluye mapas físicamente correctos: Diffuse, Reflection, Glossiness, Normal y Displacement. Materiales listos para integrar en sus visualizaciones BIM y CAD antes de la ejecución.",
+    "btn": "DESCARGAR PBR ZIP (8K)"
+  },
+  "documentation": {
+    "eyebrow": "CENTRO DE DATOS",
+    "title": "DOCUMENTACIÓN TÉCNICA",
+    "subtitle": "PASAPORTES DE SISTEMAS Y DECLARACIONES DE PRESTACIONES (DoP)",
+    "btnTds": "[TDS Technical Data]",
+    "btnMsds": "[MSDS Safety Data]",
+    "btnDop": "[DoP Declaration]"
+  },
+  "cadBim": {
+    "eyebrow": "INGENIERÍA",
+    "title": "DETALLES Y NUDOS CONSTRUCTIVOS",
+    "subtitle": "ARCHIVOS .DWG Y .RVT NORMALIZADOS PARA PROYECTISTAS",
+    "btnDwg": "DESCARGAR .DWG",
+    "btnRvt": "DESCARGAR .RVT",
+    "detailA": {
+      "title": "DETALLE A: PARED-SUELO",
+      "desc": "Detalle para media caña higiénica y conexión con pared."
+    },
+    "detailB": {
+      "title": "DETALLE B: DRENAJE",
+      "desc": "Detalle para conexión con desagües lineales y drenaje puntual."
+    },
+    "detailC": {
+      "title": "DETALLE C: JUNTAS Y FISURAS",
+      "desc": "Detalle para tratamiento de juntas de dilatación y fisuras."
+    }
+  },
+  "tender": {
+    "title": "TEXTOS DE MEDICIÓN Y PRESUPUESTO (TENDER SPECS)",
+    "subtitle": "ESPECIFICACIONES LISTAS PARA LICITACIONES Y CONCURSOS PÚBLICOS",
+    "text": "Suministro y colocación de pavimento mineral de alta durabilidad tipo GEONYX®, espesor 6–9 mm. Resistencia a compresión >110 N/mm² según EN 13892-2. Resistencia al desgaste <1,5 cm³/50cm² según DIN 52108 (Böhme). Clase de reacción al fuego A1fl. El producto debe poseer marcado CE y declaración DoP...",
+    "btnCopy": "COPIAR TEXTO AL PORTAPAPELES",
+    "btnCopied": "¡COPIADO!"
+  },
+  "certifications": {
+    "title": "CERTIFICADOS Y NORMAS",
+    "items": {
+      "iso9001": "Gestión de calidad",
+      "en13813": "Material de solera",
+      "haccp": "Seguridad alimentaria",
+      "whg": "Ley de recursos hídricos",
+      "din51130": "Antideslizante R9-R13",
+      "euroclass": "Seguridad contra incendios"
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "hero": {
+    "eyebrow": "AŞIRI DAYANIKLILIK SİSTEMİ",
+    "description": "AĞIR SANAYİ, MADENCİLİK VE ENERJİ İÇİN MİNERAL ZIRH. Paletli araçlar, aşınma ve darbe yükleri için Design Life ≥20 yıllık endüstriyel işletme koşullarında kompozit sistem.",
+    "descriptionBold": "Design Life ≥20 yıl",
+    "statPressure": "BASINÇ",
+    "statHardness": "SERTLIK",
+    "statWear": "AŞINMA",
+    "statTemp": "SICAKLIK",
+    "btn1": "TEKNİK VERİ SAYFASI",
+    "btn2": "MÜHENDİSLİK DENETİMİ TALEBİ"
+  },
+  "certStrip": {
+    "cert1": "SINIF CT-C80-F10",
+    "cert2": "AŞINMA DİRENCİ",
+    "cert4": "YANMAZ",
+    "cert5": "SERTİFİKALI"
+  },
+  "diagnostics": {
+    "eyebrow": "TEHDİT ANALİZİ",
+    "title": "ENDÜSTRİYEL SALDIRGANLIK. BİZ ÜSTLENIYORUZ.",
+    "subtitle": "Standart betonun tasarlanmadığı 8 kritik mekanik ve operasyonel yük.",
+    "d1": {
+      "title": "AŞIRI AŞINMA",
+      "problem": "Palet, lastik ve cevherden kaynaklanan sürtünme, betonu zımpara gibi aşındırır ve her yıl milimetre cinsinden malzeme kaybına yol açar.",
+      "solution": "Mohs 9 sertliğinde ve AR ≤ 0.5 değerinde mineral yüzey – 1 000 aşınma döngüsünde minimum hacim kaybı."
+    },
+    "d2": {
+      "title": "KONSANTRE YÜK",
+      "problem": "Paletler, ağır akslar ve vinç tekerlekleri küçük bir temas alanına tonlarca yük konsantre ederek yüzeyi parçalar.",
+      "solution": "Basınç dayanımı >110 N/mm² ve yüksek kesme direnci – paletli araçların altında ne delaminasyon ne de ezilme yaşayan monolitik katman."
+    },
+    "d3": {
+      "title": "DARBE YÜKLEMESİ",
+      "problem": "Düşen parçalar, kepçeler, kalıplar ve aletler betonu çatlatır, köşeleri kırar ve sonraki hasarlar için 'yuva' açar.",
+      "solution": "Ani kırılgan kırılma olmaksızın darbe enerjisini absorbe eden sünek mineral matris – köşeler sağlam kalır ve yüzey stabil."
+    },
+    "d4": {
+      "title": "TİTREŞİM",
+      "problem": "Türbin, pres ve vinçlerden kaynaklanan sürekli titreşimler malzeme yorgunluğuna, mikro çatlaklara ve kaplama ayrışmasına neden olur.",
+      "solution": "Altlıkla monolitik bağlantı ve titreşime dayanıklı yapı – sistem boşluk veya zayıf bölge olmaksızın tek bir cisim gibi çalışır."
+    },
+    "d5": {
+      "title": "DERZLERVe KIRIK KÖŞELER",
+      "problem": "Derzler ve köşeler, endüstriyel zeminlerin en zayıf bölgesidir. Forkliftlerden ve sert tekerleklerden gelen darbeler köşeleri kırar, çukurlar oluşturur ve ekipmanlarda titreşim yaratır.",
+      "solution": "GEONYX ARMOR, güçlendirilmiş köşelerle monolitik veya minimum derzli çözümler sağlar. Derz bulunan yerlerde, ağır araç trafiği altında bozulmayacak şekilde yapısal olarak korunurlar."
+    },
+    "d6": {
+      "title": "DİNAMİK YORULMA YÜKLEMESİ",
+      "problem": "Aynı güzergahlar üzerindeki sürekli trafik malzeme yorgunluğuna yol açar. Yoğun geçiş bölgelerinde mikro çatlaklar, yerel çökmeler ve 'iz olukları' ortaya çıkar.",
+      "solution": "Mineral ARMOR sistemi, dinamik yükleri derinliğe dağıtır ve yorulma çatlaklarının oluşumunu önleyerek 24/7 işletimde bile stabil bir yüzey sağlar."
+    },
+    "d7": {
+      "title": "YEREL MAKİNE TEMELLERİ",
+      "problem": "Ağır makineler ve ankrajlı yapılar, yükleri küçük destek noktalarına konsantre eder. Standart betonla ankraj çevresinde ezilme ve çatlamaya yol açar.",
+      "solution": "GEONYX ARMOR, yerel hasar olmaksızın makine temelleriyle entegrasyon için uygun, mükemmel basınç ve kesme direncine sahip yüksek mukavemetli bir yüzey oluşturur."
+    },
+    "d8": {
+      "title": "ÜRETİM DURUŞU (DOWNTIME)",
+      "problem": "Her derz ve çukur tamiri üretimi durdurur, ekipmanları bloke eder ve çoğunlukla malzemenin kendisinden daha pahalıya mal olur.",
+      "solution": "REPAIR protokollü ARMOR sistemleri – 24–48 saat içinde yerel onarımlar ve uzun hat duruşları olmadan aşamalı çalışma."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "GEONYX ARMOR'UN TEKNİK KESİTİ",
+    "sectionSubtitle": "Altlıktan çalışma yüzeyine kadar katmanların interaktif modeli.",
+    "h1": {
+      "title": "1. BETON ALTLIK",
+      "subtitle": "Taşıyıcı yapı",
+      "desc": "Beton altlık – taşıyıcı yapı (mevcut beton, çelik veya eski zemin kaplaması)."
+    },
+    "h2": {
+      "title": "2. HAZIRLIK VE YAPIŞMA KATMANI",
+      "subtitle": "CSP Profili",
+      "desc": "Mekanik profilaj (CSP profili) ve altlıkla mineral bağ."
+    },
+    "h3": {
+      "title": "3. TAŞIYICI KOMPOZİT KATMAN",
+      "subtitle": "Donatı",
+      "desc": "Donatılı mineral matris 8–12 mm (aşırı yük altında 25 mm'ye kadar)."
+    },
+    "h4": {
+      "title": "4. YÜZEY KORUMA KATMANI",
+      "subtitle": "Doku",
+      "desc": "Tutuculuk ve kolay temizlik için ince ayarlı doku."
+    }
+  },
+  "engineering": {
+    "eyebrow": "MÜHENDİSLİK VERİLERİ",
+    "title": "LABORATUVARDAN KANITLAR",
+    "subtitle": "Akredite laboratuvarlarda bağımsız testler – TDS'te mevcut tam protokoller.",
+    "block1title": "Mohs Skalası (Sertlik)",
+    "block1note": "GEONYX ARMOR, elmas sertliğine yaklaşır ve aşınma direncinde standart beton ile çeliği geride bırakır.",
+    "block2title": "Böhme Testi (Aşınma)",
+    "block2note": "Sıradan endüstriyel betona kıyasla 1 000 sürtünme döngüsünde sekiz kata kadar daha az hacim kaybı.",
+    "block3title": "Süneklik (Gerilme-Deformasyon)",
+    "block3brittle": "ANİ KIRILMA",
+    "block3absorb": "ENERJİ SOĞURMA",
+    "block3note": "Ani kırılma olmaksızın doğrusal davranış – kırılmak yerine enerjiyi absorbe eden kompozit matris."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANS",
+    "title": "OPERASYONEL ÜSTÜNLÜK",
+    "r1": {
+      "title": "NEM TOLERANSI",
+      "desc": "'Yeşil' beton ve kalıntı nem içeren altlıklar üzerine uygulama. Ozmotik basınç ve ayrışma riskini azaltan nefes alabilen yapı."
+    },
+    "r2": {
+      "title": "KIVISIZLIK",
+      "desc": "Maden ocakları, yakıt ve cephane depoları için ATEX mantığı. Yüzey, darbede mekanik kıvılcım üretmez."
+    },
+    "r3": {
+      "title": "SINIF XF4 / DONMA–ÇÖZÜLME",
+      "desc": "Donma/çözülme döngülerine ve tuzlara (buzlanma önleyiciler) karşı tam bağışıklık. Dış rampalar, rıhtımlar ve hangarlar için uygundur."
+    },
+    "r4": {
+      "title": "DERZSİZ VEYA MİNİMUM DERZLİ SİSTEM",
+      "desc": "Minimum sayıda endüstriyel derz ile bölgesel tasarım – daha az onarım noktası ve daha düşük bozulma riski."
+    },
+    "r5": {
+      "title": "KÜRESEL SERTİFİKASYON",
+      "desc": "EN 13813, CE Mark, ISO 9001. Kamu ve özel yatırımcılar için tam mühendislik dokümantasyonu."
+    }
+  },
+  "financial": {
+    "title": "ZEMİN BİR YATIRIM OLDUĞUNDA, GİDER DEĞİL",
+    "subtitle": "20 yıllık toplam sahip olma maliyeti karşılaştırması – periyodik onarımlı standart beton ile minimal müdahaleli GEONYX ARMOR.",
+    "quote": "BETON DEFALARCA ÖDENİR.",
+    "quoteHighlight": "GEONYX ARMOR – BİR KEZ."
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "subtitle": "3 vardiyalı endüstriyel işletmede standart beton ile GEONYX ARMOR arasında 20 yıllık operasyonel döngü karşılaştırması.",
+    "colParam": "PARAMETRE",
+    "colStd": "Standart beton",
+    "colEpoxy": "Epoksi sistem",
+    "row1": "Design Life",
+    "row2": "Onarım sayısı (20 yıl)",
+    "row3": "Downtime",
+    "row4": "Aşınma direnci",
+    "row5": "20 yıllık toplam maliyet",
+    "val1armor": "≥20 yıl",
+    "val1std": "5–8 yıl",
+    "val1epoxy": "7–10 yıl",
+    "val2armor": "0–1",
+    "val2std": "3–5",
+    "val2epoxy": "2–4",
+    "val3armor": "minimum",
+    "val3std": "yüksek",
+    "val3epoxy": "orta",
+    "val5armor": "Düşük",
+    "val5std": "Yüksek",
+    "val5epoxy": "Orta"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "Yüksek mekanik saldırganlık, ağır trafik ve aşırı yüklere sahip tesisler.",
+    "a1": {
+      "title": "Ağır Metalürji",
+      "desc": "Dökümhaneler, haddehaneler, cüruf ve sıvı metal bölgeleri."
+    },
+    "a2": {
+      "title": "Lojistik Merkezleri",
+      "desc": "Dar koridor geçişleri, rampalar, yükleme rıhtımları ve yoğun forklift trafiği."
+    },
+    "a3": {
+      "title": "Maden Ocakları ve İşleme Tesisleri",
+      "desc": "Kırıcılar, öğütücüler, flotasyon alanları ve ağır ekipman servis atölyeleri."
+    },
+    "a4": {
+      "title": "Enerji",
+      "desc": "Türbin salonları, bakım platformları, kömür ve kül bunkerleri."
+    },
+    "a5": {
+      "title": "Otomotiv Üretimi",
+      "desc": "Pres atölyeleri, montaj hatları, kaynak robotları ve test bölgeleri."
+    },
+    "a6": {
+      "title": "Savunma Sanayii",
+      "desc": "Paletli araç tamir üsleri, cephane depoları (ATEX)."
+    },
+    "a7": {
+      "title": "Geri Dönüşüm ve Atık",
+      "desc": "Hurda sahaları, ayıklama tesisleri ve atık bertaraf alanları."
+    },
+    "a8": {
+      "title": "Havacılık",
+      "desc": "Bakım hangarları, ağır iniş takımı bölgeleri ve motor servis alanları."
+    }
+  },
+  "process": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "subtitle": "İlk analizden nihai kabule kadar mühendislik kontrolü.",
+    "p1": {
+      "step": "01",
+      "title": "Mühendislik Denetimi",
+      "desc": "Yük analizi, bölgeleme ve risk profili."
+    },
+    "p2": {
+      "step": "02",
+      "title": "Tasarım",
+      "desc": "Kalınlık (8–25 mm) ve sistem belirleme."
+    },
+    "p3": {
+      "step": "03",
+      "title": "Altlık Hazırlığı",
+      "desc": "Mekanik profilaj (CSP profili), temizlik, nem kontrolü."
+    },
+    "p4": {
+      "step": "04",
+      "title": "Uygulama",
+      "desc": "Teknolojik protokole göre ARMOR kompozit sisteminin uygulanması."
+    },
+    "p5": {
+      "step": "05",
+      "title": "Kalite Kontrol",
+      "desc": "Yapışma, kalınlık ve düzlemsellik doğrulaması."
+    },
+    "p6": {
+      "step": "06",
+      "title": "Dokümantasyon",
+      "desc": "Teknik veri sayfasıyla belgelenmiş teslim."
+    }
+  },
+  "offer": {
+    "eyebrow": "TİCARİ BELGELEME",
+    "title": "İHALE PAKETİ (B2B / B2G)",
+    "desc": "Yatırımcılar, tasarımcılar ve kamu ihaleleri için tam mühendislik belgeleri.",
+    "qualityLabel": "KALİTE GÜVENCESI",
+    "qualityDesc": "Tüm belgeler güncel Eurokodlar ve standartlarla uyumludur.",
+    "doc1": "Technical Data Sheet (TDS)",
+    "doc2": "CE Beyanı",
+    "doc3": "Laboratuvar Protokolleri",
+    "doc4": "Uygulama Yöntemi",
+    "doc5": "BIM Detayları",
+    "doc6": "İhale Spesifikasyonu (kullanıma hazır metin)",
+    "copyBtn": "İHALE METNİNİ KOPYALA",
+    "copiedBtn": "METİN KOPYALANDI!"
+  },
+  "downloads": {
+    "title": "TEKNİK DOSYALAR VE İNDİRMELER",
+    "dl1": {
+      "title": "Technical Data Sheet",
+      "sub": "Tam mühendislik parametreleri ve test sonuçları"
+    },
+    "dl2": {
+      "title": "Laboratory Report",
+      "sub": "Test sonuçlarının özeti"
+    },
+    "dl3": {
+      "title": "BIM Library",
+      "sub": "Tasarım detayları"
+    },
+    "dl4": {
+      "title": "Engineering Specification",
+      "sub": "İhale belgelerine hazır metin"
+    }
+  },
+  "cta": {
+    "title": "20 YIL İÇİN TASARLAYIN. 3 İÇİN DEĞİL.",
+    "subtitle": "Aşırı mekanik yük ve yüksek operasyonel risk altındaki tesisler için mühendislik sistemi.",
+    "desc": "Ağır sanayi ve kritik altyapıdaki yatırımcılar, tasarımcılar ve operatörler için tam teknik belgeleme ve mühendislik danışmanlığı.",
+    "btn1": "TEKNİK SPESİFİKASYONLARI İNDİR (TDS)",
+    "btn2": "BIM VE DETAYLARı İNDİR",
+    "btn3": "MÜHENDİSLİK DENETİMİ TALEBİ"
+  },
+  "footerBand": {
+    "label": "KRİTİK ALTYAPI İÇİN TEKNOLOJİ ORTAĞI",
+    "desc": "Maden ocakları, çelik fabrikaları, lojistik merkezleri veya enerji tesislerine dayanabilecek bir sisteme ihtiyacınız var. GEONYX ARMOR, her yatırımcı ve denetçi önünde savunulabilecek bir zemin kaplaması sunmak için geopolimer teknolojiyi, laboratuvar verilerini ve saha testlerini bir araya getirir."
+  },
+  "shared": {
+    "threat": "TEHDİT",
+    "solution": "ÇÖZÜM"
+  }
+}

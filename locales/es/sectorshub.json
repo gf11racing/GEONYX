@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "eyebrow": "REGISTRO DE SISTEMAS",
+    "title": "CATÁLOGO INDUSTRIAL",
+    "subtitle": "SECTORES OPERATIVOS & APLICACIONES",
+    "stat1label": "SECTORES ACTIVOS",
+    "stat2label": "CERTIFICACIÓN",
+    "stat3label": "VIDA ÚTIL"
+  },
+  "sectors": {
+    "s01title": "INDUSTRIA PESADA & LOGÍSTICA",
+    "s01subtitle": "CARGAS EXTREMAS",
+    "s01desc": "Pavimentos para cargas mecánicas extremas, vibraciones y tráfico 24/7.",
+    "s02title": "ALIMENTACIÓN, BEBIDAS & FARMACIA",
+    "s02subtitle": "HIGIENE & CUMPLIMIENTO GMP",
+    "s02desc": "Sistemas bacteriostáticos sin juntas. Resistencia a chorros de vapor y productos químicos.",
+    "s03title": "AGRO, BIOGÁS & ECOLOGÍA",
+    "s03subtitle": "AGRESIÓN ORGÁNICA",
+    "s03desc": "Protección contra ácidos orgánicos, estiércol, amoníaco y jugos agresivos.",
+    "s04title": "AGUA & INFRAESTRUCTURA MARINA",
+    "s04subtitle": "HIDROTECNIA",
+    "s04desc": "100% impermeabilidad y resistencia a sales y erosión.",
+    "s05title": "ENERGÍA, MINERÍA & DEFENSA",
+    "s05subtitle": "INFRAESTRUCTURA CRÍTICA",
+    "s05desc": "Sistemas incombustibles y químicamente resistentes para centrales nucleares, térmicas, minas e instalaciones militares.",
+    "s06title": "TRANSPORTE & APARCAMIENTOS",
+    "s06subtitle": "TRÁFICO & MOVIMIENTO",
+    "s06desc": "Suelos y rampas de alta adherencia, resistentes a lejías y sales.",
+    "s07title": "ENTORNO URBANO & CONSTRUCCIÓN",
+    "s07subtitle": "UHPC & DISEÑO",
+    "s07desc": "Soluciones UHPC para fachadas, elementos y entornos urbanos."
+  },
+  "cta": {
+    "eyebrow": "INGENIERÍA ESPECIALIZADA",
+    "title": "¿NO ENCUENTRA SU CASO DE USO?",
+    "body": "Nuestros ingenieros químicos desarrollan matrices modificadas para entornos específicos (Custom Formulations). Contáctenos para análisis de laboratorio.",
+    "btn": "SOLICITAR DESARROLLO"
+  }
+}

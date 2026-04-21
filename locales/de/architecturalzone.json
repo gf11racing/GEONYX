@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "GEONYX | Architekturzone – Designer-Mineraloberflächen und Fassadenlösungen",
+    "description": "GEONYX Architekturzone bietet hochbeständige Mineralbeläge und Oberflächen für öffentliche Räume, Einzelhandel, Fassaden und moderne Architektur. Fugenlose Systeme mit hoher Ästhetik, mechanischer Beständigkeit und langer Lebensdauer."
+  },
+  "hero": {
+    "eyebrow": "ARCHITEKTURZONE",
+    "titleLine1": "TECHNISCHES",
+    "titleLine2": "ZENTRUM",
+    "description": "Ingenieurportal für Architekten und Planer.",
+    "descriptionLine2": "Texturen, CAD-Details und Spezifikationen für öffentliche Ausschreibungen."
+  },
+  "textures": {
+    "badge": "Texturen",
+    "eyebrow": "OBERFLÄCHENSTRUKTUR",
+    "title": "VISUELLE UND TAKTILE KLASSIFIKATION",
+    "description": "GEONYX-Oberflächen werden nach dem Light Reflectance Value (LRV) und dem Rauheitsindex (Surface Roughness) klassifiziert. Von tief matten Beschichtungen (Deep Matte) zur Lichtabsorption bis zu Satinfinishs. Wir liefern Texturen, die den realen physikalischen Eigenschaften des Materials entsprechen.",
+    "btn": "BIBLIOTHEK DURCHSUCHEN"
+  },
+  "monolith": {
+    "badge": "Monolit",
+    "eyebrow": "FUGENLOSE INTEGRATION",
+    "title": "STRUKTURELLE KONTINUITÄT",
+    "description": "Die GEONYX-Technologie ermöglicht die Verlegung großer Flächen ohne Dehnungsfugenunterbrechungen (Seamless Application). Dies gewährleistet hygienische Sauberkeit und eliminiert das Fugennetz, das für Fliesen typisch ist. Eine einheitliche, durchgehende Mineraloberfläche von Wand zu Wand.",
+    "btn": "VERLEGETECHNOLOGIE"
+  },
+  "assets3d": {
+    "badge": "3D-Assets",
+    "eyebrow": "DIGITALE ASSETS",
+    "title": "PBR-KARTEN FÜR V-RAY / CORONA / BIM",
+    "description": "Digitalisierte Oberflächen per 8K-Scan. Das vollständige Paket enthält physikalisch korrekte Karten: Diffuse, Reflection, Glossiness, Normal und Displacement. Sofort einsatzbereite Materialien zur Integration in Ihre BIM- und CAD-Visualisierungen.",
+    "btn": "PBR ZIP (8K) HERUNTERLADEN"
+  },
+  "documentation": {
+    "eyebrow": "DATENZENTRUM",
+    "title": "TECHNISCHE DOKUMENTATION",
+    "subtitle": "SYSTEMPÄSSE UND LEISTUNGSERKLÄRUNGEN (DoP)",
+    "btnTds": "[TDS Technical Data]",
+    "btnMsds": "[MSDS Safety Data]",
+    "btnDop": "[DoP Declaration]"
+  },
+  "cadBim": {
+    "eyebrow": "INGENIEURTECHNIK",
+    "title": "KONSTRUKTIONSDETAILS UND KNOTEN",
+    "subtitle": "STANDARDISIERTE .DWG- UND .RVT-DATEIEN FÜR PLANER",
+    "btnDwg": "DOWNLOAD .DWG",
+    "btnRvt": "DOWNLOAD .RVT",
+    "detailA": {
+      "title": "DETAIL A: WAND-BODEN",
+      "desc": "Detail für hygienische Hohlkehle und Wandanschluss."
+    },
+    "detailB": {
+      "title": "DETAIL B: ENTWÄSSERUNG",
+      "desc": "Detail für den Anschluss an Linienabläufe und Punktentwässerung."
+    },
+    "detailC": {
+      "title": "DETAIL C: FUGEN UND RISSE",
+      "desc": "Detail zur Behandlung von Dehnungsfugen und Rissen."
+    }
+  },
+  "tender": {
+    "title": "LEISTUNGSVERZEICHNIS-TEXTE (TENDER SPECS)",
+    "subtitle": "FERTIGE SPEZIFIKATIONEN FÜR ÖFFENTLICHE AUSSCHREIBUNGEN",
+    "text": "Lieferung und Einbau eines hochbeständigen Mineralbodens Typ GEONYX®, Schichtdicke 6–9 mm. Druckfestigkeit >110 N/mm² gemäß EN 13892-2. Verschleißfestigkeit <1,5 cm³/50cm² gemäß DIN 52108 (Böhme). Brandklasse A1fl. Das Produkt muss eine CE-Kennzeichnung und DoP-Erklärung besitzen...",
+    "btnCopy": "TEXT IN ZWISCHENABLAGE KOPIEREN",
+    "btnCopied": "KOPIERT!"
+  },
+  "certifications": {
+    "title": "ZERTIFIKATE UND NORMEN",
+    "items": {
+      "iso9001": "Qualitätsmanagement",
+      "en13813": "Estrichmaterial",
+      "haccp": "Lebensmittelsicherheit",
+      "whg": "Wasserhaushaltsgesetz",
+      "din51130": "Rutschhemmung R9-R13",
+      "euroclass": "Brandschutz"
+    }
+  }
+}

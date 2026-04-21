@@ -1,0 +1,270 @@
+{
+  "hero": {
+    "eyebrow": "WASSERBAU UND WASSERSCHUTZ",
+    "description": "Mineralsysteme für Wasserdichtigkeit und Druckbeständigkeit – für Staudämme, Becken, Kläranlagen und Meeresinfrastruktur. Ausgelegt für W20, 15 Bar und lange Lebensdauer – auch unter Wasser.",
+    "statWater": "WASSERDICHTIGKEIT",
+    "statWaterValue": "Klasse W20",
+    "statPressure": "DRUCK",
+    "statPressureValue": "Bis 15 Bar",
+    "statDrinking": "TRINKWASSER",
+    "statDrinkingValue": "Zertifiziert",
+    "statLife": "DESIGN LIFE",
+    "statLifeValue": "≥ 25 Jahre",
+    "btn1": "TECHNISCHES DATENBLATT",
+    "btn2": "INGENIEURSAUDIT ANFORDERN"
+  },
+  "diagnostics": {
+    "eyebrow": "WASSERAGGRESSION",
+    "title": "WASSER VERZEIHT NICHT. GEONYX HYDRO SCHON.",
+    "subtitle": "8 wasserbautechnische Szenarien, in denen Normalbeton langsam den Kampf verliert.",
+    "d1": {
+      "title": "UNTERWASSERREPARATUR OHNE ENTLEERUNG",
+      "problem": "Die Entleerung eines Staudamms, Behälters oder Beckens kostet Millionen und stoppt den Betrieb kritischer Infrastruktur.",
+      "solution": "GEONYX HYDRO erhärtet unter Wasser ohne Auswaschung. Taucher führen lokale Reparaturen am laufenden Bauwerk durch – mit minimalem Downtime."
+    },
+    "d2": {
+      "title": "HYDROSTATISCHER DRUCK BIS 15 BAR",
+      "problem": "Druckwasser (Dutzende Meter Wassersäule) dringt durch Poren und Mikrorisse und gefährdet die Konstruktion.",
+      "solution": "GEONYX HYDRO bietet Klasse W20 und Widerstand gegen positiven Druck bis 15 Bar – kein Durchbruch, keine Schichtablösung."
+    },
+    "d3": {
+      "title": "KAVITATION UND HOCHGESCHWINDIGKEITSSTRÖMUNG",
+      "problem": "Vakuumblasen und turbulente Strömung in Überlaufrinnen, Kanälen und Schleusen erodieren Beton und führen zu tiefen Kratern.",
+      "solution": "Extrem dichte und glatte Oberfläche mit geringer Abrasion (AR ≤ 0,5), beständig gegen Kavitation und mechanischen Strömungsverschleiß."
+    },
+    "d4": {
+      "title": "BIOGENE KORROSION IN KANÄLEN UND WWTP",
+      "problem": "Bakterien im Abwasser wandeln Gase in aggressive Säuren um, die Beton oberhalb des Wasserspiegels angreifen.",
+      "solution": "Mineralische Immunität gegen biogene Korrosion, bei Bedarf kombiniert mit GEONYX CHEM – Schutz der Nass- und Gaszonen in einer Lösung."
+    },
+    "d5": {
+      "title": "CHLORIDANGRIFF UND MEERESUMGEBUNG",
+      "problem": "Meersalz dringt durch Poren, erreicht die Bewehrung und beschleunigt die Korrosion von Küstenbauwerken und Kaimauern.",
+      "solution": "Dichte Mineralbarriere, die die Chloridmigration begrenzt und die Lebensdauer bewehrter Elemente im Meeresbereich verlängert."
+    },
+    "d6": {
+      "title": "AUSLAUGUNG UND „LEOPARDENFELL”",
+      "problem": "Weiches oder demineralisiertes Wasser löst Kalk aus dem Beton heraus, es entstehen Flecken, Porosität und Festigkeitsverlust.",
+      "solution": "Geopolymerstruktur ohne freien Kalk – nichts zum Auslaugen; die Oberfläche bleibt stabil und dicht."
+    },
+    "d7": {
+      "title": "TRINKWASSERSICHERHEIT",
+      "problem": "Standard-Epoxidbeschichtungen können Monomere und Lösungsmittel ins Trinkwasser abgeben – für Betreiber und Behörden inakzeptabel.",
+      "solution": "GEONYX HYDRO ist ein Mineralsystem, zertifiziert für Trinkwasserkontakt nach DVGW/BS-Normen – ohne organische Toxika."
+    },
+    "d8": {
+      "title": "ABRASION DURCH SEDIMENTE UND SAND",
+      "problem": "Sand- und sedimentbeladenes Wasser wirkt wie ein ununterbrochenes Schleifmittel auf Wände und Böden von Kanälen und Becken.",
+      "solution": "Oberflächenhärte bis Mohs 9 mit sehr geringem Volumenverlust – deutlich widerstandsfähiger als Normalbeton und Putze."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "TECHNISCHER QUERSCHNITT VON GEONYX HYDRO",
+    "sectionSubtitle": "Interaktives Schichtenmodell – vom Untergrund bis zur Arbeitsoberfläche.",
+    "h1": {
+      "title": "1. BETONUNTERGRUND",
+      "subtitle": "Saturated Substrate",
+      "desc": "Bestehende Stahlbetonkonstruktion, gereinigt durch Hochdruckwasserstrahl-Strahlen (2500 bar) zur Öffnung der Kapillaren."
+    },
+    "h2": {
+      "title": "2. CRYSTALLINE PRIMER",
+      "subtitle": "Active Penetration",
+      "desc": "Aktiver Primer, der tief in die Betonporen eindringt und bei Feuchtigkeitskontakt kristallisiert, den Kapillaraufstieg blockierend."
+    },
+    "h3": {
+      "title": "3. HYDRO-MORTAR",
+      "subtitle": "Fiber Reinforced Body",
+      "desc": "Primäre Konstruktionsschicht, faserverstärkt. Widersteht hydrostatischem Druck bis 20 Bar (W20) und ist in seiner gesamten Masse wasserdicht."
+    },
+    "h4": {
+      "title": "4. SMOOTH FINISH",
+      "subtitle": "Hydraulic Flow Surface",
+      "desc": "Glatte Oberflächenmembran zur Reibungsminderung und Erhöhung der hydraulischen Durchflussrate. Beständig gegen Abrasion und Chemikalien."
+    }
+  },
+  "engineering": {
+    "eyebrow": "INGENIEURDATEN",
+    "title": "LABORTESTS UND FELDVERSUCHE",
+    "subtitle": "Unabhängige Prüfungen in akkreditierten Labors – vollständige Protokolle im TDS.",
+    "block1title": "WASSERDURCHLÄSSIGKEIT (W-KLASSE)",
+    "block1note": "GEONYX HYDRO erreicht Klasse W20 – eine Wassersäule von 200 Metern ohne Durchbruch.",
+    "block2title": "DURCHBRUCHDRUCK",
+    "block2note": "Vergleich der hydrostatischen Druckbeständigkeit bei verschiedenen Systemen.",
+    "block3title": "NRW-REDUZIERUNG (VERLUSTE)",
+    "block3note": "Differenz der Wasserverluste über 20 Jahre ohne/mit HYDRO-Schutz."
+  },
+  "operational": {
+    "eyebrow": "LEISTUNG",
+    "title": "OPERATIVE ÜBERLEGENHEIT",
+    "r1": {
+      "title": "UNTERWASSERVERARBEITUNG",
+      "desc": "Aushärtung unter aktivem Wasser – Taucher können auch in nassen oder teilweise untergetauchten Bereichen arbeiten."
+    },
+    "r2": {
+      "title": "KLASSE W20 / 15 BAR",
+      "desc": "Wasserdichtigkeitsklasse W20 und Widerstand gegen positiven und negativen hydrostatischen Druck."
+    },
+    "r3": {
+      "title": "TRINKWASSER (DVGW/BS)",
+      "desc": "Zertifiziert für Trinkwasserkontakt – keine organischen Monomere, keine toxische Auslaugung."
+    },
+    "r4": {
+      "title": "MEERES- UND KÜSTENSCHUTZ",
+      "desc": "Beständigkeit gegen Chloride, Meersalz und Sulfate – für Hafenbauwerke und Kaimauern."
+    },
+    "r5": {
+      "title": "NULL VERLUSTE (NRW)",
+      "desc": "Fugenfreies und dichtes System minimiert Wasserverluste in Behältern, Staudämmen und Versorgungsnetzen."
+    }
+  },
+  "financial": {
+    "title": "WENN WASSER EIN WERT IST UND KEIN PROBLEM",
+    "subtitle": "Vergleich von Verlusten und Kosten bei geschützten vs. ungeschützten Wasserbauwerken.",
+    "quote": "EIN UNGESCHÜTZTER STAUDAMM VERLIERT WASSER. UND GELD.",
+    "quoteHighlight": "GEONYX HYDRO DICHTET BEIDES AB."
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "subtitle": "25-jähriger Lebenszyklusvergleich für wasserbautechnische Anlagen.",
+    "colParam": "PARAMETER",
+    "colHydro": "GEONYX HYDRO",
+    "colEpoxy": "Epoxid-Abdichtung",
+    "colStd": "Normalbeton",
+    "row1": "Wasserdichtigkeitsklasse",
+    "row2": "Unterwasserverarbeitung",
+    "row3": "Trinkwasser",
+    "row4": "Chloridbeständigkeit",
+    "row5": "Design Life",
+    "val1hydro": "W20 – 15 Bar",
+    "val1epoxy": "W8 – W12",
+    "val1std": "W4 – ungeschützt",
+    "val2hydro": "Ja – unter aktivem Wasser",
+    "val2epoxy": "Nein – erfordert trockene Oberfläche",
+    "val2std": "Nein",
+    "val3hydro": "Zertifiziert",
+    "val3epoxy": "Eingeschränkt",
+    "val3std": "Nicht anwendbar",
+    "val4hydro": "Sehr hoch",
+    "val4epoxy": "Mittel",
+    "val4std": "Niedrig",
+    "val5hydro": "≥25 J.",
+    "val5epoxy": "8–12 J.",
+    "val5std": "5–8 J."
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "WO ES EINGESETZT WIRD",
+    "subtitle": "Bauwerke mit hohem Risiko durch Wasserinvasion, Druck und hydrochemische Aggression.",
+    "a1": {
+      "title": "Staudämme und Wasserkraftwerke",
+      "desc": "Auskleidung von Dammkörper, Entnahmetürmen und Verschlusskammern."
+    },
+    "a2": {
+      "title": "Kläranlagen",
+      "desc": "Biobecken, Kläranlagen und anaerobe Reaktoren (biogene Korrosion)."
+    },
+    "a3": {
+      "title": "Trinkwasserbehälter",
+      "desc": "Druckbehälter und Wassertürme (DVGW/BS zertifiziert)."
+    },
+    "a4": {
+      "title": "Meeresinfrastruktur",
+      "desc": "Kaimauern, Wellenbrecher, Unterwassertunnel und Plattformen."
+    },
+    "a5": {
+      "title": "Kanäle und Schleusen",
+      "desc": "Hydraulische Schutzauskleidungen gegen Kavitation und Strömungsabrasion."
+    },
+    "a6": {
+      "title": "Bergbau-Tailingsbecken",
+      "desc": "Wasserdichte Einschlussbauwerke für Prozessflüssigkeiten."
+    },
+    "a7": {
+      "title": "Pumpstationen",
+      "desc": "Schächte und Tunnel mit aggressivem Abwasser."
+    },
+    "a8": {
+      "title": "Tunnel und U-Bahn",
+      "desc": "Gewölbe und Wände bei Grundwassereintritt."
+    }
+  },
+  "process": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "subtitle": "Präzise Ausführung unter aktivem Wasser und Unterwasserbedingungen.",
+    "p1": {
+      "title": "Hydro-Audit des Bauwerks",
+      "desc": "Analyse von Druck, Leckagen, chemischem Wasserprofil und biogener Aktivität."
+    },
+    "p2": {
+      "title": "Auswahl der HYDRO-Konfiguration",
+      "desc": "Systemauswahl – Kristall-Primer, HYDRO-MORTAR, SMOOTH FINISH oder Kombination mit CHEM."
+    },
+    "p3": {
+      "title": "Hydroblasting",
+      "desc": "Wasserstrahl bei 2500 bar zur Porenöffnung und Entfernung schwacher Zonen."
+    },
+    "p4": {
+      "title": "Kristall-Primer",
+      "desc": "Aufbringen des Kristall-Primers – aktiviert sich bei Feuchtigkeitskontakt und blockiert den Kapillarfluss."
+    },
+    "p5": {
+      "title": "Verarbeitung und Versiegelung",
+      "desc": "Aufbringen von HYDRO-MORTAR und SMOOTH FINISH nach technologischem Protokoll – einschließlich Unterwasser bei Bedarf."
+    },
+    "p6": {
+      "title": "Hydraulischer Test und Dokumentation",
+      "desc": "Wasserdichtigkeitsprüfung, Protokolle, TDS-Paket und Garantieschein."
+    }
+  },
+  "offer": {
+    "eyebrow": "HANDELSDOKUMENTATION",
+    "title": "HYDRO-ANGEBOTSPAKET (B2B / B2G)",
+    "desc": "Vollständige Dokumentation für Staudämme, Behälter, WWTP und Meeresinfrastruktur.",
+    "qualityLabel": "QUALITÄTSSICHERUNG",
+    "qualityDesc": "Konform mit DVGW-, BS- und Eurocode-Wasserbaunormen.",
+    "doc1": "TDS – Technische Spezifikationen und hydraulische Prüfung",
+    "doc2": "Trinkwasserzertifikat (DVGW / BS 6920)",
+    "doc3": "W20-Protokoll – Wasserdichtigkeit",
+    "doc4": "Methodik für Unterwasserausführung",
+    "doc5": "BIM-Details für Abdichtungsschichten",
+    "doc6": "Ausschreibungsspezifikation für Wasserbauprojekte",
+    "copyBtn": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copiedBtn": "TEXT KOPIERT!"
+  },
+  "downloads": {
+    "title": "TECHNISCHE DATEIEN UND DOWNLOADS",
+    "dl1": {
+      "title": "GEONYX HYDRO – TDS",
+      "sub": "Technische Parameter und W-Klasse"
+    },
+    "dl2": {
+      "title": "Trinkwasser – DVGW/BS",
+      "sub": "Konformitätszertifikat"
+    },
+    "dl3": {
+      "title": "Hydraulischer Test W20",
+      "sub": "Protokoll eines akkreditierten Labors"
+    },
+    "dl4": {
+      "title": "Methodik für Unterwasserausführung",
+      "sub": "Schritte, Taucheranforderungen und Qualitätskontrolle"
+    }
+  },
+  "cta": {
+    "title": "IHRE INFRASTRUKTUR DARF KEIN WASSER VERLIEREN – UND KEIN GELD.",
+    "desc": "Beschreiben Sie das Wasserbauwerk und das Problem – wir schlagen eine HYDRO-Konfiguration, W-Klassen-Dokumentation und TCO-Analyse vor.",
+    "btn1": "HYDRO-AUDIT ANFORDERN",
+    "btn2": "TDS HERUNTERLADEN",
+    "btn3": "INGENIEUR KONTAKTIEREN"
+  },
+  "footerBand": {
+    "label": "TECHNOLOGIEPARTNER FÜR KRITISCHE INFRASTRUKTUR",
+    "desc": "GEONYX HYDRO schützt Staudämme, Behälter und Kläranlagen dort, wo Normalbeton versagt."
+  },
+  "shared": {
+    "threat": "BEDROHUNG",
+    "solution": "LÖSUNG"
+  }
+}

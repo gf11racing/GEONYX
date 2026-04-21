@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "GEONYX | HSEQ and Sustainability – Health, Safety, Quality and Environment",
+    "description": "HSEQ policy and sustainable development at GEONYX – commitment to health and safety, product quality and environmental protection. Mineral industrial systems with low carbon footprint and long service life for infrastructure and industry."
+  },
+  "hero": {
+    "eyebrow": "CORPORATE STANDARD (HSEQ & ESG)",
+    "titleLine1": "UNCOMPROMISING MANAGEMENT OF",
+    "titleLine2": "RISK AND QUALITY",
+    "description": "Industrial leadership requires more than technological innovation – it demands absolute responsibility. At GEONYX, every process – from the synthesis of raw materials to the final polymerisation on site – is governed by a strict corporate code."
+  },
+  "healthSafety": {
+    "badge": "Occupational Safety",
+    "eyebrow": "\"ZERO RISK\" CULTURE",
+    "title": "OCCUPATIONAL RISK MANAGEMENT",
+    "description": "For us, safety is not documentation but an operational culture. Our teams operate on the basis of strict Job Safety Analysis (JSA) protocols. By developing systems with 100% absence of Volatile Organic Compounds (VOC-Free) and toxic solvents, we eliminate respiratory risks for applicators and on-site personnel.",
+    "tag1": "ISO 45001",
+    "tag2": "JSA Protocols"
+  },
+  "sustainability": {
+    "badge": "Carbon Neutrality",
+    "eyebrow": "ECOLOGICAL FOOTPRINT",
+    "title": "DECARBONISATION AND EPD",
+    "description": "Portland cement generates 8% of global CO2 emissions. GEONYX changes the paradigm. Our geopolymer technology reduces the carbon footprint by up to 80% compared to conventional concrete. Through Environmental Product Declarations (EPD) and Life Cycle Analysis (LCA), we provide transparent decarbonisation data.",
+    "tag1": "ISO 14001",
+    "tag2": "LEED / BREEAM"
+  },
+  "quality": {
+    "badge": "Quality Control",
+    "eyebrow": "FULL TRACEABILITY",
+    "title": "QA/QC BATCH CONTROL",
+    "description": "Industrial scale tolerates no variations. Our quality control (QC) is entirely laboratory-based and instrumental. Every raw material batch undergoes incoming spectral analysis, and reference samples from every production run are archived. This absolute traceability guarantees that mechanical properties will be reproduced with 100% accuracy.",
+    "tag1": "ISO 9001",
+    "tag2": "TDS Verification"
+  },
+  "governance": {
+    "badge": "Governance",
+    "eyebrow": "ESG COMPLIANCE",
+    "title": "ETHICAL SUPPLY CHAIN",
+    "description": "Responsibility begins before production. We audit our raw material suppliers in accordance with the most stringent European directives. All components in GEONYX mineral matrices are fully compliant with the REACH regulation, guaranteeing the absence of conflict minerals and toxic precursors in our supply chain.",
+    "tag1": "REACH Compliant",
+    "tag2": "Supply Audit"
+  },
+  "standards": {
+    "eyebrow": "CORPORATE POLICY",
+    "title": "OFFICIAL STANDARDS",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Quality Management",
+        "description": "Quality Management System (QMS). Subject to continuous independent auditing."
+      },
+      "iso14001": {
+        "subtitle": "Environmental Mgmt",
+        "description": "Environmental management. Zero waste to landfill and emission control."
+      },
+      "iso45001": {
+        "subtitle": "Health & Safety",
+        "description": "Occupational Health & Safety. Institutionalised protection of occupational health."
+      },
+      "reach": {
+        "subtitle": "Chemical Compliance",
+        "description": "Full compliance with EU directives on chemical safety and hygiene (HACCP/GMP)."
+      }
+    },
+    "btnDownload": "DOWNLOAD INTEGRATED HSEQ POLICY (PDF)"
+  },
+  "cta": {
+    "title": "TECHNOLOGY PARTNER FOR CRITICAL INFRASTRUCTURE",
+    "description": "From preliminary engineering analysis and Life Cycle Assessment (LCA) to flawless on-site execution.",
+    "btn": "CONTACT HSEQ DEPARTMENT"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "eyebrow": "THE SCIENCE OF GEONYX",
+    "title": "GEOPOLYMER: THE SCIENCE OF INDESTRUCTIBLE FLOORS.",
+    "description": "We do not simply pour concrete. We create artificial stone through advanced inorganic polymerisation."
+  },
+  "intro": {
+    "title": "WHY GEOPOLYMER?",
+    "body": "GEONYX uses advanced inorganic polymer chemistry. Unlike Portland cement, which relies on hydration, our bonds are formed through polycondensation of aluminosilicates. The result is a floor with exceptional chemical resistance, faster curing and a significantly lower carbon footprint."
+  },
+  "crossSection": {
+    "eyebrow": "AR SCANNER",
+    "title": "SYSTEM X-RAY",
+    "note": "[HOVER TO INSPECT LAYERS]",
+    "layer4name": "TOP COAT: SEALER",
+    "layer4desc": "UV-stable, chemically resistant sealing layer. Anti-slip class R13.",
+    "layer3name": "BODY COAT: GEOPOLYMER",
+    "layer3desc": "Primary load-bearing matrix. Modified quartz and inorganic polymer. Strength > 90 MPa.",
+    "layer2name": "PRIMER: BONDING AGENT",
+    "layer2desc": "Deep-penetrating primer. Creates a molecular bond (Chemical Weld) with the substrate.",
+    "layer1name": "SUBSTRATE: CONCRETE",
+    "layer1desc": "Reinforced concrete substrate (minimum C20/25). Shot-blasted and cleaned."
+  },
+  "chemistry": {
+    "eyebrow": "THE CHEMISTRY",
+    "badge": "Microstructure",
+    "title": "POLYCONDENSATION INSTEAD OF HYDRATION",
+    "body": "Concrete is like a sponge – full of capillaries from evaporated water. GEONYX is different.",
+    "card1title": "Dense structure",
+    "card1body": "The chemical reaction expels water, creating a dense, non-porous 3D lattice.",
+    "card2title": "Mineral origin",
+    "card2body": "We do not use petroleum products (like epoxies). GEONYX is 100% mineral 'artificial stone'."
+  },
+  "speed": {
+    "eyebrow": "SPEED AND EFFICIENCY",
+    "badge": "Fast Polymerisation",
+    "title": "TIME IS MONEY.",
+    "titleHighlight": "LITERALLY.",
+    "body": "Industry cannot wait 28 days for concrete to cure. Our technology enables extremely fast commissioning.",
+    "stat1value": "4–6 HOURS",
+    "stat1label": "Setting time",
+    "stat2value": "24 HOURS",
+    "stat2label": "Full load capacity",
+    "note": "No production interruption"
+  },
+  "resistance": {
+    "eyebrow": "EXTREME RESISTANCE",
+    "badge": "Acid & Fire",
+    "title": "IMMUNITY TO AGGRESSION AND FIRE",
+    "body": "Standard floors surrender to acids and fires. GEONYX is built to survive.",
+    "item1title": "Fire resistance (Class A1)",
+    "item1body": "Unlike epoxies, which burn and emit smoke, GEONYX is mineral and non-combustible up to 1000°C.",
+    "item2title": "Chemical shield",
+    "item2body": "Full resistance to concentrated acids, salts, sulphates and machine oils."
+  },
+  "eco": {
+    "statPrefix": "80% LOWER",
+    "statHighlight": "CARBON FOOTPRINT",
+    "body": "We use industrial by-products and do not require energy-intensive kiln firing like cement. Choosing GEONYX means choosing the future."
+  },
+  "comparison": {
+    "title": "THE FINAL ARGUMENT",
+    "col1": "Property",
+    "col2": "Ordinary Concrete",
+    "col3": "Epoxy (Resin)",
+    "col4": "GEONYX (Geopolymer)",
+    "row1": "Commissioning time",
+    "row1v2": "28 Days (Slow)",
+    "row1v3": "3–7 Days",
+    "row1v4": "24 Hours (Express)",
+    "row2": "Bond type",
+    "row2v2": "Mechanical (Weak)",
+    "row2v3": "Adhesive (Surface)",
+    "row2v4": "Chemical (Monolith)",
+    "row3": "Fire resistance",
+    "row3v2": "Class A1",
+    "row3v3": "Burns (Toxic)",
+    "row3v4": "Non-combustible (Class A1)",
+    "row4": "Acids and Oils",
+    "row4v2": "Absorbs and crumbles",
+    "row4v3": "Softens / Stains",
+    "row4v4": "Full Resistance",
+    "row5": "Wear resistance",
+    "row5v2": "Dusts",
+    "row5v3": "Scratches easily",
+    "row5v4": "Extreme (Dust-free)",
+    "row6": "CO2 Emissions",
+    "row6v2": "High (100%)",
+    "row6v3": "Very High (Petroleum)",
+    "row6v4": "-80% (Green product)"
+  },
+  "cta": {
+    "title": "SCIENCE IS ON YOUR SIDE.",
+    "body": "Contact our engineering team for technical consultation.",
+    "btn": "CONTACT US"
+  }
+}

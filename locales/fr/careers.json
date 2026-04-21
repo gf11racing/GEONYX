@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "GEONYX | Carrières et Développement – Travail dans la Production Industrielle",
+    "description": "Opportunités de carrière chez GEONYX – postes pour ingénieurs, techniciens spécialisés et personnel de production dans le domaine des sols industriels et systèmes minéraux pour infrastructures. Développement professionnel à long terme, formation et participation à des projets industriels stratégiques."
+  },
+  "hero": {
+    "eyebrow": "REJOIGNEZ L'ÉLITE",
+    "titleLine1": "NOUS NE CHERCHONS PAS DES EMPLOYÉS.",
+    "titleLine2": "NOUS CHERCHONS DES",
+    "titleHighlight": "CARACTÈRES",
+    "description1": "GEONYX est une entreprise technologique déguisée en entreprise de construction. Vous ne trouverez pas de truelles et de pelles ici. Nous travaillons avec des systèmes laser, des tablettes et de la chimie.",
+    "description2": "Nous investissons en vous à travers notre",
+    "academyName": "Académie Géopolymère",
+    "description3": ", car personne ne naît sachant tout. Le chemin de l'apprenti au technologue en chef est tracé et dépend uniquement de vos résultats. Pas de favoritisme – uniquement des métriques.",
+    "btnPositions": "VOIR LES POSTES"
+  },
+  "positions": {
+    "sales": {
+      "sector": "Commerce",
+      "eyebrow": "FORCE COMMERCIALE",
+      "title": "REPRÉSENTANT COMMERCIAL TECHNIQUE",
+      "description": "Vous n'êtes pas un vendeur de brochures. Votre mission est de vous plonger dans les conditions les plus difficiles, d'identifier le problème et de réaliser personnellement un test pilote (Demo Application). Vous vendez par la démonstration de la force, pas par des paroles sucrées.",
+      "req1": "Disponibilité pour des déplacements intensifs",
+      "req2": "Compétences techniques",
+      "req3": "Volonté de 'se salir les mains'"
+    },
+    "production": {
+      "sector": "Production",
+      "eyebrow": "LE CŒUR DE LA PRODUCTION",
+      "title": "OPÉRATEUR PRODUCTION & CONTRÔLE QUALITÉ",
+      "description": "Vous gérez la cuisine de GEONYX. C'est ici que la magie naît. Vous êtes responsable de la transformation des matières premières en produit parfait, en opérant des systèmes de dosage et des mélangeurs. Il n'y a pas de place pour l'approximation – tout est au gramme près.",
+      "req1": "Discipline de fer",
+      "req2": "Minutie dans les détails",
+      "req3": "Endurance physique"
+    },
+    "rnd": {
+      "sector": "Innovation",
+      "eyebrow": "CENTRE D'INNOVATION",
+      "title": "INGÉNIEUR R&D – INNOVATION",
+      "description": "GEONYX ne reste pas en place. Nous cherchons un visionnaire capable d'optimiser les formules existantes et de développer de nouveaux produits. Vous êtes la personne qui dit 'ça peut être fait mieux' et le prouve en laboratoire.",
+      "req1": "Connaissances en chimie/matériaux de construction",
+      "req2": "Pensée analytique",
+      "req3": "Esprit d'expérimentation"
+    },
+    "requirementsLabel": "EXIGENCES :",
+    "applyBtn": "POSTULER MAINTENANT"
+  },
+  "form": {
+    "title": "ÊTES-VOUS PRÊT ?",
+    "subtitle": "Si vous vous êtes reconnu dans les lignes ci-dessus, agissez.",
+    "successTitle": "CANDIDATURE REÇUE !",
+    "successDesc": "Merci ! Veuillez envoyer votre CV à",
+    "successEmail": "office@geonyxgroup.com",
+    "successDesc2": "pour compléter le processus.",
+    "successNewBtn": "Envoyer une autre",
+    "labelPosition": "CHOISIR UN POSTE *",
+    "placeholderPosition": "-- Veuillez choisir --",
+    "labelName": "NOM ET PRÉNOM *",
+    "placeholderName": "Jean Dupont",
+    "labelPhone": "TÉLÉPHONE *",
+    "placeholderPhone": "+33 ...",
+    "labelEmail": "EMAIL *",
+    "placeholderEmail": "nom@mail.com",
+    "labelExperience": "Comment votre expérience rendra-t-elle GEONYX plus fort ? *",
+    "placeholderExperience": "Soyez précis. N'utilisez pas de modèles.",
+    "cvLabel": "JOINDRE CV",
+    "cvDesc": "Envoyez votre CV directement à",
+    "cvSubject": "\"Candidature — [Votre Nom]\"",
+    "cvSubjectLabel": "avec pour objet :",
+    "btnSubmitting": "ENVOI...",
+    "btnSubmit": "SOUMETTRE LA CANDIDATURE",
+    "errorGeneral": "Une erreur s'est produite lors de l'envoi. Veuillez réessayer plus tard.",
+    "errorFileSize": "Le fichier est trop volumineux pour être envoyé.",
+    "errorLimit": "Limite d'envoi atteinte. Veuillez nous contacter directement.",
+    "errorUnexpected": "Une erreur inattendue s'est produite. Veuillez vérifier les champs.",
+    "positionSales": "COMMERCIAL",
+    "positionProduction": "PRODUCTION",
+    "positionRnd": "TECHNOLOGUE R&D"
+  }
+}

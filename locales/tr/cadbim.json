@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "GEONYX | CAD & BIM Kütüphanesi – Detaylar, Modeller ve Tasarım Dokümantasyonu",
+    "description": "GEONYX CAD & BIM kütüphanesi; mimari ve endüstriyel tasarım için teknik detaylar, DWG çizimler, Revit aileleri, BIM modeller ve sistem kesitleri içerir. Altyapı ve endüstriyel projelerde tasarımcılar, mühendisler ve BIM koordinatörleri için uygundur."
+  },
+  "hero": {
+    "eyebrow": "ISO 19650 UYUMU",
+    "titleLine1": "DİJİTAL",
+    "titleLine2": "İKİZLER",
+    "description": "VDC ENTEGRASYONU VE PARAMETRİK TASARIM. İlk beton dökümünden önce mutlak hassasiyetle tasarlayın. GEONYX, BIM ortamınıza 'Kavramsal Tasarım'dan 'Tesis Yönetimi'ne kadar (LOD 100 – LOD 500) entegrasyon için optimize edilmiştir.",
+    "btnAccess": "ERİŞİM TALEP ET"
+  },
+  "block2d": {
+    "eyebrow": "2D ÇİZİM",
+    "title": "KRİTİK YAPISAL DÜĞÜMLER",
+    "description": "Uygulama hatası riskini ortadan kaldırın. Ağır sanayi sistemleri en sık kesinti noktalarında arıza yapar. Tüm kritik yapısal düğümler için hazır 2D kesitlerden oluşan standartlaştırılmış bir kütüphane sunuyoruz.",
+    "d1title": "DETAY 01",
+    "d1desc": "Hijyenik kavisli süpürgelik ile 'Duvar-Zemin' bağlantısı (Cove Skirting).",
+    "d2title": "DETAY 02",
+    "d2desc": "Ağır yük lineer drenaj kanallarıyla entegrasyon.",
+    "d3title": "DETAY 03",
+    "d3desc": "Dinamik dilatasyon derzlerinin işlenmesi.",
+    "d4title": "DETAY 04",
+    "d4desc": "Kimyasal bent havuzlarında ikincil muhafaza."
+  },
+  "blockBim": {
+    "eyebrow": "3D PARAMETRELER",
+    "title": "BİLGİ MODELLEMESİ (BIM)",
+    "description": "Sıkı bilgi modelleme gerektiren projeler için Revit (.RFA), ArchiCAD (.LCF) ve açık standart OpenBIM (.IFC) için sistem aileleri sunuyoruz. Modeller, doğru metraj (Quantity Take-offs), ölü yük (Dead Load) analizi ve ısıl iletkenlik hesaplamalarına olanak tanıyan kritik meta verilerle yüklüdür."
+  },
+  "classification": {
+    "eyebrow": "ENTEGRASYON STANDARTLARI",
+    "title": "KÜRESEL SINIFLANDIRMA STANDARTLARI",
+    "description": "Uluslararası kamu ihalelerine hazır. Tüm GEONYX dijital varlıkları, dünya genelinde önde gelen standartlara (Avrupa/İngiltere için UniClass 2015 ve Kuzey Amerika için MasterFormat/OmniClass) göre önceden sınıflandırılmış ve kodlanmıştır. Bu, küresel spesifikasyonlara sorunsuz entegrasyon sağlar."
+  },
+  "lifecycle": {
+    "eyebrow": "6D BIM",
+    "title": "YAŞAM DÖNGÜSÜ YÖNETİMİ",
+    "card1title": "COBie ENTEGRASYONU",
+    "card1desc": "Tesis yönetimi için yapılandırılmış veriler. Hizmet ömrü ve bakım döngüleri.",
+    "card2title": "BAKIM",
+    "card2desc": "Doğrudan dijital ikize gömülü kimyasal temizlik ve denetim protokolleri.",
+    "card3title": "GARANTİ",
+    "card3desc": "Parti izlenebilirliği ve garanti süresi takibiyle dijital sistem pasaportu."
+  },
+  "accessForm": {
+    "eyebrow": "GÜVENLİ VERİ MERKEZİ",
+    "title": "ARŞİV ERİŞİMİ TALEP ET",
+    "description": "Katı sürüm kontrolü nedeniyle CAD/BIM kütüphanesine erişim güvenli bir bağlantı aracılığıyla bireysel olarak oluşturulmaktadır.",
+    "successTitle": "LİSANS YAYIMLANDI",
+    "successDesc": "Kurumsal e-postanıza bir erişim bağlantısı gönderildi.",
+    "successBack": "Geri dön",
+    "labelName": "Mimar / Baş Mühendis Adı *",
+    "labelCompany": "Şirket / Mimarlık Stüdyosu *",
+    "labelProjectType": "Proje Türü *",
+    "labelEnv": "Tercih Edilen Ortam *",
+    "labelEmail": "Bağlantı Almak İçin Kurumsal E-posta *",
+    "placeholderName": "Ad...",
+    "placeholderCompany": "Stüdyo...",
+    "placeholderSelect": "-- Seçiniz --",
+    "placeholderEmail": "arch@studio.com",
+    "optIndustrial": "Endüstriyel",
+    "optMilitary": "Askeri",
+    "optInfrastructure": "Altyapı",
+    "optPharma": "Farma / Temiz Odalar",
+    "optRevit": "Autodesk Revit",
+    "optArchiCAD": "ArchiCAD",
+    "optAutoCAD": "AutoCAD (2D)",
+    "optIFC": "OpenBIM (IFC)",
+    "btnSubmitting": "DOĞRULANYOR...",
+    "btnSubmit": "GÜVENLİ ERİŞİM OLUŞTUR"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Schwerindustrie & Logistik – Böden für extreme mechanische Belastungen",
+    "description": "Böden für Schwerindustrie und Logistik bei extremen mechanischen Belastungen, VNA-Gänge, Gabelstapler, Metallspäne, Öle und heißen Kautschuk. GEONYX ARMOR und GEONYX CHEM planen mineralische Industrieböden mit langer Nutzungsdauer, minimaler Standzeit und geringer Staubentwicklung für Logistikzentren, Metallwerke, Gigafabriken, Bahndepots und schwere Werkstätten."
+  },
+  "tender": {
+    "text": "Die Böden sind als monolithisches Mineralsystem vom Typ GEONYX ARMOR / GEONYX CHEM auszuführen, ausgelegt für extreme industrielle Belastungen in Logistikzentren und Produktionshallen. Das System muss eine Nutzungsdauer von mindestens 20 Jahren, hohe Beständigkeit gegen Abrasion, Schlag und chemische Angriffe, geringe Staubentwicklung und die Möglichkeit lokaler Reparaturen ohne vollständigen Betriebsstopp gewährleisten."
+  },
+  "hero": {
+    "eyebrow": "SCHWERINDUSTRIE & LOGISTIK",
+    "title1": "SCHWERINDUSTRIE",
+    "title2": "& LOGISTIK",
+    "description": "Böden und Systeme für Hallen, die nie stillstehen – Gabelstapler, VNA-Gänge, Paletten, Metallspäne, Öle und schwere Laufkrane. GEONYX plant mineralische Industrieböden für 24/7-Betrieb, geringe Staubentwicklung und minimale Standzeiten bei Reparaturen.",
+    "btn1": "PROJEKT MIT INGENIEUR PLANEN",
+    "btn2": "TECHNISCHE INSPEKTION ANFORDERN",
+    "scope": "UMFANG",
+    "zonesLabel": "ZONEN:",
+    "zone1": "Logistikzentren",
+    "zone2": "VNA-Gänge",
+    "zone3": "Metallbearbeitung",
+    "zone4": "Gigafabriken",
+    "zone5": "Reifenproduktion",
+    "zone6": "Schwere Werkstätten",
+    "zone7": "Bahndepots",
+    "zone8": "Textilfabriken",
+    "zone9": "Druckereien",
+    "zone10": "Rechenzentren",
+    "systemsLabel": "SYSTEME:",
+    "anchorApplications": "↓ WO ES EINGESETZT WIRD",
+    "anchorSystem": "↓ SYSTEMAUSWAHL",
+    "anchorOffer": "↓ ANGEBOTSPAKET"
+  },
+  "manifesto": {
+    "title1": "IN DER SCHWERINDUSTRIE",
+    "title2": "HAT DER BODEN KEINEN SPIELRAUM FÜR FEHLER.",
+    "description": "In Logistikbasen, Werken und Depots dreht sich alles um „Halle + Maschinen + Verkehr + Paletten”. Jeder Millimeter Absenkung, Staub oder gebrochene Fuge wird zu einem realen Risiko – beschädigte Ware, gestoppte Linie, Unfall mit dem Bediener. GEONYX ersetzt Flicken und Farbe durch technisch geplante Mineralsysteme, die mit der Konstruktion zusammenarbeiten – anstatt gegen sie zu kämpfen."
+  },
+  "zigzag": {
+    "problem": "PROBLEM:",
+    "solution": "LÖSUNG:",
+    "suitableSystems": "Geeignete Systeme:",
+    "block1": {
+      "tag": "Logistikzentren",
+      "title": "VNA-GÄNGE & SCHWERER VERKEHR",
+      "problem": "In Logistikzentren ist der Verkehr auf enge VNA-Gänge konzentriert. Jeder Millimeter Unebenheit oder eine abgebröckelte Fuge führt zu Mastvibrationen, instabilen Paletten und Risiken für Bediener und Ladung.",
+      "solution": "GEONYX ARMOR plant den Boden als superebenes, monolithisches Mineralsystem mit kontrollierten Fugen und Tragfähigkeit für hohe dynamische Lasten. Die Oberfläche weist geringe Staubentwicklung und stabile Geometrie für Hochregallager auf.",
+      "systems": "ARMOR"
+    },
+    "block2": {
+      "tag": "Metallbearbeitung",
+      "title": "METALLSPÄNE & ÖLE",
+      "problem": "In der Metallbearbeitung wirken Späne wie Schleifpapier, während Kühlmittel, Emulsionen und Hydrauliköle in den Beton eindringen und ihn aufweichen. Polymerbeschichtungen werden um Maschinen herum eingeschnitten, quellen auf und lösen sich ab.",
+      "solution": "GEONYX kombiniert ARMOR für mechanische Beständigkeit und CHEM für chemischen Schutz. Die Mineralmatrix wird nicht von Spänen 'geschnitten', weicht nicht durch Öle auf und ermöglicht präzises Nivellieren unter CNC-Maschinen und schweren Drehmaschinen.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "Batterie-Gigafabriken",
+      "title": "GIGAFACTORY & ESD-KONTROLLE",
+      "problem": "In Batterie-Gigafabriken sind Staub, statische Elektrizität und Elektrolyte kritische Risiken. Betonstaub verunreinigt Zellen, während unkontrollierter ESD empfindliche Komponenten beschädigen kann.",
+      "solution": "GEONYX ARMOR bietet eine monolithische Oberfläche mit minimaler Staubentwicklung und der Möglichkeit leitfähiger ESD-Konfigurationen. CHEM schützt den Untergrund vor Elektrolyten und chemischen Verschüttungen in Produktions- und Formierungszonen.",
+      "systems": "CHEM"
+    },
+    "block4": {
+      "tag": "Reifenproduktion",
+      "title": "RUSS & HEISSER KAUTSCHUK",
+      "problem": "In der Reifen- und Kautschukproduktion gibt es eine Kombination aus Ruß, hoher Temperatur und Weichmachern. Standard-Polymerbeschichtungen leiden unter 'Hot Tyre Pickup' – Reifen 'ziehen' die Beschichtung bei hoher Temperatur ab.",
+      "solution": "GEONYX ARMOR verwendet eine inerte Mineralmatrix, die nicht mit Kautschuk und Weichmachern reagiert. Der Boden bleibt bei thermischen Zyklen stabil, abrasionsbeständig und leicht von Ruß und schwarzen Spuren zu reinigen.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "Schwere Werkstätten",
+      "title": "SCHWERE LKW-WERKSTÄTTEN",
+      "problem": "In LKW- und Baumaschinen-Werkstätten zerbrechen lokale Belastungen durch Heber, Ständer und Schlagwerkzeuge den Beton. Öle, Kraftstoffe und Bremsflüssigkeiten schwächen die Oberfläche zusätzlich.",
+      "solution": "GEONYX ARMOR plant einen tragfähigen, schlagfesten Boden für Punktlasten, während CHEM vor Öl- und Chemieverschüttungen schützt. REPAIR-Systeme ermöglichen schnelle lokale Reparaturen ohne Abschaltung der gesamten Werkstatt.",
+      "systems": "REPAIR"
+    },
+    "block6": {
+      "tag": "Bahninfrastruktur",
+      "title": "BAHNDEPOTS & WARTUNGSBASEN",
+      "problem": "In Bahndepots und Wartungsbasen konzentrieren Schienen, Radsätze und schwere Bauteile enorme Kräfte auf eine kleine Fläche. Öle, Fett und Metallpartikel beschleunigen den Betonabbau.",
+      "solution": "GEONYX ARMOR verstärkt Zonen um Gruben und Schienen mit einem hochfesten Mineralsystem, das gegen Schlag und Scherung beständig ist. CHEM stellt sicher, dass der Untergrund nicht durch Öle und Kraftstoffe abgebaut wird.",
+      "systems": "ARMOR"
+    },
+    "block7": {
+      "tag": "Textilfabriken",
+      "title": "TEXTIL & FÄRBEREIEN",
+      "problem": "In Textilfabriken und Färbereien dringen Farbstoffe, Säuren und Laugen tief in den Beton ein, erzeugen Flecken und korrodieren die Oberfläche. Nasszonen, Dampf und Feuchtigkeit belasten den Boden zusätzlich.",
+      "solution": "GEONYX CHEM baut eine dichte, chemisch beständige Oberfläche auf, die keine Farbstoffe absorbiert und leicht abzuwaschen ist. HYDRO schützt den Untergrund vor dauerhafter Durchfeuchtung und unterflächlichen Schäden.",
+      "systems": "CHEM"
+    },
+    "block8": {
+      "tag": "Druckereien",
+      "title": "DRUCKEREIEN & POLYGRAPHIE",
+      "problem": "Druckfarben, Lösungsmittel und schwere Rollenmaschinen erfordern einen Boden, der gleichzeitig chemisch beständig, antistatisch und mit sehr geringer Staubentwicklung ist.",
+      "solution": "GEONYX kombiniert ARMOR für eine superebene, stabile Basis und CHEM für Beständigkeit gegen Farben und Lösungsmittel. Die Oberfläche bleibt sauber, staubfrei und ohne Einfluss auf die Druckqualität.",
+      "systems": "CHEM"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "colParam": "PARAMETER",
+    "colStd": "Standard-Industriebeton",
+    "colEpoxy": "Epoxidbeschichtung",
+    "row1": "Nutzungsdauer",
+    "row2": "Geplante Abschaltungen (10 J.)",
+    "row3": "Beständigkeit gegen Späne & Ketten",
+    "row4": "Staubentwicklung",
+    "row5": "Gesamt-TCO (10 J.)",
+    "val1geonyx": "≥ 20 Jahre",
+    "val1std": "5–7 Jahre",
+    "val1epoxy": "7–10 Jahre",
+    "val2geonyx": "1–2 lokale Reparaturen",
+    "val2std": "Häufige Flickstellen und Fugen",
+    "val2epoxy": "Vollständige Erneuerung von Zonen",
+    "val3geonyx": "Mineralmatrix, keine tiefen Schnitte",
+    "val3std": "Schnelles Absplittern",
+    "val3epoxy": "Oberflächenschnitte und Ablösung",
+    "val4geonyx": "Sehr gering",
+    "val4std": "Hoch",
+    "val4epoxy": "Mittel",
+    "val5geonyx": "Optimiert – am niedrigsten",
+    "val5std": "Hohe versteckte Kosten",
+    "val5epoxy": "Hoher Anfangspreis + Reparaturen"
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "WO ES EINGESETZT WIRD",
+    "subtitle": "Alle typischen 'Halle + Maschinen + Verkehr + Paletten' Szenarien – von Logistikzentren und Werken bis zu Bahndepots und Rechenzentren.",
+    "a1title": "Logistikzentren & 3PL",
+    "a1desc": "VNA-Gänge, Regalbereiche, Rampen und Laderampen mit kontinuierlichem Gabelstaplerverkehr.",
+    "a2title": "Metallbearbeitung & Maschinenfabriken",
+    "a2desc": "Schwere Maschinen, Späne, Kühlmittel, Öle und dynamische Belastungen.",
+    "a3title": "Reifen- & Kautschukproduktion",
+    "a3desc": "Heißer Kautschuk, Ruß, Weichmacher und hohe Temperaturzyklen.",
+    "a4title": "Schwere LKW- & Gerätewerkstätten",
+    "a4desc": "Heber, Ständer, Schlagbelastungen und ständige Ölverschüttungen.",
+    "a5title": "Bahndepots & Wartungsbasen",
+    "a5desc": "Schienen, Radsätze, schwere Bauteile und eine Kombination aus mechanischen und chemischen Belastungen.",
+    "a6title": "Textilfabriken & Färbereien",
+    "a6desc": "Organische und anorganische Farbstoffe, Feuchtigkeit, Dampf und Nassprozesse.",
+    "a7title": "Druckereien & Polygraphie",
+    "a7desc": "Farben, Lösungsmittel, schwere Maschinen und die Anforderung sauberer, staubfreier Oberflächen.",
+    "a8title": "Rechenzentren",
+    "a8desc": "Staubfreie, antistatische Böden mit hoher Tragfähigkeit für IT-Schränke und USV."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "GEONYX SYSTEMAUSWAHL",
+    "subtitle": "Die Systemauswahl hängt von der Kombination aus mechanischer Belastung, chemischem Angriff und Anforderungen an Temperatur, ESD und Hygiene ab. GEONYX konfiguriert Lösungen zonenweise – anstatt 'eine Beschichtung für alle'.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Primäres tragendes System für Industriehallenboden – VNA-Gänge, Rampen, Zonen unter Regalen, unter schweren Maschinen und Kranen. Ausgelegt für extreme Abrasion, Schlag und Punktlasten.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Mineralisch chemisch beständiges System für Zonen mit Ölen, Emulsionen, Lösungsmitteln, Elektrolyten und Farbstoffen. Geeignet für Metallbearbeitung, Färbereien, Druck und EV-Produktion.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Wird in Zonen mit thermischen Spitzen, Funken und lokaler Erwärmung eingesetzt – rund um Öfen, Trockner, heißen Kautschuk und thermische Prozesse.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Schutz des Untergrunds vor Feuchtigkeit, kapillarem Aufstieg und industriellen Leckagen in Erd- und Untergeschossbereichen von Hallen und Depots.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Hochfeste Reparaturlösungen für Fugen, Gruben, gebrochene Kanten und lokale Defekte – ohne Stillstand der gesamten Linie."
+  },
+  "workflow": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "w1step": "01",
+    "w1title": "Lastdiagnose",
+    "w1desc": "Erfassung von Daten zu Verkehr, Achslasten, chemischer Umgebung, Temperaturen und erwarteter Nutzungsdauer.",
+    "w2step": "02",
+    "w2title": "Labor- & Feldanalyse",
+    "w2desc": "Untersuchung des vorhandenen Betons, Feuchtigkeit, Risse und Tragfähigkeit. Bestimmung kritischer Zonen.",
+    "w3step": "03",
+    "w3title": "Ingenieurtechnischer Systementwurf",
+    "w3desc": "Entwurf der Fugengeometrie, Dicken, Bewehrung und Auswahl der ARMOR / CHEM / THERM / HYDRO Systeme nach Zone.",
+    "w4step": "04",
+    "w4title": "Pilotbereich",
+    "w4desc": "Ausführung einer Kontrollzone unter realen Bedingungen, Test der Betriebsparameter und Teamschulung.",
+    "w5step": "05",
+    "w5title": "Hauptausführung",
+    "w5desc": "Sektorweise Phasierung, Qualitätskontrolle, Abnahmeprotokolle und Minimierung der Ausfallzeit.",
+    "w6step": "06",
+    "w6title": "Audit, Garantie & Wartung",
+    "w6desc": "Abschließendes Ingenieuraudit, Garantiebedingungen und Plan für Inspektionen und schnelle REPAIR-Eingriffe."
+  },
+  "offer": {
+    "eyebrow": "KAUFMÄNNISCHE DOKUMENTATION",
+    "title": "ANGEBOTSPAKET",
+    "subtitle": "(B2B / B2G)",
+    "description": "Wir bereiten ein vollständiges Dokumentationspaket für Investoren, Logistikzentrumsbetreiber, Industrieparks und öffentliche Auftraggeber vor – fertig für die Aufnahme in Ausschreibungsverfahren und technische Aufgaben.",
+    "qualityLabel": "QUALITÄTSGARANTIE",
+    "qualityDesc": "Alle Dokumente entsprechen EN 1504 und nationalen Normen.",
+    "doc1": "Technische Datenblätter und TDS für ausgewählte Systeme",
+    "doc2": "Statische und betriebliche Lastklassen",
+    "doc3": "Fugen-, Rampen- und VNA-Gang-Details",
+    "doc4": "Empfehlungen zur Untergrundvorbereitung und REPAIR-Protokolle",
+    "doc5": "HSEQ-Dokumentation und Sicherheitsanweisungen",
+    "doc6": "Muster-Ausschreibungstexte (B2B / B2G)",
+    "copyBtn": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copiedBtn": "TEXT KOPIERT!"
+  },
+  "docs": {
+    "title": "Dokumentation",
+    "d1title": "GEONYX ARMOR – TDS",
+    "d1sub": "Technisches Datenblatt (PDF)",
+    "d2title": "GEONYX CHEM – TDS",
+    "d2sub": "Chemische Beständigkeit (PDF)",
+    "d3title": "VNA Floors Guide",
+    "d3sub": "Planungshandbuch (PDF)",
+    "d4title": "Heavy Industry Specs",
+    "d4sub": "Muster-Ausschreibungstexte (PDF)"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1title": "WIE VIEL AUSFALLZEIT WIRD FÜR DEN BODENWECHSEL IN EINEM ARBEITENDEN LOGISTIKZENTRUM BENÖTIGT?",
+    "q1answer": "Wir planen sektorweise Phasierung mit Nacht- und Wochenendintervallen. Durch REPAIR und schnell aushärtende Systeme begrenzen wir den vollständigen Stillstand in der Regel auf einzelne Abschnitte, ohne das gesamte Zentrum zu stoppen.",
+    "q2title": "WARUM EIN MINERALSYSTEM ANSTELLE EINER EPOXIDBESCHICHTUNG WÄHLEN?",
+    "q2answer": "Epoxid funktioniert wie Farbe auf Beton – bei Schlag, Spänen und heißen Reifen wird es eingeschnitten und löst sich ab. GEONYX ist ein Mineralsystem, das eins mit dem Untergrund wird, extremer Abrasion standhält und durch Öle und Temperatur nicht aufweicht.",
+    "q3title": "KÖNNEN WIR VERSCHIEDENE SYSTEME IN EINER HALLE KOMBINIEREN?",
+    "q3answer": "Ja. Der typische Ansatz ist ARMOR in den Hauptverkehrszonen, CHEM rund um Maschinen und Nassprozesse, THERM bei thermischen Spitzen und HYDRO in Erd-/Untergeschossbereichen. So optimieren wir den TCO und verlängern die Lebensdauer des gesamten Objekts."
+  },
+  "cta": {
+    "title": "UMFASSENDE STANDORTZONIERUNG",
+    "description": "Jedes Objekt hat spezifische Risiken. Wir integrieren 6 spezialisierte Matrizen in ein System: von Mechanik, Chemie und Thermoshock bis zu Abdichtung, Antistatik und Architektur.",
+    "btn": "ALLE INGENIEURSYSTEME ANSEHEN"
+  }
+}

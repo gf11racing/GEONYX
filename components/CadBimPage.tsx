@@ -3,23 +3,25 @@ import React, { useEffect, useState } from 'react';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Button } from './Button';
-import { 
-  Cuboid, FileCode, Database, Send, Layers, Box, CheckCircle, Lock, 
+import {
+  Cuboid, FileCode, Database, Send, Layers, Box, CheckCircle, Lock,
   Settings, Globe, RefreshCw, PenTool, Layout, FileText, ArrowRight
 } from 'lucide-react';
 import { SafeImage } from './SafeImage';
+import { useTranslation } from 'react-i18next';
 
 export const CadBimPage: React.FC = () => {
+  const { t } = useTranslation('cadbim');
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    document.title = "GEONYX | CAD & BIM Библиотека – Детайли, модели и проектантска документация";
+    document.title = t('meta.title');
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
-        metaDescription.setAttribute('content', "GEONYX CAD & BIM библиотека с технически детайли, DWG чертежи, Revit фамилии, BIM модели и системни сечения за архитектурно и индустриално проектиране. Подходяща за проектанти, инженери и BIM координатори в инфраструктурни и индустриални обекти.");
+        metaDescription.setAttribute('content', t('meta.description'));
     }
-  }, []);
+  }, [t]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -41,41 +43,37 @@ export const CadBimPage: React.FC = () => {
         @keyframes dash-draw { to { stroke-dashoffset: 0; } }
       `}</style>
 
-      {/* 1. HERO SECTION (DIGITAL TWIN READY) */}
+      {/* 1. HERO SECTION */}
       <section className="relative min-h-[85vh] flex items-center justify-center border-b border-[#222] overflow-hidden bg-black">
-        {/* Visual Context */}
         <div className="absolute inset-0 z-0">
-          <SafeImage 
-            src="/GEONYX-CAD-BIM.webp" 
+          <SafeImage
+            src="/GEONYX-CAD-BIM.webp"
             fallbackSrc="/GEONYX-CAD-BIM.webp"
-            alt="3D Wireframe Model" 
+            alt="3D Wireframe Model"
             className="w-full h-full object-cover opacity-60"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#0F0F0F] via-[#0F0F0F]/60 to-transparent"></div>
-          {/* Tech Grid Overlay - Removed per Clean Image Lock, but soft gradient remains */}
         </div>
 
         <div className="relative z-10 container mx-auto px-6 text-left pt-20">
-             {/* Style Line - Left Aligned */}
             <div className="flex items-center justify-start gap-3 mb-8 page-animate-tag">
                 <div className="h-[2px] w-12 bg-geo-yellow shadow-[0_0_15px_#FFCC00]"></div>
-                <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">ISO 19650 СЪОТВЕТСТВИЕ</span>
+                <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('hero.eyebrow')}</span>
             </div>
-            
+
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-[1.1] mb-6 uppercase tracking-tighter drop-shadow-2xl max-w-6xl page-animate-title">
-              ДИГИТАЛНИ <br/>
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-geo-yellow to-yellow-600">ДВОЙНИЦИ</span>
+              {t('hero.titleLine1')} <br/>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-geo-yellow to-yellow-600">{t('hero.titleLine2')}</span>
             </h1>
 
             <p className="text-xl md:text-2xl text-gray-300 mb-12 font-light max-w-4xl leading-relaxed border-l-4 border-geo-yellow pl-6 py-2 bg-black/30 backdrop-blur-sm page-animate-desc">
-              VDC ИНТЕГРАЦИЯ И ПАРАМЕТРИЧНО ПРОЕКТИРАНЕ. <br className="hidden md:block"/>
-              Проектирайте с абсолютна точност преди първото изливане на бетона. GEONYX е оптимизиран за внедряване във вашата BIM среда от фаза 'Концептуален дизайн' до 'Фасилити мениджмънт' (LOD 100 - LOD 500).
+              {t('hero.description')}
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 page-animate-buttons">
                 <a href="#access-form">
                     <button className="h-12 px-8 flex items-center justify-center gap-2 border border-white/30 text-white text-sm font-bold tracking-wide transition-all hover:bg-geo-yellow hover:text-black hover:border-geo-yellow uppercase group">
-                        ЗАЯВИ ДОСТЪП
+                        {t('hero.btnAccess')}
                         <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </button>
                 </a>
@@ -88,11 +86,11 @@ export const CadBimPage: React.FC = () => {
         <section className="flex flex-col lg:flex-row w-full min-h-[700px] border-b border-[#222]">
             {/* Image Column */}
             <div className="w-full lg:w-1/2 relative min-h-[400px] bg-black group overflow-hidden">
-                <SafeImage 
-                    src="/GEONYX-CAD-BIM1.webp" 
+                <SafeImage
+                    src="/GEONYX-CAD-BIM1.webp"
                     fallbackSrc="/GEONYX-CAD-BIM1.webp"
-                    alt="Technical CAD Drawing Screen" 
-                    className="absolute inset-0 w-full h-full object-cover opacity-80" 
+                    alt="Technical CAD Drawing Screen"
+                    className="absolute inset-0 w-full h-full object-cover opacity-80"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/30 to-transparent"></div>
 
@@ -107,36 +105,36 @@ export const CadBimPage: React.FC = () => {
                 <div className="mb-8">
                      <div className="flex items-center gap-3 mb-2">
                         <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                        <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">
-                             2D ПРОЕКТИРАНЕ
+                        <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                             {t('block2d.eyebrow')}
                         </span>
                     </div>
                     <h3 className="text-3xl md:text-4xl font-black text-white uppercase leading-tight">
-                        КРИТИЧНИ <br/> КОНСТРУКТИВНИ ВЪЗЛИ
+                        {t('block2d.title')}
                     </h3>
                 </div>
 
                 <div className="space-y-8">
                     <p className="text-gray-400 text-lg leading-relaxed border-l-2 border-[#333] pl-6">
-                        Елиминирайте риска от грешки в изпълнението. Системите за тежка индустрия дефектират най-често в точките на прекъсване. Предоставяме стандартизирана библиотека от готови 2D разрези за всички критични конструктивни възли.
+                        {t('block2d.description')}
                     </p>
 
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                         <div className="bg-[#1a1a1a] p-4 border border-[#333] hover:border-geo-yellow transition-colors group cursor-default">
-                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">ДЕТАЙЛ 01</h4>
-                            <p className="text-gray-500 text-[11px]">Връзка "Стена-Под" с хигиенен холкер (Cove Skirting).</p>
+                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">{t('block2d.d1title')}</h4>
+                            <p className="text-gray-500 text-[11px]">{t('block2d.d1desc')}</p>
                         </div>
                         <div className="bg-[#1a1a1a] p-4 border border-[#333] hover:border-geo-yellow transition-colors group cursor-default">
-                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">ДЕТАЙЛ 02</h4>
-                            <p className="text-gray-500 text-[11px]">Интеграция с тежкотоварни линейни сифони.</p>
+                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">{t('block2d.d2title')}</h4>
+                            <p className="text-gray-500 text-[11px]">{t('block2d.d2desc')}</p>
                         </div>
                         <div className="bg-[#1a1a1a] p-4 border border-[#333] hover:border-geo-yellow transition-colors group cursor-default">
-                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">ДЕТАЙЛ 03</h4>
-                            <p className="text-gray-500 text-[11px]">Обработка на динамични дилатационни фуги.</p>
+                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">{t('block2d.d3title')}</h4>
+                            <p className="text-gray-500 text-[11px]">{t('block2d.d3desc')}</p>
                         </div>
                         <div className="bg-[#1a1a1a] p-4 border border-[#333] hover:border-geo-yellow transition-colors group cursor-default">
-                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">ДЕТАЙЛ 04</h4>
-                            <p className="text-gray-500 text-[11px]">Вторична херметизация при химически обваловки.</p>
+                            <h4 className="text-white font-bold uppercase text-xs mb-1 group-hover:text-geo-yellow">{t('block2d.d4title')}</h4>
+                            <p className="text-gray-500 text-[11px]">{t('block2d.d4desc')}</p>
                         </div>
                     </div>
                 </div>
@@ -147,11 +145,11 @@ export const CadBimPage: React.FC = () => {
         <section className="flex flex-col lg:flex-row-reverse w-full min-h-[700px] border-b border-[#222]">
             {/* Image Column */}
             <div className="w-full lg:w-1/2 relative min-h-[400px] bg-black group overflow-hidden">
-                <SafeImage 
-                    src="/GEONYX-INFORMATION-MODELING.webp" 
+                <SafeImage
+                    src="/GEONYX-INFORMATION-MODELING.webp"
                     fallbackSrc="/GEONYX-INFORMATION-MODELING.webp"
-                    alt="BIM Model Visualization" 
-                    className="absolute inset-0 w-full h-full object-cover opacity-80" 
+                    alt="BIM Model Visualization"
+                    className="absolute inset-0 w-full h-full object-cover opacity-80"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/30 to-transparent"></div>
 
@@ -166,18 +164,18 @@ export const CadBimPage: React.FC = () => {
                 <div className="mb-8">
                      <div className="flex items-center gap-3 mb-2">
                         <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                        <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">
-                             3D ПАРАМЕТРИ
+                        <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                             {t('blockBim.eyebrow')}
                         </span>
                     </div>
                     <h3 className="text-3xl md:text-4xl font-black text-white uppercase leading-tight">
-                        ИНФОРМАЦИОННО <br/> МОДЕЛИРАНЕ (BIM)
+                        {t('blockBim.title')}
                     </h3>
                 </div>
 
                 <div className="space-y-8">
                     <p className="text-gray-400 text-lg leading-relaxed border-l-2 border-[#333] pl-6">
-                        За проектите, изискващи стриктно информационно моделиране, предоставяме системни фамилии за Revit (.RFA), ArchiCAD (.LCF) и отворен стандарт OpenBIM (.IFC). Моделите са заредени с критична мета-информация, позволяваща точни изчисления (Quantity Take-offs), анализ на мъртвото тегло (Dead Load) и термична проводимост.
+                        {t('blockBim.description')}
                     </p>
 
                     <div className="flex flex-wrap gap-4 text-xs font-bold uppercase tracking-widest">
@@ -197,15 +195,15 @@ export const CadBimPage: React.FC = () => {
                    <div>
                        <div className="flex items-center gap-3 mb-2">
                             <div className="h-[2px] w-6 bg-geo-yellow"></div>
-                            <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">
-                                СТАНДАРТИ ЗА ИНТЕГРАЦИЯ
+                            <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                                {t('classification.eyebrow')}
                             </span>
                        </div>
                        <h2 className="text-3xl md:text-4xl font-black text-white uppercase leading-tight mb-6">
-                           ГЛОБАЛНИ СТАНДАРТИ <br/> ЗА КЛАСИФИКАЦИЯ
+                           {t('classification.title')}
                        </h2>
                        <p className="text-gray-400 text-lg leading-relaxed mb-8">
-                           Готови за международни държавни поръчки. Всички дигитални активи на GEONYX са предварително класифицирани и кодирани съгласно водещите световни стандарти (UniClass 2015 за Европа/UK и MasterFormat/OmniClass за Северна Америка). Това гарантира безпроблемна интеграция в глобални спецификации.
+                           {t('classification.description')}
                        </p>
                        <div className="flex gap-6">
                             <div className="border border-[#333] p-4 w-full text-center group hover:border-geo-yellow transition-colors">
@@ -241,9 +239,9 @@ export const CadBimPage: React.FC = () => {
       <section className="py-24 bg-[#080808] border-b border-[#222]">
           <div className="container mx-auto px-6 md:px-10">
               <div className="max-w-4xl mx-auto text-center mb-12">
-                   <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs mb-2 block">6D BIM</span>
+                   <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm mb-2 block">{t('lifecycle.eyebrow')}</span>
                    <h2 className="text-3xl md:text-4xl font-black text-white uppercase leading-tight">
-                       УПРАВЛЕНИЕ НА ЖИЗНЕНИЯ ЦИКЪЛ
+                       {t('lifecycle.title')}
                    </h2>
                    <div className="w-24 h-1 bg-geo-yellow mx-auto mt-6 mb-8"></div>
               </div>
@@ -251,18 +249,18 @@ export const CadBimPage: React.FC = () => {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                   <div className="bg-[#111] border-l-4 border-geo-yellow p-8">
                       <RefreshCw className="w-8 h-8 text-geo-yellow mb-4" />
-                      <h4 className="text-white font-bold uppercase mb-2">COBie ИНТЕГРАЦИЯ</h4>
-                      <p className="text-gray-400 text-sm">Структурирани данни за фасилити мениджмънт. Експлоатационен живот и цикли на поддръжка.</p>
+                      <h4 className="text-white font-bold uppercase mb-2">{t('lifecycle.card1title')}</h4>
+                      <p className="text-gray-400 text-sm">{t('lifecycle.card1desc')}</p>
                   </div>
                   <div className="bg-[#111] border-l-4 border-geo-yellow p-8">
                       <Settings className="w-8 h-8 text-geo-yellow mb-4" />
-                      <h4 className="text-white font-bold uppercase mb-2">ПОДДРЪЖКА</h4>
-                      <p className="text-gray-400 text-sm">Протоколи за химическо почистване и инспекция, вградени директно в дигиталния двойник.</p>
+                      <h4 className="text-white font-bold uppercase mb-2">{t('lifecycle.card2title')}</h4>
+                      <p className="text-gray-400 text-sm">{t('lifecycle.card2desc')}</p>
                   </div>
                   <div className="bg-[#111] border-l-4 border-geo-yellow p-8">
                       <FileText className="w-8 h-8 text-geo-yellow mb-4" />
-                      <h4 className="text-white font-bold uppercase mb-2">ГАРАНЦИЯ</h4>
-                      <p className="text-gray-400 text-sm">Дигитален паспорт на системата с проследимост на партидите и гаранционните срокове.</p>
+                      <h4 className="text-white font-bold uppercase mb-2">{t('lifecycle.card3title')}</h4>
+                      <p className="text-gray-400 text-sm">{t('lifecycle.card3desc')}</p>
                   </div>
               </div>
           </div>
@@ -271,26 +269,26 @@ export const CadBimPage: React.FC = () => {
       {/* 6. BLOCK 5: THE ACCESS PORTAL */}
       <section className="py-24 bg-[#0a0a0a] relative overflow-hidden" id="access-form">
           <div className="absolute inset-0">
-             <SafeImage 
+             <SafeImage
                 src="/GEONYX-B2B-B2G.webp"
                 fallbackSrc="/GEONYX-B2B-B2G.webp"
                 alt="Background"
                 className="w-full h-full object-cover opacity-10"
              />
           </div>
-          
+
           <div className="container mx-auto px-6 md:px-10 max-w-3xl relative z-10">
-              
+
               <div className="bg-[#111] border border-[#333] p-8 md:p-16 shadow-[0_0_50px_rgba(0,0,0,0.5)]">
-                  
+
                   <div className="text-center mb-12">
                       <div className="inline-flex items-center justify-center p-4 bg-[#1A1A1A] rounded-full border border-[#333] mb-6">
                           <Lock className="w-8 h-8 text-geo-yellow" />
                       </div>
-                      <span className="text-gray-500 font-bold uppercase tracking-[0.2em] text-xs mb-2 block">ЗАЩИТЕН ЦЕНТЪР ЗА ДАННИ</span>
-                      <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-4">ЗАЯВЕТЕ ДОСТЪП ДО АРХИВА</h2>
+                      <span className="text-gray-500 font-black uppercase tracking-[0.3em] text-xs md:text-sm mb-2 block">{t('accessForm.eyebrow')}</span>
+                      <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-4">{t('accessForm.title')}</h2>
                       <p className="text-gray-400 max-w-xl mx-auto text-sm">
-                          Поради стриктния контрол на версиите (Version Control), достъпът до CAD/BIM библиотеката се генерира индивидуално чрез защитен линк.
+                          {t('accessForm.description')}
                       </p>
                   </div>
 
@@ -299,88 +297,88 @@ export const CadBimPage: React.FC = () => {
                           <div className="w-20 h-20 bg-green-900/20 rounded-full flex items-center justify-center mb-6 border border-green-500/30">
                               <CheckCircle className="w-10 h-10 text-green-500" />
                           </div>
-                          <h3 className="text-2xl font-bold text-white mb-2">ЛИЦЕНЗЪТ Е ИЗДАДЕН</h3>
-                          <p className="text-gray-400 mb-6">Линк за достъп е изпратен на вашия корпоративен имейл.</p>
-                          <button 
+                          <h3 className="text-2xl font-bold text-white mb-2">{t('accessForm.successTitle')}</h3>
+                          <p className="text-gray-400 mb-6">{t('accessForm.successDesc')}</p>
+                          <button
                             onClick={() => setFormState('idle')}
                             className="text-geo-yellow font-bold uppercase text-xs border-b border-geo-yellow hover:text-white hover:border-white transition-colors pb-1"
                           >
-                              Върни се обратно
+                              {t('accessForm.successBack')}
                           </button>
                       </div>
                   ) : (
                       <form onSubmit={handleSubmit} className="space-y-8">
-                          
+
                           <div className="grid grid-cols-1 gap-6">
                               <div className="group">
-                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">Име на Архитект / Главен Инженер *</label>
-                                  <input 
+                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">{t('accessForm.labelName')}</label>
+                                  <input
                                     type="text" required
                                     className="w-full bg-[#0F0F0F] border-b border-[#333] py-3 text-white focus:outline-none focus:border-geo-yellow transition-colors placeholder-gray-700"
-                                    placeholder="Име..."
+                                    placeholder={t('accessForm.placeholderName')}
                                   />
                               </div>
-                              
+
                               <div className="group">
-                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">Компания / Архитектурно Студио *</label>
-                                  <input 
+                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">{t('accessForm.labelCompany')}</label>
+                                  <input
                                     type="text" required
                                     className="w-full bg-[#0F0F0F] border-b border-[#333] py-3 text-white focus:outline-none focus:border-geo-yellow transition-colors placeholder-gray-700"
-                                    placeholder="Студио..."
+                                    placeholder={t('accessForm.placeholderCompany')}
                                   />
                               </div>
                           </div>
 
                           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                <div className="group">
-                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">Тип на проекта *</label>
+                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">{t('accessForm.labelProjectType')}</label>
                                   <div className="relative">
-                                      <select 
+                                      <select
                                         required
                                         className="w-full bg-[#0F0F0F] border-b border-[#333] py-3 text-white appearance-none focus:outline-none focus:border-geo-yellow transition-colors cursor-pointer"
                                       >
-                                          <option value="" disabled selected>-- Изберете --</option>
-                                          <option value="industrial">Индустриален</option>
-                                          <option value="military">Военен</option>
-                                          <option value="infrastructure">Инфраструктурен</option>
-                                          <option value="pharma">Фармация / Чисти стаи</option>
+                                          <option value="" disabled>{t('accessForm.placeholderSelect')}</option>
+                                          <option value="industrial">{t('accessForm.optIndustrial')}</option>
+                                          <option value="military">{t('accessForm.optMilitary')}</option>
+                                          <option value="infrastructure">{t('accessForm.optInfrastructure')}</option>
+                                          <option value="pharma">{t('accessForm.optPharma')}</option>
                                       </select>
                                   </div>
                               </div>
 
                               <div className="group">
-                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">Предпочитана среда *</label>
+                                  <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">{t('accessForm.labelEnv')}</label>
                                   <div className="relative">
-                                      <select 
+                                      <select
                                         required
                                         className="w-full bg-[#0F0F0F] border-b border-[#333] py-3 text-white appearance-none focus:outline-none focus:border-geo-yellow transition-colors cursor-pointer"
                                       >
-                                          <option value="" disabled selected>-- Изберете --</option>
-                                          <option value="revit">Autodesk Revit</option>
-                                          <option value="archicad">ArchiCAD</option>
-                                          <option value="autocad">AutoCAD (2D)</option>
-                                          <option value="ifc">OpenBIM (IFC)</option>
+                                          <option value="" disabled>{t('accessForm.placeholderSelect')}</option>
+                                          <option value="revit">{t('accessForm.optRevit')}</option>
+                                          <option value="archicad">{t('accessForm.optArchiCAD')}</option>
+                                          <option value="autocad">{t('accessForm.optAutoCAD')}</option>
+                                          <option value="ifc">{t('accessForm.optIFC')}</option>
                                       </select>
                                   </div>
                               </div>
                           </div>
 
                           <div className="group">
-                              <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">Корпоративен Email за получаване на линк *</label>
-                              <input 
+                              <label className="block text-xs font-bold text-gray-500 uppercase tracking-wider mb-2">{t('accessForm.labelEmail')}</label>
+                              <input
                                 type="email" required
                                 className="w-full bg-[#0F0F0F] border-b border-[#333] py-3 text-white focus:outline-none focus:border-geo-yellow transition-colors placeholder-gray-700"
-                                placeholder="arch@studio.com"
+                                placeholder={t('accessForm.placeholderEmail')}
                               />
                           </div>
 
                           <div className="pt-6">
-                              <button 
-                                type="submit" 
+                              <button
+                                type="submit"
                                 className="w-full h-12 px-8 flex items-center justify-center gap-2 border border-white/30 text-white text-sm font-bold tracking-wide transition-all hover:bg-geo-yellow hover:text-black hover:border-geo-yellow uppercase group"
                                 disabled={formState === 'submitting'}
                               >
-                                  {formState === 'submitting' ? 'ВАЛИДИРАНЕ...' : 'ГЕНЕРИРАЙ СИГУРЕН ДОСТЪП'} <Send className="ml-3 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                                  {formState === 'submitting' ? t('accessForm.btnSubmitting') : t('accessForm.btnSubmit')} <Send className="ml-3 w-4 h-4 group-hover:translate-x-1 transition-transform" />
                               </button>
                           </div>
                       </form>

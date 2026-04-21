@@ -1,11 +1,12 @@
 
 import React, { useEffect, useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Button } from './Button';
-import { 
-  Flame, Thermometer, Snowflake, Zap, 
-  ArrowRight, FileText, Download, HelpCircle, ShieldCheck, 
+import {
+  Flame, Thermometer, Snowflake, Zap,
+  ArrowRight, FileText, Download, HelpCircle, ShieldCheck,
   Activity, AlertTriangle, Check, Scale,
   Droplets, Utensils, Factory, Layers, Sparkles, ClipboardList,
   BarChart3, TrendingUp, CheckCircle, Copy, BookOpen,
@@ -15,119 +16,38 @@ import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { SafeImage } from './SafeImage';
+import { useLang } from '../hooks/useLang';
 
 const DIAGNOSTICS_DATA = [
-    {
-        id: 1,
-        title: "ТЕРМОШОК ОТ ПАРА",
-        problem: "Почистване с пара 120°C върху студен под кара епоксидните настилки да се напукат и отлепят мигновено.",
-        solution: "GEONYX THERM има термично разширение, близко до това на бетона и запазва връзката при повтарящи се цикли пара–студ.",
-        icon: Thermometer,
-        image: "/GEONYX-THERM-GEONYX-THERM.webp"
-    },
-    {
-        id: 2,
-        title: "РАЗТОПЕН МЕТАЛ И ИСКРИ",
-        problem: "Пръски от заваряване и леярски процеси (700°C+) прогарят полимерните подове и създават риск от пожар.",
-        solution: "Минерална матрица, устойчива на директен контакт с огън и разтопен метал, без запалване и без деформация.",
-        icon: Flame,
-        image: "/GEONYX-THERM-MOLTEN-METAL-AND-SPARKS.webp"
-    },
-    {
-        id: 3,
-        title: "ШОКОВО ЗАМРАЗЯВАНЕ",
-        problem: "При -40°C стандартните покрития стават крехки, напукват се от вибрации и механично натоварване.",
-        solution: "GEONYX THERM запазва носимоспособност и микрo-еластичност при криогенни условия и чести цикли замразяване–размразяване.",
-        icon: Snowflake,
-        image: "/GEONYX-THERM-SHOCK-FREEZING.webp"
-    },
-    {
-        id: 4,
-        title: "ПОЖАРНА БЕЗОПАСНОСТ И ДИМ",
-        problem: "В случай на пожар синтетичните настилки отделят гъст токсичен дим и отровни газове.",
-        solution: "GEONYX THERM е клас A1fl – негорим, без принос към пожара и без отделяне на дим и токсични изпарения.",
-        icon: ShieldCheck,
-        image: "/GEONYX-THERM-FIRE-SAFETY.webp"
-    },
-    {
-        id: 5,
-        title: "ГОРЕЩО ОЛИО И МАЗНИНИ",
-        problem: "Врящи мазнини (180°C) и масла в хранителната индустрия разяждат бетона и полимерните слоеве.",
-        solution: "Плътна минерална структура, която не позволява проникване на мазнини и остава стабилна при високи температури и химия.",
-        icon: Droplets,
-        image: "/GEONYX-THERM-HOT-OIL.webp"
-    },
-    {
-        id: 6,
-        title: "ЕКЗОТЕРМИЧНИ ПРОЦЕСИ",
-        problem: "Химически реакции в реактори и вани могат за секунди да повишат температурата до стотици градуси.",
-        solution: "GEONYX THERM е проектиран за краткотрайни температурни пикове до 1200°C, без загуба на адхезия към бетона.",
-        icon: Activity,
-        image: "/GEONYX-THERM-EXOTHERMIC.webp"
-    },
-    {
-        id: 7,
-        title: "СТЕРИЛИЗАЦИЯ И CIP",
-        problem: "Автоклавиране, гореща вода под налягане и агресивни препарати разрушават фугите и слабите зони.",
-        solution: "Монолитна безфугова система, устойчива на CIP режими, парно миене и дезинфекция в чисти помещения и храни.",
-        icon: Sparkles,
-        image: "/GEONYX-THERM-STERILIZATION.webp"
-    },
-    {
-        id: 8,
-        title: "ИСКРООБРАЗУВАНЕ В ATEX ЗОНИ",
-        problem: "Механични искри при удар в зони с газ или прах могат да стартират експлозия.",
-        solution: "Non-sparking конфигурация на GEONYX THERM – повърхността не генерира механични искри при удар и триене.",
-        icon: Zap,
-        image: "/GEONYX-THERM-SPARK- FORMATION.webp"
-    }
+    { id: 1, key: 'd1', icon: Thermometer, image: "/GEONYX-THERM-GEONYX-THERM.webp" },
+    { id: 2, key: 'd2', icon: Flame,       image: "/GEONYX-THERM-MOLTEN-METAL-AND-SPARKS.webp" },
+    { id: 3, key: 'd3', icon: Snowflake,   image: "/GEONYX-THERM-SHOCK-FREEZING.webp" },
+    { id: 4, key: 'd4', icon: ShieldCheck, image: "/GEONYX-THERM-FIRE-SAFETY.webp" },
+    { id: 5, key: 'd5', icon: Droplets,    image: "/GEONYX-THERM-HOT-OIL.webp" },
+    { id: 6, key: 'd6', icon: Activity,    image: "/GEONYX-THERM-EXOTHERMIC.webp" },
+    { id: 7, key: 'd7', icon: Sparkles,    image: "/GEONYX-THERM-STERILIZATION.webp" },
+    { id: 8, key: 'd8', icon: Zap,         image: "/GEONYX-THERM-SPARK- FORMATION.webp" },
 ];
 
 const THERM_HOTSPOTS = [
-  {
-    id: 1,
-    title: "1. НОСЕЩ БЕТОН",
-    subtitle: "Подготвена основа",
-    description: "Структурно проверен бетон, шлайфан или фрезован, с коригирани фуги и дефекти за устойчивост на динамични и температурни натоварвания.",
-    top: "85%",
-    left: "50%"
-  },
-  {
-    id: 2,
-    title: "2. АДХЕЗИОНЕНА ЗОНА",
-    subtitle: "Термично съвместима връзка",
-    description: "Специална минерална връзка с коефициент на разширение, близък до бетона – за нулево отлепване при термошок.",
-    top: "70%",
-    left: "30%"
-  },
-  {
-    id: 3,
-    title: "3. THERM ЯДРО",
-    subtitle: "Термоустойчив слой",
-    description: "Основен GEONYX THERM слой, който поема екстремни температурни пикове и механично натоварване без крехък лом.",
-    top: "50%",
-    left: "60%"
-  },
-  {
-    id: 4,
-    title: "4. ФУНКЦИОНАЛЕН ФИНИШ",
-    subtitle: "Антиплъзгане и хигиена",
-    description: "Грапавина R12/R13 за безопасност, лесно почистване и съвместимост с храни, пара и агресивни почистващи агенти.",
-    top: "25%",
-    left: "50%"
-  }
+  { id: 1, key: 'h1', top: "85%", left: "50%" },
+  { id: 2, key: 'h2', top: "70%", left: "30%" },
+  { id: 3, key: 'h3', top: "50%", left: "60%" },
+  { id: 4, key: 'h4', top: "25%", left: "50%" },
 ];
 
 export const ThermPage: React.FC = () => {
   const navigate = useNavigate();
+  const { t } = useTranslation('therm');
+  const { to } = useLang();
   const [activeHotspot, setActiveHotspot] = useState<number | null>(null);
   const [copySuccess, setCopySuccess] = useState(false);
-  
+
   // Animation Reset Keys
   const [expansionKey, setExpansionKey] = useState(0);
   const [heatKey, setHeatKey] = useState(0);
   const [repairKey, setRepairKey] = useState(0);
-  
+
   useEffect(() => {
     window.scrollTo(0, 0);
     document.title = "GEONYX THERM | Термична безопасност – Негорими индустриални настилки до 1200°C";
@@ -147,7 +67,7 @@ export const ThermPage: React.FC = () => {
   return (
     <div className="min-h-screen bg-[#050505] font-sans text-gray-200 overflow-x-hidden selection:bg-geo-yellow selection:text-black">
       <Navbar />
-      
+
       {/* STATIC STYLES TO PREVENT FLICKERING */}
       <style>{`
         @keyframes width-grow { from { width: 0; } }
@@ -159,10 +79,10 @@ export const ThermPage: React.FC = () => {
       <section className="relative min-h-[85vh] flex items-center justify-center border-b border-[#222] overflow-hidden bg-black">
         {/* Visual Background */}
         <div className="absolute inset-0 z-0">
-          <SafeImage 
-            src="/GEONYX-THERM-HERO.webp" 
+          <SafeImage
+            src="/GEONYX-THERM-HERO.webp"
             onError={(e) => { e.currentTarget.src = "/GEONYX-THERM-HERO.webp" }}
-            className="w-full h-full object-cover opacity-90" 
+            className="w-full h-full object-cover opacity-90"
             alt="Therm Environment"
           />
           {/* Grid Removed */}
@@ -175,39 +95,39 @@ export const ThermPage: React.FC = () => {
                 <div className="flex items-center justify-start gap-3 mb-8 page-animate-tag">
                     <div className="h-[2px] w-12 bg-geo-yellow shadow-[0_0_15px_#FFCC00]"></div>
                     <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
-                        ТЕРМИЧНА БЕЗОПАСНОСТ И ОГЪН
+                        {t('hero.eyebrow')}
                     </span>
                 </div>
-                
+
                 {/* H1 Title */}
                 <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-[1.1] mb-6 uppercase tracking-tighter drop-shadow-2xl mix-blend-difference page-animate-title">
                     GEONYX <br/>
                     {/* Updated Gradient */}
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-geo-yellow to-yellow-600">THERM</span>
                 </h1>
-                
+
                 {/* Description Box */}
                 <p className="text-xl md:text-2xl text-gray-300 mb-12 font-light max-w-4xl leading-relaxed border-l-4 border-geo-yellow pl-6 py-2 bg-black/30 backdrop-blur-sm page-animate-desc">
-                    Минерални термоустойчиви настилки за металургия, енергетика и храни – от шоково замразяване до разтопен метал. Клас A1fl и температурен диапазон -40°C / +1200°C.
+                    {t('hero.description')}
                 </p>
 
                 {/* HUD Stats Grid */}
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12 max-w-4xl page-animate-stats">
                     <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">TEMP RANGE</div>
-                        <div className="text-geo-yellow font-mono text-xl font-bold">-40°C / +1200°C</div>
+                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statTemp')}</div>
+                        <div className="text-geo-yellow font-mono text-xl font-bold">{t('hero.statTempValue')}</div>
                     </div>
                     <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">FIRE CLASS</div>
-                        <div className="text-geo-yellow font-mono text-xl font-bold">A1fl (Негорим)</div>
+                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statClass')}</div>
+                        <div className="text-geo-yellow font-mono text-xl font-bold">{t('hero.statClassValue')}</div>
                     </div>
                     <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">THERMAL SHOCK</div>
-                        <div className="text-geo-yellow font-mono text-xs font-bold leading-tight mt-1">Пара, огън, криогенни цикли</div>
+                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statExpansion')}</div>
+                        <div className="text-geo-yellow font-mono text-xs font-bold leading-tight mt-1">{t('hero.statExpansionValue')}</div>
                     </div>
                     <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">THICKNESS</div>
-                        <div className="text-geo-yellow font-mono text-xl font-bold">9 mm+</div>
+                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statLife')}</div>
+                        <div className="text-geo-yellow font-mono text-xl font-bold">{t('hero.statLifeValue')}</div>
                     </div>
                 </div>
 
@@ -218,15 +138,15 @@ export const ThermPage: React.FC = () => {
                           variant="primary"
                           className="h-12 px-6 text-sm font-bold bg-geo-yellow text-black border-none hover:bg-white transition-all shadow-[0_0_20px_rgba(255,204,0,0.15)] rounded-none uppercase tracking-wider flex items-center gap-2"
                         >
-                          ТЕХНИЧЕСКИ ПАСПОРТ <ArrowRight className="w-4 h-4" />
+                          {t('hero.btn1')} <ArrowRight className="w-4 h-4" />
                         </Button>
                     </a>
-                    
-                    <Link to="/request-inspection">
-                        <button 
+
+                    <Link to={to('/request-inspection')}>
+                        <button
                           className="h-12 px-6 flex items-center justify-center gap-2 border border-white/30 text-white text-sm font-bold tracking-wide transition-all hover:bg-geo-yellow hover:text-black hover:border-geo-yellow uppercase"
                         >
-                          ЗАЯВИ ИНЖЕНЕРЕН ОДИТ
+                          {t('hero.btn2')}
                         </button>
                     </Link>
                 </div>
@@ -240,19 +160,19 @@ export const ThermPage: React.FC = () => {
               <div className="flex flex-wrap justify-between items-center opacity-60 hover:opacity-100 transition-opacity duration-500 gap-8 grayscale hover:grayscale-0">
                   <div className="flex items-center gap-3">
                       <Flame className="w-8 h-8 text-white" />
-                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">EN 13501-1 <br/><span className="text-[10px]">Клас A1fl (Негорим)</span></span>
+                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">EN 13501-1 <br/><span className="text-[10px]">{t('roi.val2therm')}</span></span>
                   </div>
                   <div className="flex items-center gap-3">
                       <Thermometer className="w-8 h-8 text-white" />
-                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">TEMP ENDURANCE <br/><span className="text-[10px]">до 1200°C</span></span>
+                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">TEMP ENDURANCE <br/><span className="text-[10px]">1200°C</span></span>
                   </div>
                   <div className="flex items-center gap-3">
                       <Scale className="w-8 h-8 text-white" />
-                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">THERMAL EXPANSION <br/><span className="text-[10px]">БЕЗ ОТЛЕПВАНЕ</span></span>
+                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">THERMAL EXPANSION <br/><span className="text-[10px]">{t('hero.statExpansionValue')}</span></span>
                   </div>
                   <div className="flex items-center gap-3">
                       <Utensils className="w-8 h-8 text-white" />
-                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">HACCP COMPATIBLE <br/><span className="text-[10px]">ХРАНИ & ПАРА</span></span>
+                      <span className="text-sm font-bold text-gray-400 uppercase tracking-wider">HACCP COMPATIBLE <br/><span className="text-[10px]">{t('roi.val4therm')}</span></span>
                   </div>
                   <div className="flex items-center gap-3">
                       <ShieldCheck className="w-8 h-8 text-white" />
@@ -270,15 +190,15 @@ export const ThermPage: React.FC = () => {
                 {/* UPDATED HEADER WITH LINE */}
                 <div className="flex items-center justify-center gap-3 mb-4">
                     <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                    <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">
-                        ТЕРМОДИНАМИКА НА РАЗРУШЕНИЕТО
+                    <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                        {t('diagnostics.eyebrow')}
                     </span>
                 </div>
                 <h2 className="text-3xl md:text-4xl font-black text-white uppercase leading-none">
-                    ТОПЛИНАТА РАЗРУШАВА БЕТОНА. ТЕРМОШОКЪТ УБИВА ЕПОКСИДА.
+                    {t('diagnostics.title')}
                 </h2>
                 <p className="text-gray-500 mt-6 text-sm font-mono uppercase tracking-widest">
-                     Когато студ, пара, огън и химия действат едновременно, стандартните полимерни покрития се предават. GEONYX THERM е минерална защита за екстремни температурни сценарии.
+                    {t('diagnostics.subtitle')}
                 </p>
             </div>
         </div>
@@ -286,15 +206,15 @@ export const ThermPage: React.FC = () => {
         {/* IMAGE GRID - EDGE TO EDGE */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 w-full">
             {DIAGNOSTICS_DATA.map((item, index) => (
-                <div 
+                <div
                     key={item.id}
                     className="group relative h-[500px] w-full overflow-hidden border-r border-b border-[#222] bg-[#111]"
                 >
                     {/* Background Image - Clean */}
                     <div className="absolute inset-0">
-                        <SafeImage 
-                            src={item.image} 
-                            alt={item.title} 
+                        <SafeImage
+                            src={item.image}
+                            alt={t(`diagnostics.${item.key}.title`)}
                             className="w-full h-full object-cover opacity-60"
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent"></div>
@@ -315,23 +235,23 @@ export const ThermPage: React.FC = () => {
                                  <item.icon className="w-10 h-10 text-white group-hover:text-geo-yellow transition-colors duration-300 drop-shadow-md" />
                              </div>
 
-                             <h3 className="text-2xl font-black text-white uppercase mb-4 leading-tight group-hover:text-geo-yellow transition-colors">
-                                {item.title}
+                             <h3 className="text-xl font-black text-white uppercase mb-4 leading-tight group-hover:text-geo-yellow transition-colors">
+                                {t(`diagnostics.${item.key}.title`)}
                              </h3>
-                             
+
                              {/* Problem/Solution - Readability Update */}
                              <div className="space-y-4 opacity-80 group-hover:opacity-100 transition-opacity duration-500">
                                  <div className="border-l-2 border-red-500 pl-3">
-                                     <span className="text-xs text-red-500 font-bold uppercase block mb-1">ПРОБЛЕМ</span>
+                                     <span className="text-xs text-red-500 font-bold uppercase block mb-1">{t('shared.threat')}</span>
                                      <p className="text-sm text-gray-300 leading-snug font-medium">
-                                         {item.problem}
+                                         {t(`diagnostics.${item.key}.problem`)}
                                      </p>
                                  </div>
 
                                  <div className="border-l-2 border-geo-yellow pl-3">
-                                     <span className="text-xs text-geo-yellow font-bold uppercase block mb-1">РЕШЕНИЕ</span>
+                                     <span className="text-xs text-geo-yellow font-bold uppercase block mb-1">{t('shared.solution')}</span>
                                      <p className="text-sm text-white font-bold leading-snug">
-                                         {item.solution}
+                                         {t(`diagnostics.${item.key}.solution`)}
                                      </p>
                                  </div>
                              </div>
@@ -346,20 +266,20 @@ export const ThermPage: React.FC = () => {
       <section className="py-24 bg-[#050505] border-b border-[#222] overflow-hidden">
         <div className="container mx-auto px-6 mb-16 text-center">
               <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-4">
-                  ТЕХНИЧЕСКИ РАЗРЕЗ – GEONYX THERM
+                  {t('anatomy.sectionTitle')}
               </h2>
               <div className="w-24 h-1 bg-geo-yellow mx-auto"></div>
               <p className="text-gray-500 mt-4 text-sm font-mono uppercase tracking-widest">
-                  Интерактивен модел на слоевете – от основата до работната повърхност.
+                  {t('anatomy.sectionSubtitle')}
               </p>
         </div>
 
         <div className="relative w-full h-[550px] bg-[#111] border-y border-[#333] shadow-2xl group">
              {/* BACKGROUND IMAGE */}
             <div className="absolute inset-0 bg-black">
-               <SafeImage 
-                 src="/GEONYX-THERM-1.webp" 
-                 alt="Therm System Cross Section" 
+               <SafeImage
+                 src="/GEONYX-THERM-1.webp"
+                 alt="Therm System Cross Section"
                  className="w-full h-full object-cover opacity-60"
                />
                <div className="absolute inset-0 bg-gradient-to-t from-black via-black/10 to-black/40"></div>
@@ -402,15 +322,15 @@ export const ThermPage: React.FC = () => {
                                   <div className="absolute bottom-0 left-0 w-2 h-2 border-b border-l border-geo-yellow"></div>
                                   <div className="absolute bottom-0 right-0 w-2 h-2 border-b border-r border-geo-yellow"></div>
                                   <div className="absolute bottom-[-7px] left-1/2 -translate-x-1/2 w-3 h-3 bg-black border-r border-b border-geo-yellow rotate-45"></div>
-                                  
+
                                   <h3 className="text-geo-yellow font-black text-base uppercase mb-1 tracking-wider">
-                                      {spot.title}
+                                      {t(`anatomy.${spot.key}.title`)}
                                   </h3>
                                   <span className="text-[10px] text-gray-500 font-bold uppercase tracking-widest block mb-4 border-b border-white/10 pb-2">
-                                      {spot.subtitle}
+                                      {t(`anatomy.${spot.key}.subtitle`)}
                                   </span>
                                   <p className="text-gray-300 text-sm leading-relaxed">
-                                      {spot.description}
+                                      {t(`anatomy.${spot.key}.desc`)}
                                   </p>
                               </div>
                           </motion.div>
@@ -430,42 +350,42 @@ export const ThermPage: React.FC = () => {
                 {/* UPDATED HEADER WITH LINE */}
                 <div className="flex items-center gap-3 mb-4">
                     <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                    <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">ИНЖЕНЕРНИ ДАННИ</span>
+                    <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('engineering.eyebrow')}</span>
                 </div>
-                <h2 className="text-3xl md:text-4xl font-black text-white uppercase">ЛАБОРАТОРНИ ТЕСТОВЕ</h2>
-                <p className="text-gray-500 mt-2 text-sm font-mono">Независими тестове в акредитирани лаборатории – пълни протоколи налични в TDS.</p>
+                <h2 className="text-3xl md:text-4xl font-black text-white uppercase">{t('engineering.title')}</h2>
+                <p className="text-gray-500 mt-2 text-sm font-mono">{t('engineering.subtitle')}</p>
              </div>
 
              <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-                 
+
                  {/* BLOCK 1: THERMAL EXPANSION (Animated Bars) */}
-                 <div 
+                 <div
                     className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
                     onMouseEnter={() => setExpansionKey(prev => prev + 1)}
                  >
                      <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <Scale className="text-geo-yellow w-5 h-5" /> ТЕРМИЧНО РАЗШИРЕНИЕ (CTE)
+                         <Scale className="text-geo-yellow w-5 h-5" /> {t('engineering.block1title')}
                      </h3>
                      <div className="space-y-4">
-                         <div className="flex items-center text-xs text-gray-500 uppercase font-bold justify-between"><span>Епоксидна настилка</span> <span>~4x по-висок</span></div>
+                         <div className="flex items-center text-xs text-gray-500 uppercase font-bold justify-between"><span>{t('roi.colEpoxy')}</span> <span>~4x</span></div>
                          <div className="w-full h-2 bg-[#222] overflow-hidden"><div key={`exp-1-${expansionKey}`} className="w-[90%] h-full bg-red-600 animate-[width-grow_2s_ease-out]"></div></div>
-                         
-                         <div className="flex items-center text-xs text-geo-yellow uppercase font-black justify-between"><span>GEONYX THERM</span> <span>Съвместим</span></div>
+
+                         <div className="flex items-center text-xs text-geo-yellow uppercase font-black justify-between"><span>GEONYX THERM</span> <span>{t('roi.val3therm')}</span></div>
                          <div className="w-full h-4 bg-[#222] border border-geo-yellow overflow-hidden"><div key={`exp-2-${expansionKey}`} className="w-[30%] h-full bg-geo-yellow animate-[width-grow_2s_ease-out_0.5s_backwards]"></div></div>
 
-                         <div className="flex items-center text-xs text-gray-600 uppercase font-bold justify-between"><span>Бетон</span> <span>База</span></div>
+                         <div className="flex items-center text-xs text-gray-600 uppercase font-bold justify-between"><span>{t('roi.colStd')}</span> <span>BASE</span></div>
                          <div className="w-full h-1 bg-[#222] overflow-hidden"><div className="w-[30%] h-full bg-gray-500"></div></div>
                      </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">Високият CTE на епоксида води до отлепване при термошок. GEONYX се движи заедно с бетона.</p>
+                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block1note')}</p>
                  </div>
 
                  {/* BLOCK 2: TEMP LIMIT */}
-                 <div 
+                 <div
                     className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
                     onMouseEnter={() => setHeatKey(prev => prev + 1)}
                  >
                      <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <Thermometer className="text-geo-yellow w-5 h-5" /> ТЕМПЕРАТУРЕН ЛИМИТ
+                         <Thermometer className="text-geo-yellow w-5 h-5" /> {t('engineering.block2title')}
                      </h3>
                      <div className="h-48 border-b border-[#333] relative">
                          <div className="flex items-end justify-around h-full pb-4 px-4 gap-6">
@@ -495,20 +415,20 @@ export const ThermPage: React.FC = () => {
                          </div>
                      </div>
                      <div className="flex justify-around px-4 pt-2">
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">Епоксид</span>
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">PU-Цимент</span>
+                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">{t('roi.colEpoxy')}</span>
+                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">PU</span>
                          <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">GEONYX</span>
                      </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">Краткотрайни пикове до 1200°C без загуба на адхезия.</p>
+                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block2note')}</p>
                  </div>
 
                  {/* BLOCK 3: REPAIR FREQUENCY */}
-                 <div 
+                 <div
                     className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default relative"
                     onMouseEnter={() => setRepairKey(prev => prev + 1)}
                  >
                      <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <TrendingUp className="text-geo-yellow w-5 h-5" /> РЕМОНТИ И DOWNTIME
+                         <TrendingUp className="text-geo-yellow w-5 h-5" /> {t('engineering.block3title')}
                      </h3>
                      <div className="relative w-full h-40 border-l border-b border-[#333]">
                          <svg viewBox="0 0 100 100" className="w-full h-full overflow-visible" preserveAspectRatio="none">
@@ -516,30 +436,30 @@ export const ThermPage: React.FC = () => {
                              <path d="M 0 80 L 20 20 L 40 80 L 60 20 L 80 80" fill="none" stroke="#ef4444" strokeWidth="2" strokeDasharray="4 2" />
 
                              {/* Geonyx Therm - Stable */}
-                             <path 
+                             <path
                                 key={`repair-${repairKey}`}
-                                d="M 0 80 L 100 75" 
-                                fill="none" 
-                                stroke="#FFCC00" 
+                                d="M 0 80 L 100 75"
+                                fill="none"
+                                stroke="#FFCC00"
                                 strokeWidth="3"
                                 strokeDasharray="200"
                                 strokeDashoffset="200"
                                 className="animate-[dash-draw_3s_linear_forwards_1s]"
                              />
                          </svg>
-                         
+
                          <div className="absolute top-[20%] left-[10%] text-[10px] font-bold text-red-500 leading-none whitespace-nowrap">
-                             ЧЕСТИ СПИРАНИЯ
+                             {t('roi.colEpoxy').toUpperCase()}
                          </div>
                          <div className="absolute top-[75%] left-[60%] text-[10px] font-bold text-geo-yellow leading-none whitespace-nowrap">
-                             СТАБИЛНОСТ
+                             GEONYX THERM
                          </div>
                      </div>
                      <div className="flex justify-between text-[10px] text-gray-500 font-mono mt-2">
-                         <span>ВРЕМЕ (ГОДИНИ)</span>
-                         <span>СЪСТОЯНИЕ НА ПОДА</span>
+                         <span>{t('financial.subtitle').split(' ').slice(0, 2).join(' ').toUpperCase()}</span>
+                         <span>{t('roi.row3').toUpperCase()}</span>
                      </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">Единично изпълнение с GEONYX THERM срещу множество интервенции при стандартни полимери.</p>
+                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block3note')}</p>
                  </div>
 
              </div>
@@ -553,74 +473,74 @@ export const ThermPage: React.FC = () => {
                   {/* UPDATED HEADER WITH LINE */}
                   <div className="flex items-center gap-3 mb-4">
                       <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                      <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">ЕФЕКТИВНОСТ</span>
+                      <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('operational.eyebrow')}</span>
                   </div>
-                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">ОПЕРАТИВНО ПРЕВЪЗХОДСТВО</h2>
+                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">{t('operational.title')}</h2>
               </div>
 
               <div className="flex flex-col">
-                  {/* Row 1: Fire */}
+                  {/* Row 1 */}
                   <div className="group flex flex-col md:flex-row items-start md:items-center justify-between py-10 border-b border-[#222] hover:bg-[#0a0a0a] transition-all duration-300 cursor-default">
                       <div className="flex items-center gap-6 mb-4 md:mb-0">
                           <Flame className="w-10 h-10 text-white/70 group-hover:text-geo-yellow transition-all duration-300" strokeWidth={1.5} />
-                          <h3 className="text-2xl font-bold text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
-                              НУЛЕВ ПРИНОС КЪМ ПОЖАРА
+                          <h3 className="text-xl font-black text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
+                              {t('operational.r1.title')}
                           </h3>
                       </div>
                       <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300 font-medium">
-                          Негорим клас A1fl – подът остава инертен по време на пожар и не добавя гориво и дим.
+                          {t('operational.r1.desc')}
                       </p>
                   </div>
 
-                  {/* Row 2: Range */}
+                  {/* Row 2 */}
                   <div className="group flex flex-col md:flex-row items-start md:items-center justify-between py-10 border-b border-[#222] hover:bg-[#0a0a0a] transition-all duration-300 cursor-default">
                       <div className="flex items-center gap-6 mb-4 md:mb-0">
                           <Thermometer className="w-10 h-10 text-white/70 group-hover:text-geo-yellow transition-all duration-300" strokeWidth={1.5} />
-                          <h3 className="text-2xl font-bold text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
-                              ЕДНА СИСТЕМА ЗА -40°C ДО +1200°C
+                          <h3 className="text-xl font-black text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
+                              {t('operational.r2.title')}
                           </h3>
                       </div>
                       <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300 font-medium">
-                          Покрива шоково замразяване, пара, огън и разтопен метал в една инженерна логика.
+                          {t('operational.r2.desc')}
                       </p>
                   </div>
 
-                  {/* Row 3: Food Safe */}
+                  {/* Row 3 */}
                   <div className="group flex flex-col md:flex-row items-start md:items-center justify-between py-10 border-b border-[#222] hover:bg-[#0a0a0a] transition-all duration-300 cursor-default">
                       <div className="flex items-center gap-6 mb-4 md:mb-0">
                           <Sparkles className="w-10 h-10 text-white/70 group-hover:text-geo-yellow transition-all duration-300" strokeWidth={1.5} />
-                          <h3 className="text-2xl font-bold text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
-                              ГОТОВ ЗА ХРАНИ И ЧИСТИ ПОМЕЩЕНИЯ
+                          <h3 className="text-xl font-black text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
+                              {t('operational.r3.title')}
                           </h3>
                       </div>
                       <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300 font-medium">
-                          Устойчив на CIP, пара, дезинфекция и агресивни препарати, без фуги и кухини.
+                          {t('operational.r3.desc')}
                       </p>
                   </div>
 
-                  {/* Row 4: ATEX */}
+                  {/* Row 4 */}
                   <div className="group flex flex-col md:flex-row items-start md:items-center justify-between py-10 border-b border-[#222] hover:bg-[#0a0a0a] transition-all duration-300 cursor-default">
                       <div className="flex items-center gap-6 mb-4 md:mb-0">
                           <Zap className="w-10 h-10 text-white/70 group-hover:text-geo-yellow transition-all duration-300" strokeWidth={1.5} />
-                          <h3 className="text-2xl font-bold text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
-                              БЕЗ ИСКРИ В ATEX ЗОНИ
+                          <h3 className="text-xl font-black text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
+                              {t('operational.r4.title')}
                           </h3>
                       </div>
                       <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300 font-medium">
-                          Non-sparking повърхности за рискови зони с газове и прах – критично за безопасността.
+                          {t('operational.r4.desc')}
                       </p>
                   </div>
 
-                  {/* Row 5: Lifecycle */}
+                  {/* Row 5 */}
                   <div className="group flex flex-col md:flex-row items-start md:items-center justify-between py-10 border-b border-[#222] hover:bg-[#0a0a0a] transition-all duration-300 cursor-default">
                       <div className="flex items-center gap-6 mb-4 md:mb-0">
                           <ClipboardList className="w-10 h-10 text-white/70 group-hover:text-geo-yellow transition-all duration-300" strokeWidth={1.5} />
-                          <h3 className="text-2xl font-bold text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
-                              МИНИМУМ DOWNTIME, МАКСИМУМ ЖИЗНЕН ЦИКЪЛ
+                          <h3 className="text-xl font-black text-white uppercase tracking-tight group-hover:text-geo-yellow transition-colors duration-300">
+                              {t('operational.r5.title')}
                           </h3>
                       </div>
                       <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300 font-medium">
-                          Дизайн за ≥ 20 години работа при правилна поддръжка – по-малко ремонти, по-малко спирания.
+                          {t('operational.r5.desc')}
                       </p>
                   </div>
               </div>
@@ -630,9 +550,9 @@ export const ThermPage: React.FC = () => {
       {/* 7. FINANCIAL LOGIC (TCO) */}
       <section className="py-24 bg-[#0a0505] border-b border-[#222]">
          <div className="container mx-auto px-6 md:px-10 flex flex-col items-center text-center">
-             <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-4">ФИНАНСОВА ЛОГИКА ПРИ ЕКСТРЕМНИ ТЕМПЕРАТУРИ</h2>
-             <p className="text-gray-500 text-sm font-mono uppercase tracking-widest mb-12">Сравнение на общата цена на притежание.</p>
-             
+             <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-4">{t('financial.title')}</h2>
+             <p className="text-gray-500 text-sm font-mono uppercase tracking-widest mb-12">{t('financial.subtitle')}</p>
+
              <div className="relative w-full max-w-4xl aspect-[2/1] border-l border-b border-[#333] bg-[#0f0f0f] p-6 mb-12">
                  <svg viewBox="0 0 200 100" className="w-full h-full overflow-visible">
                       <defs>
@@ -653,33 +573,33 @@ export const ThermPage: React.FC = () => {
                       <line x1="150" y1="0" x2="150" y2="100" stroke="#222" strokeWidth="0.5" strokeDasharray="2 2" />
 
                       {/* Cost Area Fill */}
-                      <path 
-                        d="M 0 90 C 60 85, 120 40, 200 10 V 100 H 0 Z" 
-                        fill="url(#redFade)" 
+                      <path
+                        d="M 0 90 C 60 85, 120 40, 200 10 V 100 H 0 Z"
+                        fill="url(#redFade)"
                         stroke="none"
                       />
 
                       {/* Moving Red Line (Standard) */}
-                      <path 
-                        d="M 0 90 C 60 85, 120 40, 200 10" 
-                        fill="none" 
-                        stroke="#ef4444" 
-                        strokeWidth="2" 
+                      <path
+                        d="M 0 90 C 60 85, 120 40, 200 10"
+                        fill="none"
+                        stroke="#ef4444"
+                        strokeWidth="2"
                         strokeDasharray="200"
                         strokeDashoffset="200"
                         className="animate-[dash-draw_4s_linear_infinite]"
                       />
-                      
+
                       {/* Markers for Red Line */}
                       <circle cx="50" cy="82" r="1.5" fill="#ef4444" className="animate-ping opacity-0" style={{animationDelay: '1s'}} />
                       <circle cx="100" cy="55" r="1.5" fill="#ef4444" className="animate-ping opacity-0" style={{animationDelay: '2s'}} />
                       <circle cx="150" cy="30" r="1.5" fill="#ef4444" className="animate-ping opacity-0" style={{animationDelay: '3s'}} />
-                      
-                      <text x="80" y="25" fill="#ef4444" fontSize="3" fontWeight="bold">ЕПОКСИДНА НАСТИЛКА</text>
+
+                      <text x="80" y="25" fill="#ef4444" fontSize="3" fontWeight="bold">{t('roi.colEpoxy').toUpperCase()}</text>
 
                       {/* Yellow Flat Line (Geonyx) */}
                       <path d="M 0 70 L 200 68" fill="none" stroke="#FFCC00" strokeWidth="3" />
-                      
+
                       {/* Yellow Markers */}
                       <circle cx="50" cy="70" r="1" fill="#000" stroke="#FFCC00" strokeWidth="0.5" />
                       <circle cx="100" cy="69" r="1" fill="#000" stroke="#FFCC00" strokeWidth="0.5" />
@@ -688,84 +608,84 @@ export const ThermPage: React.FC = () => {
                       <text x="140" y="62" fill="#FFCC00" fontSize="4" fontWeight="bold">GEONYX THERM</text>
 
                       {/* Axis */}
-                      <text x="0" y="105" fill="#555" fontSize="3">ГОДИНА 0</text>
-                      <text x="50" y="105" fill="#555" fontSize="3">ГОДИНА 5</text>
-                      <text x="100" y="105" fill="#555" fontSize="3">ГОДИНА 10</text>
-                      <text x="150" y="105" fill="#555" fontSize="3">ГОДИНА 15</text>
-                      <text x="200" y="105" fill="#555" fontSize="3">ГОДИНА 20</text>
+                      <text x="0" y="105" fill="#555" fontSize="3">YEAR 0</text>
+                      <text x="50" y="105" fill="#555" fontSize="3">YEAR 5</text>
+                      <text x="100" y="105" fill="#555" fontSize="3">YEAR 10</text>
+                      <text x="150" y="105" fill="#555" fontSize="3">YEAR 15</text>
+                      <text x="200" y="105" fill="#555" fontSize="3">YEAR 20</text>
                  </svg>
              </div>
 
              <h3 className="text-2xl font-black text-white uppercase leading-tight text-center">
-                 "БЕТОНЪТ СЕ ПЛАЩА ПЕТ ПЪТИ, КОГАТО СИСТЕМАТА НЕ ИЗДЪРЖА НА ТОПЛИНА. <br/> <span className="text-geo-yellow">GEONYX THERM СЕ ПЛАЩА ВЕДНЪЖ."</span>
+                 "{t('financial.quote')} <br/> <span className="text-geo-yellow">{t('financial.quoteHighlight')}</span>"
              </h3>
          </div>
       </section>
 
-      {/* NEW SECTION 1: ROI ANALYSIS - FIXED STYLE */}
+      {/* ROI ANALYSIS */}
       <section className="py-24 px-6 bg-[#0f1014] border-b border-[#222]">
           <div className="container mx-auto">
               <div className="text-center mb-16">
                    <div className="flex items-center justify-center gap-3 mb-4">
                         <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                        <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">ROI АНАЛИЗ</span>
+                        <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('roi.eyebrow')}</span>
                     </div>
-                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">ИНВЕСТИЦИОНЕН ОДИТ</h2>
-                  <p className="text-gray-500 mt-4 max-w-3xl mx-auto font-mono text-sm">Сравнение на жизнения цикъл между GEONYX THERM и алтернативи.</p>
+                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">{t('roi.title')}</h2>
+                  <p className="text-gray-500 mt-4 max-w-3xl mx-auto font-mono text-sm">{t('roi.subtitle')}</p>
               </div>
 
               <div className="w-full overflow-x-auto border border-[#333] shadow-2xl bg-[#111]">
                   <table className="w-full min-w-[900px] border-collapse text-left">
                       <thead>
                           <tr className="bg-black">
-                              <th className="p-4 text-white font-black uppercase tracking-wider text-xs border-b border-r border-[#333] w-1/4">ПАРАМЕТЪР</th>
+                              <th className="p-4 text-white font-black uppercase tracking-wider text-xs border-b border-r border-[#333] w-1/4">{t('roi.colParam')}</th>
                               <th className="p-4 bg-[#1a1a1a] text-geo-yellow font-black uppercase tracking-wider text-sm border-b border-r border-[#333] w-1/4 relative border-t-4 border-t-geo-yellow">
-                                  GEONYX THERM
+                                  {t('roi.colTherm')}
                               </th>
-                              <th className="p-4 text-gray-500 font-bold uppercase tracking-wider text-xs border-b border-r border-[#333] w-1/4">ЕПОКСИДНА НАСТИЛКА</th>
-                              <th className="p-4 text-gray-500 font-bold uppercase tracking-wider text-xs border-b border-[#333] w-1/4">PU-ЦИМЕНТНА СИСТЕМА</th>
+                              <th className="p-4 text-gray-500 font-bold uppercase tracking-wider text-xs border-b border-r border-[#333] w-1/4">{t('roi.colEpoxy')}</th>
+                              <th className="p-4 text-gray-500 font-bold uppercase tracking-wider text-xs border-b border-[#333] w-1/4">{t('roi.colStd')}</th>
                           </tr>
                       </thead>
                       <tbody className="divide-y divide-[#333] text-sm">
                           <tr>
-                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">Макс. работна температура</td>
+                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">{t('roi.row1')}</td>
                               <td className="p-4 bg-[#161616] text-white font-bold border-r border-[#333]">
-                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> До 1200°C (краткосрочно)</div>
+                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> {t('roi.val1therm')}</div>
                               </td>
-                              <td className="p-4 text-gray-500 border-r border-[#333]">До ~60°C</td>
-                              <td className="p-4 text-gray-500">До ~120°C</td>
+                              <td className="p-4 text-gray-500 border-r border-[#333]">{t('roi.val1epoxy')}</td>
+                              <td className="p-4 text-gray-500">{t('roi.val1std')}</td>
                           </tr>
                           <tr>
-                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">Клас реакция на огън</td>
+                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">{t('roi.row2')}</td>
                               <td className="p-4 bg-[#161616] text-white font-bold border-r border-[#333]">
-                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> A1fl (негорим, без дим)</div>
+                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> {t('roi.val2therm')}</div>
                               </td>
-                              <td className="p-4 text-gray-500 border-r border-[#333]">Обикновено B–F, дим и токсични газове</td>
-                              <td className="p-4 text-gray-500">Органична система, ограничен клас</td>
+                              <td className="p-4 text-gray-500 border-r border-[#333]">{t('roi.val2epoxy')}</td>
+                              <td className="p-4 text-gray-500">{t('roi.val2std')}</td>
                           </tr>
                           <tr>
-                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">Термошок и пара</td>
+                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">{t('roi.row3')}</td>
                               <td className="p-4 bg-[#161616] text-white font-bold border-r border-[#333]">
-                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> Висока устойчивост при цикли пара–студ</div>
+                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> {t('roi.val3therm')}</div>
                               </td>
-                              <td className="p-4 text-gray-500 border-r border-[#333]">Висок риск от напукване и отлепване</td>
-                              <td className="p-4 text-gray-500">По-добър от епоксид, но с лимит</td>
+                              <td className="p-4 text-gray-500 border-r border-[#333]">{t('roi.val3epoxy')}</td>
+                              <td className="p-4 text-gray-500">{t('roi.val3std')}</td>
                           </tr>
                           <tr>
-                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">Жизнен цикъл при термични зони</td>
+                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">{t('roi.row4')}</td>
                               <td className="p-4 bg-[#161616] text-white font-bold border-r border-[#333]">
-                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> ≥ 20 години при правилна експлоатация</div>
+                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> {t('roi.val4therm')}</div>
                               </td>
-                              <td className="p-4 text-gray-500 border-r border-[#333]">3–5 години до сериозни дефекти</td>
-                              <td className="p-4 text-gray-500">5–10 години в тежки зони</td>
+                              <td className="p-4 text-gray-500 border-r border-[#333]">{t('roi.val4epoxy')}</td>
+                              <td className="p-4 text-gray-500">{t('roi.val4std')}</td>
                           </tr>
                           <tr>
-                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">Общ TCO (20 години)</td>
+                              <td className="p-4 text-gray-300 font-bold border-r border-[#333]">{t('roi.row5')}</td>
                               <td className="p-4 bg-[#161616] text-white font-bold border-r border-[#333]">
-                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> Най-нисък – една основна инвестиция</div>
+                                <div className="flex items-center gap-2"><Check className="w-4 h-4 text-geo-yellow" /> {t('roi.val5therm')}</div>
                               </td>
-                              <td className="p-4 text-gray-500 border-r border-[#333]">Висок – чести ремонти и престой</td>
-                              <td className="p-4 text-gray-500">Среден – ограничен температурен диапазон</td>
+                              <td className="p-4 text-gray-500 border-r border-[#333]">{t('roi.val5epoxy')}</td>
+                              <td className="p-4 text-gray-500">{t('roi.val5std')}</td>
                           </tr>
                       </tbody>
                   </table>
@@ -773,12 +693,12 @@ export const ThermPage: React.FC = () => {
           </div>
       </section>
 
-      {/* NEW SECTION 1.5: APPLICATIONS GRID */}
+      {/* APPLICATIONS GRID */}
       <section id="applications" className="relative py-20 border-b border-[#222]">
           <div className="absolute inset-0 z-0">
-             <SafeImage 
-               src="/GEONYX-Calculator.webp" 
-               className="w-full h-full object-cover opacity-70" 
+             <SafeImage
+               src="/GEONYX-Calculator.webp"
+               className="w-full h-full object-cover opacity-70"
                onError={(e) => { e.currentTarget.src = "/GEONYX-background.jpeg" }}
                alt="Therm Applications"
              />
@@ -789,59 +709,54 @@ export const ThermPage: React.FC = () => {
               <div className="text-center mb-16">
                   <div className="flex items-center justify-center gap-3 mb-4">
                       <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                      <h3 className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">ПРИЛОЖЕНИЯ</h3>
+                      <h3 className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('applications.eyebrow')}</h3>
                   </div>
-                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">КЪДЕ СЕ ИЗПОЛЗВА</h2>
-                  <p className="text-gray-300 mt-4 max-w-2xl mx-auto font-bold">Зони с екстремни температури, риск от пожар, термошок и горещи производствени процеси.</p>
+                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">{t('applications.title')}</h2>
+                  <p className="text-gray-300 mt-4 max-w-2xl mx-auto font-bold">{t('applications.subtitle')}</p>
               </div>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                  {[
-                      { title: "Металургия и леярни", desc: "Зони около пещи, леене на метал и гореща шлака.", icon: Flame },
-                      { title: "Енергетика (ТЕЦ/АЕЦ)", desc: "Турбинни зали, котелни помещения и паропроводи.", icon: Zap },
-                      { title: "Хранителна индустрия", desc: "Фурни, фритюрници, шоково замразяване и CIP зони.", icon: Utensils },
-                      { title: "ATEX Зони", desc: "Среди с риск от експлозия (газ/прах) – non-sparking подове.", icon: ShieldCheck },
-                      { title: "Химически реактори", desc: "Зони с екзотермични реакции и високи температури.", icon: Activity },
-                      { title: "Авиационни хангари", desc: "Горива, поддръжка и изисквания за негоримост.", icon: Plane },
-                      { title: "Тунели и метро", desc: "Евакуационни пътища с изискване за клас A1 (негорим).", icon: TrainFront },
-                      { title: "Складове за горива", desc: "Защита от пожар и разливи на запалими течности.", icon: Fuel },
-                  ].map((area, idx) => (
-                      <div key={idx} className="bg-[#141414] border border-[#222] p-6 hover:border-geo-yellow transition-all group">
+                  {([
+                      { key: 'a1', icon: Flame },
+                      { key: 'a2', icon: Utensils },
+                      { key: 'a3', icon: Zap },
+                      { key: 'a4', icon: Plane },
+                      { key: 'a5', icon: Activity },
+                      { key: 'a6', icon: Snowflake },
+                      { key: 'a7', icon: Sparkles },
+                      { key: 'a8', icon: ShieldCheck },
+                  ] as { key: string; icon: React.ElementType }[]).map((area) => (
+                      <div key={area.key} className="bg-[#141414] border border-[#222] p-6 hover:border-geo-yellow transition-all group">
                           <area.icon className="w-8 h-8 text-gray-600 group-hover:text-geo-yellow mb-4 transition-colors" />
-                          <h4 className="text-white font-bold uppercase text-sm mb-2">{area.title}</h4>
-                          <p className="text-gray-500 text-xs">{area.desc}</p>
+                          <h4 className="text-white font-bold uppercase text-sm mb-2">{t(`applications.${area.key}.title`)}</h4>
+                          <p className="text-gray-500 text-xs">{t(`applications.${area.key}.desc`)}</p>
                       </div>
                   ))}
               </div>
           </div>
       </section>
 
-      {/* NEW SECTION 2: PROCESS */}
+      {/* PROCESS */}
       <section className="py-20 bg-[#141414] border-b border-[#222]">
           <div className="container mx-auto px-6 md:px-10">
               <div className="text-center mb-16">
                   <div className="flex items-center justify-center gap-3 mb-4">
                       <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                      <h3 className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">ПРОЦЕС</h3>
+                      <h3 className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('process.eyebrow')}</h3>
                   </div>
-                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">ПРОЦЕС НА ИЗПЪЛНЕНИЕ</h2>
-                  <p className="text-gray-500 mt-4 max-w-2xl mx-auto font-mono text-sm">Инженерен контрол от анализа до защитата.</p>
+                  <h2 className="text-3xl md:text-4xl font-black text-white uppercase">{t('process.title')}</h2>
+                  <p className="text-gray-500 mt-4 max-w-2xl mx-auto font-mono text-sm">{t('process.subtitle')}</p>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                  {[
-                      { step: "01", title: "ТЕРМО-ОДИТ НА ЗОНАТА", desc: "Картиране на температури, химия, механични натоварвания и сценарии на пожар/почистване." },
-                      { step: "02", title: "ЛАБОРАТОРНИ И ПОЛЕВИ ТЕСТОВЕ", desc: "Анализ на съществуващите настилки, проби от бетон и симулация на термошок." },
-                      { step: "03", title: "ПРОЕКТИРАНЕ НА THERM КОНФИГУРАЦИЯ", desc: "Избор на дебелини, грапавина, ATEX логика и детайли по фуги и срещи с метал." },
-                      { step: "04", title: "ПОДГОТОВКА И ПЛАН НА ПРЕСТОЯ", desc: "Планиране на спиранията, разделяне на етапи и координация с производството и безопасността." },
-                      { step: "05", title: "ПОЛАГАНЕ И КОНТРОЛ НА КАЧЕСТВОТО", desc: "Изпълнение на системите с постоянен контрол на дебелината, адхезията и детайлите около критични зони." },
-                      { step: "06", title: "ВАЛИДАЦИЯ И ДОКУМЕНТАЦИЯ", desc: "Температурни тестове, протоколи, сертификати и инструкции за експлоатация и инспекции." },
-                  ].map((item, idx) => (
-                      <div key={idx} className="bg-[#0f0f0f] border border-[#222] p-8 relative overflow-hidden group">
-                          <span className="text-6xl font-black text-[#1a1a1a] absolute top-4 right-4 z-0 group-hover:text-geo-yellow/40 transition-colors">{item.step}</span>
+                  {(['p1','p2','p3','p4','p5','p6'] as const).map((key, idx) => (
+                      <div key={key} className="bg-[#0f0f0f] border border-[#222] p-8 relative overflow-hidden group">
+                          <span className="text-6xl font-black text-[#1a1a1a] absolute top-4 right-4 z-0 group-hover:text-geo-yellow/40 transition-colors">
+                              {String(idx + 1).padStart(2, '0')}
+                          </span>
                           <div className="relative z-10">
-                              <h4 className="text-white font-bold uppercase text-lg mb-2">{item.title}</h4>
-                              <p className="text-gray-500 text-sm">{item.desc}</p>
+                              <h4 className="text-white font-bold uppercase text-lg mb-2">{t(`process.${key}.title`)}</h4>
+                              <p className="text-gray-500 text-sm">{t(`process.${key}.desc`)}</p>
                           </div>
                       </div>
                   ))}
@@ -849,12 +764,12 @@ export const ThermPage: React.FC = () => {
           </div>
       </section>
 
-      {/* NEW SECTION 3: OFFER PACKAGE */}
+      {/* OFFER PACKAGE */}
       <section id="offer-package" className="relative py-24 border-b border-[#222]">
           <div className="absolute inset-0 z-0">
-             <SafeImage 
-               src="/GEONYX-B2B-B2G.webp" 
-               className="w-full h-full object-cover opacity-60" 
+             <SafeImage
+               src="/GEONYX-B2B-B2G.webp"
+               className="w-full h-full object-cover opacity-60"
                onError={(e) => { e.currentTarget.src = "/GEONYX-technical-data-sheet.jpeg" }}
                alt="Offer Documentation"
              />
@@ -863,50 +778,43 @@ export const ThermPage: React.FC = () => {
 
           <div className="container relative z-10 mx-auto px-6 md:px-10">
               <div className="flex flex-col lg:flex-row gap-16 items-start">
-                  
+
                   {/* Left Info */}
                   <div className="lg:w-1/3 sticky top-24">
                       <div className="flex items-center gap-3 mb-6">
                            <div className="h-[2px] w-8 bg-geo-yellow"></div>
-                           <span className="text-geo-yellow font-bold uppercase tracking-[0.2em] text-xs">ТЪРГОВСКА ДОКУМЕНТАЦИЯ</span>
+                           <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">{t('offer.eyebrow')}</span>
                       </div>
                       <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-6 leading-tight">
-                          ОФЕРТЕН ПАКЕТ ЗА ТЕРМИЧНА БЕЗОПАСНОСТ
+                          {t('offer.title')}
                       </h2>
                       <p className="text-gray-400 text-sm leading-relaxed mb-8 font-bold">
-                          Пълна инженерна документация за термично натоварени зони.
+                          {t('offer.desc')}
                       </p>
                       <div className="p-6 bg-[#141414] border border-[#333] border-l-4 border-l-geo-yellow">
-                          <p className="text-white font-bold text-sm uppercase mb-2">ГАРАНЦИЯ ЗА КАЧЕСТВО</p>
-                          <p className="text-gray-500 text-xs">Всички документи са съобразени с EN/ISO стандартите за пожарна безопасност.</p>
+                          <p className="text-white font-bold text-sm uppercase mb-2">{t('offer.qualityLabel')}</p>
+                          <p className="text-gray-500 text-xs">{t('offer.qualityDesc')}</p>
                       </div>
                   </div>
 
                   {/* Right Grid */}
                   <div className="lg:w-2/3 w-full">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                          {[
-                              "Термо-одит и анализ на рисковите зони (огън, пара, студ, химия)",
-                              "Инженерно предложение за GEONYX THERM по зони и дебелини",
-                              "Детайли за фуги, метални елементи и ATEX изисквания",
-                              "График на изпълнение с минимален престой на производството",
-                              "Пълен пакет TDS, пожарни и HACCP сертификати",
-                              "План за инспекции, поддръжка и гаранционни условия"
-                          ].map((item, i) => (
-                              <div key={i} className="flex items-start gap-4 p-6 bg-[#111] border border-[#222] hover:border-geo-yellow/40 transition-colors group">
+                          {(['doc1','doc2','doc3','doc4','doc5','doc6'] as const).map((key) => (
+                              <div key={key} className="flex items-start gap-4 p-6 bg-[#111] border border-[#222] hover:border-geo-yellow/40 transition-colors group">
                                   <CheckCircle className="w-5 h-5 text-gray-500 group-hover:text-geo-yellow flex-shrink-0 transition-colors mt-0.5" />
-                                  <span className="text-gray-300 text-sm font-bold uppercase leading-snug group-hover:text-white transition-colors">{item}</span>
+                                  <span className="text-gray-300 text-sm font-bold uppercase leading-snug group-hover:text-white transition-colors">{t(`offer.${key}`)}</span>
                               </div>
                           ))}
                       </div>
-                      
+
                       <div className="mt-8 flex justify-end">
-                           <Button 
-                            onClick={handleCopyTender} 
+                           <Button
+                            onClick={handleCopyTender}
                             className={`flex items-center gap-2 px-6 py-3 font-bold uppercase text-sm transition-all ${copySuccess ? 'bg-green-600 text-white border-green-600' : 'bg-[#222] text-gray-300 hover:bg-geo-yellow hover:text-black border-transparent'}`}
                           >
                               {copySuccess ? <CheckCircle className="w-4 h-4"/> : <Copy className="w-4 h-4"/>}
-                              {copySuccess ? 'ТЕКСТЪТ Е КОПИРАН!' : 'КОПИРАЙ ТЕКСТ ЗА ТЪРГ'}
+                              {copySuccess ? t('offer.copiedBtn') : t('offer.copyBtn')}
                           </Button>
                       </div>
                   </div>
@@ -915,17 +823,17 @@ export const ThermPage: React.FC = () => {
           </div>
       </section>
 
-      {/* NEW SECTION 4: DOWNLOADS */}
+      {/* DOWNLOADS */}
       <section id="specs" className="py-20 bg-black border-b border-[#222]">
           <div className="container mx-auto px-6 md:px-10">
-              <h3 className="text-2xl font-black text-white uppercase mb-12 border-l-4 border-geo-yellow pl-4">ТЕХНИЧЕСКИ ФАЙЛОВЕ И ИЗТЕГЛЯНИЯ</h3>
+              <h3 className="text-3xl md:text-4xl font-black text-white uppercase mb-12 border-l-4 border-geo-yellow pl-4">{t('downloads.title')}</h3>
               <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
                   <button className="w-full flex items-center justify-between p-6 bg-[#111] border border-[#333] hover:border-geo-yellow group transition-all">
                       <div className="flex items-center gap-4">
                           <FileText className="text-gray-400 group-hover:text-geo-yellow w-8 h-8" />
                           <div className="text-left">
-                              <span className="text-white font-bold block uppercase text-sm">GEONYX THERM – TDS</span>
-                              <span className="text-gray-500 text-xs">Технически опис и параметри</span>
+                              <span className="text-white font-bold block uppercase text-sm">{t('downloads.dl1.title')}</span>
+                              <span className="text-gray-500 text-xs">{t('downloads.dl1.sub')}</span>
                           </div>
                       </div>
                       <Download className="text-gray-500 group-hover:text-white" />
@@ -934,8 +842,8 @@ export const ThermPage: React.FC = () => {
                       <div className="flex items-center gap-4">
                           <ShieldCheck className="text-gray-400 group-hover:text-geo-yellow w-8 h-8" />
                           <div className="text-left">
-                              <span className="text-white font-bold block uppercase text-sm">THERM – FIRE REPORT</span>
-                              <span className="text-gray-500 text-xs">Сертификати за пожарна безопасност (A1fl)</span>
+                              <span className="text-white font-bold block uppercase text-sm">{t('downloads.dl2.title')}</span>
+                              <span className="text-gray-500 text-xs">{t('downloads.dl2.sub')}</span>
                           </div>
                       </div>
                       <Download className="text-gray-500 group-hover:text-white" />
@@ -944,8 +852,8 @@ export const ThermPage: React.FC = () => {
                       <div className="flex items-center gap-4">
                           <BookOpen className="text-gray-400 group-hover:text-geo-yellow w-8 h-8" />
                           <div className="text-left">
-                              <span className="text-white font-bold block uppercase text-sm">THERM – FOOD & CLEAN ROOMS</span>
-                              <span className="text-gray-500 text-xs">Насоки за термоустойчиви подове</span>
+                              <span className="text-white font-bold block uppercase text-sm">{t('downloads.dl3.title')}</span>
+                              <span className="text-gray-500 text-xs">{t('downloads.dl3.sub')}</span>
                           </div>
                       </div>
                       <Download className="text-gray-500 group-hover:text-white" />
@@ -954,8 +862,8 @@ export const ThermPage: React.FC = () => {
                       <div className="flex items-center gap-4">
                           <AlertTriangle className="text-gray-400 group-hover:text-geo-yellow w-8 h-8" />
                           <div className="text-left">
-                              <span className="text-white font-bold block uppercase text-sm">THERM – ATEX & HIGH RISK</span>
-                              <span className="text-gray-500 text-xs">Ръководство за проектиране в ATEX</span>
+                              <span className="text-white font-bold block uppercase text-sm">{t('downloads.dl4.title')}</span>
+                              <span className="text-gray-500 text-xs">{t('downloads.dl4.sub')}</span>
                           </div>
                       </div>
                       <Download className="text-gray-500 group-hover:text-white" />
@@ -964,40 +872,40 @@ export const ThermPage: React.FC = () => {
           </div>
       </section>
 
-      {/* 8. FOOTER / DOWNLOADS */}
+      {/* CTA */}
       <section className="bg-geo-yellow py-24 text-center">
           <div className="container mx-auto px-6">
-              <h2 className="text-3xl md:text-5xl font-black text-black uppercase mb-4 tracking-tight">
-                  ГОТОВИ ЛИ СТЕ ЗА ПОД, КОЙТО НЕ СЕ ПЛАШИ ОТ ОГЪН И ТЕРМОШОК?
+              <h2 className="text-3xl md:text-4xl font-black text-black uppercase mb-4 tracking-tight">
+                  {t('cta.title')}
               </h2>
               <h3 className="text-xl text-black font-bold mb-4 uppercase tracking-widest opacity-80">
-                  Изпратете ни данни за температурите, процесите и рисковете във вашия обект. Ще проектираме GEONYX THERM решение, което да издържи там, където полимерите се предават.
+                  {t('cta.desc')}
               </h3>
-              
+
               <div className="flex flex-col md:flex-row justify-center gap-6 mt-10">
-                  <Link to="/request-inspection">
+                  <Link to={to('/request-inspection')}>
                     <button className="bg-black text-white hover:bg-[#222] font-bold uppercase py-4 px-8 flex items-center justify-center gap-3 shadow-2xl transition-colors">
-                        <Thermometer className="w-5 h-5 text-geo-yellow" /> ЗАЯВИ ТЕРМО-АНАЛИЗ
+                        <Thermometer className="w-5 h-5 text-geo-yellow" /> {t('cta.btn1')}
                     </button>
                   </Link>
                   <button className="bg-black text-white hover:bg-[#222] font-bold uppercase py-4 px-8 flex items-center justify-center gap-3 shadow-2xl transition-colors">
-                      <FileText className="w-5 h-5 text-geo-yellow" /> ИЗТЕГЛИ TDS
+                      <FileText className="w-5 h-5 text-geo-yellow" /> {t('cta.btn2')}
                   </button>
-                  <Link to="/contacts">
+                  <Link to={to('/contacts')}>
                     <button className="bg-black text-white hover:bg-[#222] font-bold uppercase py-4 px-8 flex items-center justify-center gap-3 shadow-2xl transition-colors">
-                        <CheckCircle className="w-5 h-5 text-geo-yellow" /> СВЪРЖЕТЕ СЕ С ИНЖЕНЕР
+                        <CheckCircle className="w-5 h-5 text-geo-yellow" /> {t('cta.btn3')}
                     </button>
                   </Link>
               </div>
           </div>
       </section>
 
-      {/* FOOTER PREVIEW TEXT */}
+      {/* FOOTER BAND */}
       <section className="bg-black py-16 border-t border-[#222]">
           <div className="container mx-auto px-6 text-center">
-              <h3 className="text-geo-yellow font-bold uppercase tracking-widest text-sm mb-4">ТЕХНОЛОГИЧЕН ПАРТНЬОР ЗА КРИТИЧНА ИНФРАСТРУКТУРА</h3>
+              <h3 className="text-geo-yellow font-bold uppercase tracking-widest text-sm mb-4">{t('footerBand.label')}</h3>
               <p className="text-gray-400 max-w-3xl mx-auto text-sm leading-relaxed">
-                  Нуждаете се от система, която да издържи мини, стоманодобив, логистични хъбове или енергийни обекти. GEONYX ARMOR комбинира геополимерна технология, лабораторни данни и полеви изпитвания, за да получите настилка, която може да бъде защитена пред всеки инвеститор и одитор.
+                  {t('footerBand.desc')}
               </p>
           </div>
       </section>

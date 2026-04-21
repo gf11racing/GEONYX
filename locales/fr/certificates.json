@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "GEONYX | Certificats et conformité – CE, EN, ISO, HACCP",
+    "description": "Certificats officiels et déclarations de conformité GEONYX – marquage CE, normes EN, protocoles ISO, approbation HACCP et essais en laboratoire pour les systèmes minéraux industriels ARMOR, CHEM, HYDRO et THERM."
+  },
+  "hero": {
+    "eyebrow": "CONFORMITÉ RÉGLEMENTAIRE",
+    "titleLine1": "QUALITÉ",
+    "titleLine2": "CERTIFIÉE",
+    "description": "La confiance ingénierie ne repose pas sur des promesses, mais sur un contrôle de laboratoire indépendant et le strict respect des directives européennes. Les systèmes GEONYX sont conçus pour satisfaire et dépasser les normes les plus strictes."
+  },
+  "structural": {
+    "badge": "STRUCTURE",
+    "eyebrow": "BASE LÉGALE",
+    "title": "MARQUAGE CE & INTÉGRITÉ STRUCTURELLE",
+    "subtitle": "CONFORMITÉ AVEC EN 13813 ET EN 1504-2",
+    "description": "Passeport légal complet pour le territoire de l'Union européenne. Tous les systèmes GEONYX sont développés conformément aux normes harmonisées pour les chapes de sol (EN 13813) et les systèmes de protection des structures en béton (EN 1504-2). Chaque lot est accompagné d'une Déclaration de performance (DoP) garantissant les classes déclarées."
+  },
+  "fireSafety": {
+    "badge": "SÉCURITÉ INCENDIE",
+    "eyebrow": "SÉCURITÉ INCENDIE",
+    "title": "SÉCURITÉ INCENDIE ET URGENCE",
+    "subtitle": "EUROCLASSE DE NON-COMBUSTIBILITÉ (EN 13501-1)",
+    "description": "Paramètre critique pour les installations d'infrastructure (tunnels, stations de métro) et les bâtiments publics. La nature minérale de nos matrices géopolymères assure les classes de résistance au feu les plus élevées (Euroclasse A1fl / Bfl-s1). Les systèmes ne propagent pas la combustion, n'émettent pas de fumée toxique et préviennent les explosions structurelles (Spalling) à des températures extrêmes.",
+    "tagNonCombustible": "ININFLAMMABLE"
+  },
+  "hse": {
+    "badge": "NORME HSE",
+    "eyebrow": "SÉCURITÉ ET ÉCOLOGIE",
+    "title": "SANTÉ, SÉCURITÉ ET ENVIRONNEMENT",
+    "subtitle": "RÉSISTANCE AU GLISSEMENT ET PROTECTION DES EAUX (WHG)",
+    "description": "Protection du personnel et de l'environnement. Nos surfaces sont testées pour le coefficient de frottement (DIN 51130 / DIN 51097), offrant des classes antidérapantes de R9 à R13 pour des conditions de travail sûres même lors de déversements d'huile. La série GEONYX CHEM est conçue pour se conformer à la loi allemande sur les ressources en eau (WHG §19) pour le confinement secondaire des produits chimiques dangereux.",
+    "tagVocFree": "SANS COV"
+  },
+  "hygiene": {
+    "badge": "HYGIÈNE",
+    "eyebrow": "HYGIÈNE ET PHARMACIE",
+    "title": "HYGIÈNE ET CONTRÔLE ASEPTIQUE",
+    "subtitle": "HACCP, BPF ET CONTACT ALIMENTAIRE",
+    "description": "La formule minérale pure (sans solvants ni plastifiants) est la référence pour les industries agroalimentaires et pharmaceutiques. La surface monolithique et bactériostatique élimine le risque de développement de biofilm. Elle satisfait aux exigences strictes des systèmes HACCP, des Bonnes pratiques de fabrication (BPF) et des normes pour le contact direct avec l'eau potable.",
+    "tagHaccp": "APPROUVÉ HACCP",
+    "tagGmp": "CONFORME BPF",
+    "tagDrinkingWater": "SÛR POUR L'EAU POTABLE"
+  },
+  "qualityMgmt": {
+    "eyebrow": "ISO 9001:2015 ET TRAÇABILITÉ COMPLÈTE",
+    "title": "PROTOCOLES DE CONTRÔLE QUALITÉ",
+    "description": "La production industrielle ne tolère aucune variation. Les processus chez GEONYX sont structurés sur les principes de {{bold}}. Du contrôle entrant de la fraction fine à la spectroscopie laser du produit final – chaque étape est documentée. Cela garantit 100% de répétabilité de la qualité et une traçabilité absolue des lots.",
+    "tagTraceability": "TRAÇABILITÉ DES LOTS",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Management de la qualité",
+        "description": "Système de management de la qualité. Soumis à un audit indépendant continu."
+      },
+      "iso14001": {
+        "subtitle": "Management environnemental",
+        "description": "Management environnemental. Zéro déchet en décharge et contrôle des émissions."
+      },
+      "iso45001": {
+        "subtitle": "Santé & Sécurité",
+        "description": "Santé et sécurité au travail. Protection institutionnalisée du personnel."
+      },
+      "reach": {
+        "subtitle": "Conformité chimique",
+        "description": "Conformité totale aux directives UE sur la sécurité chimique et l'hygiène."
+      }
+    }
+  },
+  "disclaimer": {
+    "title": "STATUT D'ACCRÉDITATION",
+    "description": "À l'heure actuelle, les systèmes GEONYX traversent la phase finale d'essais indépendants étendus dans des laboratoires européens accrédités (Third-party testing). L'objectif est d'obtenir le spectre complet des certifications internationales. Les protocoles d'essais officiels seront publiés sur ce portail et disponibles en téléchargement direct dès leur légalisation. Pour des demandes de projet spécifiques, veuillez contacter notre département technique.",
+    "btn": "CONTACTER LE DÉPARTEMENT TECHNIQUE"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "title": "GEONYX | Entorno Urbano, Construcción y Alta Tecnología – Superficies Minerales Inteligentes",
+    "description": "GEONYX desarrolla sistemas minerales sin juntas para entornos urbanos, edificios públicos, centros comerciales, zonas logísticas y producción de alta tecnología. Resistencia al desgaste, química, cargas y tráfico intenso con larga vida útil y baja huella de carbono."
+  },
+  "hero": {
+    "tag": "ENTORNO URBANO, CONSTRUCCIÓN Y ALTA TECNOLOGÍA",
+    "title_line1": "SUPERFICIES PARA",
+    "title_line2": "LA CIUDAD Y LAS ZONAS HIGH-TECH",
+    "description": "Desde skateparks y carriles bici hasta hangares de aviación y salas limpias – GEONYX diseña sistemas minerales que combinan estética, resistencia al desgaste y protección frente al agua, la química y el estrés térmico.",
+    "btn_guide": "DESCARGAR GUÍA",
+    "btn_consultation": "SOLICITAR CONSULTA",
+    "scope_title": "ÁMBITO DE APLICACIÓN",
+    "scope_zones_label": "ZONAS:",
+    "scope_systems_label": "SISTEMAS:",
+    "nav_applications": "↓ DÓNDE SE UTILIZA",
+    "nav_system_selection": "↓ SELECCIÓN DE SISTEMA",
+    "nav_offer_package": "↓ PAQUETE DE OFERTA",
+    "zones": [
+      "Skateparks y carriles bici",
+      "Mobiliario urbano – bancos, jardineras",
+      "Rejuntado de adoquines y losas",
+      "Zonas peatonales y entradas de edificios",
+      "Pasos subterráneos y túneles urbanos",
+      "Estaciones de metro y paradas de transporte",
+      "Edificios públicos",
+      "Hangares de aviación y MRO",
+      "Salas limpias y zonas ESD",
+      "Centros de datos y centros de I+D"
+    ]
+  },
+  "manifesto": {
+    "title_line1": "LA CIUDAD Y LA TECNOLOGÍA",
+    "title_line2": "EMPIEZAN POR LAS SUPERFICIES.",
+    "text": "En entornos urbanos y de alta tecnología, el hormigón no es solo estructura – es fondo, escenario e infraestructura crítica. Escenarios como el tráfico de skate, sales y UV, combustibles de aviación, requisitos ESD y electrónica sensible no se pueden resolver con 'solera ordinaria'. GEONYX combina ARMOR, HYDRO, CHEM y THERM en sistemas que soportan cargas dinámicas, clima, química e incendios sin sacrificar la estética."
+  },
+  "blocks": {
+    "problem_label": "PROBLEMA:",
+    "solution_label": "SOLUCIÓN:",
+    "suitable_systems": "Sistemas adecuados:",
+    "b1": {
+      "badge": "ZONAS SKATE & BICI",
+      "title": "SKATEPARKS, CARRILES BICI Y CARGA POR IMPACTO",
+      "problem": "Los skateparks y carriles bici combinan impacto, abrasión y cargas concentradas en aristas y radios. Las superficies ordinarias se astillan, las aristas se rompen y las superficies se vuelven irregulares y peligrosas.",
+      "solution": "GEONYX ARMOR proporciona una superficie mineral densa con alta resistencia al impacto y la abrasión. Los detalles de aristas, quiebros y radios se diseñan con la misma lógica mineral para que el parque soporte a largo plazo la fricción, los impactos y el clima.",
+      "systems": "ARMOR"
+    },
+    "b2": {
+      "badge": "MOBILIARIO URBANO",
+      "title": "MOBILIARIO URBANO, BANCOS, JARDINERAS Y HORMIGÓN DECORATIVO",
+      "problem": "Los bancos, jardineras y elementos decorativos están expuestos a UV, lluvia, sales y vandalismo. Las grietas, aristas desconchadas y manchas de grafiti arruinan rápidamente el atractivo visual del espacio público.",
+      "solution": "GEONYX ARMOR + HYDRO ofrecen superficies minerales densas, hidrofobizadas y resistentes al clima. CHEM se añade en zonas que requieren mayor resistencia a agentes limpiadores y soluciones anti-grafiti, preservando el 'mineral look'.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "badge": "ADOQUINES Y LOSAS",
+      "title": "REJUNTADO DE ADOQUINES Y LOSAS SIN MALAS HIERBAS",
+      "problem": "El rejuntado clásico con arena o mezcla débil lleva a lavado, malas hierbas, barro y desplazamiento de adoquines. El agua penetra bajo la superficie, se congela y destruye la base.",
+      "solution": "GEONYX HYDRO + ARMOR ofrecen soluciones minerales de rejuntado y relleno con alta resistencia al agua y las sales. Las juntas se convierten en parte de la construcción – sin malas hierbas y sin lavado bajo lluvia o limpieza a presión.",
+      "systems": "HYDRO"
+    },
+    "b4": {
+      "badge": "ESCULTURAS Y DECORACIÓN",
+      "title": "ESCULTURAS, DECORACIÓN Y ESPACIOS PÚBLICOS",
+      "problem": "Las esculturas y decoraciones en parques, sets de rodaje y espacios públicos deben verse bien y resistir humedad, contaminación e impactos. Los revoques estándar se agrietan y desconchan rápidamente.",
+      "solution": "GEONYX ARMOR + THERM proporcionan una 'cáscara' mineral con alta resistencia mecánica y térmica. HYDRO protege contra el agua, y CHEM permite la limpieza con agentes más agresivos cuando sea necesario sin sacrificar la estética.",
+      "systems": "THERM"
+    },
+    "b5": {
+      "badge": "ZONAS SUBTERRÁNEAS Y PÚBLICAS",
+      "title": "PASOS SUBTERRÁNEOS, ESTACIONES DE METRO Y EDIFICIOS PÚBLICOS",
+      "problem": "Los pasos subterráneos y estaciones de metro combinan humedad, condensación, sales de calzado y fuerte tráfico peatonal. Las baldosas resbalan, las juntas se ennegrecen y los suelos se desgastan de manera desigual.",
+      "solution": "GEONYX ARMOR + HYDRO crean un suelo mineral sin juntas o con juntas mínimas con antideslizante controlado. THERM añade mejor comportamiento en caso de incendio, y CHEM permite la limpieza regular a máquina con detergentes.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "badge": "TERRAZAS Y ESCALERAS",
+      "title": "TERRAZAS, PAVIMENTOS, ESCALERAS Y ZONAS DE ENTRADA",
+      "problem": "Las terrazas y escaleras exteriores están expuestas a lluvia, UV, hielo y sales. El deslizamiento, las fugas a habitaciones inferiores y las aristas dañadas son escenarios típicos.",
+      "solution": "GEONYX HYDRO + ARMOR proporcionan un sistema de impermeabilización y resistencia al desgaste con agarre diseñado en escalones y rellanos. Los detalles de aristas, desagües y conexiones de fachada se resuelven sistemáticamente para evitar fugas inesperadas.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "badge": "HANGARES Y MRO",
+      "title": "HANGARES DE AVIACIÓN Y ZONAS MRO",
+      "problem": "Los hangares de aviación combinan combustibles de aviación, fluidos hidráulicos, bogies pesados y la necesidad de una superficie limpia y plana. Los sistemas estándar sufren por la química y las cargas concentradas.",
+      "solution": "GEONYX ARMOR + CHEM proporcionan un sistema mineral resistente a fluidos de aviación y bogies pesados. HYDRO protege la estructura de los derrames, y THERM mejora el comportamiento ante el fuego del revestimiento.",
+      "systems": "CHEM"
+    },
+    "b8": {
+      "badge": "LÍNEAS AUTOMÓVIL Y EV",
+      "title": "LÍNEAS DE MONTAJE AUTOMÓVIL Y EV",
+      "problem": "En las líneas de montaje de automóviles y EV, los suelos gestionan el tráfico AGV/AMR, carros, robots y derrames de fluidos de proceso. Las superficies irregulares y las juntas causan vibraciones y problemas de precisión.",
+      "solution": "GEONYX ARMOR proporciona superficies planas y resistentes al desgaste con baja vibración, adecuadas para robots y AGVs. CHEM se añade para la resistencia a aceites y fluidos, y HYDRO se usa en zonas de limpieza en húmedo.",
+      "systems": "ARMOR"
+    },
+    "b9": {
+      "badge": "ESD Y ELECTRÓNICA",
+      "title": "ZONAS ESD PARA ELECTRÓNICA Y AVIÓNICA",
+      "problem": "En las zonas sensibles a ESD, las chispas y la electricidad estática son un riesgo crítico para los componentes y equipos. Los suelos clásicos a menudo no mantienen parámetros ESD estables con el tiempo.",
+      "solution": "GEONYX ARMOR + CHEM pueden configurarse como sistemas minerales gestionables ESD, compatibles con los requisitos de electrónica y aviónica, sin comprometer la resistencia mecánica y la limpieza.",
+      "systems": "CHEM"
+    },
+    "b10": {
+      "badge": "SALAS LIMPIAS Y DATOS",
+      "title": "SALAS LIMPIAS, CENTROS DE DATOS Y LABORATORIOS",
+      "problem": "Las salas limpias, centros de datos y laboratorios requieren control de polvo, humedad, ESD y química. Las grietas, juntas y recubrimientos que se desconchan son inaceptables.",
+      "solution": "GEONYX ARMOR + HYDRO + CHEM combinan superficies planas, limpias, fáciles de limpiar y, cuando sea necesario, gestionables ESD, resistentes a desinfectantes y química de laboratorio. THERM se añade en zonas con mayores requisitos contra incendios.",
+      "systems": "HYDRO"
+    }
+  },
+  "roi": {
+    "section_tag": "ANÁLISIS ROI",
+    "section_title": "AUDITORÍA DE INVERSIÓN",
+    "col_param": "PARÁMETRO",
+    "col_geonyx": "GEONYX",
+    "col_standard": "Hormigón estándar / baldosas",
+    "col_alt": "Suelo epoxi / PU",
+    "rows": [
+      {
+        "param": "Resistencia climática (UV, lluvia, temperaturas)",
+        "geonyx": "Alta – matriz mineral, protección HYDRO/THERM",
+        "standard": "Media – fisuración y eflorescencia",
+        "alt": "Media – envejecimiento, amarillamiento y fisuración"
+      },
+      {
+        "param": "Resistencia mecánica a la abrasión",
+        "geonyx": "Alta – ARMOR para impacto, fricción y tráfico",
+        "standard": "Media – desconche y polvo",
+        "alt": "Buena inicialmente, desgaste rápido de la superficie"
+      },
+      {
+        "param": "Resistencia química (limpieza, combustibles)",
+        "geonyx": "Alta – configuración CHEM",
+        "standard": "Limitada – sensibilidad a agentes limpiadores",
+        "alt": "Depende de la química, riesgo de hinchamiento y manchas"
+      },
+      {
+        "param": "Impermeabilización y fugas a niveles inferiores",
+        "geonyx": "Lógica HYDRO sistémica",
+        "standard": "Soluciones parciales, muchas debilidades de detalle",
+        "alt": "Dependencia de membranas orgánicas"
+      },
+      {
+        "param": "Estética y 'mineral look' con el tiempo",
+        "geonyx": "Apariencia mineral preservada, poco polvo",
+        "standard": "Envejecimiento desigual y manchas",
+        "alt": "Brillo que resalta arañazos y defectos"
+      },
+      {
+        "param": "Mantenimiento y reparación",
+        "geonyx": "REPAIR local y renovaciones de sistema por zona",
+        "standard": "Reparaciones parciales difíciles, a menudo sustitución completa",
+        "alt": "Renovaciones frecuentes con la edad"
+      },
+      {
+        "param": "Coste total del ciclo de vida",
+        "geonyx": "Optimizado para 10–15+ años",
+        "standard": "Bajo inicial, alto a largo plazo",
+        "alt": "Medio, con riesgo de envejecimiento prematuro"
+      }
+    ]
+  },
+  "applications": {
+    "section_tag": "APLICACIONES",
+    "section_title": "DÓNDE SE UTILIZA",
+    "section_desc": "GEONYX cubre tanto la escena urbana como las instalaciones de alta tecnología – desde el skatepark hasta la sala limpia.",
+    "items": [
+      { "id": "skate", "title": "Skateparks y carriles bici", "desc": "Carga por impacto, fricción e influencias climáticas." },
+      { "id": "furniture", "title": "Mobiliario urbano y hormigón decorativo", "desc": "Bancos, jardineras, elementos y pequeñas formas arquitectónicas." },
+      { "id": "pavers", "title": "Adoquines y losas", "desc": "Rejuntado sin malas hierbas, lavado y congelación." },
+      { "id": "sculptures", "title": "Esculturas y espacios públicos", "desc": "Decoración, escenarios, elementos de plazas y parques." },
+      { "id": "metro", "title": "Pasos subterráneos, metro y edificios públicos", "desc": "Tráfico peatonal, humedad y altos requisitos de seguridad." },
+      { "id": "terraces", "title": "Terrazas, escaleras y zonas de entrada", "desc": "Zonas exteriores expuestas a lluvia, hielo y sales." },
+      { "id": "hangars", "title": "Hangares de aviación y zonas de pista", "desc": "Bogies pesados, combustibles de aviación y actividades MRO." },
+      { "id": "esd", "title": "ESD y salas de alta tecnología", "desc": "Electrónica, aviónica, control de electricidad estática." },
+      { "id": "datacenters", "title": "Centros de datos y salas limpias", "desc": "Poco polvo, humedad controlada, superficies estables." },
+      { "id": "labs", "title": "Laboratorios y centros de I+D", "desc": "Química, desinfección y mediciones de precisión." }
+    ]
+  },
+  "systems": {
+    "section_tag": "TECNOLOGÍA",
+    "section_title": "SELECCIÓN DEL SISTEMA GEONYX",
+    "section_desc": "Para entornos urbanos y de alta tecnología, GEONYX combina ARMOR, HYDRO, CHEM y THERM dependiendo de si el riesgo principal es tráfico, clima, química, ESD o fuego.",
+    "items": [
+      { "id": "armor", "name": "GEONYX ARMOR", "desc": "Sistemas minerales de alta resistencia para impacto, abrasión y tráfico peatonal y rodado intensivo." },
+      { "id": "hydro", "name": "GEONYX HYDRO", "desc": "Soluciones para agua, precipitaciones y fugas – desde terrazas y pavimentos hasta pasos subterráneos y estaciones de metro." },
+      { "id": "chem", "name": "GEONYX CHEM", "desc": "Sistemas con mayor resistencia química para fluidos de aviación, agentes limpiadores y química de laboratorio." },
+      { "id": "therm", "name": "GEONYX THERM", "desc": "Soluciones minerales con mejor comportamiento ante el fuego y resistencia al estrés térmico en edificios públicos y de alta tecnología." }
+    ]
+  },
+  "workflow": {
+    "section_tag": "PROCESO",
+    "section_title": "PROCESO DE EJECUCIÓN",
+    "steps": [
+      { "id": "s1", "step": "01", "title": "Análisis de función y tráfico", "desc": "Revisión de escenarios – entorno urbano, acceso público, zonas high-tech, requisitos ESD/sala limpia." },
+      { "id": "s2", "step": "02", "title": "Zonificación basada en riesgos", "desc": "División del sitio en zonas: áreas exteriores, zonas públicas interiores, high-tech, laboratorios, hangares." },
+      { "id": "s3", "step": "03", "title": "Selección del sistema GEONYX", "desc": "Combinación de ARMOR / HYDRO / CHEM / THERM para cada zona con parámetros claramente definidos." },
+      { "id": "s4", "step": "04", "title": "Detalles y zonas de prueba", "desc": "Diseño de detalles en juntas, aristas, fachadas, desagües y secciones de prueba cuando sea necesario." },
+      { "id": "s5", "step": "05", "title": "Ejecución por fases", "desc": "Organización del trabajo para que el sitio permanezca parcialmente operativo cuando sea posible." },
+      { "id": "s6", "step": "06", "title": "Control y formación", "desc": "Inspección final, documentación e instrucciones de mantenimiento, limpieza y futuras intervenciones REPAIR." }
+    ]
+  },
+  "offer": {
+    "section_tag": "DOCUMENTACIÓN COMERCIAL",
+    "section_title": "PAQUETE DE OFERTA (B2B / B2G)",
+    "section_desc": "Para municipios, inversores, arquitectos y operadores de instalaciones de alta tecnología, GEONYX prepara un paquete completo para licitaciones, concursos y aprobaciones internas.",
+    "quality_title": "GARANTÍA DE CALIDAD",
+    "quality_desc": "Todos los documentos cumplen con los Eurocódigos y normas vigentes.",
+    "copy_btn": "COPIAR TEXTO DE LICITACIÓN",
+    "copy_success": "¡TEXTO COPIADO!",
+    "tender_text": "Los suelos minerales, revestimientos y sistemas de protección en zonas urbanas, edificios públicos, hangares de aviación, salas de alta tecnología, salas limpias, zonas ESD y centros de datos se ejecutarán con sistemas minerales de tipo GEONYX o equivalente, combinando ARMOR / HYDRO / CHEM / THERM según los requisitos funcionales y operativos. Los sistemas deben proporcionar alta resistencia al desgaste, antideslizante controlado, resistencia climática y química, comportamiento adecuado ante el fuego y compatibilidad con los requisitos ESD/sala limpia del cliente.",
+    "items": [
+      "Zonificación de áreas urbanas y de alta tecnología por función y riesgo",
+      "Especificaciones técnicas para ARMOR / HYDRO / CHEM / THERM por zona",
+      "Detalles para juntas, aristas, fachadas, terrazas y conexiones subterráneas",
+      "Escenario de ejecución recomendado sin cierre completo del sitio",
+      "Requisitos de limpieza, química y seguridad contra incendios",
+      "Condiciones de garantía y plan de inspección y reparación local"
+    ]
+  },
+  "docs": {
+    "section_title": "Documentación",
+    "items": [
+      { "id": "d1", "title": "Parking Systems Guide", "subtitle": "OS 8 / OS 11 (PDF)" },
+      { "id": "d2", "title": "Maintenance Manual", "subtitle": "Mantenimiento de aparcamientos (PDF)" },
+      { "id": "d3", "title": "Color Chart", "subtitle": "Colores y marcas (PDF)" },
+      { "id": "d4", "title": "Aviation & High-Tech Floors", "subtitle": "Requisitos técnicos (PDF)" }
+    ]
+  },
+  "faq": {
+    "section_title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "id": "f1",
+        "question": "¿PODEMOS MANTENER UN 'MINERAL LOOK' EN LUGAR DE UN SUELO DE RESINA TÍPICO?",
+        "answer": "Sí. Los sistemas GEONYX son minerales y permiten un 'mineral look' con alta resistencia al desgaste y protección. El color y la textura se especifican en el proyecto según el concepto arquitectónico."
+      },
+      {
+        "id": "f2",
+        "question": "¿SON LOS SISTEMAS ADECUADOS PARA REQUISITOS ESD Y SALA LIMPIA?",
+        "answer": "Ciertas configuraciones de ARMOR y CHEM pueden entregarse con parámetros ESD controlados y una superficie lisa y fácil de limpiar compatible con protocolos de sala limpia."
+      },
+      {
+        "id": "f3",
+        "question": "¿CÓMO SE COMPORTAN LOS SUELOS EN UN INCENDIO EN EDIFICIOS PÚBLICOS Y DE ALTA TECNOLOGÍA?",
+        "answer": "Las configuraciones THERM se basan en sistemas minerales no combustibles con comportamiento favorable ante el fuego; las clases específicas se definen según las normativas y el proyecto."
+      }
+    ]
+  },
+  "cta": {
+    "title": "ZONIFICACIÓN INTEGRAL DEL SITIO",
+    "desc": "Cada sitio tiene riesgos específicos. Integramos 6 matrices especializadas en un sistema: desde mecánica, química y choque térmico hasta impermeabilización, antiestática y arquitectura.",
+    "btn": "VER TODOS LOS SISTEMAS DE INGENIERÍA"
+  }
+}

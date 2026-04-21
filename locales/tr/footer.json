@@ -1,0 +1,46 @@
+{
+  "cta": {
+    "titleLine1": "KRİTİK ALTYAPI İÇİN",
+    "titleHighlight": "TEKNOLOJİ ORTAĞI",
+    "body": "Laboratuvar analizinden saha uygulamasına. Teknik zorluklarınızı ve dekarbonlama hedeflerinizi tartışalım.",
+    "btn": "EKIPLE İLETİŞİME GEÇ"
+  },
+  "about": {
+    "description": "Kritik altyapı ve ağır sanayi için yüksek teknoloji jeopolimer matrisler geliştiriyoruz. Betonun sınırlarının ötesinde mühendislik."
+  },
+  "systems": {
+    "heading": "MÜHENDİSLİK SİSTEMLERİ",
+    "armor": "GEONYX ARMOR (Mekanik)",
+    "chem": "GEONYX CHEM (Kimya)",
+    "therm": "GEONYX THERM (Termik Şok)",
+    "hydro": "GEONYX HYDRO (Hidrolik)"
+  },
+  "portal": {
+    "heading": "MÜHENDİSLİK PORTALI",
+    "techMaps": "Teknik Veri Sayfaları (TDS / MSDS)",
+    "cadBim": "CAD & BIM Kütüphanesi",
+    "certs": "Sertifikalar & Uyumluluk",
+    "references": "Operasyonel Arşiv (Vaka Çalışmaları)",
+    "hseq": "Kurumsal Standart (HSEQ)"
+  },
+  "contacts": {
+    "heading": "KÜRESEL İLETİŞİM",
+    "addressLine1": "Gabrovo,",
+    "addressLine2": "Yuriy Venelin Sk. 18, Kat 2",
+    "addressLine3": "5300 Gabrovo, Bulgaristan"
+  },
+  "newsletter": {
+    "heading": "AĞLAR & GÜNCELLEMELER",
+    "label": "TEKNİK BÜLTEN ABONELİĞİ:",
+    "btn": "ABONE OL",
+    "emailPlaceholder": "E-posta adresi",
+    "disclaimer": "Yalnızca teknik spesifikasyonlar (TDS) güncellendiğinde, yeni EPD beyanları ve düzenleyici değişiklikler olduğunda bildirim alın."
+  },
+  "legal": {
+    "copyright": "© 2026 GEONYX GROUP. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "cookies": "Çerez Politikası",
+    "terms": "Kullanım Koşulları",
+    "esg": "ESG & HSEQ Beyanı"
+  }
+}

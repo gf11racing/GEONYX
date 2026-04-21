@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Heavy Industry & Logistics – Floors for Extreme Mechanical Loads",
+    "description": "Heavy industry and logistics floors for extreme mechanical loads, VNA aisles, forklifts, metal chips, oils and hot rubber. GEONYX ARMOR and GEONYX CHEM engineer mineral industrial floors with long service life, minimal downtime and low dusting for logistics centres, metal plants, gigafactories, railway depots and heavy workshops."
+  },
+  "tender": {
+    "text": "Floors shall be executed as a monolithic mineral system of the GEONYX ARMOR / GEONYX CHEM type, designed for extreme industrial loads in logistics centres and production halls. The system must provide a service life of at least 20 years, high resistance to abrasion, impact and chemical aggression, low dusting and the possibility of local repairs without full shutdown of the facility."
+  },
+  "hero": {
+    "eyebrow": "HEAVY INDUSTRY & LOGISTICS",
+    "title1": "HEAVY INDUSTRY",
+    "title2": "& LOGISTICS",
+    "description": "Floors and systems for halls that never stop operating – forklifts, VNA aisles, pallets, metal chips, oils and heavy overhead cranes. GEONYX engineers mineral industrial floors for 24/7 loads, low dusting and minimal downtime during repairs.",
+    "btn1": "PLAN A PROJECT WITH AN ENGINEER",
+    "btn2": "REQUEST TECHNICAL INSPECTION",
+    "scope": "SCOPE",
+    "zonesLabel": "ZONES:",
+    "zone1": "Logistics Centres",
+    "zone2": "VNA Aisles",
+    "zone3": "Metalworking",
+    "zone4": "Gigafactories",
+    "zone5": "Tyre Production",
+    "zone6": "Heavy Workshops",
+    "zone7": "Railway Depots",
+    "zone8": "Textile Factories",
+    "zone9": "Print Shops",
+    "zone10": "Data Centres",
+    "systemsLabel": "SYSTEMS:",
+    "anchorApplications": "↓ WHERE IT IS USED",
+    "anchorSystem": "↓ SYSTEM SELECTION",
+    "anchorOffer": "↓ OFFER PACKAGE"
+  },
+  "manifesto": {
+    "title1": "IN HEAVY INDUSTRY",
+    "title2": "THE FLOOR HAS NO MARGIN FOR ERROR.",
+    "description": "In logistics bases, factories and depots everything comes down to 'hall + machines + traffic + pallets'. Every millimetre of subsidence, dust or broken joint becomes a real risk – damaged cargo, a stopped line, an operator incident. GEONYX replaces patches and paint with engineered mineral systems that work with the structure – instead of fighting it."
+  },
+  "zigzag": {
+    "problem": "PROBLEM:",
+    "solution": "SOLUTION:",
+    "suitableSystems": "Suitable systems:",
+    "block1": {
+      "tag": "Logistics Centres",
+      "title": "VNA AISLES & HEAVY TRAFFIC",
+      "problem": "In logistics centres traffic is concentrated in narrow VNA aisles. Every millimetre of unevenness or a crumbled joint causes mast vibration, unstable pallets and risk for the operator and the load.",
+      "solution": "GEONYX ARMOR designs the floor as a superflat, monolithic mineral system with controlled joints and load-bearing capacity for high dynamic loads. The surface has low dusting and stable geometry for high-bay racking systems.",
+      "systems": "ARMOR"
+    },
+    "block2": {
+      "tag": "Metalworking",
+      "title": "METAL CHIPS & OILS",
+      "problem": "In metalworking, chips act like sandpaper while coolants, emulsions and hydraulic oils soak into concrete and soften it. Polymer coatings get cut, swell and peel around machines.",
+      "solution": "GEONYX combines ARMOR for mechanical resistance and CHEM for chemical protection. The mineral matrix is not 'cut' by chips, does not soften from oils and allows precise levelling under CNC machines and heavy lathes.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "Battery Gigafactories",
+      "title": "GIGAFACTORY & ESD CONTROL",
+      "problem": "In battery gigafactories, dust, static electricity and electrolytes are critical risks. Concrete dust contaminates cells, while uncontrolled ESD can damage sensitive components.",
+      "solution": "GEONYX ARMOR provides a monolithic surface with minimal dusting and the option for conductive ESD configurations. CHEM protects the substrate from electrolytes and chemical spills in production and formation zones.",
+      "systems": "CHEM"
+    },
+    "block4": {
+      "tag": "Tyre Production",
+      "title": "SOOT & HOT RUBBER",
+      "problem": "In tyre and rubber production there is a combination of soot, high temperature and plasticisers. Standard polymer coatings suffer from 'hot tyre pickup' – tyres 'pull' the coating at high temperature.",
+      "solution": "GEONYX ARMOR uses an inert mineral matrix that does not react with rubber and plasticisers. The floor remains stable during thermal cycles, resistant to abrasion and easy to clean from soot and black marks.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "Heavy Workshops",
+      "title": "HEAVY TRUCK WORKSHOPS",
+      "problem": "In truck and construction equipment workshops, localised loads from jacks, stands and impact tools break up the concrete. Oils, fuels and brake fluids further weaken the surface.",
+      "solution": "GEONYX ARMOR designs a load-bearing, impact-resistant floor for point loads, while CHEM protects against oil and chemical spills. REPAIR systems allow rapid local repairs without shutting down the entire workshop.",
+      "systems": "REPAIR"
+    },
+    "block6": {
+      "tag": "Railway Infrastructure",
+      "title": "RAILWAY DEPOTS & MAINTENANCE BASES",
+      "problem": "In railway depots and maintenance bases, rails, wheel sets and heavy components concentrate enormous forces over a small area. Oils, grease and metal particles accelerate concrete deterioration.",
+      "solution": "GEONYX ARMOR reinforces zones around pits and rails with a high-strength mineral system resistant to impact and shear. CHEM ensures the substrate does not degrade under the influence of oils and fuels.",
+      "systems": "ARMOR"
+    },
+    "block7": {
+      "tag": "Textile Factories",
+      "title": "TEXTILES & DYE WORKSHOPS",
+      "problem": "In textile factories and dye workshops, colourants, acids and alkalis penetrate deep into concrete, create stains and corrode the surface. Wet zones, steam and moisture further stress the floor.",
+      "solution": "GEONYX CHEM builds a dense, chemically resistant surface that does not absorb dyes and is easy to wash down. HYDRO protects the substrate from prolonged wetting and sub-surface damage.",
+      "systems": "CHEM"
+    },
+    "block8": {
+      "tag": "Print Shops",
+      "title": "PRINT SHOPS & PRINTING",
+      "problem": "Printing inks, solvents and heavy roll machines require a floor that is simultaneously chemically resistant, antistatic and with very low dusting.",
+      "solution": "GEONYX combines ARMOR for a superflat, stable substrate and CHEM for resistance to inks and solvents. The surface stays clean, dust-free and without influence on print quality.",
+      "systems": "CHEM"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "colParam": "PARAMETER",
+    "colStd": "Standard Industrial Concrete",
+    "colEpoxy": "Epoxy Coating",
+    "row1": "Service Life",
+    "row2": "Planned Shutdowns (10 yrs)",
+    "row3": "Resistance to Chips & Chains",
+    "row4": "Dusting",
+    "row5": "Total TCO (10 yrs)",
+    "val1geonyx": "≥ 20 years",
+    "val1std": "5–7 years",
+    "val1epoxy": "7–10 years",
+    "val2geonyx": "1–2 local repairs",
+    "val2std": "Frequent patches and joints",
+    "val2epoxy": "Full zone re-laying",
+    "val3geonyx": "Mineral matrix, no deep cuts",
+    "val3std": "Rapid spalling",
+    "val3epoxy": "Surface cuts and delamination",
+    "val4geonyx": "Very low",
+    "val4std": "High",
+    "val4epoxy": "Medium",
+    "val5geonyx": "Optimised – lowest",
+    "val5std": "High hidden costs",
+    "val5epoxy": "High initial price + repairs"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "All typical 'hall + machines + traffic + pallets' scenarios – from logistics centres and factories to railway depots and data centres.",
+    "a1title": "Logistics Centres & 3PL",
+    "a1desc": "VNA aisles, racking zones, ramps and loading docks with continuous forklift traffic.",
+    "a2title": "Metalworking & Machine Plants",
+    "a2desc": "Heavy machines, chips, coolants, oils and dynamic loads.",
+    "a3title": "Tyre & Rubber Production",
+    "a3desc": "Hot rubber, soot, plasticisers and high thermal cycles.",
+    "a4title": "Heavy Truck & Equipment Workshops",
+    "a4desc": "Jacks, stands, impact loads and constant oil spills.",
+    "a5title": "Railway Depots & Maintenance Bases",
+    "a5desc": "Rails, wheel sets, heavy components and a combination of mechanical and chemical loads.",
+    "a6title": "Textile Factories & Dye Workshops",
+    "a6desc": "Organic and inorganic dyes, moisture, steam and wet processes.",
+    "a7title": "Print Shops & Printing",
+    "a7desc": "Inks, solvents, heavy machines and the requirement for clean, dust-free surfaces.",
+    "a8title": "Data Centres",
+    "a8desc": "Anti-dust, antistatic floors with high load-bearing capacity for IT racks and UPS."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGY",
+    "title": "GEONYX SYSTEM SELECTION",
+    "subtitle": "System selection depends on the combination of mechanical load, chemical aggression and requirements for temperature, ESD and hygiene. GEONYX configures solutions by zone – instead of 'one coating for all'.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Primary load-bearing system for industrial hall floors – VNA aisles, ramps, zones under racking, under heavy machines and cranes. Designed for extreme abrasion, impact and point loads.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Mineral chemically resistant system for zones with oils, emulsions, solvents, electrolytes and dyes. Suitable for metalworking, dye workshops, printing and EV production.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Used in zones with thermal peaks, sparks and localised heating – around furnaces, dryers, hot rubber and thermal processes.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Protection of the substrate from moisture, capillary rise and industrial leaks in ground-floor and underground parts of halls and depots.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "High-strength repair solutions for joints, pits, broken edges and local defects – without shutting down the entire line."
+  },
+  "workflow": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "w1step": "01",
+    "w1title": "Load Diagnostics",
+    "w1desc": "Collecting data on traffic, axle loads, chemical environment, temperatures and expected service life.",
+    "w2step": "02",
+    "w2title": "Laboratory & Field Analysis",
+    "w2desc": "Investigation of existing concrete, moisture, cracks and load-bearing capacity. Identification of critical zones.",
+    "w3step": "03",
+    "w3title": "Engineering System Design",
+    "w3desc": "Design of joint geometry, thicknesses, reinforcement and selection of ARMOR / CHEM / THERM / HYDRO systems by zone.",
+    "w4step": "04",
+    "w4title": "Pilot Area",
+    "w4desc": "Execution of a control zone under real conditions, testing of operational parameters and team training.",
+    "w5step": "05",
+    "w5title": "Main Execution",
+    "w5desc": "Phasing by sector, quality control, acceptance records and minimising downtime.",
+    "w6step": "06",
+    "w6title": "Audit, Warranty & Maintenance",
+    "w6desc": "Final engineering audit, warranty conditions and a plan for inspections and rapid REPAIR interventions."
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "OFFER PACKAGE",
+    "subtitle": "(B2B / B2G)",
+    "description": "We prepare a complete document package for investors, logistics centre operators, industrial parks and public clients – ready for inclusion in tender procedures and technical specifications.",
+    "qualityLabel": "QUALITY GUARANTEE",
+    "qualityDesc": "All documents comply with EN 1504 and national standards.",
+    "doc1": "Technical data sheets and TDS for selected systems",
+    "doc2": "Static and operational load classes",
+    "doc3": "Joint, ramp and VNA aisle details",
+    "doc4": "Substrate preparation recommendations and REPAIR protocols",
+    "doc5": "HSEQ documentation and safety instructions",
+    "doc6": "Sample tender specification texts (B2B / B2G)",
+    "copyBtn": "COPY TENDER TEXT",
+    "copiedBtn": "TEXT COPIED!"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1title": "GEONYX ARMOR – TDS",
+    "d1sub": "Technical datasheet (PDF)",
+    "d2title": "GEONYX CHEM – TDS",
+    "d2sub": "Chemical resistance (PDF)",
+    "d3title": "VNA Floors Guide",
+    "d3sub": "Design guide (PDF)",
+    "d4title": "Heavy Industry Specs",
+    "d4sub": "Sample tender texts (PDF)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1title": "HOW MUCH DOWNTIME WILL BE NEEDED TO REPLACE THE FLOOR IN A WORKING LOGISTICS CENTRE?",
+    "q1answer": "We design phasing by sector with night and weekend interventions. Using REPAIR and fast-gaining-strength systems we typically limit full downtime to individual sections without stopping the entire centre.",
+    "q2title": "WHY CHOOSE A MINERAL SYSTEM OVER AN EPOXY COATING?",
+    "q2answer": "Epoxy works like paint on concrete – under impact, chips and hot tyres it gets cut and peels. GEONYX is a mineral system that becomes one with the substrate, withstands extreme abrasion and does not soften from oils and temperature.",
+    "q3title": "CAN WE COMBINE DIFFERENT SYSTEMS IN ONE HALL?",
+    "q3answer": "Yes. The typical approach is ARMOR in main traffic zones, CHEM around machines and wet processes, THERM at thermal peaks and HYDRO in ground-floor/underground sections. This optimises TCO and extends the life of the entire facility."
+  },
+  "cta": {
+    "title": "COMPREHENSIVE SITE ZONING",
+    "description": "Every facility has specific risks. We integrate 6 specialised matrices into one system: from mechanics, chemistry and thermal shock to waterproofing, antistatics and architecture.",
+    "btn": "SEE ALL ENGINEERING SYSTEMS"
+  }
+}

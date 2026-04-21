@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "GEONYX | Food, Beverage, Pharma & Hygiene – Seamless Industrial Floors",
+    "description": "GEONYX designs seamless mineral floor systems for the food & beverage industry, pharmaceuticals and hygienic production – resistant to chemicals, steam, hot water, biofilm and aggressive cleaning agents. Compatible with HACCP, IFS, BRC and GMP standards."
+  },
+  "tender": {
+    "text": "Floors and associated hydro- and chemical-protective systems in production, washing, packaging, refrigeration, storage and kitchen zones shall be executed with mineral geopolymer systems of the GEONYX type or equivalent, combining ARMOR / CHEM / HYDRO / THERM / REPAIR according to hygienic and technological risk. The systems shall provide a seamless or minimally jointed surface, compatibility with the disinfectants used, controlled slip resistance, and shall comply with the applicable HACCP, IFS, BRC and pharma/GMP requirements of the client.",
+    "copy": "COPY TENDER TEXT",
+    "copied": "TEXT COPIED!"
+  },
+  "hero": {
+    "eyebrow": "FOOD, BEVERAGES, PHARMA & HYGIENE",
+    "titleLine1": "SURFACES",
+    "titleLine2": "APPROVED BY INSPECTORS",
+    "description": "In food, beverage and pharma production the floor is part of product safety. GEONYX provides mineral, seamless and easy-to-clean surfaces resistant to hot water, steam and chemicals, compatible with HACCP and pharma standards.",
+    "btn1": "DOWNLOAD HACCP GUIDE",
+    "btn2": "REQUEST TECHNICAL INSPECTION"
+  },
+  "scope": {
+    "title": "SCOPE",
+    "zonesLabel": "ZONES:",
+    "systemsLabel": "SYSTEMS:",
+    "z1": "Dairy processing plants and cheese factories",
+    "z2": "Meat processing and slaughterhouses",
+    "z3": "Soft drink and bottled water plants",
+    "z4": "Breweries and beverages (beer, cider, etc.)",
+    "z5": "Bakeries, confectionery and frozen products",
+    "z6": "Pharmaceutical production (API, tablets, syrups)",
+    "z7": "Cosmetics and personal hygiene factories",
+    "z8": "Clean rooms and sterile zones",
+    "z9": "Packaging and logistics zones with refrigeration",
+    "z10": "Wet rooms, wash-down areas and CIP/COP zones",
+    "link1": "↓ WHERE IT IS USED",
+    "link2": "↓ SYSTEM SELECTION",
+    "link3": "↓ OFFER PACKAGE"
+  },
+  "manifesto": {
+    "titleLine1": "CLEANLINESS IN PRODUCTION",
+    "titleLine2": "STARTS WITH THE FLOOR.",
+    "body": "Every food safety programme or pharmaceutical production relies on three things: surfaces with no hidden areas, predictable cleaning and contamination risk control. If the floor is peeling, collects water in joints, is slippery or reacts with cleaning agents, neither the HACCP plan nor cleaning protocols can compensate. GEONYX replaces 'paint on concrete' with a monolithic mineral system."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEM:",
+    "solutionLabel": "SOLUTION:",
+    "suitableLabel": "Suitable systems:",
+    "b1": {
+      "tag": "FISH PROCESSING",
+      "title": "FISH, SALT, BLOOD AND THERMAL SHOCK",
+      "problem": "Fish processing facilities represent the 'hell scenario' for floors – a combination of salt water, blood, fat, ice, hot water and steam. Standard coatings crack under thermal shock; joints retain biofilm.",
+      "solution": "GEONYX CHEM + HYDRO builds a seamless, chemically resistant mineral system with controlled anti-slip texture. The floor is designed to absorb thermal cycles – from ice zones to hot wash-down.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "MEAT & DAIRY",
+      "title": "FAT, BLOOD AND STEAM",
+      "problem": "In meat plants and dairies the floor absorbs blood, fat, milk, brine and strong alkaline/acid cleaning agents. Hot water and steam combine with impact from trolleys and stainless tables.",
+      "solution": "GEONYX CHEM provides a mineral system resistant to organic acids, alkaline cleaning agents and fats. ARMOR gives the required mechanical strength for traffic, while HYDRO is used in permanently wet zones.",
+      "systems": "CHEM"
+    },
+    "b3": {
+      "tag": "BEVERAGES & BOTTLING",
+      "title": "SUGAR, FOAM AND BROKEN GLASS",
+      "problem": "In beverage plants floors are constantly wet – water, syrups, sugar solutions, foam, CIP solutions. Sugar makes the floor sticky and accelerates deterioration. Broken glass cuts standard coatings.",
+      "solution": "GEONYX CHEM + HYDRO forms a dense surface on which syrups stay 'on top'. ARMOR provides impact and traffic resistance. Channel details are executed without sharp edges.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "BAKERIES",
+      "title": "FLOUR, DUST AND THERMAL SHOCK",
+      "problem": "In bakeries flour is everywhere and becomes a sticky mass when wet. Hot trolleys from ovens create local thermal shock. Coatings darken and flake off.",
+      "solution": "GEONYX ARMOR + THERM creates a surface resistant to thermal shock. The structure is designed so that flour does not penetrate pores. HYDRO is added in wet-cleaning zones.",
+      "systems": "THERM"
+    },
+    "b5": {
+      "tag": "COSMETICS",
+      "title": "OILS, ALCOHOLS AND SOLVENTS",
+      "problem": "Cosmetics production involves essential oils and alcohols that attack standard resins. Pharma-grade hygiene and a presentable appearance are required for inspections.",
+      "solution": "GEONYX CHEM offers a mineral matrix that does not swell on contact with fluids. ARMOR guarantees stability, and HYDRO protects wet-cleaning zones. The surface remains visually clean.",
+      "systems": "CHEM"
+    },
+    "b6": {
+      "tag": "HYGIENE PRODUCTS",
+      "title": "AGGRESSIVE CLEANING AGENTS",
+      "problem": "In detergent production concentrated components are highly aggressive. Spills and rinses can quickly destroy ordinary concrete.",
+      "solution": "GEONYX CHEM is developed for resistance to strong alkalis and acids. ARMOR provides strength for heavy vessels, and HYDRO protects against penetration. A floor that withstands your own products.",
+      "systems": "CHEM"
+    },
+    "b7": {
+      "tag": "PHARMA & CANNABIS",
+      "title": "CLEAN ZONES AND PHARMA PROCESSES",
+      "problem": "In clean rooms and pharma production the floor must be smooth, joint-free and easy to validate. Any crack is a contamination risk.",
+      "solution": "GEONYX CHEM + HYDRO provide a seamless surface compatible with pharma disinfectants. ARMOR gives stability for equipment. Details are executed following pharma logic – radii, no pockets.",
+      "systems": "CHEM"
+    },
+    "b8": {
+      "tag": "SUPERMARKETS",
+      "title": "BUTCHER AND FISH COUNTERS",
+      "problem": "In supermarket butcher sections there is water, blood, fat and traffic. Tile joints darken and fill with biofilm, and slipping is a risk.",
+      "solution": "GEONYX CHEM replaces tiles with a monolithic mineral system – no joints, with anti-slip. ARMOR handles traffic from pallet lifters, and REPAIR allows fast repairs.",
+      "systems": "CHEM"
+    },
+    "b9": {
+      "tag": "PUBLIC CATERING",
+      "title": "SCHOOL AND HOSPITAL KITCHENS",
+      "problem": "Public kitchens have moisture, hot water and fats. Tiles and standard paints quickly deteriorate and become difficult to clean.",
+      "solution": "GEONYX CHEM + HYDRO offers a non-slip and easy-to-clean surface. ARMOR provides resistance to trolleys, and REPAIR allows repairs during holiday periods.",
+      "systems": "HYDRO"
+    },
+    "b10": {
+      "tag": "REFRIGERATED ZONES",
+      "title": "REFRIGERATION AND SHOCK-FREEZING CHAMBERS",
+      "problem": "In chambers (-25°C) joints freeze and are destroyed by traffic. Repairs are difficult at low temperatures.",
+      "solution": "GEONYX ARMOR + HYDRO offers a monolithic system resistant to thermal shock. REPAIR allows interventions within short windows.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "colParam": "PARAMETER",
+    "colGeonyx": "GEONYX",
+    "colCeramic": "Ceramic tiles",
+    "colEpoxy": "Epoxy / PU coating",
+    "r1param": "Hygiene and joint cleaning",
+    "r1geonyx": "No joints / easy wash-down",
+    "r1ceramic": "Many joints, difficult to clean",
+    "r1epoxy": "Joints and transitions, risk of peeling",
+    "r2param": "Resistance to hot water and steam",
+    "r2geonyx": "High (mineral, thermally stable)",
+    "r2ceramic": "Medium (joints compromised)",
+    "r2epoxy": "Medium to low (blister risk)",
+    "r3param": "Resistance to aggressive cleaning agents",
+    "r3geonyx": "High (CHEM configuration)",
+    "r3ceramic": "Medium (joints suffer)",
+    "r3epoxy": "Limited",
+    "r4param": "Slip risk in wet conditions",
+    "r4geonyx": "Controlled anti-slip",
+    "r4ceramic": "Varies",
+    "r4epoxy": "High risk when worn",
+    "r5param": "Service life in 24/7 production",
+    "r5geonyx": "Long, with local REPAIR",
+    "r5ceramic": "Medium, periodic replacement",
+    "r5epoxy": "Medium"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "All typical 'hall + machines + traffic + pallets' scenarios – from logistics centres and factories to rail depots and data centres.",
+    "a1title": "Dairy processing and creameries",
+    "a1desc": "Chemical and lactic acid, water and hygiene.",
+    "a2title": "Meat processing and slaughterhouses",
+    "a2desc": "Blood, fat, hot water and heavy cleaning.",
+    "a3title": "Beverage production",
+    "a3desc": "Sugar, syrups, glass and CIP systems.",
+    "a4title": "Bread factories and bakeries",
+    "a4desc": "Flour, heat from ovens and mechanical traffic.",
+    "a5title": "Pharma and Clean Rooms",
+    "a5desc": "Sterile environments, easy cleaning and disinfection.",
+    "a6title": "Public kitchens",
+    "a6desc": "Intensive cooking, fats and safety.",
+    "a7title": "Cold storage",
+    "a7desc": "Low temperatures and freeze resistance.",
+    "a8title": "Supermarkets",
+    "a8desc": "Fresh food zones and intensive customer traffic."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGY",
+    "title": "GEONYX SYSTEM SELECTION",
+    "subtitle": "System selection depends on the combination of mechanical load, chemical aggression and requirements for temperature, ESD and hygiene. GEONYX configures solutions by zone – instead of 'one coating for all'.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Chemically resistant systems for zones with aggressive acids, alkalis and cleaning agents.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Watertight and easy-to-clean systems for wet production and wash-down areas.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "High-strength flooring for storage and logistics zones with intensive traffic.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Thermally resistant systems for zones with ovens, shock-freezing and steam.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Fast repair solutions for restoring compromised areas."
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "OFFER PACKAGE",
+    "titleSub": "(B2B / B2G)",
+    "description": "For food, pharma and hygiene facilities GEONYX prepares a complete package for internal approval and auditing organisations.",
+    "qualityTitle": "QUALITY GUARANTEE",
+    "qualityDesc": "All documents comply with current Eurocodes and standards.",
+    "i1": "Zoning by hygienic risk",
+    "i2": "Technical specifications for systems by zone",
+    "i3": "Compatibility with HACCP, IFS, BRC, GMP",
+    "i4": "Details for joints, drains and transitions",
+    "i5": "Recommended execution schedule",
+    "i6": "Warranty conditions and cleaning instructions"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1name": "Hygienic Floors Guide",
+    "d1sub": "Floor systems (PDF)",
+    "d2name": "Wet Food Zones Design",
+    "d2sub": "Design guide (PDF)",
+    "d3name": "Cosmetics & Pharma Spec",
+    "d3sub": "Technical requirements (PDF)",
+    "d4name": "Public Kitchens Manual",
+    "d4sub": "Kitchen guidelines (PDF)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "ARE GEONYX SYSTEMS COMPATIBLE WITH OUR CLEANING AND DISINFECTING AGENTS?",
+    "a1": "Yes. During the audit phase we collect a list of the chemicals and concentrates used and select a CHEM configuration that can withstand them long-term.",
+    "q2": "CAN REPAIRS BE CARRIED OUT WITHOUT STOPPING THE ENTIRE PRODUCTION?",
+    "a2": "In most cases – yes. We work in phases, zone by zone, with night and weekend windows.",
+    "q3": "WHAT LEVEL OF SLIP RESISTANCE CAN WE EXPECT IN WET CONDITIONS?",
+    "a3": "The texture and slip-resistance class are set at project stage, according to the type of processes and safety requirements."
+  },
+  "cta": {
+    "title": "COMPREHENSIVE SITE ZONING",
+    "description": "Every facility has specific risks. We integrate 6 specialised matrices into one system: from mechanics, chemistry and thermal shock, to waterproofing, anti-static and architecture. One technology that guarantees 100% coverage of needs and full compatibility.",
+    "btn": "VIEW ALL ENGINEERING SYSTEMS"
+  }
+}

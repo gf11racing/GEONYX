@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "GEONYX | HSEQ et durabilité – Santé, Sécurité, Qualité et Environnement",
+    "description": "Politique HSEQ et développement durable chez GEONYX – engagement envers la santé et la sécurité, la qualité des produits et la protection de l'environnement. Systèmes minéraux industriels à faible empreinte carbone et longue durée de vie pour l'infrastructure et l'industrie."
+  },
+  "hero": {
+    "eyebrow": "STANDARD CORPORATIF (HSEQ & ESG)",
+    "titleLine1": "GESTION SANS COMPROMIS DU",
+    "titleLine2": "RISQUE ET DE LA QUALITÉ",
+    "description": "Le leadership industriel exige plus que l'innovation technologique – il exige une responsabilité absolue. Chez GEONYX, chaque processus – de la synthèse des matières premières à la polymérisation finale sur site – est soumis à un code d'entreprise strict."
+  },
+  "healthSafety": {
+    "badge": "Sécurité au travail",
+    "eyebrow": "CULTURE \"RISQUE ZÉRO\"",
+    "title": "GESTION DES RISQUES PROFESSIONNELS",
+    "description": "Pour nous, la sécurité n'est pas une documentation mais une culture opérationnelle. Nos équipes opèrent sur la base de protocoles stricts d'analyse de la sécurité des postes de travail (Job Safety Analysis - JSA). En développant des systèmes avec 100% d'absence de composés organiques volatils (VOC-Free) et de solvants toxiques, nous éliminons les risques respiratoires pour les applicateurs et le personnel de chantier.",
+    "tag1": "ISO 45001",
+    "tag2": "JSA Protocols"
+  },
+  "sustainability": {
+    "badge": "Neutralité carbone",
+    "eyebrow": "EMPREINTE ÉCOLOGIQUE",
+    "title": "DÉCARBONISATION ET EPD",
+    "description": "Le ciment Portland génère 8% des émissions mondiales de CO2. GEONYX change le paradigme. Notre technologie géopolymère réduit l'empreinte carbone jusqu'à 80% par rapport au béton conventionnel. Grâce aux Déclarations Environnementales de Produits (EPD) et à l'Analyse du Cycle de Vie (ACV), nous fournissons des données transparentes de décarbonisation.",
+    "tag1": "ISO 14001",
+    "tag2": "LEED / BREEAM"
+  },
+  "quality": {
+    "badge": "Contrôle qualité",
+    "eyebrow": "TRAÇABILITÉ COMPLÈTE",
+    "title": "CONTRÔLE QA/QC DES LOTS",
+    "description": "L'échelle industrielle ne tolère aucune variation. Notre contrôle qualité (QC) est entièrement basé sur le laboratoire et instrumental. Chaque lot de matière première subit une analyse spectrale entrante, et des échantillons de référence de chaque production sont archivés. Cette traçabilité absolue garantit que les propriétés mécaniques seront reproduites avec 100% de précision.",
+    "tag1": "ISO 9001",
+    "tag2": "TDS Verification"
+  },
+  "governance": {
+    "badge": "Gouvernance",
+    "eyebrow": "CONFORMITÉ ESG",
+    "title": "CHAÎNE D'APPROVISIONNEMENT ÉTHIQUE",
+    "description": "La responsabilité commence avant la production. Nous auditons nos fournisseurs de matières premières conformément aux directives européennes les plus strictes. Tous les composants des matrices minérales GEONYX sont entièrement conformes au règlement REACH, garantissant l'absence de minéraux de conflit et de précurseurs toxiques dans notre chaîne d'approvisionnement.",
+    "tag1": "REACH Compliant",
+    "tag2": "Supply Audit"
+  },
+  "standards": {
+    "eyebrow": "POLITIQUE CORPORATE",
+    "title": "NORMES OFFICIELLES",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Management de la qualité",
+        "description": "Système de Management de la Qualité (SMQ). Soumis à un audit indépendant continu."
+      },
+      "iso14001": {
+        "subtitle": "Management environnemental",
+        "description": "Management environnemental. Zéro déchet en décharge et contrôle des émissions."
+      },
+      "iso45001": {
+        "subtitle": "Santé & Sécurité",
+        "description": "Santé et sécurité au travail. Protection institutionnalisée de la santé au travail."
+      },
+      "reach": {
+        "subtitle": "Conformité chimique",
+        "description": "Conformité totale aux directives UE sur la sécurité chimique et l'hygiène (HACCP/GMP)."
+      }
+    },
+    "btnDownload": "TÉLÉCHARGER LA POLITIQUE HSEQ INTÉGRÉE (PDF)"
+  },
+  "cta": {
+    "title": "PARTENAIRE TECHNOLOGIQUE POUR LES INFRASTRUCTURES CRITIQUES",
+    "description": "De l'analyse d'ingénierie préliminaire et de l'analyse du cycle de vie (ACV) à l'exécution irréprochable sur site.",
+    "btn": "CONTACTER LE DÉPARTEMENT HSEQ"
+  }
+}

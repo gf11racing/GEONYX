@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "GEONYX | Tarım, Biyogaz, Gübre ve Hayvan Ortamları – Kimyasal Dayanımlı Koruma",
+    "description": "GEONYX, tarım çiftlikleri, biyogaz tesisleri, silolar, gübre depoları ve hayvancılık ortamları için amonyak, asitler, biyojenik korozyon, gübreler ve agresif organik ortama dayanıklı mineral zemin ve koruma sistemleri tasarlar."
+  },
+  "tender": {
+    "text": "Gübre depolarındaki, çiftliklerdeki, ahırlardaki, sağım odalarındaki, biyogaz tesislerindeki, rendering tesislerindeki, kompostlama alanlarındaki ve hayvanat bahçelerindeki yüzeyler, GEONYX tipi veya eşdeğer mineral jeopolimer sistemlerle gerçekleştirilecek ve ortam saldırganlığına ve mekanik yüke göre ARMOR / CHEM / HYDRO / THERM / REPAIR kombinasyonu kullanılacaktır.",
+    "copy": "İHALE METNİNİ KOPYALA",
+    "copied": "METİN KOPYALANDI!"
+  },
+  "hero": {
+    "eyebrow": "TARIM, BİYOGAZ, GÜBRE VE HAYVAN ORTAMLARI",
+    "titleLine1": "GÜBRE VE AMONYAĞA",
+    "titleLine2": "DAYANAN YÜZEYLER",
+    "description": "Tarım ve biyogaz ortamlarında beton sürekli gübre, amonyak ve nem içinde yaşar. GEONYX organik maddeye, tarım kimyasallarına ve fermantasyona dayanıklı mineral sistemler inşa eder.",
+    "btn1": "TEKNİK PROFİLİ İNDİR",
+    "btn2": "TEKNİK KONTROL TALEP ET"
+  },
+  "scope": {
+    "title": "KAPSAM",
+    "zonesLabel": "BÖLGELER:",
+    "systemsLabel": "SİSTEMLER:",
+    "z1": "Hayvancılık çiftlikleri (sığır, domuz, kümes)",
+    "z2": "Ahırlar, bölmeler ve hayvan koridorları",
+    "z3": "Gübre depolama ve kompostlama alanları",
+    "z4": "Yem ve silaj için barınak ve beton alanlar",
+    "z5": "Gübre ve yem yükleme/boşaltma platformları",
+    "z6": "Biyogaz reaktörleri ve teknik koridorlar",
+    "z7": "Gübre lagünleri, çökeltme havuzları",
+    "z8": "Sıvı gübre için kanallar, septik sistemler ve drenaj olukları",
+    "z9": "Makine ve gübre tankeri yıkama alanları",
+    "z10": "Çiftlikler etrafındaki tarım altyapısı (servis bölgeleri)",
+    "link1": "↓ NEREDE KULLANILIR",
+    "link2": "↓ SİSTEM SEÇİMİ",
+    "link3": "↓ TEKLİF PAKETİ"
+  },
+  "manifesto": {
+    "titleLine1": "ORGANİK MADDE VE TARIM KİMYASALLARI",
+    "titleLine2": "BETONU EN HIZLI YOK EDER.",
+    "body": "Gübre, amonyak, gübre siloları, digestat ve sürekli nem, standart betonu birkaç yıl içinde yok eder. GEONYX, boya ve geçici kaplamaları tarım ve biyogaz ortamları için özel olarak tasarlanmış mineral sistemlerle değiştirir – organik madde, asitlik ve ıslak/kuru döngülerine dayanıklı."
+  },
+  "blocks": {
+    "problemLabel": "SORUN:",
+    "solutionLabel": "ÇÖZÜM:",
+    "suitableLabel": "Uygun sistemler:",
+    "b1": {
+      "tag": "GÜBRE DEPOLARI",
+      "title": "MİNERAL GÜBRE SİLOLARI VE DEPOLARI",
+      "problem": "Mineral gübreler (amonyum nitrat, fosfatlar, potasyum tuzları) nemle birleşerek son derece korozif bir ortam oluşturur. Beton ufalanmaya başlar, delikler ve toz oluşur, yükleme ekipmanları zemini daha da tahrip eder.",
+      "solution": "GEONYX CHEM + ARMOR, yüksek kimyasal dayanım ve mekanik mukavemet ile yoğun mineral yüzey oluşturur. Derz, duvar ve drenajdaki HYDRO detayları, çözeltilerin yapıya sızmasını engeller.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "ÇİFTLİKLER VE AHIRLAR",
+      "title": "ÇİFTLİKLER, AHIRLAR VE SAĞIMHANELER – GÜBRE, İDRAR VE AMONYAK",
+      "problem": "Ahırlarda ve sağımhanelerde zemin sürekli ıslaktır – gübre, idrar, yıkama suyu ve dezenfektanlar. Beton aşınır, delikler ve kaygan alanlar oluşur.",
+      "solution": "GEONYX HYDRO + CHEM, amonyak ve organik maddeden bozulmayan su geçirmez ve kimyasal dayanımlı yüzey sağlar. ARMOR hayvanların, traktörlerin ve besleme ekipmanlarının trafiğini karşılar.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "BİYOGAZ VE LAGÜNLER",
+      "title": "BİYOGAZ VE DİGESTAT – SALDIRGAN ASİT ORTAMI",
+      "problem": "Biyogaz tesislerinde beton digestat, gazlar, kondensasyon ve yüksek nem ile temas halindedir. Klasik beton ve reçine kaplamalar çatlar ve ayrışır.",
+      "solution": "GEONYX CHEM + HYDRO, digestat tankları, oluklar ve platformlar için organik asitlere ve gazlara dayanıklı mineral sistemler inşa eder. THERM, reaktörler etrafında yüksek sıcaklık bölgelerinde kullanılır.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "RENDERING TESİSLERİ",
+      "title": "RENDERING TESİSLERİ VE HAYVANSAL ATIKLAR",
+      "problem": "Rendering tesislerinde zemin kan, yağ, su, agresif temizlik solüsyonları ve ağır yükleri emer. Standart kaplamalar hızla gözenekli hale gelir ve koku tutarlar.",
+      "solution": "GEONYX CHEM, gözeneksiz ve mikro çatlaksız yoğun, kimyasal dayanımlı yüzey oluşturur. HYDRO sürekli ıslak bölgeleri korur, ARMOR makine ve konteynerler için dayanım sağlar.",
+      "systems": "CHEM"
+    },
+    "b5": {
+      "tag": "KOMPOSTLAMA",
+      "title": "KOMPOST VE AÇIK ATIK ALANLARI",
+      "problem": "Kompostlama tesisleri organik madde, nem, asitlik ve ağır makine trafiğini bir arada getirir. Beton çöker, çamurlu çukurlar ve çevre kirliliği oluşur.",
+      "solution": "GEONYX ARMOR + CHEM, organik asitliğe dayanıklı yükleyici ve ekskavatörler için aşınmaya karşı mineral yüzey inşa eder. HYDRO detayları toprağa sızıntıyı sınırlar.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "tag": "SERALAR",
+      "title": "SERALAR, HİDROPONİ VE TARIM KİMYASALLARI",
+      "problem": "Seralarda ve hidroponik sistemlerde zemin sürekli ıslaktır – besin solüsyonları, asit/baz düzeltici maddeler, damla sulama ve yoğunlaşma.",
+      "solution": "GEONYX HYDRO + CHEM, su geçirmez ve kimyasal dayanımlı yüzey sağlar. ARMOR el arabası trafiğini karşılar. Yüzey, suyun oluk ve sifonlara yönlendirilmesi için tasarlanır.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "HAYVANAT BAHÇELERİ VE AKVARYUMLAR",
+      "title": "HAYVANAT BAHÇELERİ, AKVARYUMLAR VE HAYVAN HAVUZLARI",
+      "problem": "Hayvanat bahçelerinde ve akvaryumlarda zeminler ve oluklar su, dışkı, tuz, klor ve mekanik aşınmaya maruz kalır. Çatlaklar ve sızıntılar su kayıplarına ve yapısal risk oluşturur.",
+      "solution": "GEONYX HYDRO, oluklar ve ıslak bölgeler için monolitik, su geçirmez sistemler oluşturur. CHEM tuz ve klora karşı direnç sağlar. ARMOR servis geçitlerini ve bölgeleri korur.",
+      "systems": "HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "colParam": "PARAMETRE",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Kaplamalı standart beton",
+    "colEpoxy": "Epoksi / PU kaplama",
+    "r1param": "Gübre, idrar ve amonyağa dayanıklılık",
+    "r1geonyx": "Yüksek – mineral CHEM konfigürasyonu",
+    "r1standard": "Düşük – hızlı korozyon ve ufalanma",
+    "r1epoxy": "Orta – reçine saldırıya uğrar, sınırlı ömür",
+    "r2param": "Sürekli neme ve fermantasyona dayanıklılık",
+    "r2geonyx": "Yüksek – HYDRO su geçirimsizliği",
+    "r2standard": "Orta – kapiler emme ve donma",
+    "r2epoxy": "Orta – kabarcık ve ayrışma riski",
+    "r3param": "Mekanik dayanım (yükleyiciler, traktörler)",
+    "r3geonyx": "Yüksek – ARMOR, >110 MPa",
+    "r3standard": "Orta – aşınma ve iz",
+    "r3epoxy": "Orta – darbe ve çizilmeye duyarlı",
+    "r4param": "7/24 işletimde hizmet ömrü",
+    "r4geonyx": "Uzun, yerel REPAIR ile",
+    "r4standard": "Kısa – sık onarımlar",
+    "r4epoxy": "Orta – periyodik yenileme",
+    "r5param": "Sızıntı ve toprak kirliliği riski",
+    "r5geonyx": "Düşük – su geçirmez HYDRO detayları",
+    "r5standard": "Yüksek – çatlaklar ve gözenekler",
+    "r5epoxy": "Orta – yapışkanlığa bağlı",
+    "r6param": "Onarım süresi / duruş süresi",
+    "r6geonyx": "Kısa pencereler, aşamalı REPAIR",
+    "r6standard": "Uzun duruşlar ve ağır ekipman",
+    "r6epoxy": "Yenileme için önemli duruş süresi",
+    "r7param": "Toplam yaşam döngüsü maliyeti",
+    "r7geonyx": "10+ yıl ufkunda daha düşük",
+    "r7standard": "Başlangıçta düşük, uzun vadede yüksek",
+    "r7epoxy": "Orta – 5–7 yılda önemli maliyetler"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "GEONYX sistemleri tüm döngüyü kapsar – gübre depolarından ve çiftliklerden biyogaz, kompost ve hayvanat bahçelerine.",
+    "a1title": "Mineral gübre depoları",
+    "a1desc": "Amonyum nitrat, fosfat ve karma gübreler için kapalı ve açık alanlar.",
+    "a2title": "Çiftlikler, ahırlar ve sağımhaneler",
+    "a2desc": "Koridorlar, bölmeler, sağım hatları ve hayvan avluları.",
+    "a3title": "Seralar ve hidroponik",
+    "a3desc": "Üretim yolları, teknik koridorlar ve solüsyon karıştırma bölgeleri.",
+    "a4title": "Biyogaz tesisleri",
+    "a4desc": "Digestat tankları, oluklar, servis platformları ve alım çukurları.",
+    "a5title": "Kompostlama tesisleri",
+    "a5desc": "Kompost platformları, geçici depolar ve yükleyici yolları.",
+    "a6title": "Rendering tesisleri ve hayvansal atıklar",
+    "a6desc": "Alım, işleme, yıkama ve geçici depolama bölgeleri.",
+    "a7title": "Hayvanat bahçeleri ve akvaryumlar",
+    "a7desc": "Hayvan havuzları, servis koridorları ve ıslak odalar.",
+    "a8title": "Lagünler, kanallar ve drenaj",
+    "a8desc": "Gübre kanalları, lagünler ve tarım alanları etrafındaki drenaj olukları."
+  },
+  "systems": {
+    "eyebrow": "TEKNOLOJİ",
+    "title": "GEONYX SİSTEM SEÇİMİ",
+    "subtitle": "Tarım ve biyogaz projelerinde sistem seçimi gübre/amonyak, nem, trafik ve sıcaklık rejimi kombinasyonuna bağlıdır.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Gübre, amonyak, organik asitler, tarım kimyasalları ve digestata karşı yüksek kimyasal dayanımlı mineral sistemler.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Lagünler, kanallar, yıkama bölgeleri ve sürekli ıslak yüzeyler için su geçirmez çözümler.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Ağır trafik için mekanik dayanımlı zeminler – traktörler, yükleyiciler, römorktlar ve konteynerler.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Reaktörler, borular ve sıcak işlemler etrafında yüksek sıcaklık bölgeleri için sistemler.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Koroze beton ve derz yerel onarımı için hızlı jeopolimer çözümler."
+  },
+  "workflow": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "w1step": "01",
+    "w1title": "Saha incelemesi ve numune alma",
+    "w1desc": "Mevcut beton, agresif ortamlar ve temizleme rejiminin değerlendirilmesi.",
+    "w2step": "02",
+    "w2title": "Fonksiyon ve riske göre bölgeleme",
+    "w2desc": "Sitenin bölgelere ayrılması: gübre deposu, çiftlikler, ahırlar, sağım, biyogaz, kompost, rendering, hayvanat bahçesi.",
+    "w3step": "03",
+    "w3title": "GEONYX sistem seçimi",
+    "w3desc": "Her bölge için kimya, nem, trafik ve sıcaklıklara göre ARMOR / CHEM / HYDRO / THERM / REPAIR seçimi.",
+    "w4step": "04",
+    "w4title": "Taban hazırlama ve detaylar",
+    "w4desc": "Mekanik hazırlama, derz, kanal, sifonlar ve kritik detayların işlenmesi.",
+    "w5step": "05",
+    "w5title": "Aşamalı uygulama",
+    "w5desc": "Sistemler aşamalı olarak uygulanır; böylece çiftlik veya tesis minimum duruşla çalışmaya devam eder.",
+    "w6step": "06",
+    "w6title": "Kalite kontrol ve işletme talimatları",
+    "w6desc": "Uygulama denetimi, belgeleme ve temizlik/bakım eğitimi."
+  },
+  "offer": {
+    "eyebrow": "TİCARİ BELGELER",
+    "title": "TEKLİF PAKETİ",
+    "titleSub": "(B2B / B2G)",
+    "description": "Tarım, biyogaz ve gübre alanları için GEONYX, yatırımcılar, bankalar, denetim organları ve kamu ihaleleri için eksiksiz teknik paket hazırlar.",
+    "qualityTitle": "KALİTE GARANTİSİ",
+    "qualityDesc": "Tüm belgeler mevcut Eurokodlar ve standartlara uygundur.",
+    "i1": "Saldırganlığa göre bölgeleme – gübre, kimyasal gübreler, digestat, tarım kimyasalları",
+    "i2": "Her bölge için ARMOR / CHEM / HYDRO / THERM / REPAIR sistemlerinin açıklaması",
+    "i3": "Lagünler, kanallar, silolar ve drenaj için detaylar",
+    "i4": "Sızıntı riski değerlendirmesi ve toprak/su koruma tedbirleri",
+    "i5": "Tüm tesisi durdurmadan önerilen uygulama takvimi",
+    "i6": "Garanti koşulları ve temizlik/bakım talimatları"
+  },
+  "docs": {
+    "title": "Belgeler",
+    "d1name": "Agro & Biogas Floors Guide",
+    "d1sub": "GEONYX zemin sistemleri (PDF)",
+    "d2name": "Fertilizer Warehouses Spec",
+    "d2sub": "Teknik gereksinimler (PDF)",
+    "d3name": "Manure & Lagoon Protection",
+    "d3sub": "Lagün koruması (PDF)",
+    "d4name": "Zoo & Aquatic Surfaces",
+    "d4sub": "Hayvanat bahçesi sistemleri (PDF)"
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "q1": "GEONYX SİSTEMLERİ UZUN VADEDE GÜBRE, İDRAR VE AMONYAĞA DAYANACAK MI?",
+    "a1": "Evet. CHEM konfigürasyonları organik asitlik, amonyak ve tarım kimyasalları için tasarlanmıştır. Denetimde süreçlerinize göre belirli sistemi seçiyoruz.",
+    "q2": "ONARIM SIRASINDA ÇİFTLİKTE VEYA BİYOGAZ TESİSİNDE ÇALIŞMAYA DEVAM EDEBİLİR MİYİZ?",
+    "a2": "Genellikle – evet. Yalnızca tek tek bölgelerin kapatılacağı aşamalı uygulama tasarlıyoruz.",
+    "q3": "SİSTEMLER AÇIK ALANLAR VE DIŞ LAGÜNLER İÇİN UYGUN MU?",
+    "a3": "Evet. HYDRO ve ARMOR konfigürasyonları açık hava koşulları, donma/çözülme döngüleri ve ağır makine trafiği için geliştirilmiştir."
+  },
+  "cta": {
+    "title": "KAPSAMLI TESİS BÖLGELEME",
+    "description": "Her sitenin kendine özgü riskleri vardır. Mekanik, kimya ve termal şoktan su yalıtımı, antistatik ve mimariye kadar 6 uzmanlaşmış matrisi tek sistemde entegre ediyoruz.",
+    "btn": "TÜM MÜHENDİSLİK SİSTEMLERİNİ GÖRÜNTÜLE"
+  }
+}

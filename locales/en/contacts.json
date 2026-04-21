@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "eyebrow": "CONTACTS & OFFICES",
+    "title": "GET IN",
+    "titleHighlight": "TOUCH.",
+    "description": "Have an industrial challenge? We have an engineering solution.\nDon't waste time – our experts are standing by."
+  },
+  "info": {
+    "adminBadge": "Administration",
+    "locationEyebrow": "LOCATION",
+    "hqTitle": "HEAD OFFICE &\nADMINISTRATION",
+    "addressLine1": "18 Yuriy Venelin St., Gabrovo",
+    "addressLine2": "Floor 2, 5300 Gabrovo, Bulgaria",
+    "hours": "Mon - Fri: 09:00 - 18:00",
+    "hqNote": "FOR OFFICIAL CORRESPONDENCE, PARTNERSHIPS AND DOCUMENTS.",
+    "salesBadge": "Sales Department",
+    "supportEyebrow": "SUPPORT",
+    "salesTitle": "SALES &\nTECHNICAL DEPARTMENT",
+    "coverage": "National coverage",
+    "salesNote": "FOR QUOTES, SITE INSPECTIONS AND TECHNICAL CONSULTATIONS.",
+    "salesNoteHighlight": "OUR ENGINEERS TRAVEL NATIONWIDE."
+  },
+  "form": {
+    "eyebrow": "Act Now",
+    "title": "SEND AN INQUIRY",
+    "nameLabel": "Full Name *",
+    "namePlaceholder": "John Smith",
+    "companyLabel": "Company / Organisation *",
+    "companyPlaceholder": "Company name",
+    "phoneLabel": "Phone *",
+    "phonePlaceholder": "+1 ...",
+    "emailLabel": "Email *",
+    "emailPlaceholder": "name@company.com",
+    "sectorLabel": "Industry Type *",
+    "sectorPlaceholder": "-- Select Sector --",
+    "messageLabel": "Message / Problem Description",
+    "messagePlaceholder": "Briefly describe your case...",
+    "submitBtn": "SEND INQUIRY",
+    "submittingBtn": "SENDING...",
+    "successTitle": "INQUIRY RECEIVED",
+    "successBody": "One of our engineers will contact you within 24 hours to clarify the details.",
+    "newInquiry": "Send a new inquiry",
+    "sector1": "Heavy Industry & Logistics",
+    "sector2": "Food & Pharmaceutical",
+    "sector3": "Agro, Biogas & Animal Environments",
+    "sector4": "Water & Marine Infrastructure",
+    "sector5": "Energy, Mining & Heavy Protection",
+    "sector6": "Transport, Parking & Garages",
+    "sector7": "Urban Environment & Construction",
+    "sector8": "Other"
+  },
+  "map": {
+    "caption": "Location: Gabrovo, Bulgaria.",
+    "captionHighlight": "Operational reach: All of Europe."
+  }
+}
