@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "GEONYX THERM | Système de Sol Résistant à la Chaleur",
+    "description": "GEONYX THERM – revêtement géopolymère pour zones à chaleur extrême, étincelles et choc thermique. Adapté aux fonderies, fours et procédés chauds."
+  },
+  "hero": {
+    "eyebrow": "SÉCURITÉ THERMIQUE ET INCENDIE",
+    "description": "Revêtements de sol minéraux résistants à la chaleur pour la métallurgie, l'énergie et l'industrie alimentaire – de la congélation par choc au métal fondu. Classe A1fl et plage de température -40°C / +1200°C.",
+    "statTemp": "TEMP RANGE",
+    "statTempValue": "-40°C / +1200°C",
+    "statClass": "CLASSE FEU",
+    "statClassValue": "A1fl",
+    "statExpansion": "DILATATION THERMIQUE",
+    "statExpansionValue": "~8 μm/m·K",
+    "statLife": "DESIGN LIFE",
+    "statLifeValue": "≥ 20 ans",
+    "btn1": "FICHE TECHNIQUE",
+    "btn2": "DEMANDER UN AUDIT TECHNIQUE"
+  },
+  "diagnostics": {
+    "eyebrow": "AGRESSION THERMIQUE",
+    "title": "DE -40°C À +1200°C. LE SYSTÈME NE CÈDE PAS.",
+    "subtitle": "8 scénarios thermiques et opérationnels auxquels les revêtements standard ne peuvent pas répondre.",
+    "d1": {
+      "title": "CHOC THERMIQUE À LA VAPEUR",
+      "problem": "Le nettoyage à la vapeur à 120°C sur un sol froid provoque la fissuration et le décollement instantané des revêtements époxy.",
+      "solution": "GEONYX THERM possède un coefficient de dilatation thermique proche du béton et maintient l'adhérence lors des cycles répétés vapeur–froid."
+    },
+    "d2": {
+      "title": "MÉTAL FONDU ET ÉTINCELLES",
+      "problem": "Les projections de soudure et les processus de fonderie (700°C+) brûlent les sols polymères et créent des risques d'incendie.",
+      "solution": "Matrice minérale résistant au contact direct avec le feu et le métal fondu – sans inflammation ni déformation."
+    },
+    "d3": {
+      "title": "CONGÉLATION PAR CHOC",
+      "problem": "À -40°C, les revêtements standard deviennent cassants et se fissurent sous vibrations et charges mécaniques.",
+      "solution": "GEONYX THERM conserve sa capacité portante et son micro-élasticité dans des conditions cryogéniques et lors de cycles fréquents congélation–décongélation."
+    },
+    "d4": {
+      "title": "SÉCURITÉ INCENDIE ET FUMÉE",
+      "problem": "En cas d'incendie, les revêtements synthétiques émettent une fumée toxique dense et des gaz nocifs.",
+      "solution": "GEONYX THERM est de classe A1fl – ininflammable, sans contribution à l'incendie et sans dégagement de fumée ni de vapeurs toxiques."
+    },
+    "d5": {
+      "title": "HUILE CHAUDE ET GRAISSES",
+      "problem": "Les graisses bouillantes (180°C) et les huiles dans l'industrie alimentaire corrodent le béton et les couches polymères.",
+      "solution": "Structure minérale dense empêchant la pénétration des graisses et restant stable à haute température et en présence de produits chimiques."
+    },
+    "d6": {
+      "title": "PROCESSUS EXOTHERMIQUES",
+      "problem": "Les réactions chimiques dans les réacteurs et les bains peuvent faire monter la température à des centaines de degrés en quelques secondes.",
+      "solution": "GEONYX THERM est conçu pour des pics de température de courte durée jusqu'à 1200°C, sans perte d'adhérence au béton."
+    },
+    "d7": {
+      "title": "STÉRILISATION ET CIP",
+      "problem": "L'autoclavage, l'eau chaude sous pression et les agents nettoyants agressifs détruisent les joints et les zones fragiles.",
+      "solution": "Système monolithique sans joints, résistant aux régimes CIP, au lavage à la vapeur et à la désinfection dans les salles propres et l'industrie alimentaire."
+    },
+    "d8": {
+      "title": "PRODUCTION D'ÉTINCELLES EN ZONES ATEX",
+      "problem": "Des étincelles mécaniques lors d'un impact dans des zones de gaz ou de poussières peuvent déclencher une explosion.",
+      "solution": "Configuration non-étincelante de GEONYX THERM – la surface ne génère aucune étincelle mécanique lors d'un impact ou d'un frottement."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "COUPE TECHNIQUE DE GEONYX THERM",
+    "sectionSubtitle": "Modèle interactif des couches – du support jusqu'à la surface de travail.",
+    "h1": {
+      "title": "1. BÉTON PORTEUR",
+      "subtitle": "Support préparé",
+      "desc": "Béton structurellement vérifié, rectifié ou fraisé, avec joints et défauts corrigés pour la résistance aux charges dynamiques et thermiques."
+    },
+    "h2": {
+      "title": "2. ZONE D'ADHÉRENCE",
+      "subtitle": "Liaison thermiquement compatible",
+      "desc": "Liaison minérale spéciale avec un coefficient de dilatation proche du béton – pour un décollement nul sous choc thermique."
+    },
+    "h3": {
+      "title": "3. NOYAU THERM",
+      "subtitle": "Couche résistante à la chaleur",
+      "desc": "Couche principale GEONYX THERM qui absorbe les pics de température extrêmes et les charges mécaniques sans rupture fragile."
+    },
+    "h4": {
+      "title": "4. FINITION FONCTIONNELLE",
+      "subtitle": "Antidérapant et hygiène",
+      "desc": "Texture R12/R13 pour la sécurité, le nettoyage facile et la compatibilité avec les aliments, la vapeur et les agents nettoyants agressifs."
+    }
+  },
+  "engineering": {
+    "eyebrow": "DONNÉES TECHNIQUES",
+    "title": "PREUVES EN LABORATOIRE",
+    "subtitle": "Tests indépendants dans des laboratoires accrédités – protocoles complets disponibles dans le TDS.",
+    "block1title": "DILATATION THERMIQUE (ΔL/L)",
+    "block1note": "GEONYX THERM se dilate comme le béton et ne génère aucune contrainte dans la couche d'adhérence.",
+    "block2title": "CLASSIFICATION THERMIQUE",
+    "block2note": "Comparaison de la plage de température maximale sous adhérence stable.",
+    "block3title": "CLASSE FEU (A1fl)",
+    "block3note": "Matrice minérale sans composants combustibles – classe feu A1fl selon EN 13501-1."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANCE",
+    "title": "SUPÉRIORITÉ OPÉRATIONNELLE",
+    "r1": {
+      "title": "ADHÉRENCE MONOLITHIQUE SOUS CHOC THERMIQUE",
+      "desc": "Aucun décollement lors du passage de 500°C à la température ambiante – vérifié lors de simulations d'incendie et en conditions réelles de production."
+    },
+    "r2": {
+      "title": "CLASSE A1fl (ININFLAMMABLE)",
+      "desc": "Sans contribution à l'incendie, sans fumée ni gaz toxiques – sûr pour l'évacuation et les services d'incendie."
+    },
+    "r3": {
+      "title": "COMPATIBILITÉ HACCP",
+      "desc": "Adapté aux sites de production alimentaire – sans composants dangereux, nettoyage facile, résistance à l'huile chaude."
+    },
+    "r4": {
+      "title": "RÉSISTANCE CRYOGÉNIQUE",
+      "desc": "Fonctionne à -40°C sans modification de résistance – pour entrepôts frigorifiques, tunnels de refroidissement et stockages cryogéniques."
+    },
+    "r5": {
+      "title": "ATEX / NON-ÉTINCELANT",
+      "desc": "Configurations spéciales sans génération d'étincelles mécaniques – pour les zones à gaz inflammables, poussières et munitions."
+    }
+  },
+  "financial": {
+    "title": "TCO SOUS CHARGE THERMIQUE",
+    "subtitle": "Comparaison des coûts de maintenance à température extrême.",
+    "quote": "LES SOLS EN MÉTALLURGIE SONT REMPLACÉS TOUS LES 3–5 ANS.",
+    "quoteHighlight": "GEONYX THERM – DURE 20 ANS."
+  },
+  "roi": {
+    "eyebrow": "ANALYSE ROI",
+    "title": "AUDIT D'INVESTISSEMENT",
+    "subtitle": "Comparaison sur un cycle de 20 ans pour les zones soumises à des charges thermiques.",
+    "colParam": "PARAMÈTRE",
+    "colTherm": "GEONYX THERM",
+    "colEpoxy": "Époxy/PU",
+    "colStd": "Béton standard",
+    "row1": "Plage thermique",
+    "row2": "Classe feu",
+    "row3": "Résistance au choc thermique",
+    "row4": "Compatibilité HACCP",
+    "row5": "Design Life",
+    "val1therm": "-40°C à +1200°C",
+    "val1epoxy": "jusqu'à 80°C",
+    "val1std": "jusqu'à 300°C (dégradation)",
+    "val2therm": "A1fl – ininflammable",
+    "val2epoxy": "Combustible – classe B/C",
+    "val2std": "Non applicable",
+    "val3therm": "Exceptionnellement haute",
+    "val3epoxy": "Faible – décollement",
+    "val3std": "Moyenne – fissuration",
+    "val4therm": "Complète",
+    "val4epoxy": "Partielle",
+    "val4std": "Non recommandée",
+    "val5therm": "≥20 ans",
+    "val5epoxy": "5–8 ans",
+    "val5std": "3–5 ans"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "OÙ IL EST UTILISÉ",
+    "subtitle": "Sites avec agression thermique, risque d'incendie ou cycles de température extrêmes.",
+    "a1": {
+      "title": "Métallurgie et Fonderie",
+      "desc": "Fonderies, zones de coulée, fours et zones de projections de métal fondu."
+    },
+    "a2": {
+      "title": "Industrie Agroalimentaire",
+      "desc": "Sites de production avec huile chaude, vapeur et nettoyage agressif (HACCP)."
+    },
+    "a3": {
+      "title": "Énergie et Nucléaire",
+      "desc": "Salles des turbines, chaufferies et zones coupe-feu nécessitant la classe A1."
+    },
+    "a4": {
+      "title": "Industrie Aéronautique",
+      "desc": "Hangars avec exigences ATEX et revêtement de sol résistant au feu."
+    },
+    "a5": {
+      "title": "Industrie Chimique et Pétrolière",
+      "desc": "Zones ATEX, réacteurs et zones à risque d'inflammation."
+    },
+    "a6": {
+      "title": "Entrepôts Frigorifiques",
+      "desc": "Entrepôts cryogéniques à -30°C/-40°C avec trafic chariot intensif."
+    },
+    "a7": {
+      "title": "Industrie Pharmaceutique",
+      "desc": "Zones de stérilisation, autoclavage et programmes CIP."
+    },
+    "a8": {
+      "title": "Industrie de la Défense",
+      "desc": "Bunkers protégés contre les explosions, salles ATEX pour munitions."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESSUS",
+    "title": "PROCESSUS D'EXÉCUTION",
+    "subtitle": "Exécution contrôlée dans des conditions thermiques actives.",
+    "p1": {
+      "title": "Audit thermique des zones",
+      "desc": "Cartographie des pics de température, des cycles et des opérations par zone."
+    },
+    "p2": {
+      "title": "Sélection de la configuration THERM",
+      "desc": "Sélection de l'épaisseur exacte et du système (standard, ATEX ou cryogénique)."
+    },
+    "p3": {
+      "title": "Préparation du support",
+      "desc": "Rugosification mécanique, correction des irrégularités et activation thermique de l'adhérence."
+    },
+    "p4": {
+      "title": "Application des couches",
+      "desc": "Application selon le protocole thermo-technologique avec contrôle de la température et de l'adhérence."
+    },
+    "p5": {
+      "title": "Contrôle et test",
+      "desc": "Vérification de l'adhérence, de la dureté et de la planéité. Test thermique si nécessaire."
+    },
+    "p6": {
+      "title": "Documentation et réception",
+      "desc": "Package TDS, certificats ATEX/HACCP et instructions de maintenance."
+    }
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTATION COMMERCIALE",
+    "title": "DOSSIER D'APPEL D'OFFRES THERM (B2B / B2G)",
+    "desc": "Documentation complète pour les zones thermiquement chargées en métallurgie, industrie alimentaire et énergétique.",
+    "qualityLabel": "GARANTIE QUALITÉ",
+    "qualityDesc": "Tous les documents sont conformes aux exigences HACCP, ATEX et EN 13501-1.",
+    "doc1": "TDS – Caractéristiques techniques et résistance thermique",
+    "doc2": "Classe feu A1fl – Certificat et protocole",
+    "doc3": "Configuration ATEX et documentation non-étincelante",
+    "doc4": "Compatibilité HACCP (si nécessaire)",
+    "doc5": "Détails des joints de dilatation et des zones thermiques",
+    "doc6": "Spécification d'appel d'offres pour zones thermiquement chargées",
+    "copyBtn": "COPIER LE TEXTE D'APPEL D'OFFRES",
+    "copiedBtn": "TEXTE COPIÉ !"
+  },
+  "downloads": {
+    "title": "FICHIERS TECHNIQUES ET TÉLÉCHARGEMENTS",
+    "dl1": {
+      "title": "GEONYX THERM – TDS",
+      "sub": "Paramètres techniques et résistance thermique"
+    },
+    "dl2": {
+      "title": "Classe feu A1fl",
+      "sub": "Certificat et protocole EN 13501-1"
+    },
+    "dl3": {
+      "title": "ATEX / Non-Étincelant",
+      "sub": "Documentation pour zones à protection contre les explosions"
+    },
+    "dl4": {
+      "title": "Déclaration HACCP",
+      "sub": "Compatibilité avec les sites de production alimentaire"
+    }
+  },
+  "cta": {
+    "title": "SÉCURITÉ INCENDIE. RÉSISTANCE THERMIQUE. TEMPS D'ARRÊT MINIMAL.",
+    "desc": "Décrivez la charge thermique de vos zones – nous proposerons une configuration THERM, la documentation ATEX/HACCP et une analyse TCO.",
+    "btn1": "DEMANDER UN AUDIT TECHNIQUE",
+    "btn2": "TÉLÉCHARGER LE TDS",
+    "btn3": "CONTACTER UN INGÉNIEUR"
+  },
+  "footerBand": {
+    "label": "PARTENAIRE TECHNOLOGIQUE POUR L'INFRASTRUCTURE CRITIQUE",
+    "desc": "GEONYX THERM assure une protection thermique là où les revêtements de sol standard brûlent, fondent ou se décollent."
+  },
+  "shared": {
+    "threat": "MENACE",
+    "solution": "SOLUTION"
+  }
+}

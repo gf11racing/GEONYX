@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "GEONYX THERM | Hitzebeständiges Bodensystem",
+    "description": "GEONYX THERM – Geopolymerboden für Bereiche mit extremer Hitze, Funkenflug und Thermoschock. Geeignet für Gießereien, Öfen und heiße Prozesse."
+  },
+  "hero": {
+    "eyebrow": "THERMISCHE SICHERHEIT UND BRAND",
+    "description": "Mineralische hitzebeständige Bodenbeläge für Metallurgie, Energie und Lebensmittelindustrie – von Schockgefrierung bis zu flüssigem Metall. Klasse A1fl und Temperaturbereich -40°C / +1200°C.",
+    "statTemp": "TEMP RANGE",
+    "statTempValue": "-40°C / +1200°C",
+    "statClass": "BRANDKLASSE",
+    "statClassValue": "A1fl",
+    "statExpansion": "WÄRMEAUSDEHNUNG",
+    "statExpansionValue": "~8 μm/m·K",
+    "statLife": "DESIGN LIFE",
+    "statLifeValue": "≥ 20 Jahre",
+    "btn1": "TECHNISCHES DATENBLATT",
+    "btn2": "INGENIEURSAUDIT ANFORDERN"
+  },
+  "diagnostics": {
+    "eyebrow": "THERMISCHE AGGRESSION",
+    "title": "VON -40°C BIS +1200°C. DAS SYSTEM VERSAGT NICHT.",
+    "subtitle": "8 thermische und operative Szenarien, für die Standardbeschichtungen keine Antwort haben.",
+    "d1": {
+      "title": "DAMPF-THERMOSCHOCK",
+      "problem": "Dampfreinigung bei 120°C auf einem kalten Boden lässt Epoxidbeschichtungen sofort reißen und ablösen.",
+      "solution": "GEONYX THERM hat einen Wärmeausdehnungskoeffizienten nahe dem von Beton und erhält die Haftung bei wiederholten Dampf-Kalt-Zyklen."
+    },
+    "d2": {
+      "title": "FLÜSSIGES METALL UND FUNKEN",
+      "problem": "Schweißspritzer und Gießereibetrieb (700°C+) brennen Polymerböden durch und erzeugen Brandgefahr.",
+      "solution": "Mineralische Matrix, beständig gegen direkten Kontakt mit Feuer und flüssigem Metall – keine Entzündung, keine Verformung."
+    },
+    "d3": {
+      "title": "SCHOCKGEFRIERUNG",
+      "problem": "Bei -40°C werden Standardbeschichtungen spröde und reißen unter Vibration und mechanischer Belastung.",
+      "solution": "GEONYX THERM behält Tragfähigkeit und Mikroelastizität unter kryogenen Bedingungen und häufigen Gefrier-Auftau-Zyklen."
+    },
+    "d4": {
+      "title": "BRANDSCHUTZ UND RAUCH",
+      "problem": "Im Brandfall emittieren synthetische Bodenbeläge dichten giftigen Rauch und Schadstoffe.",
+      "solution": "GEONYX THERM ist Klasse A1fl – nicht brennbar, trägt nicht zum Brand bei und erzeugt weder Rauch noch toxische Dämpfe."
+    },
+    "d5": {
+      "title": "HEISSES ÖL UND FETTE",
+      "problem": "Siedende Fette (180°C) und Öle in der Lebensmittelindustrie greifen Beton und Polymerschichten an.",
+      "solution": "Dichte mineralische Struktur, die kein Eindringen von Fetten zulässt und bei hohen Temperaturen und chemischer Einwirkung stabil bleibt."
+    },
+    "d6": {
+      "title": "EXOTHERME PROZESSE",
+      "problem": "Chemische Reaktionen in Reaktoren und Bädern können die Temperatur innerhalb von Sekunden auf Hunderte von Grad erhöhen.",
+      "solution": "GEONYX THERM ist für kurzfristige Temperaturspitzen bis 1200°C ausgelegt, ohne Haftungsverlust zum Beton."
+    },
+    "d7": {
+      "title": "STERILISATION UND CIP",
+      "problem": "Autoklavierung, Heißwasser unter Druck und aggressive Reinigungsmittel zerstören Fugen und Schwachstellen.",
+      "solution": "Monolithisches fugenfreies System, beständig gegen CIP-Regime, Dampfwäsche und Desinfektion in Reinräumen und Lebensmittelbetrieben."
+    },
+    "d8": {
+      "title": "FUNKENBILDUNG IN ATEX-ZONEN",
+      "problem": "Mechanische Funken beim Aufprall in Gas- oder Staubzonen können eine Explosion auslösen.",
+      "solution": "Non-sparking-Konfiguration von GEONYX THERM – die Oberfläche erzeugt keine mechanischen Funken bei Aufprall und Reibung."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "TECHNISCHER QUERSCHNITT VON GEONYX THERM",
+    "sectionSubtitle": "Interaktives Schichtenmodell – vom Untergrund bis zur Arbeitsoberfläche.",
+    "h1": {
+      "title": "1. TRAGEBETON",
+      "subtitle": "Vorbereiteter Untergrund",
+      "desc": "Strukturell geprüfter Beton, geschliffen oder gefräst, mit korrigierten Fugen und Mängeln für Beständigkeit gegen dynamische und thermische Belastungen."
+    },
+    "h2": {
+      "title": "2. HAFTUNGSZONE",
+      "subtitle": "Thermisch kompatible Verbindung",
+      "desc": "Spezielle mineralische Verbindung mit einem Ausdehnungskoeffizienten nahe dem von Beton – für nullpunktfreie Ablösung bei Thermoschock."
+    },
+    "h3": {
+      "title": "3. THERM-KERN",
+      "subtitle": "Hitzebeständige Schicht",
+      "desc": "Primäre GEONYX THERM-Schicht, die extreme Temperaturspitzen und mechanische Belastungen ohne Sprödbruch aufnimmt."
+    },
+    "h4": {
+      "title": "4. FUNKTIONELLE OBERFLÄCHE",
+      "subtitle": "Rutschhemmung und Hygiene",
+      "desc": "Textur R12/R13 für Sicherheit, einfache Reinigung und Kompatibilität mit Lebensmitteln, Dampf und aggressiven Reinigungsmitteln."
+    }
+  },
+  "engineering": {
+    "eyebrow": "INGENIEURDATEN",
+    "title": "LABORNACHWEISE",
+    "subtitle": "Unabhängige Tests in akkreditierten Labors – vollständige Protokolle im TDS.",
+    "block1title": "WÄRMEAUSDEHNUNG (ΔL/L)",
+    "block1note": "GEONYX THERM dehnt sich wie Beton aus und erzeugt keine Spannungen in der Haftschicht.",
+    "block2title": "TEMPERATURKLASSIFIZIERUNG",
+    "block2note": "Vergleich des maximalen Temperaturbereichs bei stabiler Haftung.",
+    "block3title": "BRANDKLASSE (A1fl)",
+    "block3note": "Mineralische Matrix ohne brennbare Komponenten – Brandklasse A1fl gemäß EN 13501-1."
+  },
+  "operational": {
+    "eyebrow": "LEISTUNG",
+    "title": "OPERATIONALE ÜBERLEGENHEIT",
+    "r1": {
+      "title": "MONOLITHISCHE HAFTUNG BEI THERMOSCHOCK",
+      "desc": "Keine Ablösung beim Übergang von 500°C auf Raumtemperatur – geprüft bei Brandsimulationen und realen Produktionsbedingungen."
+    },
+    "r2": {
+      "title": "KLASSE A1fl (NICHT BRENNBAR)",
+      "desc": "Kein Beitrag zum Brand, kein Rauch und keine giftigen Gase – sicher für Evakuierung und Feuerwehr."
+    },
+    "r3": {
+      "title": "HACCP-KOMPATIBILITÄT",
+      "desc": "Geeignet für Lebensmittelbetriebe – keine gefährlichen Komponenten, einfache Reinigung, Beständigkeit gegen heißes Öl."
+    },
+    "r4": {
+      "title": "KRYOGENE BESTÄNDIGKEIT",
+      "desc": "Betrieb bei -40°C ohne Festigkeitsveränderung – für Tiefkühlhallen, Kühltunnel und kryogene Lager."
+    },
+    "r5": {
+      "title": "ATEX / NON-SPARKING",
+      "desc": "Spezielle Konfigurationen ohne mechanische Funkenbildung – für Zonen mit brennbaren Gasen, Staub und Munition."
+    }
+  },
+  "financial": {
+    "title": "TCO BEI THERMISCHER BELASTUNG",
+    "subtitle": "Vergleich der Wartungskosten bei extremer Temperatur.",
+    "quote": "BÖDEN IN DER METALLURGIE WERDEN ALLE 3–5 JAHRE ERNEUERT.",
+    "quoteHighlight": "GEONYX THERM – HÄLT 20 JAHRE."
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "subtitle": "Vergleich des 20-Jahres-Zyklus für thermisch belastete Zonen.",
+    "colParam": "PARAMETER",
+    "colTherm": "GEONYX THERM",
+    "colEpoxy": "Epoxid/PU",
+    "colStd": "Standardbeton",
+    "row1": "Thermischer Bereich",
+    "row2": "Brandklasse",
+    "row3": "Thermoschockbeständigkeit",
+    "row4": "HACCP-Kompatibilität",
+    "row5": "Design Life",
+    "val1therm": "-40°C bis +1200°C",
+    "val1epoxy": "bis 80°C",
+    "val1std": "bis 300°C (degradiert)",
+    "val2therm": "A1fl – nicht brennbar",
+    "val2epoxy": "Brennbar – Klasse B/C",
+    "val2std": "Nicht anwendbar",
+    "val3therm": "Außerordentlich hoch",
+    "val3epoxy": "Niedrig – Ablösung",
+    "val3std": "Mittel – Rissbildung",
+    "val4therm": "Vollständig",
+    "val4epoxy": "Teilweise",
+    "val4std": "Nicht empfohlen",
+    "val5therm": "≥20 J.",
+    "val5epoxy": "5–8 J.",
+    "val5std": "3–5 J."
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "WO ES EINGESETZT WIRD",
+    "subtitle": "Betriebe mit thermischer Aggression, Brandgefahr oder extremen Temperaturzyklen.",
+    "a1": {
+      "title": "Metallurgie und Gießerei",
+      "desc": "Gießereien, Abgusszonen, Öfen und Bereiche mit flüssigen Metallspritzern."
+    },
+    "a2": {
+      "title": "Lebensmittel- und Getränkeindustrie",
+      "desc": "Produktionsstätten mit heißem Öl, Dampf und aggressiver Reinigung (HACCP)."
+    },
+    "a3": {
+      "title": "Energie und Kernkraft",
+      "desc": "Turbinenhallen, Kesselräume und Brandschutzzonen der Klasse A1."
+    },
+    "a4": {
+      "title": "Luftfahrtindustrie",
+      "desc": "Hangars mit ATEX-Anforderungen und feuerbeständigem Bodenbelag."
+    },
+    "a5": {
+      "title": "Chemische und Erdölindustrie",
+      "desc": "ATEX-Zonen, Reaktoren und Bereiche mit Zündrisiko."
+    },
+    "a6": {
+      "title": "Tiefkühlhallen",
+      "desc": "Kryogene Lager bei -30°C/-40°C mit schwerem Staplerverkehr."
+    },
+    "a7": {
+      "title": "Pharmaindustrie",
+      "desc": "Sterilisationszonen, Autoklavierung und CIP-Programme."
+    },
+    "a8": {
+      "title": "Rüstungsindustrie",
+      "desc": "Explosionsgeschützte Bunker, ATEX-Räume für Munition."
+    }
+  },
+  "process": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "subtitle": "Kontrollierte Ausführung unter aktiven thermischen Bedingungen.",
+    "p1": {
+      "title": "Thermisches Zonenaudit",
+      "desc": "Kartierung von Temperaturspitzen, Zyklen und Betriebsabläufen je Zone."
+    },
+    "p2": {
+      "title": "THERM-Konfigurationsauswahl",
+      "desc": "Auswahl der genauen Schichtdicke und des Systems (Standard, ATEX oder kryogen)."
+    },
+    "p3": {
+      "title": "Untergrundvorbereitung",
+      "desc": "Mechanisches Aufrauen, Ausgleich von Unebenheiten und thermische Aktivierung der Haftung."
+    },
+    "p4": {
+      "title": "Schichtauftrag",
+      "desc": "Auftrag nach thermisch-technologischem Protokoll mit Temperatur- und Haftungskontrolle."
+    },
+    "p5": {
+      "title": "Qualitätskontrolle und Test",
+      "desc": "Prüfung von Haftung, Härte und Ebenheit. Wärmetest bei Bedarf."
+    },
+    "p6": {
+      "title": "Dokumentation und Übergabe",
+      "desc": "TDS-Paket, ATEX/HACCP-Zertifikate und Wartungsanweisungen."
+    }
+  },
+  "offer": {
+    "eyebrow": "KOMMERZIELLE DOKUMENTATION",
+    "title": "THERM ANGEBOTSPAKET (B2B / B2G)",
+    "desc": "Vollständige Dokumentation für thermisch belastete Zonen in Metallurgie, Lebensmittel- und Energieindustrie.",
+    "qualityLabel": "QUALITÄTSGARANTIE",
+    "qualityDesc": "Alle Dokumente entsprechen den HACCP-, ATEX- und EN 13501-1-Anforderungen.",
+    "doc1": "TDS – Technische Spezifikationen und Thermowiderstand",
+    "doc2": "Brandklasse A1fl – Zertifikat und Protokoll",
+    "doc3": "ATEX-Konfiguration und Non-Sparking-Dokumentation",
+    "doc4": "HACCP-Kompatibilität (falls erforderlich)",
+    "doc5": "Details zu Dehnungsfugen und Thermozonen",
+    "doc6": "Ausschreibungsspezifikation für thermisch belastete Zonen",
+    "copyBtn": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copiedBtn": "TEXT KOPIERT!"
+  },
+  "downloads": {
+    "title": "TECHNISCHE DATEIEN UND DOWNLOADS",
+    "dl1": {
+      "title": "GEONYX THERM – TDS",
+      "sub": "Technische Parameter und Thermowiderstand"
+    },
+    "dl2": {
+      "title": "Brandklasse A1fl",
+      "sub": "Zertifikat und EN 13501-1 Protokoll"
+    },
+    "dl3": {
+      "title": "ATEX / Non-Sparking",
+      "sub": "Dokumentation für explosionsgeschützte Zonen"
+    },
+    "dl4": {
+      "title": "HACCP-Erklärung",
+      "sub": "Kompatibilität mit Lebensmittelbetrieben"
+    }
+  },
+  "cta": {
+    "title": "BRANDSCHUTZ. THERMOWIDERSTAND. MINIMALE AUSFALLZEIT.",
+    "desc": "Beschreiben Sie die thermische Belastung Ihrer Zonen – wir schlagen eine THERM-Konfiguration, ATEX/HACCP-Dokumentation und TCO-Analyse vor.",
+    "btn1": "TECHNISCHES AUDIT ANFORDERN",
+    "btn2": "TDS HERUNTERLADEN",
+    "btn3": "INGENIEUR KONTAKTIEREN"
+  },
+  "footerBand": {
+    "label": "TECHNOLOGIEPARTNER FÜR KRITISCHE INFRASTRUKTUR",
+    "desc": "GEONYX THERM bietet thermischen Schutz dort, wo Standardböden brennen, schmelzen oder sich ablösen."
+  },
+  "shared": {
+    "threat": "BEDROHUNG",
+    "solution": "LÖSUNG"
+  }
+}

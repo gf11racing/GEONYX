@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "About GEONYX | Geopolymer Engineering Company",
+    "description": "GEONYX GROUP LTD – a Bulgarian engineering company developing high-technology geopolymer matrices for industrial infrastructure and critical facilities."
+  },
+  "hero": {
+    "eyebrow": "ABOUT THE COMPANY",
+    "title": "WE ARE GEONYX.",
+    "titleHighlight": "ENGINEERS OF MATTER.",
+    "description": "Pioneers in the development and implementation of high-technology geopolymer matrices. We are not merely suppliers of construction materials. We are a technology company redefining the lifecycle of industrial infrastructure."
+  },
+  "philosophy": {
+    "badge": "PHILOSOPHY",
+    "eyebrow": "PARADIGM SHIFT",
+    "title": "THE END OF PLANNED OBSOLESCENCE",
+    "body1": "Industry evolves, but infrastructure lags behind. Standard concrete is a 19th-century technology, and epoxy resins are petrochemical compromises with a short lifespan. Our mission is to break the cycle of constant repairs (Downtime).",
+    "body2": "By creating inorganic matrices, we transform the most vulnerable link in your plant — the floor — into your most durable structural asset. We engineer for a 50-year operational lifecycle."
+  },
+  "rd": {
+    "badge": "R&D LABORATORY",
+    "eyebrow": "R&D AND SYNTHESIS",
+    "title": "LABORATORY PRECISION AND INNOVATION",
+    "body1": "The strength of GEONYX lies in our research and development activity. We do not blend off-the-shelf commercial resins. We synthesise our own geopolymer crystalline lattices at the molecular level.",
+    "body2": "Every formula undergoes relentless stress tests for thermodynamic stability, chemical inertness and compressive strength, verified by independent European laboratories and materials testing institutes."
+  },
+  "liability": {
+    "badge": "LIABILITY",
+    "eyebrow": "SINGLE-SOURCE LIABILITY",
+    "title": "ONE GUARANTEE. ZERO LIABILITY SHIFTING.",
+    "body1": "In construction, the greatest risk is divided responsibility — the manufacturer blames the contractor, and the contractor blames the concrete. GEONYX closes the loop.",
+    "body2": "We manufacture the technology, we conduct the structural audit of the site, and we certify the execution. You receive a single partner, one uncompromising guarantee and absolute legal certainty."
+  },
+  "qaqc": {
+    "badge": "QA / QC",
+    "eyebrow": "QA/QC DEPLOYMENT",
+    "title": "CERTIFIED TECHNICIANS AND PROTOCOLS",
+    "body1": "Working with high-technology mineral matrices requires clinical discipline, not general labourers. Our implementation teams (Certified Application Technicians) operate under strict engineering protocols (Method Statements).",
+    "body2": "From Dew Point monitoring to real-time exothermic reaction control. We guarantee minimal downtime for your production through strict adherence to scheduled time-slots."
+  },
+  "esg": {
+    "badge": "ESG READINESS",
+    "eyebrow": "ESG & CIRCULAR ECONOMY",
+    "title": "A LOW-CARBON FUTURE",
+    "body1": "Corporate responsibility demands a radical reduction of the carbon footprint. Unlike the energy-intensive production of Portland cement and the toxic petrochemistry of epoxies, GEONYX technologies save up to 80% CO2 emissions.",
+    "body2": "Our systems are 100% solvent-free (VOC-Free) and contribute directly to meeting the criteria for LEED and BREEAM certification of your green buildings."
+  },
+  "certs": {
+    "eyebrow": "CORPORATE POLICY",
+    "title": "OFFICIAL STANDARDS OF TRUST",
+    "c1title": "ISO 9001:2015",
+    "c1sub": "Quality Management",
+    "c1body": "Quality Management System (QMS). Subject to continuous independent audit.",
+    "c2title": "ISO 14001:2015",
+    "c2sub": "Environmental Mgmt",
+    "c2body": "Environmental Management. Zero waste to landfill and emissions control.",
+    "c3title": "ISO 45001:2018",
+    "c3sub": "Health & Safety",
+    "c3body": "Occupational Health & Safety. Institutionalised protection of health at work.",
+    "c4title": "REACH & VOC",
+    "c4sub": "Chemical Compliance",
+    "c4body": "Full compliance with EU directives on chemical safety and hygiene."
+  },
+  "cta": {
+    "title": "TRUST THE SCIENCE.",
+    "body": "Contact our engineering team for technical expertise, quantitative analysis and a structural audit of your site.",
+    "btn": "CONTACT US"
+  }
+}

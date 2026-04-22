@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "GEONYX | Agua, aguas residuales e infraestructura marina – Protección hidro y anticorrosión",
+    "description": "GEONYX desarrolla sistemas de protección minerales para agua potable, plantas de tratamiento de aguas residuales (EDAR), alcantarillado, depósitos, presas e infraestructura marina – resistentes a la presión hidrostática, cloruros, cavitación y corrosión biogénica. Protección duradera del hormigón en entornos acuáticos agresivos."
+  },
+  "tender": {
+    "text": "Las estructuras hidráulicas y las superficies en contacto con agua (potable, residual o marina) deberán protegerse con sistemas geopoliméricos minerales tipo GEONYX o equivalente. El sistema debe garantizar estanqueidad (W20), resistencia a presión positiva y negativa, resistencia a sulfatos y (donde proceda) certificación para contacto con agua potable o resistencia a cloruros para entornos marinos.",
+    "copy": "COPIAR TEXTO DE LICITACIÓN",
+    "copied": "¡TEXTO COPIADO!"
+  },
+  "hero": {
+    "eyebrow": "AGUA, AGUAS RESIDUALES E INFRAESTRUCTURA MARINA",
+    "titleLine1": "ESTANQUEIDAD",
+    "titleLine2": "BAJO PRESIÓN",
+    "description": "Protección del hormigón contra la erosión, la carbonatación y el ataque por cloruros. Soluciones para presas, plantas de tratamiento y puertos, aplicables incluso bajo el agua.",
+    "btn1": "DESCARGAR CATÁLOGO HIDRO",
+    "btn2": "SOLICITAR INSPECCIÓN DEL OBJETO"
+  },
+  "scope": {
+    "title": "ALCANCE",
+    "zonesLabel": "ZONAS:",
+    "systemsLabel": "SISTEMAS:",
+    "z1": "Plantas de tratamiento de aguas residuales (EDAR)",
+    "z2": "Estaciones de bombeo y bombeos de aguas residuales",
+    "z3": "Depósitos de agua potable y cámaras de agua limpia",
+    "z4": "Presas, aliviaderos y desagües de fondo",
+    "z5": "Tuberías a presión, túneles y pozos a presión",
+    "z6": "Canales, colectores y pozos de registro para aguas residuales",
+    "z7": "Decantadores, balsas de aireación y biorreactores",
+    "z8": "Puertos, muelles y obras de protección costera",
+    "z9": "Diques secos, diques de barcos y cámaras de dique",
+    "z10": "Esclusas marinas y fluviales, canales y galerías hidráulicas",
+    "link1": "↓ DÓNDE SE USA",
+    "link2": "↓ SELECCIÓN DE SISTEMA",
+    "link3": "↓ PAQUETE DE OFERTA"
+  },
+  "manifesto": {
+    "titleLine1": "EL AGUA ES EL MÁS PERSISTENTE",
+    "titleLine2": "DE LOS DESTRUCTORES.",
+    "body": "La presión, la cavitación, los cloruros, los sulfatos y la helada atacan la infraestructura de hormigón las 24 horas. GEONYX ofrece geopolímeros hidrotécnicos que crean una barrera estanca (W20), detienen la corrosión del acero de refuerzo y resisten aguas agresivas. Desde depósitos de agua potable hasta plantas de tratamiento y muelles marinos."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEMA:",
+    "solutionLabel": "SOLUCIÓN:",
+    "suitableLabel": "Sistemas adecuados:",
+    "b1": {
+      "tag": "PLANTAS DE TRATAMIENTO",
+      "title": "CORROSIÓN BIOGÉNICA Y SULFATOS",
+      "problem": "En las plantas de tratamiento de aguas residuales (EDAR), el sulfuro de hidrógeno es convertido en ácido sulfúrico por bacterias (corrosión biogénica). Este corroe el hormigón, deja el acero de refuerzo expuesto y provoca fallos estructurales.",
+      "solution": "GEONYX HYDRO + CHEM crean una capa protectora con alta resistencia a sulfatos e inmunidad frente a ácidos (pH 1–14). La superficie lisa mejora la hidráulica y evita la acumulación de lodos.",
+      "systems": "HYDRO, CHEM"
+    },
+    "b2": {
+      "tag": "PRESAS",
+      "title": "PRESIÓN HIDROSTÁTICA Y HELADA",
+      "problem": "Las presas y los aliviaderos están sometidos a una enorme presión del agua, ciclos de hielo-deshielo y abrasión por el agua. Las grietas y las filtraciones pueden comprometer la estabilidad de la presa.",
+      "solution": "GEONYX HYDRO proporciona estanqueidad bajo alta presión (W20) y resistencia a la helada (XF4). El sistema puede aplicarse y endurecerse bajo el agua, lo que permite realizar reparaciones sin vaciar el embalse.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "ENTORNO MARINO",
+      "title": "SAL, OLAS Y CORROSIÓN POR CLORUROS",
+      "problem": "En puertos y muelles, el agua de mar introduce cloruros en el hormigón que alcanzan el acero de refuerzo y provocan corrosión (desprendimiento). Las olas y las mareas generan desgaste mecánico.",
+      "solution": "GEONYX HYDRO crea una barrera densa que detiene la migración de cloruros hacia el acero de refuerzo. El sistema resiste el agua salada y los impactos mecánicos de barcos y escombros.",
+      "systems": "HYDRO"
+    },
+    "b4": {
+      "tag": "AGUA POTABLE",
+      "title": "DEPÓSITOS DE AGUA POTABLE Y SEGURIDAD",
+      "problem": "Los depósitos de agua potable deben ser perfectamente lisos para no retener bacterias y completamente inertes. El hormigón envejecido se vuelve rugoso y absorbente.",
+      "solution": "GEONYX HYDRO está certificado para contacto con agua potable. La matriz mineral no contiene disolventes ni toxinas. La superficie es lisa, fácil de limpiar y evita el desarrollo de microorganismos.",
+      "systems": "HYDRO"
+    },
+    "b5": {
+      "tag": "ALCANTARILLADO",
+      "title": "ALCANTARILLADO Y COLECTORES",
+      "problem": "Los canales y colectores están expuestos a aguas residuales agresivas, arena y ácido sulfúrico biogénico que corroe el hormigón en la parte superior de la tubería.",
+      "solution": "GEONYX CHEM proporciona protección frente al ataque ácido, mientras que HYDRO garantiza la estanqueidad de las juntas y los pozos de registro. El sistema resiste la abrasión de los sólidos en suspensión.",
+      "systems": "CHEM, HYDRO"
+    },
+    "b6": {
+      "tag": "PARQUES ACUÁTICOS",
+      "title": "PARQUES ACUÁTICOS Y PISCINAS",
+      "problem": "El cloro, el ozono y la humedad constante atacan las juntas de los azulejos. La impermeabilización subyacente falla frecuentemente, lo que provoca filtraciones y costosas reparaciones.",
+      "solution": "GEONYX HYDRO es un sistema monolítico sin juntas que sirve simultáneamente como impermeabilización y revestimiento de acabado con aspecto estético y antideslizante. Resistente a los rayos UV y a los productos químicos de piscinas.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "AGUAS INDUSTRIALES",
+      "title": "TORRES DE REFRIGERACIÓN INDUSTRIALES",
+      "problem": "El agua de proceso con productos químicos, las altas temperaturas y la humedad constante destruyen el hormigón de las torres de refrigeración y los depósitos de agua de proceso.",
+      "solution": "GEONYX THERM + CHEM proporcionan resistencia a las diferencias de temperatura y a los aditivos químicos en el agua. El sistema protege el acero de refuerzo de la corrosión y prolonga la vida útil de la instalación.",
+      "systems": "CHEM, THERM"
+    },
+    "b8": {
+      "tag": "PROTECCIÓN COSTERA",
+      "title": "PROTECCIÓN COSTERA Y ROMPEOLAS",
+      "problem": "La erosión por olas, la sal y los impactos mecánicos de objetos flotantes destruyen las obras de protección costera. El hormigón estándar se desgasta rápidamente en la zona de mareas.",
+      "solution": "Morteros de alta resistencia GEONYX ARMOR (Marine) para la restauración de la geometría y protección frente a la abrasión de las olas. Resistentes a sulfatos y cloruros.",
+      "systems": "ARMOR, HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "colParam": "PARÁMETRO",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Hormigón estándar / revoco",
+    "colPolymer": "Revestimiento bituminoso / polimérico",
+    "r1param": "Estanqueidad (DIN 1048)",
+    "r1geonyx": "Clase W20, 0 mm de penetración a 5 Bar",
+    "r1standard": "Alta permeabilidad bajo presión",
+    "r1polymer": "Protección parcial, riesgo de micropenetraciones",
+    "r2param": "Resistencia a presión negativa",
+    "r2geonyx": "Unión monolítica, sin delaminación",
+    "r2standard": "No diseñado para contrapresión",
+    "r2polymer": "Alto riesgo de desprendimiento y ampollas",
+    "r3param": "Aplicación bajo el agua",
+    "r3geonyx": "Posible, con buceadores y reparaciones locales",
+    "r3standard": "No aplicable",
+    "r3polymer": "Generalmente imposible, requiere superficie seca",
+    "r4param": "Vida útil en ingeniería hidráulica",
+    "r4geonyx": "≥ 20 años con mantenimiento adecuado",
+    "r4standard": "Reparaciones e inyecciones frecuentes",
+    "r4polymer": "5–10 años hasta rehabilitación seria",
+    "r5param": "Impacto sobre NRW y pérdidas",
+    "r5geonyx": "Reducción significativa de filtraciones",
+    "r5standard": "Sin control real de pérdidas",
+    "r5polymer": "Efecto limitado, horizonte corto"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE USA",
+    "subtitle": "Desde plantas de tratamiento industriales hasta faros marinos y depósitos de agua potable.",
+    "a1title": "Plantas de tratamiento (EDAR)",
+    "a1desc": "Balsas de aireación, decantadores, canales y estaciones de bombeo.",
+    "a2title": "Agua potable y depósitos",
+    "a2desc": "Embalses, torres, depósitos y pozos de distribución.",
+    "a3title": "Presas y centrales hidroeléctricas",
+    "a3desc": "Aliviaderos, tuberías forzadas, esclusas y torres de agua.",
+    "a4title": "Puertos y muelles",
+    "a4desc": "Muros de muelle, pilotes, rompeolas y diques.",
+    "a5title": "Alcantarillado y colectores",
+    "a5desc": "Colectores principales, pozos de registro y canales de drenaje.",
+    "a6title": "Parques acuáticos y piscinas",
+    "a6desc": "Piscinas, toboganes acuáticos y zonas perimetrales.",
+    "a7title": "Protección marina",
+    "a7desc": "Obras de protección costera, faros y plataformas offshore.",
+    "a8title": "Aguas industriales",
+    "a8desc": "Torres de refrigeración, depósitos de agua de proceso y neutralizadores."
+  },
+  "workflow": {
+    "eyebrow": "PROCESO",
+    "title": "PROCESO DE EJECUCIÓN",
+    "w1step": "01",
+    "w1title": "Auditoría hidrotécnica",
+    "w1desc": "Inspección de la estructura, medición de carbonatación, cloruros y resistencia del hormigón. Inspección subacuática si es necesario.",
+    "w2step": "02",
+    "w2title": "Proyecto de protección",
+    "w2desc": "Selección del sistema GEONYX HYDRO según la agresividad del agua, la presión y las cargas mecánicas.",
+    "w3step": "03",
+    "w3title": "Preparación del soporte",
+    "w3desc": "Hidrodemolición (2500 bar) para eliminar el hormigón dañado y limpiar el acero de refuerzo.",
+    "w4step": "04",
+    "w4title": "Restauración de la geometría",
+    "w4desc": "Reprofilado de zonas dañadas con morteros geopoliméricos de alta resistencia (R4).",
+    "w5step": "05",
+    "w5title": "Aplicación del sistema de protección",
+    "w5desc": "Colocación de la membrana GEONYX HYDRO – manualmente o a máquina (gunitado), incluso bajo el agua.",
+    "w6step": "06",
+    "w6title": "Control de calidad y puesta en servicio",
+    "w6desc": "Pruebas de adherencia y estanqueidad. Emisión de certificados y garantía."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE OFERTA",
+    "titleSub": "(B2B / B2G)",
+    "description": "Para empresas de agua, municipios y operadores industriales, GEONYX prepara un paquete completo de documentos para licitaciones y adjudicaciones directas.",
+    "qualityTitle": "GARANTÍA DE CALIDAD",
+    "qualityDesc": "Todos los documentos cumplen con EN 1504 y las normas nacionales.",
+    "i1": "Especificación técnica para impermeabilización y protección del hormigón",
+    "i2": "Detalles para tratamiento de juntas, pasatubos y grietas",
+    "i3": "Plan de organización del trabajo (incluidos trabajos subacuáticos)",
+    "i4": "Certificados de materiales (EN 1504-2, agua potable)",
+    "i5": "Presupuesto (mediciones)",
+    "i6": "Condiciones de garantía y plan de explotación"
+  },
+  "systems": {
+    "eyebrow": "TECNOLOGÍA",
+    "title": "SELECCIÓN DE SISTEMA GEONYX",
+    "subtitle": "Para obras hidráulicas, GEONYX combina HYDRO, CHEM, ARMOR y REPAIR según el tipo de agua, la presión y la agresividad del entorno.",
+    "s1name": "GEONYX HYDRO",
+    "s1desc": "Sistemas especializados para estanqueidad (W20), resistentes a presión hidrostática positiva y negativa.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Protección mineral contra la corrosión biogénica, sulfatos y ácidos en plantas de tratamiento y alcantarillado.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Soluciones de alta resistencia para zonas con cavitación, abrasión e impacto mecánico en aliviaderos y puertos.",
+    "s4name": "GEONYX REPAIR",
+    "s4desc": "Morteros geopoliméricos para la restauración estructural del hormigón dañado y del acero de refuerzo corroído.",
+    "s5name": "GEONYX PURE",
+    "s5desc": "Sistemas certificados para contacto con agua potable, que evitan el desarrollo de microorganismos."
+  },
+  "docs": {
+    "title": "Documentación",
+    "d1name": "Water & WWTP",
+    "d1sub": "Sistemas GEONYX (PDF)",
+    "d2name": "Marine & Coastal",
+    "d2sub": "Soluciones de protección (PDF)",
+    "d3name": "Drinking Water",
+    "d3sub": "Certificados (PDF)",
+    "d4name": "Technical Data",
+    "d4sub": "EN 1504-2 (PDF)"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "q1": "¿PUEDEN LOS SISTEMAS GEONYX APLICARSE BAJO EL AGUA?",
+    "a1": "Sí, determinadas configuraciones de GEONYX HYDRO están diseñadas para su aplicación y endurecimiento bajo el agua por equipos de buceadores, lo que permite reparaciones en presas y muelles sin vaciar el embalse.",
+    "q2": "¿SON LOS MATERIALES SEGUROS PARA EL CONTACTO CON AGUA POTABLE?",
+    "a2": "Sí, GEONYX HYDRO cuenta con certificados para el contacto con agua potable. Su naturaleza mineral no libera toxinas, no contiene disolventes y no altera el sabor ni la composición del agua.",
+    "q3": "¿CUÁL ES LA RESISTENCIA AL AGUA DE MAR Y A LOS CLORUROS?",
+    "a3": "Extremadamente alta. Los sistemas están diseñados para detener la difusión de cloruros, protegiendo el acero de refuerzo de la corrosión incluso en ambientes salinos agresivos y zonas de mareas."
+  },
+  "cta": {
+    "title": "ZONIFICACIÓN INTEGRAL DEL OBJETO",
+    "description": "Cada obra hidráulica tiene riesgos específicos. Integramos matrices especializadas en un único sistema: desde la estanqueidad bajo presión y la resistencia química hasta la resistencia a la abrasión y el contacto con agua potable. Una tecnología que garantiza una cobertura del 100 % de las necesidades.",
+    "btn": "EXPLORAR TODOS LOS SISTEMAS"
+  }
+}

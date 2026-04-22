@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "GEONYX ARMOR | Mineralisches Industriebodensystem",
+    "description": "GEONYX ARMOR – superflaches Mineralbodensystem für extreme mechanische Belastungen, VNA-Gänge, Regalzonen und Schwerbetrieb."
+  },
+  "hero": {
+    "eyebrow": "SYSTEM FÜR EXTREME BESTÄNDIGKEIT",
+    "description": "MINERALISCHE PANZERUNG FÜR SCHWERINDUSTRIE, BERGBAU UND ENERGIE. Verbundsystem für Kettenfahrzeuge, Abrasion und Stoßbelastungen mit Design Life ≥20 Jahre bei industriellem Betrieb.",
+    "descriptionBold": "Design Life ≥20 Jahre",
+    "statPressure": "DRUCK",
+    "statHardness": "HÄRTE",
+    "statWear": "VERSCHLEISS",
+    "statTemp": "TEMPERATUR",
+    "btn1": "TECHNISCHES DATENBLATT",
+    "btn2": "ENGINEERING-AUDIT ANFORDERN"
+  },
+  "certStrip": {
+    "cert1": "KLASSE CT-C80-F10",
+    "cert2": "VERSCHLEISSFESTIGKEIT",
+    "cert4": "NICHT BRENNBAR",
+    "cert5": "ZERTIFIZIERT"
+  },
+  "diagnostics": {
+    "eyebrow": "BEDROHUNGSANALYSE",
+    "title": "INDUSTRIELLE AGGRESSION. WIR NEHMEN SIE AN.",
+    "subtitle": "8 kritische mechanische und betriebliche Belastungen, für die Standardbeton nicht ausgelegt ist.",
+    "d1": {
+      "title": "EXTREME ABRASION",
+      "problem": "Die Reibung durch Ketten, Reifen und Erz wirkt wie Schleifpapier auf den Beton und trägt jedes Jahr Millimeter an Material ab.",
+      "solution": "Mineralische Oberfläche mit Mohs 9 Härte und AR ≤ 0.5 – minimaler Volumenverlust nach 1000 Abrasionszyklen."
+    },
+    "d2": {
+      "title": "KONZENTRIERTE BELASTUNG",
+      "problem": "Ketten, schwere Achsen und Kranräder konzentrieren tonnenweise Last auf eine kleine Kontaktfläche und spalten die Oberfläche.",
+      "solution": "Druckfestigkeit >110 N/mm² und hohe Scherfestigkeit – eine monolithische Schicht, die unter Kettenfahrzeugen weder delaminiert noch bricht."
+    },
+    "d3": {
+      "title": "STOSSTBELASTUNG",
+      "problem": "Herabfallende Teile, Kübel, Matrizen und Werkzeuge reißen den Beton auf, brechen Kanten und öffnen 'Nester' für weitere Schäden.",
+      "solution": "Duktile Mineralmatrix, die Aufprallenergie ohne plötzlichen Sprödbruch aufnimmt – Kanten bleiben intakt und die Oberfläche stabil."
+    },
+    "d4": {
+      "title": "VIBRATIONEN",
+      "problem": "Ständige Vibrationen von Turbinen, Pressen und Kränen führen zu Materialermüdung, Mikrorissen und Ablösen von Beschichtungen.",
+      "solution": "Monolithische Verbindung mit dem Untergrund und vibrationsbeständige Struktur – das System wirkt als ein Körper, ohne Hohlräume oder Schwachstellen."
+    },
+    "d5": {
+      "title": "FUGEN UND KANTENAUSBRÜCHE",
+      "problem": "Fugen und Kanten sind die schwächste Zone von Industrieböden. Stöße von Gabelstaplern und Hartgummirädern brechen Kanten ab, bilden Schlaglöcher und erzeugen Vibrationen in Maschinen.",
+      "solution": "GEONYX ARMOR ermöglicht monolithische oder fugenarme Lösungen mit verstärkten Kanten. Wo Fugen vorhanden sind, werden sie konstruktiv geschützt, sodass sie beim Überfahren mit schwerem Gerät nicht versagen."
+    },
+    "d6": {
+      "title": "DYNAMISCHE ERMÜDUNGSBELASTUNG",
+      "problem": "Ständiger Verkehr auf denselben Routen verursacht Materialermüdung. In stark befahrenen Zonen entstehen Mikrorisse, lokale Absenkungen und 'Spurrillen'.",
+      "solution": "Das mineralische ARMOR-System verteilt dynamische Lasten in die Tiefe und verhindert die Bildung von Ermüdungsrissen, wodurch selbst bei 24/7-Betrieb eine stabile Oberfläche gewährleistet wird."
+    },
+    "d7": {
+      "title": "LOKALE MASCHINENFUNDAMENTE",
+      "problem": "Schwere Maschinen und verankerte Konstruktionen konzentrieren Lasten auf kleine Auflagerpunkte. Bei Standardbeton führt dies zu Zermürbung und Rissbildung rund um die Anker.",
+      "solution": "GEONYX ARMOR schafft eine hochfeste Oberfläche mit hervorragender Druck- und Scherfestigkeit, geeignet für die Integration in Maschinenfundamente ohne lokales Versagen."
+    },
+    "d8": {
+      "title": "PRODUKTIONSAUSFALLZEIT (DOWNTIME)",
+      "problem": "Jede Reparatur von Fugen und Schlaglöchern stoppt die Produktion, blockiert Maschinen und kostet oft mehr als das Material selbst.",
+      "solution": "ARMOR-Systeme mit REPAIR-Protokollen – lokale Reparaturen innerhalb von 24–48 Stunden und stufenweise Arbeiten ohne lange Linienstillstände."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "TECHNISCHER QUERSCHNITT VON GEONYX ARMOR",
+    "sectionSubtitle": "Interaktives Schichtmodell – vom Untergrund bis zur Arbeitsoberfläche.",
+    "h1": {
+      "title": "1. BETONUNTERGRUND",
+      "subtitle": "Tragende Konstruktion",
+      "desc": "Betonuntergrund – tragende Konstruktion (vorhandener Beton, Stahl oder alte Estrichschicht)."
+    },
+    "h2": {
+      "title": "2. VORBEREITUNG UND HAFTSCHICHT",
+      "subtitle": "CSP Profil",
+      "desc": "Mechanische Profilierung (CSP-Profil) und mineralische Verbindung mit dem Untergrund."
+    },
+    "h3": {
+      "title": "3. TRAGENDE VERBUNDSCHICHT",
+      "subtitle": "Bewehrung",
+      "desc": "Bewehrte Mineralmatrix 8–12 mm (bis 25 mm bei Extrembelastung)."
+    },
+    "h4": {
+      "title": "4. OBERFLÄCHENSCHUTZSCHICHT",
+      "subtitle": "Textur",
+      "desc": "Fein abgestimmte Textur für Griffigkeit und leichte Reinigung."
+    }
+  },
+  "engineering": {
+    "eyebrow": "INGENIEURDATEN",
+    "title": "BELEGE AUS DEM LABOR",
+    "subtitle": "Unabhängige Prüfungen in akkreditierten Laboren – vollständige Protokolle im TDS verfügbar.",
+    "block1title": "Mohs-Skala (Härte)",
+    "block1note": "GEONYX ARMOR nähert sich der Diamanthärte an und übertrifft Standardbeton und Stahl in der Verschleißfestigkeit.",
+    "block2title": "Böhme-Test (Abrieb)",
+    "block2note": "Bis zu 8-mal geringerer Volumenverlust nach 1000 Reibungszyklen im Vergleich zu gewöhnlichem Industriebeton.",
+    "block3title": "Duktilität (Stress-Strain)",
+    "block3brittle": "PLÖTZLICHER BRUCH",
+    "block3absorb": "ENERGIEAUFNAHME",
+    "block3note": "Lineares Verhalten ohne plötzlichen Bruch – Verbundmatrix, die Energie aufnimmt, statt zu brechen."
+  },
+  "operational": {
+    "eyebrow": "LEISTUNGSFÄHIGKEIT",
+    "title": "OPERATIVE ÜBERLEGENHEIT",
+    "r1": {
+      "title": "FEUCHTIGKEITSTOLERANZ",
+      "desc": "Einbau auf 'grünem' Beton und Untergründen mit Restfeuchte. Atmungsaktive Struktur, die das Risiko von osmotischem Druck und Ablösung reduziert."
+    },
+    "r2": {
+      "title": "FUNKENFREIHEIT",
+      "desc": "ATEX-Logik für Minen, Kraftstoff- und Munitionslager. Die Oberfläche erzeugt bei Schlageinwirkung keine mechanischen Funken."
+    },
+    "r3": {
+      "title": "KLASSE XF4 / FROST–TAU",
+      "desc": "Volle Immunität gegen Frost-Tau-Zyklen und Salze (Tausalze). Geeignet für Außenrampen, Kais und Hangare."
+    },
+    "r4": {
+      "title": "FUGENLOS ODER MINIMALFUGEN-SYSTEM",
+      "desc": "Zonenbasierte Planung mit minimaler Anzahl von Industriefugen – weniger Reparaturpunkte und geringeres Versagensrisiko."
+    },
+    "r5": {
+      "title": "GLOBALE ZERTIFIZIERUNG",
+      "desc": "EN 13813, CE Mark, ISO 9001. Vollständige Ingenieursdokumentation für öffentliche und private Investoren."
+    }
+  },
+  "financial": {
+    "title": "WENN DER BODEN EINE INVESTITION IST, KEIN AUFWAND",
+    "subtitle": "Gesamtkostenvergleich über 20 Jahre – Standardbeton mit periodischen Reparaturen gegenüber GEONYX ARMOR mit minimalen Eingriffen.",
+    "quote": "BETON WIRD VIELE MALE BEZAHLT.",
+    "quoteHighlight": "GEONYX ARMOR – EINMAL."
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "subtitle": "Vergleich des 20-jährigen Betriebszyklus zwischen Standardbeton und GEONYX ARMOR im 3-Schicht-Industriebetrieb.",
+    "colParam": "PARAMETER",
+    "colStd": "Standardbeton",
+    "colEpoxy": "Epoxid-System",
+    "row1": "Design Life",
+    "row2": "Anzahl Reparaturen (20 J.)",
+    "row3": "Downtime",
+    "row4": "Abrasionswiderstand",
+    "row5": "Gesamtkosten über 20 J.",
+    "val1armor": "≥20 J.",
+    "val1std": "5–8 J.",
+    "val1epoxy": "7–10 J.",
+    "val2armor": "0–1",
+    "val2std": "3–5",
+    "val2epoxy": "2–4",
+    "val3armor": "minimal",
+    "val3std": "hoch",
+    "val3epoxy": "mittel",
+    "val5armor": "Gering",
+    "val5std": "Hoch",
+    "val5epoxy": "Mittel"
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "WO ES EINGESETZT WIRD",
+    "subtitle": "Anlagen mit hoher mechanischer Beanspruchung, schwerem Fahrzeugverkehr und Extrembelastungen.",
+    "a1": {
+      "title": "Schwere Metallurgie",
+      "desc": "Gießereien, Walzwerke, Schlacken- und Flüssigmetallzonen."
+    },
+    "a2": {
+      "title": "Logistikzentren",
+      "desc": "Schmalgangbereiche, Rampen, Verladedocks und intensiver Gabelstaplerverkehr."
+    },
+    "a3": {
+      "title": "Bergwerke und Aufbereitungsanlagen",
+      "desc": "Brecher, Mühlen, Flotationsbereiche und Werkstätten für schwere Geräte."
+    },
+    "a4": {
+      "title": "Energie",
+      "desc": "Turbinenhallen, Wartungsplattformen, Kohle- und Aschebunker."
+    },
+    "a5": {
+      "title": "Automobilproduktion",
+      "desc": "Presswerke, Montagelinien, Schweißroboter und Testbereiche."
+    },
+    "a6": {
+      "title": "Verteidigungsindustrie",
+      "desc": "Reparaturbetriebe für Kettenfahrzeuge, Munitionslager (ATEX)."
+    },
+    "a7": {
+      "title": "Recycling und Abfall",
+      "desc": "Schrottplätze, Sortieranlagen und Abfalldeponien."
+    },
+    "a8": {
+      "title": "Luftfahrt",
+      "desc": "Wartungshangare, Schwerfahrwerkszonen und Triebwerkswartung."
+    }
+  },
+  "process": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "subtitle": "Ingenieurtechnische Kontrolle von der ersten Analyse bis zur endgültigen Bauabnahme.",
+    "p1": {
+      "step": "01",
+      "title": "Engineering-Audit",
+      "desc": "Lastanalyse, Zonenplanung und Risikoprofil."
+    },
+    "p2": {
+      "step": "02",
+      "title": "Planung",
+      "desc": "Festlegung der Schichtdicke (8–25 mm) und des Systems."
+    },
+    "p3": {
+      "step": "03",
+      "title": "Untergrundvorbereitung",
+      "desc": "Mechanische Profilierung (CSP-Profil), Reinigung, Feuchtigkeitskontrolle."
+    },
+    "p4": {
+      "step": "04",
+      "title": "Applikation",
+      "desc": "Einbau des ARMOR-Verbundsystems gemäß technologischem Protokoll."
+    },
+    "p5": {
+      "step": "05",
+      "title": "Qualitätskontrolle",
+      "desc": "Prüfung von Haftfestigkeit, Schichtdicke und Ebenheit."
+    },
+    "p6": {
+      "step": "06",
+      "title": "Dokumentation",
+      "desc": "Dokumentierte Übergabe mit technischem Datenblatt."
+    }
+  },
+  "offer": {
+    "eyebrow": "GESCHÄFTSDOKUMENTATION",
+    "title": "AUSSCHREIBUNGSPAKET (B2B / B2G)",
+    "desc": "Vollständige Ingenieursdokumentation für Investoren, Planer und öffentliche Ausschreibungen.",
+    "qualityLabel": "QUALITÄTSSICHERUNG",
+    "qualityDesc": "Alle Dokumente entsprechen den aktuellen Eurocodes und Normen.",
+    "doc1": "Technical Data Sheet (TDS)",
+    "doc2": "CE-Erklärung",
+    "doc3": "Laborprotokolle",
+    "doc4": "Ausführungsmethodik",
+    "doc5": "BIM-Details",
+    "doc6": "Ausschreibungsspezifikation (copy-ready Text)",
+    "copyBtn": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copiedBtn": "TEXT KOPIERT!"
+  },
+  "downloads": {
+    "title": "TECHNISCHE DATEIEN UND DOWNLOADS",
+    "dl1": {
+      "title": "Technical Data Sheet",
+      "sub": "Vollständige Ingenieurparameter und Testergebnisse"
+    },
+    "dl2": {
+      "title": "Laboratory Report",
+      "sub": "Zusammenfassung der Prüfergebnisse"
+    },
+    "dl3": {
+      "title": "BIM Library",
+      "sub": "Planungsdetails"
+    },
+    "dl4": {
+      "title": "Engineering Specification",
+      "sub": "Gebrauchsfertiger Ausschreibungstext"
+    }
+  },
+  "cta": {
+    "title": "PLANEN SIE FÜR 20 JAHRE. NICHT FÜR 3.",
+    "subtitle": "Ingenieursystem für Anlagen mit extremer mechanischer Beanspruchung und hohem Betriebsrisiko.",
+    "desc": "Vollständige technische Dokumentation und Ingenieurberatung für Investoren, Planer und Betreiber in der Schwerindustrie und kritischen Infrastruktur.",
+    "btn1": "TECHNISCHE SPEZIFIKATIONEN HERUNTERLADEN (TDS)",
+    "btn2": "BIM UND DETAILS HERUNTERLADEN",
+    "btn3": "ENGINEERING-AUDIT ANFORDERN"
+  },
+  "footerBand": {
+    "label": "TECHNOLOGIEPARTNER FÜR KRITISCHE INFRASTRUKTUR",
+    "desc": "Sie benötigen ein System, das Bergwerken, Stahlwerken, Logistikzentren oder Energieanlagen standhält. GEONYX ARMOR kombiniert Geopolymertechnologie, Labordaten und Felderprobung, um einen Bodenbelag zu liefern, der vor jedem Investor und Prüfer bestehen kann."
+  },
+  "shared": {
+    "threat": "BEDROHUNG",
+    "solution": "LÖSUNG"
+  }
+}

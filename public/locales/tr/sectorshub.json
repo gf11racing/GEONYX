@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "GEONYX | Hizmet Verdiğimiz Endüstriyel Sektörler",
+    "description": "GEONYX 8 endüstriyel sektöre hizmet verir: gıda ve ilaç, ağır sanayi, altyapı, tarım, su ve deniz, enerji ve savunma, inşaat ve kentsel yüksek teknoloji."
+  },
+  "hero": {
+    "eyebrow": "SİSTEM KAYDI",
+    "title": "ENDÜSTRİYEL KATALOG",
+    "subtitle": "OPERASYONEL SEKTÖRLER & UYGULAMALAR",
+    "stat1label": "AKTİF SEKTÖRLER",
+    "stat2label": "SERTİFİKASYON",
+    "stat3label": "HİZMET ÖMRÜ"
+  },
+  "sectors": {
+    "s01title": "AĞIR SANAYİ & LOJİSTİK",
+    "s01subtitle": "AŞIRI YÜKLER",
+    "s01desc": "Aşırı mekanik yükler, titreşimler ve 7/24 trafik için zemin kaplamaları.",
+    "s02title": "GIDA, İÇECEK & ECZACILIK",
+    "s02subtitle": "HİJYEN & GMP UYUMU",
+    "s02desc": "Bakteriyostatik derzisiz sistemler. Buhar jeti ve kimyasallara karşı dayanım.",
+    "s03title": "TARIM, BİYOGAZ & EKOLOJİ",
+    "s03subtitle": "ORGANİK SALDIRGANLIK",
+    "s03desc": "Organik asitlere, gübreye, amonyağa ve agresif sulara karşı koruma.",
+    "s04title": "SU & DENİZ ALTYAPISI",
+    "s04subtitle": "HİDROTEKNİK",
+    "s04desc": "%100 su geçirmezlik ve tuz ile erozyona karşı direnç.",
+    "s05title": "ENERJİ, MADENCİLİK & SAVUNMA",
+    "s05subtitle": "KRİTİK ALTYAPI",
+    "s05desc": "Nükleer, termik santraller, madenler ve askeri tesisler için yanmaz ve kimyasal dayanımlı sistemler.",
+    "s06title": "ULAŞIM & OTOPARKLAR",
+    "s06subtitle": "TRAFİK & HAREKET",
+    "s06desc": "Yüksek tutuşlu, alkali ve tuzlara dayanıklı zemin ve rampalar.",
+    "s07title": "KENTSEL ÇEVRE & İNŞAAT",
+    "s07subtitle": "UHPC & TASARIM",
+    "s07desc": "Cepheler, elemanlar ve kentsel çevre için UHPC çözümleri."
+  },
+  "cta": {
+    "eyebrow": "UZMANLAŞMIŞ MÜHENDİSLİK",
+    "title": "KULLANIM ALANINIZIBULAMADI MISINIZ?",
+    "body": "Kimya mühendislerimiz, özel ortamlar için modifiye matrisler geliştirmektedir (Custom Formulations). Laboratuvar analizi için bizimle iletişime geçin.",
+    "btn": "GELİŞTİRME TALEP ET"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Transport, Parkplätze, Garagen & Verkehr – Industrieböden R12/R13",
+    "description": "GEONYX entwickelt fugenlose Mineralbodensysteme für Verkehrsinfrastruktur, Unter- und Oberflächenparkplätze, R12/R13-Rampen, Garagen und Verkehrsbereiche – beständig gegen Reifen, Salz, Tausalze, Öle, Wasser und Intensivverkehr."
+  },
+  "hero": {
+    "tag": "TRANSPORT, PARKPLÄTZE & GARAGEN",
+    "title_line1": "SCHUTZ VOR SALZEN,",
+    "title_line2": "VERKEHR & KARBONATISIERUNG",
+    "description": "Parkhäuser und Garagen sind die 'Lungen' der Stadt, doch ihr Beton wird von Tausalzen, CO₂ und intensivem Abrieb angegriffen. GEONYX bietet zertifizierte OS 8 und OS 11 Systeme für dauerhaften Schutz.",
+    "btn_catalog": "OS 8 / OS 11 KATALOG HERUNTERLADEN",
+    "btn_inspection": "PARKHAUS-BESICHTIGUNG ANFRAGEN",
+    "scope_title": "UMFANG",
+    "scope_zones_label": "ZONEN:",
+    "scope_systems_label": "SYSTEME:",
+    "nav_applications": "↓ WO ES VERWENDET WIRD",
+    "nav_system_selection": "↓ SYSTEMAUSWAHL",
+    "nav_offer_package": "↓ ANGEBOTSPAKET",
+    "zones": [
+      "Mehrgeschossige Parkhäuser (ober- und unterirdisch)",
+      "Unterirdische Garagen in Einkaufszentren und Büros",
+      "Lade-, Entlade- und Garagenzufahrtsrampen",
+      "Einzelhandels- und Retailpark-Parkplätze",
+      "Logistikbasis-Parkplätze und Rangierbereiche",
+      "Innengassen und Servicewege in Industriezonen",
+      "Taxi-, Liefer- und Kurzzeitparkbereiche (drop-off/pick-up)",
+      "Busbahnhöfe, Fernbusterminals und P+R-Zonen",
+      "Einfahrten und Innenwege in Wohnanlagen",
+      "Intensive Brems- und Kurvenbereiche (Rampen, Kreisverkehre, Schranken)"
+    ]
+  },
+  "manifesto": {
+    "title_line1": "CHLORIDE SIND",
+    "title_line2": "DER STILLE KILLER DES BETONS.",
+    "text": "Im Winter bringen Fahrzeuge tonnenweise Salz (Tausalze) in Parkhäuser. Gelöste Chloride dringen durch die Betonporen, erreichen die Bewehrung und lösen Korrosion aus, die die Platte von innen aufsprengt. GEONYX HYDRO stoppt diesen Prozess durch undurchlässige Membranen, während ARMOR den Reifenabrieb aufnimmt."
+  },
+  "blocks": {
+    "problem_label": "PROBLEM:",
+    "solution_label": "LÖSUNG:",
+    "suitable_systems": "Geeignete Systeme:",
+    "b1": {
+      "badge": "Intensivbelastung",
+      "title": "ZWISCHENGESCHOSSE & INTENSIVVERKEHR",
+      "problem": "In Zwischengeschossen von Parkhäusern besteht kein Frostrisiko, aber extrem hoher Reifenabrieb und lokale Chemikalienangriffe (Öle, Kraftstoffe). Beton beginnt zu stauben, Flecken werden dauerhaft und die Oberfläche verschleißt ungleichmäßig.",
+      "solution": "GEONYX ARMOR Mineralsystem für eine harte, mechanisch beständige Oberfläche. Versiegelt Beton, reduziert Staub und schützt vor Ölen und Kraftstoffen, bei gleichzeitiger Rutschfestigkeit (R11/R12) und langer Nutzungsdauer unter Intensivverkehr.",
+      "systems": "ARMOR"
+    },
+    "b2": {
+      "badge": "Wasser & Klima",
+      "title": "OFFENE & DACHPARKPLÄTZE",
+      "problem": "Auf offenen Ebenen und Dachparkplätzen führen Temperaturschwankungen (Winter/Sommer) zu Plattenschwund und -ausdehnung. Dynamische Risse entstehen, durch die Wasser, Tausalze und Salze eindringen und Beton und Bewehrung schädigen.",
+      "solution": "Elastisches Abdichtungssystem GEONYX HYDRO mit Zwischenmembranschicht, das Risse bis 0,3 mm bei -20°C überbrückt. Bleibt wasserdicht bei Untergrundbewe­gungen und schützt die Konstruktion vor Wasser-, Salz- und Tausalzeindringung.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "badge": "Maximale Haftung",
+      "title": "RAMPEN & GENEIGTE ZUFAHRTEN",
+      "problem": "Rampen sind die am stärksten beanspruchten Zonen – Bremsen, Anfahren, scharfe Kurven. Bei Regen, Schnee oder Eis wird Beton rutschig, Fahrzeuge drehen durch und die Oberfläche verschleißt am schnellsten in Kurven- und Bremszonen.",
+      "solution": "Speziell konfiguriertes GEONYX ARMOR mit verstärkter Abriebfestigkeit und Rutschfestigkeitsklasse R13. Harte Mineralstoffe (Korund/Basalt) gewährleisten 'Reifen-auf-Reifen'-Haftung und widerstehen Scherkräften bei Intensivmanövern.",
+      "systems": "ARMOR"
+    },
+    "b4": {
+      "badge": "Schwerlastverkehr",
+      "title": "TIR-ZONEN & LADERAMPEN",
+      "problem": "In Verladezonenbereichen, Außenplattformen und Servicewegen verursachen schwere LKW extreme statische Lasten auf Stützen und dynamische Scherkräfte beim Rangieren. Standardbeläge versagen in Fugen- und Auflagerbereichen.",
+      "solution": "Schwerlast-Konfiguration GEONYX ARMOR HEAVY DUTY, ausgelegt für Kontaktspannungen über 100 MPa. Das System verformt sich nicht unter LKW- und Anhängergewichten; Fugen werden speziell armiert und geformt für harte Industrieräder.",
+      "systems": "ARMOR"
+    },
+    "b5": {
+      "badge": "Navigation & Sicherheit",
+      "title": "MARKIERUNGEN & VISUELLE GESTALTUNG",
+      "problem": "In großen Parkhäusern und Verkehrsknotenpunkten führt fehlende dauerhafte Markierung zu Verkehrschaos, Fahrerverwirrung und erhöhtem Unfallrisiko. Normale Straßenfarbe verschwindet in Monaten unter Reifen und Manövern.",
+      "solution": "In den Boden integrierte Markierungen mit GEONYX ARMOR – Farbzonen, Pfeile, Fußgängerüberwege und Kennzeichnungen werden in das System selbst eingebettet, nicht nur aufgemalt. UV-beständige Pigmente und Mineralmatrix garantieren dauerhafte Sichtbarkeit und erhöhte Sicherheit.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "badge": "ELEKTROMOBILITÄT",
+      "title": "EV-ZONEN & SCHNELLLADEN",
+      "problem": "EV-Ladestationen konzentrieren schwere Fahrzeuge, Batterietemperaturlasten, Wartungsöle und lokale Chemikalienangriffe. Standardbeton reißt um Anker und Kabelkanäle.",
+      "solution": "GEONYX ARMOR + CHEM System mit hoher mechanischer Festigkeit und Beständigkeit gegenüber Elektrolyten und Ölen. Oberfläche bleibt stabil um Anker und Geräte, gewährleistet dauerhaften Schutz und geringen Wartungsaufwand.",
+      "systems": "ARMOR, CHEM"
+    }
+  },
+  "roi": {
+    "section_tag": "ROI-ANALYSE",
+    "section_title": "INVESTITIONSAUDIT",
+    "col_param": "PARAMETER",
+    "col_geonyx": "GEONYX",
+    "col_standard": "Standardbeton / Estrich",
+    "col_bitumen": "Bituminöse / Polymerbeschichtung",
+    "rows": [
+      {
+        "param": "Klimabeständigkeit (UV, Regen, Temperaturen)",
+        "geonyx": "Hoch – Mineralmatrix, HYDRO/THERM-Schutz",
+        "standard": "Mittel – Risse und Ausblühungen",
+        "alt": "Mittel – Alterung, Vergilben und Rissbildung"
+      },
+      {
+        "param": "Mechanische Abriebfestigkeit",
+        "geonyx": "Hoch – ARMOR für Aufprall, Reibung und Verkehr",
+        "standard": "Mittel – Absplitterung und Staub",
+        "alt": "Anfangs gut, schneller Oberflächenverschleiß"
+      },
+      {
+        "param": "Chemische Beständigkeit (Reinigung, Kraftstoffe)",
+        "geonyx": "Hoch – CHEM-Konfiguration",
+        "standard": "Begrenzt – empfindlich gegenüber Reinigungsmitteln",
+        "alt": "Chemieabhängig, Quell- und Fleckenrisiko"
+      },
+      {
+        "param": "Abdichtung und Lecks zu unteren Ebenen",
+        "geonyx": "Systemische HYDRO-Logik",
+        "standard": "Partielle Lösungen, viele Detailschwächen",
+        "alt": "Abhängigkeit von organischen Membranen"
+      },
+      {
+        "param": "Ästhetik und 'mineral look' über die Zeit",
+        "geonyx": "Beibehaltenes Mineralaussehen, geringer Staub",
+        "standard": "Ungleichmäßige Alterung und Flecken",
+        "alt": "Glanz, der Kratzer und Defekte betont"
+      },
+      {
+        "param": "Wartung und Reparatur",
+        "geonyx": "Lokale REPAIR- und zonenweise Systemerneuerungen",
+        "standard": "Schwierige Teilreparaturen, oft Vollersatz",
+        "alt": "Häufige Neubeläge mit Alterung"
+      },
+      {
+        "param": "Gesamte Lebenszykluskosten",
+        "geonyx": "Optimiert für 10–15+ Jahre",
+        "standard": "Niedrige Anfangskosten, hohe Langzeitkosten",
+        "alt": "Mittel, mit Risiko früher Alterung"
+      }
+    ]
+  },
+  "applications": {
+    "section_tag": "ANWENDUNGEN",
+    "section_title": "WO ES VERWENDET WIRD",
+    "section_desc": "GEONYX deckt sowohl die städtische Szene als auch High-Tech-Objekte ab – vom Skatepark bis zum Reinraum.",
+    "items": [
+      { "id": "underground", "title": "Unterirdische Parkhäuser", "desc": "Einkaufszentren, Bürogebäude und Wohnanlagen." },
+      { "id": "rooftop", "title": "Offene Ebenen (Dach)", "desc": "Dachparkplätze, ausgesetzt atmosphärischen Bedingungen." },
+      { "id": "ramps", "title": "Rampen und Spiralen", "desc": "Geneigte Zonen mit hohem Haftungsanspruch." },
+      { "id": "logistics", "title": "Logistikterminals", "desc": "Be- und LKW-Rangierbereiche." },
+      { "id": "airports", "title": "Flughäfen und Hangars", "desc": "Servicezonen, Rollwege und Garagen." },
+      { "id": "bridges", "title": "Brücken und Viadukte", "desc": "Abdichtung und Schutz der Fahrbahnplatte." },
+      { "id": "autoservice", "title": "Kfz-Werkstätten", "desc": "Zonen mit Ölen, Kraftstoffen und schwerem Werkzeug." },
+      { "id": "tunnels", "title": "Tunnel", "desc": "Reflektierende und nicht brennbare Beschichtungen." }
+    ]
+  },
+  "systems": {
+    "section_tag": "TECHNOLOGIE",
+    "section_title": "GEONYX SYSTEMAUSWAHL",
+    "items": [
+      { "id": "armor", "name": "GEONYX ARMOR", "desc": "Hartes System für geschlossene Parkhäuser, Garagen und Lager. Hohe Verschleiß- und Chemikalienbeständigkeit." },
+      { "id": "hydro", "name": "GEONYX HYDRO", "desc": "Elastisches System für offene Parkhäuser und Dächer. Überbrückt Risse und stoppt Lecks." },
+      { "id": "chem", "name": "GEONYX CHEM", "desc": "Für Spezialbereiche mit Kraftstoff-, Öl- und Batteriesäureaustritt." },
+      { "id": "repair", "name": "GEONYX REPAIR", "desc": "Schnelllösungen für Schlagloch-, Abplatzungs- und Fugenreparaturen vor der Beschichtung." }
+    ]
+  },
+  "workflow": {
+    "section_tag": "PROZESS",
+    "section_title": "AUSFÜHRUNGSPROZESS",
+    "steps": [
+      { "id": "s1", "step": "01", "title": "Funktions- und Verkehrsanalyse", "desc": "Prüfung von Szenarien – städtische Umgebung, öffentlicher Zugang, High-Tech-Zonen, ESD/Clean-Anforderungen." },
+      { "id": "s2", "step": "02", "title": "Risikobasierte Zonierung", "desc": "Einteilung des Objekts in Zonen: Außenbereiche, innere öffentliche Zonen, High-Tech, Labore, Hangars." },
+      { "id": "s3", "step": "03", "title": "GEONYX Systemauswahl", "desc": "Kombination aus ARMOR / HYDRO / CHEM / THERM für jede Zone mit klar definierten Parametern." },
+      { "id": "s4", "step": "04", "title": "Details und Testzonen", "desc": "Planung von Details bei Fugen, Rändern, Fassaden, Abläufen und Testabschnitten bei Bedarf." },
+      { "id": "s5", "step": "05", "title": "Stufenweise Ausführung", "desc": "Arbeitsorganisation, sodass das Objekt wo möglich teilweise in Betrieb bleibt." },
+      { "id": "s6", "step": "06", "title": "Kontrolle und Schulung", "desc": "Abschlusskontrolle, Dokumentation und Anweisungen für Wartung, Reinigung und künftige REPAIR-Maßnahmen." }
+    ]
+  },
+  "offer": {
+    "section_tag": "HANDELSUNTERLAGEN",
+    "section_title": "ANGEBOTSPAKET (B2B / B2G)",
+    "section_desc": "Für Gemeinden, Investoren, Architekten und High-Tech-Objekt­betreiber stellt GEONYX ein vollständiges Paket für Ausschreibungen, Wettbewerbe und interne Genehmigungen bereit.",
+    "quality_title": "QUALITÄTSGARANTIE",
+    "quality_desc": "Alle Unterlagen entsprechen den aktuellen Eurocodes und Normen.",
+    "copy_btn": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copy_success": "TEXT KOPIERT!",
+    "tender_text": "Bodenbeläge in Parkhäusern, Garagen und auf Rampen sind mit Betonoberflächen-Schutzsystemen gemäß EN 1504-2 auszuführen. Für Zwischengeschosse und Rampen: OS 8 Klasse (hart, verkehrsbeständig). Für offene Ebenen und rissgefährdete Zonen: OS 11a/b Klasse (elastisch, rissüberbrückend). Systeme müssen chloridbeständig (Tausalze), kraftstoff- und ölresistent sein, nachgewiesene Rutschfestigkeit aufweisen und Brandreaktionsklasse Bfl-s1 oder besser erreichen.",
+    "items": [
+      "Zonierung städtischer und High-Tech-Flächen nach Funktion und Risiko",
+      "Technische Spezifikationen für ARMOR / HYDRO / CHEM / THERM je Zone",
+      "Details für Fugen, Ränder, Fassaden, Terrassen und Untergrundverbindungen",
+      "Empfohlenes Ausführungsszenario ohne vollständige Objektschließung",
+      "Reinigungs-, Chemie- und Brandschutzanforderungen",
+      "Garantiebedingungen und Inspektions- und Lokalreparaturplan"
+    ]
+  },
+  "docs": {
+    "section_title": "Dokumentation",
+    "items": [
+      { "id": "d1", "title": "Parking Systems Guide", "subtitle": "OS 8 / OS 11 (PDF)" },
+      { "id": "d2", "title": "Maintenance Manual", "subtitle": "Parkhaus-Wartung (PDF)" },
+      { "id": "d3", "title": "Color Chart", "subtitle": "Farben und Markierungen (PDF)" },
+      { "id": "d4", "title": "Aviation & High-Tech Floors", "subtitle": "Technische Anforderungen (PDF)" }
+    ]
+  },
+  "faq": {
+    "section_title": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "id": "f1",
+        "question": "KÖNNEN WIR EINEN 'MINERAL LOOK' STATT EINES TYPISCHEN HARZBODENS BEIBEHALTEN?",
+        "answer": "Ja. GEONYX Systeme sind mineralisch und erlauben einen 'mineral look' mit hoher Abriebfestigkeit und Schutz. Farbe und Textur werden im Projekt nach dem architektonischen Konzept festgelegt."
+      },
+      {
+        "id": "f2",
+        "question": "SIND DIE SYSTEME FÜR ESD UND REINRAUM-ANFORDERUNGEN GEEIGNET?",
+        "answer": "Bestimmte ARMOR- und CHEM-Konfigurationen können mit kontrollierten ESD-Parametern und glatter, leicht zu reinigender Oberfläche ausgeführt werden, die mit Reinraumprotokollen kompatibel ist."
+      },
+      {
+        "id": "f3",
+        "question": "WIE VERHALTEN SICH DIE BÖDEN BEI BRAND IN ÖFFENTLICHEN UND HIGH-TECH-GEBÄUDEN?",
+        "answer": "THERM-Konfigurationen basieren auf nicht brennbaren Mineralsystemen mit günstigem Brandverhalten; spezifische Klassen werden gemäß Vorschriften und Projekt festgelegt."
+      }
+    ]
+  },
+  "cta": {
+    "title": "UMFASSENDE OBJEKTZONIERUNG",
+    "desc": "Jedes Objekt hat spezifische Risiken. Wir integrieren 6 spezialisierte Matrizen in ein System: von Mechanik, Chemie und Thermoshock bis hin zu Abdichtung, Antistatik und Architektur.",
+    "btn": "ALLE INGENIEURSYSTEME ANZEIGEN"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "GEONYX | HSEQ ve Sürdürülebilirlik – Sağlık, Güvenlik, Kalite ve Çevre",
+    "description": "GEONYX'te HSEQ politikası ve sürdürülebilir kalkınma – sağlık ve güvenliğe, ürün kalitesine ve çevre korumasına bağlılık. Altyapı ve endüstri için düşük karbon ayak izi ve uzun hizmet ömrüyle mineral endüstriyel sistemler."
+  },
+  "hero": {
+    "eyebrow": "KURUMSAL STANDART (HSEQ & ESG)",
+    "titleLine1": "RİSK VE KALİTENİN",
+    "titleLine2": "UZLAŞMASIZ YÖNETİMİ",
+    "description": "Endüstriyel liderlik teknolojik yenilikten fazlasını gerektirir – mutlak sorumluluk ister. GEONYX'te her süreç – ham maddelerin sentezinden sahadaki nihai polimerizasyona kadar – katı bir kurumsal koda tabi tutulur."
+  },
+  "healthSafety": {
+    "badge": "İş Güvenliği",
+    "eyebrow": "\"SIFIR RİSK\" KÜLTÜRÜ",
+    "title": "MESLEKİ RİSK YÖNETİMİ",
+    "description": "Bizim için güvenlik belgeleme değil, operasyonel bir kültürdür. Ekiplerimiz sıkı İş Güvenliği Analizi (Job Safety Analysis - JSA) protokollerine göre çalışır. Uçucu organik bileşenlerin (VOC-Free) ve toksik çözücülerin %100 yokluğuyla sistemler geliştirerek, uygulamacılar ve saha personeli için solunum risklerini ortadan kaldırıyoruz.",
+    "tag1": "ISO 45001",
+    "tag2": "JSA Protocols"
+  },
+  "sustainability": {
+    "badge": "Karbon Nötrlüğü",
+    "eyebrow": "EKOLOJİK AYAK İZİ",
+    "title": "DEKARBONIZASYON VE EPD",
+    "description": "Portland çimentosu küresel CO2 emisyonlarının %8'ini üretir. GEONYX paradigmayı değiştiriyor. Jeopolimer teknolojimiz karbon ayak izini geleneksel betona kıyasla %80'e kadar azaltır. Çevresel Ürün Beyanları (EPD) ve Yaşam Döngüsü Analizi (LCA) aracılığıyla şeffaf dekarbonizasyon verileri sunuyoruz.",
+    "tag1": "ISO 14001",
+    "tag2": "LEED / BREEAM"
+  },
+  "quality": {
+    "badge": "Kalite Kontrol",
+    "eyebrow": "TAM İZLENEBİLİRLİK",
+    "title": "QA/QC PARTİ KONTROLÜ",
+    "description": "Endüstriyel ölçek varyasyonlara tahammül etmez. Kalite kontrolümüz (QC) tamamen laboratuvar tabanlı ve enstrümantaldir. Her ham madde partisi gelen spektral analizden geçer ve her üretimden referans numuneler arşivlenir. Bu mutlak izlenebilirlik, mekanik özelliklerin %100 doğrulukla yeniden üretileceğini garanti eder.",
+    "tag1": "ISO 9001",
+    "tag2": "TDS Verification"
+  },
+  "governance": {
+    "badge": "Yönetim",
+    "eyebrow": "ESG UYUMLULUĞU",
+    "title": "ETİK TEDARİK ZİNCİRİ",
+    "description": "Sorumluluk üretimden önce başlar. Ham madde tedarikçilerimizi en katı Avrupa direktifleri doğrultusunda denetliyoruz. GEONYX mineral matrislerindeki tüm bileşenler, tedarik zincirimizdeki çatışma minerallerinin ve toksik öncülerin yokluğunu garanti eden REACH yönetmeliğiyle tam uyumludur.",
+    "tag1": "REACH Compliant",
+    "tag2": "Supply Audit"
+  },
+  "standards": {
+    "eyebrow": "KURUMSAL POLİTİKA",
+    "title": "RESMİ STANDARTLAR",
+    "cards": {
+      "iso9001": {
+        "subtitle": "Kalite Yönetimi",
+        "description": "Kalite Yönetim Sistemi (KYS). Sürekli bağımsız denetime tabi."
+      },
+      "iso14001": {
+        "subtitle": "Çevre Yönetimi",
+        "description": "Çevre yönetimi. Depolara sıfır atık ve emisyon kontrolü."
+      },
+      "iso45001": {
+        "subtitle": "Sağlık & Güvenlik",
+        "description": "İş sağlığı ve güvenliği. İş sağlığının kurumsal olarak korunması."
+      },
+      "reach": {
+        "subtitle": "Kimyasal Uyumluluk",
+        "description": "Kimyasal güvenlik ve hijyen konusunda AB direktifleriyle tam uyumluluk (HACCP/GMP)."
+      }
+    },
+    "btnDownload": "ENTEGRE HSEQ POLİTİKASINI İNDİR (PDF)"
+  },
+  "cta": {
+    "title": "KRİTİK ALTYAPI İÇİN TEKNOLOJİ ORTAĞI",
+    "description": "Ön mühendislik analizinden ve Yaşam Döngüsü Değerlendirmesi'nden (LCA) sahadaki kusursuz uygulamaya kadar.",
+    "btn": "HSEQ DEPARTMANIYLA İLETİŞİME GEÇ"
+  }
+}

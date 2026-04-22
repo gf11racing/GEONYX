@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Política de Privacidad | GEONYX GROUP",
+    "description": "Política de privacidad de GEONYX GROUP LTD – cómo recopilamos, almacenamos y procesamos datos personales de conformidad con el RGPD."
+  },
+  "header": {
+    "eyebrow": "PROTOCOLO JURÍDICO 07",
+    "title": "POLÍTICA DE PRIVACIDAD",
+    "subtitle": "LA SEGURIDAD DE SU INFORMACIÓN ESTÁ GARANTIZADA."
+  },
+  "block1": {
+    "title": "RESPONSABLE DEL TRATAMIENTO",
+    "body": "Sus datos son gestionados por \"GEONYX GROUP\" SL, en calidad de responsable del tratamiento, cumpliendo estrictamente el Reglamento (UE) 2016/679 (RGPD). Asumimos plena responsabilidad jurídica por la protección de su información."
+  },
+  "block2": {
+    "title": "SECRETO INDUSTRIAL (NDA)",
+    "body": "Comprendemos la especificidad del trabajo en instalaciones seguras y entornos de producción. \"GEONYX GROUP\" SL garantiza total confidencialidad. Ninguna parte de sus planos, esquemas de procesos o fotografías del emplazamiento será compartida con terceros sin su consentimiento escrito explícito."
+  },
+  "block3": {
+    "title": "FINALIDAD DE LOS DATOS",
+    "intro": "Recopilamos únicamente información técnica y de contacto necesaria para:",
+    "li1": "La elaboración de especificaciones técnicas precisas y presupuestos.",
+    "li2": "La emisión de documentos de garantía.",
+    "li3": "La prestación de servicio posventa."
+  },
+  "footer": {
+    "note": "Este documento es válido conforme a las Condiciones Generales de \"GEONYX GROUP\" SL. Para contactar con el departamento jurídico:"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "GEONYX | Karriere und Entwicklung – Arbeit in der Industrieproduktion",
+    "description": "Karrieremöglichkeiten bei GEONYX – Positionen für Ingenieure, technische Spezialisten und Produktionspersonal im Bereich Industrieböden und Mineralsysteme für Infrastruktur. Langfristige Berufsentwicklung, Schulung und Teilnahme an strategischen Industrieprojekten."
+  },
+  "hero": {
+    "eyebrow": "WERDEN SIE TEIL DER ELITE",
+    "titleLine1": "WIR SUCHEN KEINE MITARBEITER.",
+    "titleLine2": "WIR SUCHEN",
+    "titleHighlight": "CHARAKTERE",
+    "description1": "GEONYX ist ein Technologieunternehmen, das als Bauunternehmen getarnt ist. Hier finden Sie keine Kellen und Schaufeln. Wir arbeiten mit Lasersystemen, Tablets und Chemie.",
+    "description2": "Wir investieren in Sie durch unsere",
+    "academyName": "Geopolymer Akademie",
+    "description3": ", denn niemand wird mit Wissen geboren. Der Weg vom Lehrling zum Cheftechnologen ist vorgezeichnet und hängt nur von Ihren Ergebnissen ab. Kein Nepotismus – nur Metriken.",
+    "btnPositions": "POSITIONEN ANSEHEN"
+  },
+  "positions": {
+    "sales": {
+      "sector": "Vertrieb",
+      "eyebrow": "VERTRIEBSKRAFT",
+      "title": "TECHNISCHER VERTRIEBSREPRÄSENTANT",
+      "description": "Sie sind kein Broschürenverkäufer. Ihre Aufgabe ist es, unter den härtesten Bedingungen einzusteigen, das Problem zu identifizieren und persönlich einen Pilottest (Demo Application) durchzuführen. Sie verkaufen durch eine Demonstration von Stärke, nicht durch süße Worte.",
+      "req1": "Bereitschaft zu intensivem Reisen",
+      "req2": "Technisches Verständnis",
+      "req3": "Bereitschaft, 'die Hände schmutzig zu machen'"
+    },
+    "production": {
+      "sector": "Produktion",
+      "eyebrow": "DAS PRODUKTIONSHERZ",
+      "title": "PRODUKTIONS- UND QUALITÄTSKONTROLLOPERATOR",
+      "description": "Sie leiten die GEONYX-Küche. Hier entsteht die Magie. Sie sind dafür verantwortlich, dass Rohstoffe in das perfekte Produkt umgewandelt werden, indem Sie Dosiersysteme und Mischer bedienen. Es gibt keinen Platz für Schätzungen – alles ist auf das Gramm genau.",
+      "req1": "Eiserne Disziplin",
+      "req2": "Detailgenauigkeit",
+      "req3": "Körperliche Belastbarkeit"
+    },
+    "rnd": {
+      "sector": "Innovation",
+      "eyebrow": "INNOVATIONSZENTRUM",
+      "title": "F&E INGENIEUR – INNOVATION",
+      "description": "GEONYX steht nicht still. Wir suchen einen Visionär, der bestehende Formeln optimiert und neue Produkte entwickelt. Sie sind die Person, die sagt 'Das kann besser gemacht werden' und es im Labor beweist.",
+      "req1": "Kenntnisse in Chemie/Baumaterialien",
+      "req2": "Analytisches Denken",
+      "req3": "Experimentierfreudiger Geist"
+    },
+    "requirementsLabel": "ANFORDERUNGEN:",
+    "applyBtn": "JETZT BEWERBEN"
+  },
+  "form": {
+    "title": "SIND SIE BEREIT?",
+    "subtitle": "Wenn Sie sich in den obigen Zeilen wiedererkannt haben, handeln Sie.",
+    "successTitle": "BEWERBUNG ERHALTEN!",
+    "successDesc": "Danke! Bitte senden Sie Ihren Lebenslauf an",
+    "successEmail": "office@geonyxgroup.com",
+    "successDesc2": "um den Prozess abzuschließen.",
+    "successNewBtn": "Weitere senden",
+    "labelPosition": "POSITION WÄHLEN *",
+    "placeholderPosition": "-- Bitte wählen --",
+    "labelName": "VOR- UND NACHNAME *",
+    "placeholderName": "Max Mustermann",
+    "labelPhone": "TELEFON *",
+    "placeholderPhone": "+49 ...",
+    "labelEmail": "E-MAIL *",
+    "placeholderEmail": "name@mail.com",
+    "labelExperience": "Wie wird Ihre Erfahrung GEONYX stärker machen? *",
+    "placeholderExperience": "Seien Sie konkret. Verwenden Sie keine Vorlagen.",
+    "cvLabel": "LEBENSLAUF ANHÄNGEN",
+    "cvDesc": "Senden Sie Ihren Lebenslauf direkt an",
+    "cvSubject": "\"Bewerbung — [Ihr Name]\"",
+    "cvSubjectLabel": "mit Betreff:",
+    "btnSubmitting": "SENDEN...",
+    "btnSubmit": "BEWERBUNG EINREICHEN",
+    "errorGeneral": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+    "errorFileSize": "Die Datei ist zu groß zum Senden.",
+    "errorLimit": "Sendelimit erreicht. Bitte kontaktieren Sie uns direkt.",
+    "errorUnexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte überprüfen Sie die Felder.",
+    "positionSales": "VERTRIEB",
+    "positionProduction": "PRODUKTION",
+    "positionRnd": "F&E TECHNOLOGE"
+  }
+}

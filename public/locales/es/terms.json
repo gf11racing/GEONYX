@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Términos y Condiciones | GEONYX GROUP",
+    "description": "Términos y condiciones generales de GEONYX GROUP LTD para el uso del sitio web y la prestación de servicios de ingeniería."
+  },
+  "header": {
+    "eyebrow": "PROTOCOLO JURÍDICO 08",
+    "title": "CONDICIONES GENERALES Y GARANTÍAS",
+    "subtitle": "REGLAMENTO DE EJECUCIÓN, CALIDAD Y RESPONSABILIDAD."
+  },
+  "block1": {
+    "title": "MARCO FINANCIERO Y PROPIEDAD",
+    "validity_label": "Validez:",
+    "validity": "Los presupuestos son válidos durante 30 días naturales. Transcurrido ese plazo, están sujetos a recálculo según los precios de los productos químicos.",
+    "payment_label": "Plan de pago:",
+    "payment": "50% Anticipo (Inicio) / 40% Entrega de material / 10% Aceptación.",
+    "retention_label": "Reserva de dominio:",
+    "retention": "El revestimiento aplicado y los materiales incorporados permanecen como propiedad de \"GEONYX GROUP\" SL hasta el pago del 100% del importe adeudado. En caso de impago, el Contratista conserva el derecho al desmontaje o eliminación química del sistema."
+  },
+  "block2": {
+    "title": "SOPORTE Y DEFECTOS OCULTOS",
+    "critical": "(¡Crítico!)",
+    "note": "La responsabilidad por la calidad del soporte de hormigón recae íntegramente en el Cliente.",
+    "requirements_label": "Requisitos:",
+    "requirements": "Hormigón de clase mínima C20/25, humedad inferior al 4%, superficie nivelada.",
+    "exclusion_title": "Exclusión de responsabilidad:",
+    "exclusion_intro": "\"GEONYX GROUP\" SL NO es responsable de los defectos derivados de:",
+    "li1": "Ausencia de impermeabilización y aparición de humedad capilar (ascendente) del suelo.",
+    "li2": "Grietas estructurales del edificio o asentamiento de cimientos.",
+    "li3": "Bolsas de aceite ocultas en la profundidad del hormigón existente."
+  },
+  "block3": {
+    "title": "LÍMITES DE EXPLOTACIÓN",
+    "intro": "La garantía es válida únicamente cuando se respetan las normas de explotación establecidas.",
+    "li1_label": "Química y Temperatura:",
+    "li1": "La garantía cubre únicamente los productos químicos y temperaturas descritos explícitamente en el Pliego de Prescripciones Técnicas.",
+    "li2_label": "Impacto Mecánico:",
+    "li2": "Los daños por objetos caídos, arrastre de palés o tráfico no autorizado de maquinaria pesada no son objeto del servicio de garantía."
+  },
+  "block4": {
+    "title": "PROPIEDAD INTELECTUAL",
+    "body": "Todas las formulaciones (GEONYX® Formulas), fichas de procesos y métodos de aplicación son secretos comerciales y propiedad intelectual de \"GEONYX GROUP\" SL. Cualquier intento de análisis químico (Ingeniería Inversa) o copia de la tecnología será perseguido con todo el rigor de la ley."
+  },
+  "block5": {
+    "title": "PLAZOS Y FUERZA MAYOR",
+    "body": "El tiempo de polimerización tecnológica es de 24 horas (a 20°C). El acceso al emplazamiento antes de este plazo anula la garantía. Los plazos de ejecución se suspenden a temperaturas inferiores a +5°C o humedad del aire superior al 80%, para garantizar la calidad de la reacción."
+  },
+  "footer": {
+    "note": "Las condiciones generales aceptadas forman parte integral del Contrato de obras. Para contactar con el departamento jurídico:"
+  }
+}

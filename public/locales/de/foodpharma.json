@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "GEONYX | Lebensmittel, Getränke, Pharma & Hygiene – Fugenlose Industrieböden",
+    "description": "GEONYX entwickelt fugenlose mineralische Bodensysteme für die Lebensmittel- und Getränkeindustrie, Pharmazeutika und Hygienebetriebe – beständig gegen Chemikalien, Dampf, Heißwasser, Biofilm und aggressive Reinigungsmittel. Kompatibel mit HACCP, IFS, BRC und GMP-Standards."
+  },
+  "tender": {
+    "text": "Böden und zugehörige hydro- und chemisch-schützende Systeme in Produktions-, Wasch-, Verpackungs-, Kühlungs-, Lager- und Küchenzonen sind mit mineralischen Geopolymersystemen vom Typ GEONYX oder gleichwertig auszuführen, kombinierend ARMOR / CHEM / HYDRO / THERM / REPAIR entsprechend dem hygienischen und technologischen Risiko.",
+    "copy": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copied": "TEXT KOPIERT!"
+  },
+  "hero": {
+    "eyebrow": "LEBENSMITTEL, GETRÄNKE, PHARMA & HYGIENE",
+    "titleLine1": "OBERFLÄCHEN,",
+    "titleLine2": "VON INSPEKTOREN ZUGELASSEN",
+    "description": "In der Lebensmittel-, Getränke- und Pharmaindustrie ist der Boden Teil der Produktsicherheit. GEONYX liefert mineralische, fugenlose und leicht zu reinigende Oberflächen, beständig gegen Heißwasser, Dampf und Chemikalien, kompatibel mit HACCP und Pharma-Standards.",
+    "btn1": "HACCP-LEITFADEN HERUNTERLADEN",
+    "btn2": "TECHNISCHE INSPEKTION ANFRAGEN"
+  },
+  "scope": {
+    "title": "ANWENDUNGSBEREICH",
+    "zonesLabel": "ZONEN:",
+    "systemsLabel": "SYSTEME:",
+    "z1": "Milchverarbeitungsbetriebe und Käsereien",
+    "z2": "Fleischverarbeitung und Schlachthöfe",
+    "z3": "Softdrink- und Mineralwasserwerke",
+    "z4": "Brauereien und Getränke (Bier, Cider usw.)",
+    "z5": "Bäckereien, Konditoreien und Tiefkühlkost",
+    "z6": "Pharmazeutische Produktion (API, Tabletten, Sirupe)",
+    "z7": "Kosmetik- und Körperpflegefabriken",
+    "z8": "Reinräume und Sterilzonen",
+    "z9": "Verpackungs- und Logistikzonen mit Kühlung",
+    "z10": "Nassräume, Waschbereiche und CIP/COP-Zonen",
+    "link1": "↓ EINSATZBEREICHE",
+    "link2": "↓ SYSTEMAUSWAHL",
+    "link3": "↓ ANGEBOTSPAKET"
+  },
+  "manifesto": {
+    "titleLine1": "SAUBERKEIT IN DER PRODUKTION",
+    "titleLine2": "BEGINNT AM BODEN.",
+    "body": "Jedes Lebensmittelsicherheitsprogramm oder jede pharmazeutische Produktion basiert auf drei Dingen: Oberflächen ohne versteckte Bereiche, vorhersehbare Reinigung und Kontaminationsrisikokontrolle. Wenn der Boden abblättert, Wasser in Fugen sammelt, rutschig ist oder mit Reinigungsmitteln reagiert, können weder der HACCP-Plan noch Reinigungsprotokolle dies kompensieren. GEONYX ersetzt 'Farbe auf Beton' durch ein monolithisches Mineralsystem."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEM:",
+    "solutionLabel": "LÖSUNG:",
+    "suitableLabel": "Geeignete Systeme:",
+    "b1": {
+      "tag": "FISCHVERARBEITUNG",
+      "title": "FISCH, SALZ, BLUT UND THERMISCHER SCHOCK",
+      "problem": "Fischverarbeitungsanlagen sind das 'Höllen-Szenario' für Böden – eine Kombination aus Salzwasser, Blut, Fett, Eis, Heißwasser und Dampf. Standardbeschichtungen reißen durch thermischen Schock; Fugen halten Biofilm.",
+      "solution": "GEONYX CHEM + HYDRO bildet ein fugenloses, chemisch beständiges Mineralsystem mit kontrollierter rutschhemmender Textur. Der Boden ist für Thermozyklen ausgelegt – von Eiszone bis zur Heißwäsche.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "FLEISCH & MILCH",
+      "title": "FETT, BLUT UND DAMPF",
+      "problem": "In Fleischbetrieben und Molkereien nimmt der Boden Blut, Fett, Milch, Salzlösungen und starke alkalische/saure Reinigungsmittel auf. Heißwasser und Dampf kombinieren sich mit Stößen von Wagen und Edelstahltischen.",
+      "solution": "GEONYX CHEM bietet ein Mineralsystem, das gegenüber organischen Säuren, alkalischen Reinigungsmitteln und Fetten beständig ist. ARMOR liefert die nötige mechanische Festigkeit für den Verkehr, HYDRO wird in dauerhaft nassen Bereichen eingesetzt.",
+      "systems": "CHEM"
+    },
+    "b3": {
+      "tag": "GETRÄNKE & ABFÜLLUNG",
+      "title": "ZUCKER, SCHAUM UND GLASSCHERBEN",
+      "problem": "In Getränkefabriken sind Böden ständig nass – Wasser, Sirupe, Zuckerlösungen, Schaum, CIP-Lösungen. Zucker macht den Boden klebrig und beschleunigt die Zerstörung. Glasscherben schneiden in Standardbeschichtungen.",
+      "solution": "GEONYX CHEM + HYDRO bildet eine dichte Oberfläche, auf der Sirupe 'oben' bleiben. ARMOR sorgt für Aufprall- und Verkehrsbeständigkeit. Kanaldetails werden ohne scharfe Kanten ausgeführt.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "BÄCKEREIEN",
+      "title": "MEHL, STAUB UND THERMISCHER SCHOCK",
+      "problem": "In Bäckereien ist Mehl überall und wird bei Nässe zu einer klebrigen Masse. Heiße Wagen aus den Öfen erzeugen lokalen thermischen Schock. Beschichtungen werden dunkler und blättern ab.",
+      "solution": "GEONYX ARMOR + THERM schafft eine thermisch schockresistente Oberfläche. Die Struktur ist so ausgelegt, dass Mehl nicht in Poren eindringt. In Nassbereichen wird HYDRO ergänzt.",
+      "systems": "THERM"
+    },
+    "b5": {
+      "tag": "KOSMETIK",
+      "title": "ÖLE, ALKOHOLE UND LÖSUNGSMITTEL",
+      "problem": "Die Kosmetikproduktion umfasst ätherische Öle und Alkohole, die Standardharze angreifen. Pharma-Hygiene und ein repräsentatives Erscheinungsbild für Inspektionen sind gefragt.",
+      "solution": "GEONYX CHEM bietet eine Mineralmatrix, die bei Kontakt mit Flüssigkeiten nicht quillt. ARMOR garantiert Stabilität, HYDRO schützt Nassbereiche. Die Oberfläche bleibt visuell sauber.",
+      "systems": "CHEM"
+    },
+    "b6": {
+      "tag": "HYGIENEPRODUKTE",
+      "title": "AGGRESSIVE REINIGUNGSMITTEL",
+      "problem": "Bei der Detergenzienherstellung sind konzentrierte Komponenten hochaggressiv. Verschüttungen und Spülungen können gewöhnlichen Beton schnell zerstören.",
+      "solution": "GEONYX CHEM ist für Beständigkeit gegenüber starken Laugen und Säuren entwickelt. ARMOR gibt Festigkeit für schwere Behälter, HYDRO schützt vor Eindringen. Ein Boden, der Ihren eigenen Produkten standhält.",
+      "systems": "CHEM"
+    },
+    "b7": {
+      "tag": "PHARMA & CANNABIS",
+      "title": "REINZONEN UND PHARMAPROZESSE",
+      "problem": "In Reinräumen und der Pharmaproduktion muss der Boden glatt, fugenfrei und leicht zu validieren sein. Jeder Riss ist ein Kontaminationsrisiko.",
+      "solution": "GEONYX CHEM + HYDRO liefern eine fugenfreie Oberfläche mit Kompatibilität zu Pharma-Desinfektionsmitteln. ARMOR gibt Stabilität für Geräte. Details werden nach Pharma-Logik ausgeführt – Radien, keine Taschen.",
+      "systems": "CHEM"
+    },
+    "b8": {
+      "tag": "SUPERMÄRKTE",
+      "title": "METZGER- UND FISCHTHEKEN",
+      "problem": "In Supermarkt-Fleischbereichen gibt es Wasser, Blut, Fett und Verkehr. Fliesenfugen verdunkeln sich und füllen sich mit Biofilm; Rutschgefahr ist ein Risiko.",
+      "solution": "GEONYX CHEM ersetzt Fliesen durch ein monolithisches Mineralsystem – ohne Fugen, mit Rutschschutz. ARMOR bewältigt den Verkehr von Hubwagen, REPAIR ermöglicht schnelle Reparaturen.",
+      "systems": "CHEM"
+    },
+    "b9": {
+      "tag": "GEMEINSCHAFTSVERPFLEGUNG",
+      "title": "SCHUL- UND KRANKENHAUSKÜCHEN",
+      "problem": "Gemeinschaftsküchen haben Feuchtigkeit, Heißwasser und Fette. Fliesen und Standardfarben verschlechtern sich schnell und werden schwer zu reinigen.",
+      "solution": "GEONYX CHEM + HYDRO bietet eine rutschhemmende und leicht zu reinigende Oberfläche. ARMOR gewährleistet Widerstandsfähigkeit gegen Wagen, REPAIR ermöglicht Reparaturen in Urlaubszeiten.",
+      "systems": "HYDRO"
+    },
+    "b10": {
+      "tag": "KÜHLZONEN",
+      "title": "KÜHL- UND SCHOCKGEFRIERZELLEN",
+      "problem": "In Kühlzellen (-25°C) gefrieren Fugen und werden durch den Verkehr zerstört. Reparaturen sind bei niedrigen Temperaturen schwierig.",
+      "solution": "GEONYX ARMOR + HYDRO bietet ein monolithisches, thermisch schockresistentes System. REPAIR ermöglicht Eingriffe in kurzen Zeitfenstern.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "colParam": "PARAMETER",
+    "colGeonyx": "GEONYX",
+    "colCeramic": "Keramikfliesen",
+    "colEpoxy": "Epoxid- / PU-Beschichtung",
+    "r1param": "Hygiene und Fugenreinigung",
+    "r1geonyx": "Keine Fugen / leichte Reinigung",
+    "r1ceramic": "Viele Fugen, schwer zu reinigen",
+    "r1epoxy": "Fugen und Übergänge, Abblätterungsrisiko",
+    "r2param": "Beständigkeit gegen Heißwasser und Dampf",
+    "r2geonyx": "Hoch (mineralisch, temperaturstabil)",
+    "r2ceramic": "Mittel (Fugen gefährdet)",
+    "r2epoxy": "Mittel bis niedrig (Blasenrisiko)",
+    "r3param": "Beständigkeit gegen aggressive Reinigungsmittel",
+    "r3geonyx": "Hoch (CHEM-Konfiguration)",
+    "r3ceramic": "Mittel (Fugen leiden)",
+    "r3epoxy": "Begrenzt",
+    "r4param": "Rutschrisiko bei Nässe",
+    "r4geonyx": "Kontrollierter Rutschschutz",
+    "r4ceramic": "Variiert",
+    "r4epoxy": "Hohes Risiko bei Verschleiß",
+    "r5param": "Lebensdauer bei 24/7-Produktion",
+    "r5geonyx": "Lang, mit lokalem REPAIR",
+    "r5ceramic": "Mittel, periodischer Austausch",
+    "r5epoxy": "Mittel"
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "EINSATZBEREICHE",
+    "subtitle": "Alle typischen 'Halle + Maschinen + Verkehr + Paletten'-Szenarien – von Logistikzentren und Fabriken bis zu Bahndepots und Rechenzentren.",
+    "a1title": "Milchverarbeitung und Molkereien",
+    "a1desc": "Chemische und Milchsäure, Wasser und Hygiene.",
+    "a2title": "Fleischverarbeitung und Schlachthöfe",
+    "a2desc": "Blut, Fett, Heißwasser und intensive Reinigung.",
+    "a3title": "Getränkeproduktion",
+    "a3desc": "Zucker, Sirupe, Glas und CIP-Systeme.",
+    "a4title": "Brotfabriken und Bäckereien",
+    "a4desc": "Mehl, Ofenhitze und mechanischer Verkehr.",
+    "a5title": "Pharma und Reinräume",
+    "a5desc": "Sterile Umgebungen, leichte Reinigung und Desinfektion.",
+    "a6title": "Gemeinschaftsküchen",
+    "a6desc": "Intensives Kochen, Fette und Sicherheit.",
+    "a7title": "Kühllagerhäuser",
+    "a7desc": "Niedrige Temperaturen und Gefrierbeständigkeit.",
+    "a8title": "Supermärkte",
+    "a8desc": "Frischwarenbereiche und intensiver Kundenverkehr."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "GEONYX-SYSTEMAUSWAHL",
+    "subtitle": "Die Systemauswahl hängt von der Kombination aus mechanischer Last, chemischer Aggressivität und Anforderungen an Temperatur, ESD und Hygiene ab. GEONYX konfiguriert Lösungen zonenweise – statt 'eine Beschichtung für alles'.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Chemisch beständige Systeme für Zonen mit aggressiven Säuren, Laugen und Reinigungsmitteln.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Wasserdichte und leicht zu reinigende Systeme für Nassproduktion und Waschbereiche.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Hochfeste Beläge für Lager- und Logistikbereiche mit intensivem Verkehr.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Wärmebeständige Systeme für Zonen mit Öfen, Schockgefrierung und Dampf.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Schnelle Reparaturlösungen zur Wiederherstellung kompromittierter Bereiche."
+  },
+  "offer": {
+    "eyebrow": "KAUFMÄNNISCHE DOKUMENTATION",
+    "title": "ANGEBOTSPAKET",
+    "titleSub": "(B2B / B2G)",
+    "description": "Für Lebensmittel-, Pharma- und Hygieneanlagen bereitet GEONYX ein vollständiges Paket für interne Genehmigungen und Prüforganisationen vor.",
+    "qualityTitle": "QUALITÄTSGARANTIE",
+    "qualityDesc": "Alle Dokumente entsprechen den aktuellen Eurocodes und Normen.",
+    "i1": "Zoneneinteilung nach Hygienerisiko",
+    "i2": "Technische Spezifikationen für Systeme nach Zonen",
+    "i3": "Kompatibilität mit HACCP, IFS, BRC, GMP",
+    "i4": "Details für Fugen, Abläufe und Übergänge",
+    "i5": "Empfohlener Ausführungsplan",
+    "i6": "Garantiebedingungen und Reinigungsanleitung"
+  },
+  "docs": {
+    "title": "Dokumentation",
+    "d1name": "Hygienic Floors Guide",
+    "d1sub": "Bodensysteme (PDF)",
+    "d2name": "Wet Food Zones Design",
+    "d2sub": "Planungshandbuch (PDF)",
+    "d3name": "Cosmetics & Pharma Spec",
+    "d3sub": "Technische Anforderungen (PDF)",
+    "d4name": "Public Kitchens Manual",
+    "d4sub": "Küchenrichtlinien (PDF)"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1": "SIND GEONYX-SYSTEME MIT UNSEREN REINIGUNGS- UND DESINFEKTIONSMITTELN KOMPATIBEL?",
+    "a1": "Ja. In der Auditphase erfassen wir eine Liste der verwendeten Chemikalien und wählen eine CHEM-Konfiguration, die diese langfristig verträgt.",
+    "q2": "KÖNNEN REPARATUREN DURCHGEFÜHRT WERDEN, OHNE DIE GESAMTE PRODUKTION ZU STOPPEN?",
+    "a2": "In den meisten Fällen – ja. Wir arbeiten phasenweise, Zone für Zone, mit Nacht- und Wochenendzeiten.",
+    "q3": "WELCHE RUTSCHHEMMUNG IST BEI NASSEN BEDINGUNGEN ZU ERWARTEN?",
+    "a3": "Textur und Rutschhemmungsklasse werden bereits in der Projektphase festgelegt, entsprechend der Prozessart und Sicherheitsanforderungen."
+  },
+  "cta": {
+    "title": "UMFASSENDE STANDORTZONIERUNG",
+    "description": "Jede Anlage hat spezifische Risiken. Wir integrieren 6 spezialisierte Matrizen in ein System: von Mechanik, Chemie und Thermik bis hin zu Abdichtung, Antistatik und Architektur. Eine Technologie, die 100% Abdeckung und volle Kompatibilität garantiert.",
+    "btn": "ALLE INGENIEURSYSTEME ANSEHEN"
+  }
+}

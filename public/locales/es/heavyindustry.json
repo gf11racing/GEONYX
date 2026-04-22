@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Industria Pesada y Logística – Suelos para Cargas Mecánicas Extremas",
+    "description": "Suelos para industria pesada y logística bajo cargas mecánicas extremas, pasillos VNA, carretillas elevadoras, virutas metálicas, aceites y caucho caliente. GEONYX ARMOR y GEONYX CHEM diseñan suelos industriales minerales con larga vida útil, tiempo de inactividad mínimo y baja emisión de polvo."
+  },
+  "tender": {
+    "text": "Los suelos se ejecutarán como sistema mineral monolítico tipo GEONYX ARMOR / GEONYX CHEM, diseñado para cargas industriales extremas en centros logísticos y naves de producción. El sistema debe garantizar una vida útil mínima de 20 años, alta resistencia a la abrasión, impacto y agresión química, baja emisión de polvo y posibilidad de reparaciones locales sin parada total de la instalación."
+  },
+  "hero": {
+    "eyebrow": "INDUSTRIA PESADA Y LOGÍSTICA",
+    "title1": "INDUSTRIA PESADA",
+    "title2": "Y LOGÍSTICA",
+    "description": "Suelos y sistemas para naves que nunca paran – carretillas elevadoras, pasillos VNA, palés, virutas metálicas, aceites y puentes grúa pesados. GEONYX diseña suelos industriales minerales para carga 24/7, baja emisión de polvo y tiempo de inactividad mínimo durante reparaciones.",
+    "btn1": "PLANIFICAR PROYECTO CON INGENIERO",
+    "btn2": "SOLICITAR INSPECCIÓN TÉCNICA",
+    "scope": "ALCANCE",
+    "zonesLabel": "ZONAS:",
+    "zone1": "Centros logísticos",
+    "zone2": "Pasillos VNA",
+    "zone3": "Mecanizado de metales",
+    "zone4": "Gigafábricas",
+    "zone5": "Producción de neumáticos",
+    "zone6": "Talleres pesados",
+    "zone7": "Depósitos ferroviarios",
+    "zone8": "Fábricas textiles",
+    "zone9": "Imprentas",
+    "zone10": "Centros de datos",
+    "systemsLabel": "SISTEMAS:",
+    "anchorApplications": "↓ DÓNDE SE UTILIZA",
+    "anchorSystem": "↓ SELECCIÓN DE SISTEMA",
+    "anchorOffer": "↓ PAQUETE DE OFERTA"
+  },
+  "manifesto": {
+    "title1": "EN LA INDUSTRIA PESADA",
+    "title2": "EL SUELO NO TIENE MARGEN DE ERROR.",
+    "description": "En bases logísticas, fábricas y depósitos todo se reduce a «nave + máquinas + tráfico + palés». Cada milímetro de hundimiento, polvo o junta rota se convierte en un riesgo real – mercancía dañada, línea parada, accidente del operador. GEONYX sustituye parches y pintura por sistemas minerales de ingeniería que trabajan con la estructura – en lugar de combatirla."
+  },
+  "zigzag": {
+    "problem": "PROBLEMA:",
+    "solution": "SOLUCIÓN:",
+    "suitableSystems": "Sistemas adecuados:",
+    "block1": {
+      "tag": "Centros logísticos",
+      "title": "PASILLOS VNA Y TRÁFICO PESADO",
+      "problem": "En los centros logísticos el tráfico está concentrado en estrechos pasillos VNA. Cada milímetro de irregularidad o una junta desmoronada provoca vibraciones del mástil, palés inestables y riesgo para el operador y la carga.",
+      "solution": "GEONYX ARMOR diseña el suelo como un sistema mineral monolítico superplano con juntas controladas y capacidad portante para altas cargas dinámicas. La superficie tiene baja emisión de polvo y geometría estable para sistemas de estanterías de gran altura.",
+      "systems": "ARMOR"
+    },
+    "block2": {
+      "tag": "Mecanizado de metales",
+      "title": "VIRUTAS METÁLICAS Y ACEITES",
+      "problem": "En el mecanizado de metales, las virutas actúan como papel de lija mientras que los refrigerantes, emulsiones y aceites hidráulicos se infiltran en el hormigón y lo ablandan. Los recubrimientos poliméricos se cortan, hinchan y desprenden alrededor de las máquinas.",
+      "solution": "GEONYX combina ARMOR para resistencia mecánica y CHEM para protección química. La matriz mineral no es 'cortada' por las virutas, no se ablanda con aceites y permite una nivelación precisa bajo máquinas CNC y tornos pesados.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "Gigafábricas de baterías",
+      "title": "GIGAFACTORY Y CONTROL ESD",
+      "problem": "En las gigafábricas de baterías, el polvo, la electricidad estática y los electrolitos son riesgos críticos. El polvo de hormigón contamina las celdas, mientras que el ESD no controlado puede dañar componentes sensibles.",
+      "solution": "GEONYX ARMOR proporciona una superficie monolítica con mínima emisión de polvo y la opción de configuraciones ESD conductoras. CHEM protege el sustrato de electrolitos y derrames químicos en las zonas de producción y formación.",
+      "systems": "CHEM"
+    },
+    "block4": {
+      "tag": "Producción de neumáticos",
+      "title": "HOLLÍN Y CAUCHO CALIENTE",
+      "problem": "En la producción de neumáticos y caucho hay una combinación de hollín, alta temperatura y plastificantes. Los recubrimientos poliméricos estándar sufren el 'hot tyre pickup' – los neumáticos 'arrancan' el recubrimiento a alta temperatura.",
+      "solution": "GEONYX ARMOR utiliza una matriz mineral inerte que no reacciona con el caucho y los plastificantes. El suelo permanece estable durante los ciclos térmicos, resistente a la abrasión y fácil de limpiar de hollín y marcas negras.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "Talleres pesados",
+      "title": "TALLERES DE CAMIONES PESADOS",
+      "problem": "En los talleres de camiones y maquinaria de construcción, las cargas localizadas de gatos, soportes y herramientas de impacto rompen el hormigón. Los aceites, combustibles y líquidos de frenos debilitan aún más la superficie.",
+      "solution": "GEONYX ARMOR diseña un suelo portante y resistente a impactos para cargas puntuales, mientras CHEM protege contra derrames de aceite y productos químicos. Los sistemas REPAIR permiten reparaciones locales rápidas sin parar el taller completo.",
+      "systems": "REPAIR"
+    },
+    "block6": {
+      "tag": "Infraestructura ferroviaria",
+      "title": "DEPÓSITOS FERROVIARIOS Y BASES DE MANTENIMIENTO",
+      "problem": "En los depósitos ferroviarios y bases de mantenimiento, raíles, ejes y componentes pesados concentran enormes fuerzas en una pequeña área. Aceites, grasa y partículas metálicas aceleran el deterioro del hormigón.",
+      "solution": "GEONYX ARMOR refuerza las zonas alrededor de fosas y raíles con un sistema mineral de alta resistencia, resistente al impacto y al cizallamiento. CHEM garantiza que el sustrato no se degrade bajo la influencia de aceites y combustibles.",
+      "systems": "ARMOR"
+    },
+    "block7": {
+      "tag": "Fábricas textiles",
+      "title": "TEXTIL Y TALLERES DE TINTE",
+      "problem": "En fábricas textiles y talleres de tinte, colorantes, ácidos y álcalis penetran profundamente en el hormigón, crean manchas y corroen la superficie. Las zonas húmedas, el vapor y la humedad estresan aún más el suelo.",
+      "solution": "GEONYX CHEM construye una superficie densa y químicamente resistente que no absorbe colorantes y es fácil de lavar. HYDRO protege el sustrato del humedecimiento prolongado y los daños subsuperficiales.",
+      "systems": "CHEM"
+    },
+    "block8": {
+      "tag": "Imprentas",
+      "title": "IMPRENTAS Y ARTES GRÁFICAS",
+      "problem": "Las tintas de imprenta, disolventes y pesadas máquinas de rodillos requieren un suelo que sea simultáneamente resistente a los productos químicos, antiestático y con muy baja emisión de polvo.",
+      "solution": "GEONYX combina ARMOR para una base superplana y estable y CHEM para resistencia a tintas y disolventes. La superficie permanece limpia, sin polvo y sin influencia en la calidad de impresión.",
+      "systems": "CHEM"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "colParam": "PARÁMETRO",
+    "colStd": "Hormigón industrial estándar",
+    "colEpoxy": "Recubrimiento epoxi",
+    "row1": "Vida útil",
+    "row2": "Paradas planificadas (10 años)",
+    "row3": "Resistencia a virutas y cadenas",
+    "row4": "Emisión de polvo",
+    "row5": "TCO total (10 años)",
+    "val1geonyx": "≥ 20 años",
+    "val1std": "5–7 años",
+    "val1epoxy": "7–10 años",
+    "val2geonyx": "1–2 reparaciones locales",
+    "val2std": "Parches y juntas frecuentes",
+    "val2epoxy": "Sustitución completa por zonas",
+    "val3geonyx": "Matriz mineral, sin cortes profundos",
+    "val3std": "Descascarillado rápido",
+    "val3epoxy": "Cortes superficiales y delaminación",
+    "val4geonyx": "Muy baja",
+    "val4std": "Alta",
+    "val4epoxy": "Media",
+    "val5geonyx": "Optimizado – el más bajo",
+    "val5std": "Altos costes ocultos",
+    "val5epoxy": "Precio inicial alto + reparaciones"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE UTILIZA",
+    "subtitle": "Todos los escenarios típicos de 'nave + máquinas + tráfico + palés' – desde centros logísticos y fábricas hasta depósitos ferroviarios y centros de datos.",
+    "a1title": "Centros logísticos y 3PL",
+    "a1desc": "Pasillos VNA, zonas de estanterías, rampas y muelles de carga con tráfico continuo de carretillas.",
+    "a2title": "Mecanizado de metales y plantas mecánicas",
+    "a2desc": "Máquinas pesadas, virutas, refrigerantes, aceites y cargas dinámicas.",
+    "a3title": "Producción de neumáticos y caucho",
+    "a3desc": "Caucho caliente, hollín, plastificantes y ciclos térmicos elevados.",
+    "a4title": "Talleres pesados para camiones y maquinaria",
+    "a4desc": "Gatos, soportes, cargas de impacto y derrames de aceite constantes.",
+    "a5title": "Depósitos ferroviarios y bases de mantenimiento",
+    "a5desc": "Raíles, ejes, componentes pesados y combinación de cargas mecánicas y químicas.",
+    "a6title": "Fábricas textiles y talleres de tinte",
+    "a6desc": "Colorantes orgánicos e inorgánicos, humedad, vapor y procesos húmedos.",
+    "a7title": "Imprentas y artes gráficas",
+    "a7desc": "Tintas, disolventes, máquinas pesadas y requisito de superficies limpias y sin polvo.",
+    "a8title": "Centros de datos",
+    "a8desc": "Suelos antipolvo y antiestáticos con alta capacidad portante para bastidores IT y SAI."
+  },
+  "systems": {
+    "eyebrow": "TECNOLOGÍA",
+    "title": "SELECCIÓN DEL SISTEMA GEONYX",
+    "subtitle": "La selección del sistema depende de la combinación de carga mecánica, agresión química y requisitos de temperatura, ESD e higiene. GEONYX configura las soluciones por zona – en lugar de 'un recubrimiento para todo'.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Sistema portante principal para suelos de naves industriales – pasillos VNA, rampas, zonas bajo estanterías, bajo máquinas pesadas y grúas. Diseñado para abrasión extrema, impactos y cargas puntuales.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Sistema mineral resistente a productos químicos para zonas con aceites, emulsiones, disolventes, electrolitos y colorantes. Apto para mecanizado de metales, talleres de tinte, impresión y producción EV.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Se utiliza en zonas con picos térmicos, chispas y calentamiento localizado – alrededor de hornos, secadores, caucho caliente y procesos térmicos.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Protección del sustrato contra la humedad, la ascensión capilar y las fugas industriales en las partes de planta baja y subterráneas de naves y depósitos.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Soluciones de reparación de alta resistencia para juntas, fosas, bordes rotos y defectos locales – sin parar toda la línea."
+  },
+  "workflow": {
+    "eyebrow": "PROCESO",
+    "title": "PROCESO DE EJECUCIÓN",
+    "w1step": "01",
+    "w1title": "Diagnóstico de cargas",
+    "w1desc": "Recogida de datos sobre tráfico, cargas por eje, entorno químico, temperaturas y vida útil esperada.",
+    "w2step": "02",
+    "w2title": "Análisis de laboratorio y de campo",
+    "w2desc": "Investigación del hormigón existente, humedad, grietas y capacidad portante. Identificación de zonas críticas.",
+    "w3step": "03",
+    "w3title": "Diseño técnico del sistema",
+    "w3desc": "Diseño de la geometría de juntas, espesores, armaduras y selección de sistemas ARMOR / CHEM / THERM / HYDRO por zona.",
+    "w4step": "04",
+    "w4title": "Zona piloto",
+    "w4desc": "Ejecución de una zona de control en condiciones reales, prueba de parámetros operativos y formación del equipo.",
+    "w5step": "05",
+    "w5title": "Ejecución principal",
+    "w5desc": "Fasificación por sectores, control de calidad, actas de recepción y minimización del tiempo de inactividad.",
+    "w6step": "06",
+    "w6title": "Auditoría, garantía y mantenimiento",
+    "w6desc": "Auditoría de ingeniería final, condiciones de garantía y plan de inspecciones e intervenciones REPAIR rápidas."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE OFERTA",
+    "subtitle": "(B2B / B2G)",
+    "description": "Preparamos un paquete completo de documentos para inversores, operadores de centros logísticos, parques industriales y clientes públicos – listo para su inclusión en procedimientos de licitación y especificaciones técnicas.",
+    "qualityLabel": "GARANTÍA DE CALIDAD",
+    "qualityDesc": "Todos los documentos cumplen EN 1504 y las normas nacionales.",
+    "doc1": "Fichas técnicas y TDS para los sistemas seleccionados",
+    "doc2": "Clases de carga estática y operacional",
+    "doc3": "Detalles de juntas, rampas y pasillos VNA",
+    "doc4": "Recomendaciones de preparación del sustrato y protocolos REPAIR",
+    "doc5": "Documentación HSEQ e instrucciones de seguridad",
+    "doc6": "Textos de licitación de muestra (B2B / B2G)",
+    "copyBtn": "COPIAR TEXTO DE LICITACIÓN",
+    "copiedBtn": "¡TEXTO COPIADO!"
+  },
+  "docs": {
+    "title": "Documentación",
+    "d1title": "GEONYX ARMOR – TDS",
+    "d1sub": "Ficha técnica (PDF)",
+    "d2title": "GEONYX CHEM – TDS",
+    "d2sub": "Resistencia química (PDF)",
+    "d3title": "VNA Floors Guide",
+    "d3sub": "Guía de diseño (PDF)",
+    "d4title": "Heavy Industry Specs",
+    "d4sub": "Textos de licitación de muestra (PDF)"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1title": "¿CUÁNTO TIEMPO DE INACTIVIDAD SE NECESITARÁ PARA CAMBIAR EL SUELO EN UN CENTRO LOGÍSTICO EN FUNCIONAMIENTO?",
+    "q1answer": "Diseñamos una fasificación por sectores con intervenciones nocturnas y de fin de semana. Mediante REPAIR y sistemas de fraguado rápido, normalmente limitamos la parada total a secciones individuales sin detener todo el centro.",
+    "q2title": "¿POR QUÉ ELEGIR UN SISTEMA MINERAL EN LUGAR DE UN RECUBRIMIENTO EPOXI?",
+    "q2answer": "El epoxi funciona como pintura sobre el hormigón – bajo impacto, virutas y neumáticos calientes se corta y se desprende. GEONYX es un sistema mineral que se hace uno con el sustrato, resiste la abrasión extrema y no se ablanda con aceites y temperatura.",
+    "q3title": "¿PODEMOS COMBINAR DIFERENTES SISTEMAS EN UNA MISMA NAVE?",
+    "q3answer": "Sí. El enfoque típico es ARMOR en las zonas de tráfico principal, CHEM alrededor de máquinas y procesos húmedos, THERM en picos térmicos e HYDRO en secciones de planta baja/subterráneas. Esto optimiza el TCO y alarga la vida útil de toda la instalación."
+  },
+  "cta": {
+    "title": "ZONIFICACIÓN INTEGRAL DEL SITIO",
+    "description": "Cada instalación tiene riesgos específicos. Integramos 6 matrices especializadas en un solo sistema: desde mecánica, química y choque térmico hasta impermeabilización, antiestática y arquitectura.",
+    "btn": "VER TODOS LOS SISTEMAS DE INGENIERÍA"
+  }
+}

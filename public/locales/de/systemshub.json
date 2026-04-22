@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "GEONYX Ingenieursysteme | ARMOR, CHEM, THERM, HYDRO",
+    "description": "Übersicht aller GEONYX-Geopolymersysteme: ARMOR für mechanische Belastungen, CHEM für chemische Beständigkeit, THERM für extreme Hitze, HYDRO für Abdichtung."
+  },
+  "hero": {
+    "eyebrow": "TECHNOLOGIE-NOMENKLATUR",
+    "title": "SYSTEMREGISTER",
+    "subtitle1": "// INDEX DER GEONYX® INGENIEURMATRIZEN",
+    "subtitle2": "// SYSTEM FÜR TECHNISCHE SPEZIFIKATIONEN AUSWÄHLEN",
+    "stat1label": "KERNSYSTEME",
+    "stat2label": "BRANDKLASSE",
+    "stat3label": "LEBENSDAUER"
+  },
+  "systems": {
+    "sys01category": "MECHANIK",
+    "sys01desc": "Gepanzertes System für die Schwerindustrie. Absorbiert Vibrationen, hält Stoßbelastungen und dem Verkehr schwerer Kettenfahrzeuge stand.",
+    "sys02category": "CHEMIE",
+    "sys02desc": "Chemisch inerte Barriere (WHG). Vollständiger Schutz gegen konzentrierte Säuren, Basen und aggressive Lösungsmittel.",
+    "sys03category": "THERMODYNAMIK",
+    "sys03desc": "System für extreme Temperaturamplituden. Widersteht Thermoschocker (Dampf/Eiswasser), geschmolzenem Metall und direktem Feuer.",
+    "sys04category": "WASSERBAUTECHNIK",
+    "sys04desc": "Wasserdichte Mineralmembranen für Staudammmauern, Kläranlagen und maritime Infrastruktur. Unterwasserbetrieb."
+  },
+  "cta": {
+    "eyebrow": "SPEZIALISIERTES ENGINEERING",
+    "title": "IHREN ANWENDUNGSFALL NICHT GEFUNDEN?",
+    "body": "Unsere Chemieingenieure entwickeln modifizierte Matrizen für spezifische Umgebungen (Custom Formulations). Kontaktieren Sie uns für eine Laboranalyse.",
+    "btn": "ENTWICKLUNG ANFRAGEN"
+  }
+}

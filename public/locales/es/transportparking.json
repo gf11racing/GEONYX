@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Transporte, Aparcamientos, Garajes y Circulación – Pavimentos Industriales R12/R13",
+    "description": "GEONYX diseña pavimentos minerales sin juntas para infraestructura de transporte, aparcamientos subterráneos y en superficie, rampas R12/R13, garajes y zonas de tráfico – resistentes a neumáticos, sal, fundentes, aceites, agua y tráfico intensivo."
+  },
+  "hero": {
+    "tag": "TRANSPORTE, APARCAMIENTOS Y GARAJES",
+    "title_line1": "PROTECCIÓN CONTRA SALES,",
+    "title_line2": "TRÁFICO Y CARBONATACIÓN",
+    "description": "Los aparcamientos y garajes son los 'pulmones' de la ciudad, pero su hormigón está atacado por fundentes, CO₂ y abrasión intensa. GEONYX ofrece sistemas certificados OS 8 y OS 11 para protección duradera.",
+    "btn_catalog": "DESCARGAR CATÁLOGO OS 8 / OS 11",
+    "btn_inspection": "SOLICITAR INSPECCIÓN DE APARCAMIENTO",
+    "scope_title": "ALCANCE",
+    "scope_zones_label": "ZONAS:",
+    "scope_systems_label": "SISTEMAS:",
+    "nav_applications": "↓ DÓNDE SE UTILIZA",
+    "nav_system_selection": "↓ SELECCIÓN DE SISTEMA",
+    "nav_offer_package": "↓ PAQUETE DE OFERTA",
+    "zones": [
+      "Aparcamientos de varias plantas (sobre y bajo rasante)",
+      "Garajes subterráneos en centros comerciales y oficinas",
+      "Rampas de carga, descarga y acceso a garajes",
+      "Aparcamientos de grandes superficies y parques comerciales",
+      "Aparcamientos y zonas de maniobra de bases logísticas",
+      "Calles internas y vías de servicio en zonas industriales",
+      "Zonas de taxis, entregas y estancia breve (drop-off/pick-up)",
+      "Estaciones de autobús, terminales y zonas P+R",
+      "Accesos y vías internas en complejos residenciales",
+      "Zonas de frenada y giro intensivos (rampas, rotondas, barreras)"
+    ]
+  },
+  "manifesto": {
+    "title_line1": "LOS CLORUROS SON",
+    "title_line2": "EL ASESINO SILENCIOSO DEL HORMIGÓN.",
+    "text": "En invierno, los vehículos introducen toneladas de sal (fundentes) en los aparcamientos. Los cloruros disueltos penetran los poros del hormigón, alcanzan la armadura y desencadenan corrosión que rompe la losa desde dentro. GEONYX HYDRO detiene este proceso mediante membranas impermeables, mientras ARMOR absorbe el desgaste de los neumáticos."
+  },
+  "blocks": {
+    "problem_label": "PROBLEMA:",
+    "solution_label": "SOLUCIÓN:",
+    "suitable_systems": "Sistemas adecuados:",
+    "b1": {
+      "badge": "Carga intensiva",
+      "title": "PLANTAS INTERMEDIAS Y TRÁFICO INTENSIVO",
+      "problem": "En las plantas intermedias de los aparcamientos no hay riesgo de helada, pero sí abrasión de neumáticos extremadamente alta y ataques químicos localizados (aceites, combustibles). El hormigón empieza a pulverizar, las manchas se vuelven permanentes y la superficie se desgasta de forma desigual.",
+      "solution": "Sistema mineral GEONYX ARMOR para una superficie dura y mecánicamente resistente. Sella el hormigón, reduce la emisión de polvo y protege contra aceites y combustibles, aportando antideslizamiento (R11/R12) y larga vida útil bajo tráfico intensivo.",
+      "systems": "ARMOR"
+    },
+    "b2": {
+      "badge": "Agua y clima",
+      "title": "APARCAMIENTOS ABIERTOS Y EN CUBIERTA",
+      "problem": "En plantas abiertas y aparcamientos en cubierta, las oscilaciones de temperatura (invierno/verano) provocan contracción y dilatación de la losa. Se forman fisuras dinámicas por las que el agua, los fundentes y las sales penetran y destruyen el hormigón y las armaduras.",
+      "solution": "Sistema de impermeabilización elástico GEONYX HYDRO con capa de membrana intermedia, que puentea fisuras de hasta 0,3 mm a -20°C. Permanece estanco ante movimientos del sustrato y protege la estructura de la penetración de agua, sales y fundentes.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "badge": "Máxima adherencia",
+      "title": "RAMPAS Y ACCESOS INCLINADOS",
+      "problem": "Las rampas son las zonas más exigidas – frenada, arranque, curvas cerradas. Con lluvia, nieve o hielo el hormigón se vuelve resbaladizo, los vehículos patinan y la superficie se desgasta más rápido en las zonas de curva y frenada.",
+      "solution": "GEONYX ARMOR especialmente configurado con resistencia a la abrasión reforzada y clase antideslizante R13. Áridos minerales duros (corindón/basalto) proporcionan adherencia 'neumático sobre neumático' y resisten fuerzas de cizallamiento en maniobras intensivas.",
+      "systems": "ARMOR"
+    },
+    "b4": {
+      "badge": "Tráfico pesado",
+      "title": "ZONAS TIR Y MUELLES DE CARGA",
+      "problem": "En zonas de muelle de carga, plataformas exteriores y vías de servicio, los camiones pesados generan cargas estáticas extremas sobre los apoyos y fuerzas de cizallamiento dinámicas durante las maniobras. Los pavimentos estándar fallan en zonas de juntas y líneas de apoyo.",
+      "solution": "Configuración GEONYX ARMOR HEAVY DUTY, diseñada para presiones de contacto superiores a 100 MPa. El sistema no se deforma bajo el peso de camiones y remolques; las juntas se arman y perfilan especialmente para el paso de ruedas industriales duras.",
+      "systems": "ARMOR"
+    },
+    "b5": {
+      "badge": "Navegación y seguridad",
+      "title": "SEÑALIZACIÓN Y DISEÑO VISUAL",
+      "problem": "En grandes aparcamientos y hubs de transporte, la falta de señalización duradera y clara genera caos circulatorio, confusión de conductores y mayor riesgo de incidentes. La pintura vial ordinaria desaparece en meses bajo neumáticos y maniobras.",
+      "solution": "Señalización integrada en el pavimento con GEONYX ARMOR – zonificación por colores, flechas, pasos de peatones y designaciones se integran en el propio sistema, no simplemente pintados encima. Pigmentos resistentes a UV y matriz mineral garantizan visibilidad duradera y mayor seguridad.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "badge": "ELECTROMOVILIDAD",
+      "title": "ZONAS VE Y CARGA RÁPIDA",
+      "problem": "Las estaciones de carga VE concentran vehículos pesados, cargas térmicas de baterías, aceites de mantenimiento y ataques químicos localizados. El hormigón estándar se fisura alrededor de anclajes y canales de cable.",
+      "solution": "Sistema GEONYX ARMOR + CHEM con alta resistencia mecánica y resistencia a electrolitos y aceites. La superficie permanece estable alrededor de anclajes y equipos, garantizando seguridad duradera y bajo mantenimiento.",
+      "systems": "ARMOR, CHEM"
+    }
+  },
+  "roi": {
+    "section_tag": "ANÁLISIS ROI",
+    "section_title": "AUDITORÍA DE INVERSIÓN",
+    "col_param": "PARÁMETRO",
+    "col_geonyx": "GEONYX",
+    "col_standard": "Hormigón estándar / mortero",
+    "col_bitumen": "Revestimiento bituminoso / polimérico",
+    "rows": [
+      {
+        "param": "Resistencia climática (UV, lluvia, temperaturas)",
+        "geonyx": "Alta – matriz mineral, protección HYDRO/THERM",
+        "standard": "Media – fisuras y eflorescencias",
+        "alt": "Media – envejecimiento, amarillamiento y fisuración"
+      },
+      {
+        "param": "Resistencia mecánica a la abrasión",
+        "geonyx": "Alta – ARMOR para impacto, fricción y tráfico",
+        "standard": "Media – descascarado y polvo",
+        "alt": "Buena inicialmente, desgaste rápido en superficie"
+      },
+      {
+        "param": "Resistencia química (limpieza, combustibles)",
+        "geonyx": "Alta – configuración CHEM",
+        "standard": "Limitada – sensibilidad a agentes limpiadores",
+        "alt": "Dependiente de la química, riesgo de hinchazón y manchas"
+      },
+      {
+        "param": "Impermeabilización y filtraciones a niveles inferiores",
+        "geonyx": "Lógica HYDRO sistémica",
+        "standard": "Soluciones parciales, muchas debilidades de detalle",
+        "alt": "Dependencia de membranas orgánicas"
+      },
+      {
+        "param": "Estética y 'mineral look' con el tiempo",
+        "geonyx": "Aspecto mineral preservado, bajo polvo",
+        "standard": "Envejecimiento desigual y manchas",
+        "alt": "Brillo que resalta arañazos y defectos"
+      },
+      {
+        "param": "Mantenimiento y reparación",
+        "geonyx": "REPAIR local y renovaciones de sistema por zonas",
+        "standard": "Reparaciones parciales difíciles, a menudo sustitución total",
+        "alt": "Recubrimientos frecuentes con el envejecimiento"
+      },
+      {
+        "param": "Coste total del ciclo de vida",
+        "geonyx": "Optimizado para 10–15+ años",
+        "standard": "Bajo inicial, alto a largo plazo",
+        "alt": "Medio, con riesgo de envejecimiento prematuro"
+      }
+    ]
+  },
+  "applications": {
+    "section_tag": "APLICACIONES",
+    "section_title": "DÓNDE SE UTILIZA",
+    "section_desc": "GEONYX cubre tanto el entorno urbano como las instalaciones de alta tecnología – desde el skatepark hasta la sala blanca.",
+    "items": [
+      { "id": "underground", "title": "Aparcamientos subterráneos", "desc": "Centros comerciales, edificios de oficinas y complejos residenciales." },
+      { "id": "rooftop", "title": "Plantas abiertas (Cubierta)", "desc": "Aparcamientos en cubierta expuestos a condiciones atmosféricas." },
+      { "id": "ramps", "title": "Rampas y espirales", "desc": "Zonas inclinadas que requieren alta adherencia." },
+      { "id": "logistics", "title": "Terminales logísticos", "desc": "Zonas de carga y maniobra de camiones." },
+      { "id": "airports", "title": "Aeropuertos y hangares", "desc": "Zonas de servicio, rodaduras y garajes." },
+      { "id": "bridges", "title": "Puentes y viaductos", "desc": "Impermeabilización y protección de la losa de rodadura." },
+      { "id": "autoservice", "title": "Talleres de automóviles", "desc": "Zonas con aceites, combustibles y herramientas pesadas." },
+      { "id": "tunnels", "title": "Túneles", "desc": "Revestimientos reflectantes e incombustibles." }
+    ]
+  },
+  "systems": {
+    "section_tag": "TECNOLOGÍA",
+    "section_title": "SELECCIÓN DE SISTEMA GEONYX",
+    "items": [
+      { "id": "armor", "name": "GEONYX ARMOR", "desc": "Sistema duro para aparcamientos cerrados, garajes y almacenes. Alta resistencia al desgaste y a los productos químicos." },
+      { "id": "hydro", "name": "GEONYX HYDRO", "desc": "Sistema elástico para aparcamientos abiertos y cubiertas. Puentea fisuras y detiene filtraciones." },
+      { "id": "chem", "name": "GEONYX CHEM", "desc": "Para zonas especializadas con derrames de combustibles, aceites y ácido de baterías." },
+      { "id": "repair", "name": "GEONYX REPAIR", "desc": "Soluciones rápidas para reparar baches, bordes desconchados y juntas antes de aplicar el revestimiento." }
+    ]
+  },
+  "workflow": {
+    "section_tag": "PROCESO",
+    "section_title": "PROCESO DE EJECUCIÓN",
+    "steps": [
+      { "id": "s1", "step": "01", "title": "Análisis de función y tráfico", "desc": "Revisión de escenarios – entorno urbano, acceso público, zonas high-tech, requisitos ESD/clean." },
+      { "id": "s2", "step": "02", "title": "Zonificación por riesgo", "desc": "División del sitio en zonas: áreas exteriores, zonas públicas interiores, high-tech, laboratorios, hangares." },
+      { "id": "s3", "step": "03", "title": "Selección de sistemas GEONYX", "desc": "Combinación ARMOR / HYDRO / CHEM / THERM para cada zona con parámetros claramente definidos." },
+      { "id": "s4", "step": "04", "title": "Detalles y zonas de prueba", "desc": "Diseño de detalles en juntas, bordes, fachadas, sumideros y tramos de prueba cuando sea necesario." },
+      { "id": "s5", "step": "05", "title": "Ejecución por fases", "desc": "Organización del trabajo para que el sitio permanezca parcialmente operativo donde sea posible." },
+      { "id": "s6", "step": "06", "title": "Control y formación", "desc": "Inspección final, documentación e instrucciones de mantenimiento, limpieza e intervenciones REPAIR futuras." }
+    ]
+  },
+  "offer": {
+    "section_tag": "DOCUMENTACIÓN COMERCIAL",
+    "section_title": "PAQUETE DE OFERTA (B2B / B2G)",
+    "section_desc": "Para municipios, inversores, arquitectos y operadores de instalaciones high-tech, GEONYX prepara un paquete completo para licitaciones, concursos y aprobaciones internas.",
+    "quality_title": "GARANTÍA DE CALIDAD",
+    "quality_desc": "Todos los documentos cumplen con los Eurocódigos y normas vigentes.",
+    "copy_btn": "COPIAR TEXTO DE LICITACIÓN",
+    "copy_success": "¡TEXTO COPIADO!",
+    "tender_text": "Los pavimentos en aparcamientos, garajes y rampas se ejecutarán con sistemas de protección de superficie del hormigón conforme a EN 1504-2. Para plantas intermedias y rampas: sistema clase OS 8 (duro, resistente al tráfico). Para plantas abiertas y zonas con fisuras: sistema clase OS 11a/b (elástico, puenteador de fisuras). Los sistemas serán resistentes a cloruros (fundentes), combustibles y aceites, con adherencia probada y clase de reacción al fuego Bfl-s1 o superior.",
+    "items": [
+      "Zonificación de áreas urbanas y high-tech por función y riesgo",
+      "Especificaciones técnicas ARMOR / HYDRO / CHEM / THERM por zona",
+      "Detalles para juntas, bordes, fachadas, terrazas y conexiones subterráneas",
+      "Escenario de ejecución recomendado sin cierre total del sitio",
+      "Requisitos de limpieza, química y seguridad contra incendios",
+      "Condiciones de garantía y plan de inspección y reparaciones locales"
+    ]
+  },
+  "docs": {
+    "section_title": "Documentación",
+    "items": [
+      { "id": "d1", "title": "Parking Systems Guide", "subtitle": "OS 8 / OS 11 (PDF)" },
+      { "id": "d2", "title": "Maintenance Manual", "subtitle": "Mantenimiento de aparcamientos (PDF)" },
+      { "id": "d3", "title": "Color Chart", "subtitle": "Colores y señalización (PDF)" },
+      { "id": "d4", "title": "Aviation & High-Tech Floors", "subtitle": "Requisitos técnicos (PDF)" }
+    ]
+  },
+  "faq": {
+    "section_title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "id": "f1",
+        "question": "¿PODEMOS MANTENER UN 'MINERAL LOOK' EN VEZ DE UN PAVIMENTO DE RESINA TÍPICO?",
+        "answer": "Sí. Los sistemas GEONYX son minerales y permiten un 'mineral look' con alta resistencia al desgaste y protección. El color y la textura se especifican en el proyecto según el concepto arquitectónico."
+      },
+      {
+        "id": "f2",
+        "question": "¿SON LOS SISTEMAS ADECUADOS PARA REQUISITOS ESD Y SALA BLANCA?",
+        "answer": "Ciertas configuraciones de ARMOR y CHEM pueden ejecutarse con parámetros ESD controlados y superficie lisa, fácil de limpiar, compatible con protocolos de sala blanca."
+      },
+      {
+        "id": "f3",
+        "question": "¿CÓMO SE COMPORTAN LOS PAVIMENTOS ANTE UN INCENDIO EN EDIFICIOS PÚBLICOS Y HIGH-TECH?",
+        "answer": "Las configuraciones THERM se basan en sistemas minerales incombustibles con comportamiento al fuego favorable; las clases específicas se determinan según la normativa y el proyecto."
+      }
+    ]
+  },
+  "cta": {
+    "title": "ZONIFICACIÓN INTEGRAL DEL SITIO",
+    "desc": "Cada sitio tiene riesgos específicos. Integramos 6 matrices especializadas en un único sistema: de mecánica, química y choque térmico a impermeabilización, antiestático y arquitectura.",
+    "btn": "VER TODOS LOS SISTEMAS DE INGENIERÍA"
+  }
+}

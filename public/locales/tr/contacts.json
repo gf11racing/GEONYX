@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "GEONYX İletişim | Mühendislik Danışmanlığı",
+    "description": "Teknik danışmanlık, saha incelemesi veya proje planlaması için GEONYX GROUP LTD ile iletişime geçin. Sofya, Bulgaristan."
+  },
+  "hero": {
+    "eyebrow": "İLETİŞİM & OFİSLER",
+    "title": "BİZİMLE",
+    "titleHighlight": "İLETİŞİME GEÇİN.",
+    "description": "Endüstriyel bir sorununuz mu var? Bizim bir mühendislik çözümümüz var.\nZaman kaybetmeyin – uzmanlarımız hazır bekliyor."
+  },
+  "info": {
+    "adminBadge": "Yönetim",
+    "locationEyebrow": "KONUM",
+    "hqTitle": "MERKEZ OFİS &\nYÖNETİM",
+    "addressLine1": "Yuriy Venelin Cad. No:18, Gabrovo",
+    "addressLine2": "Kat 2, 5300 Gabrovo, Bulgaristan",
+    "hours": "Pzt - Cum: 09:00 - 18:00",
+    "hqNote": "RESMİ YAZIŞMALAR, ORTAKLIKLAR VE BELGELER İÇİN.",
+    "salesBadge": "Satış Departmanı",
+    "supportEyebrow": "DESTEK",
+    "salesTitle": "SATIŞ &\nTEKNİK DEPARTMAN",
+    "coverage": "Ulusal kapsama",
+    "salesNote": "TEKLİFLER, SAHA GEZİLERİ VE TEKNİK DANIŞMANLIK İÇİN.",
+    "salesNoteHighlight": "MÜHENDİSLERİMİZ TÜM ÜLKEDE SEYAHAT EDİYOR."
+  },
+  "form": {
+    "eyebrow": "Şimdi Harekete Geçin",
+    "title": "TALEP GÖNDERİN",
+    "nameLabel": "Ad ve Soyad *",
+    "namePlaceholder": "Ahmet Yılmaz",
+    "companyLabel": "Şirket / Kuruluş *",
+    "companyPlaceholder": "Şirket adı",
+    "phoneLabel": "Telefon *",
+    "phonePlaceholder": "+90 ...",
+    "emailLabel": "E-posta *",
+    "emailPlaceholder": "ad@sirket.com.tr",
+    "sectorLabel": "Sektör Türü *",
+    "sectorPlaceholder": "-- Sektör Seçin --",
+    "messageLabel": "Mesaj / Sorun Açıklaması",
+    "messagePlaceholder": "Sorununuzu kısaca açıklayın...",
+    "submitBtn": "TALEBİ GÖNDER",
+    "submittingBtn": "GÖNDERİLİYOR...",
+    "successTitle": "TALEP ALINDI",
+    "successBody": "Mühendislerimizden biri, detayları netleştirmek için 24 saat içinde sizinle iletişime geçecektir.",
+    "newInquiry": "Yeni talep gönder",
+    "sector1": "Ağır Sanayi & Lojistik",
+    "sector2": "Gıda & Eczacılık",
+    "sector3": "Tarım, Biyogaz & Hayvan Ortamları",
+    "sector4": "Su & Deniz Altyapısı",
+    "sector5": "Enerji, Madencilik & Ağır Koruma",
+    "sector6": "Ulaşım, Otoparklar & Garajlar",
+    "sector7": "Kentsel Çevre & İnşaat",
+    "sector8": "Diğer"
+  },
+  "map": {
+    "caption": "Konum: Gabrovo, Bulgaristan.",
+    "captionHighlight": "Operasyonel kapsam: Tüm Avrupa."
+  }
+}

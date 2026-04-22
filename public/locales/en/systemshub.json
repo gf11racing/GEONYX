@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "GEONYX Engineering Systems | ARMOR, CHEM, THERM, HYDRO",
+    "description": "Overview of all GEONYX geopolymer systems: ARMOR for mechanical loads, CHEM for chemical resistance, THERM for extreme heat, HYDRO for waterproofing."
+  },
+  "hero": {
+    "eyebrow": "TECHNOLOGY NOMENCLATURE",
+    "title": "SYSTEM REGISTRY",
+    "subtitle1": "// INDEX OF GEONYX® ENGINEERING MATRICES",
+    "subtitle2": "// SELECT A SYSTEM FOR TECHNICAL SPECIFICATIONS",
+    "stat1label": "CORE SYSTEMS",
+    "stat2label": "FIRE CLASS",
+    "stat3label": "SERVICE LIFE"
+  },
+  "systems": {
+    "sys01category": "MECHANICS",
+    "sys01desc": "Armoured system for heavy industry. Absorbs vibrations, withstands impact loads and traffic from heavy tracked machinery.",
+    "sys02category": "CHEMISTRY",
+    "sys02desc": "Chemically inert barrier (WHG). Full protection against concentrated acids, bases and aggressive solvents.",
+    "sys03category": "THERMODYNAMICS",
+    "sys03desc": "System for extreme temperature amplitudes. Withstands thermal shock (steam/ice water), molten metal and direct fire.",
+    "sys04category": "HYDROTECHNICS",
+    "sys04desc": "Watertight mineral membranes for dam walls, water treatment plants and marine infrastructure. Underwater operation."
+  },
+  "cta": {
+    "eyebrow": "SPECIALISED ENGINEERING",
+    "title": "CAN'T FIND YOUR USE CASE?",
+    "body": "Our chemical engineers develop modified matrices for specific environments (Custom Formulations). Contact us for laboratory analysis.",
+    "btn": "REQUEST DEVELOPMENT"
+  }
+}

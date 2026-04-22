@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "solutions": "LÖSUNGEN",
+    "systems": "SYSTEME",
+    "techCenter": "TECHNISCHES ZENTRUM",
+    "references": "REFERENZEN",
+    "company": "UNTERNEHMEN",
+    "contacts": "KONTAKT",
+    "projectInquiry": "PROJEKTANFRAGE"
+  },
+  "navChildren": {
+    "heavy": "Schwerindustrie",
+    "food": "Lebensmittel & Pharma",
+    "agro": "Agrar & Ökologie",
+    "water": "Wasserinfrastruktur",
+    "energy": "Energie & Bergbau",
+    "transport": "Transport & Parken",
+    "urban": "Stadtumgebung",
+    "archZone": "Architekturzone",
+    "techMaps": "Technische Karten",
+    "cadBim": "CAD & BIM Details",
+    "certs": "Zertifikate",
+    "aboutMain": "Über uns",
+    "careers": "Karriere",
+    "hseq": "HSEQ & Nachhaltigkeit"
+  },
+  "mega": {
+    "solutions": {
+      "heavy": {
+        "title": "SCHWERINDUSTRIE & LOGISTIK",
+        "desc": "Böden und Systeme für extreme mechanische Belastungen.",
+        "badge": "EXTREME BELASTUNGEN"
+      },
+      "food": {
+        "title": "LEBENSMITTEL, GETRÄNKE, PHARMA & HYGIENE",
+        "desc": "Hygiene ohne Kompromisse. Fugenlose, leicht zu reinigende Böden.",
+        "badge": "HYGIENEKONTROLLE"
+      },
+      "agro": {
+        "title": "AGRAR, BIOGAS, DÜNGER & TIERISCHE UMGEBUNGEN",
+        "desc": "Schutz vor organischen Säuren, Gülle, Ammoniak und aggressiven Säften.",
+        "badge": "ORGANISCHE AGGRESSION"
+      },
+      "water": {
+        "title": "WASSER, ABWASSER & MEERESINFRASTRUKTUR",
+        "desc": "100% Wasserdichtigkeit und Widerstand gegen Salze und Erosion.",
+        "badge": "WASSERSCHUTZ"
+      },
+      "energy": {
+        "title": "ENERGIE, BERGBAU & SCHWERER SCHUTZ",
+        "desc": "Nicht brennbare und chemisch beständige Systeme.",
+        "badge": "KRITISCHE INFRASTRUKTUR"
+      },
+      "transport": {
+        "title": "TRANSPORT, PARKPLÄTZE, GARAGEN & VERKEHR",
+        "desc": "Böden und Rampen mit hohem Grip, beständig gegen Salz und Sole.",
+        "badge": "HOCHVERKEHRSZONEN"
+      },
+      "urban": {
+        "title": "STADTUMGEBUNG, BAU & HOCHTECHNOLOGIE",
+        "desc": "UHPC-Lösungen für Fassaden und städtische Umgebungen.",
+        "badge": "STADTINFRASTRUKTUR"
+      }
+    },
+    "techCenter": {
+      "archZone": {
+        "title": "ARCHITEKTURZONE",
+        "desc": "Texturen, PBR-Karten und visuelle Assets für das Design.",
+        "label": "DESIGN RESOURCES",
+        "heroTitle": "DESIGN CENTER",
+        "buttonText": "ZUR GALERIE",
+        "badge": "DESIGNUNTERSTÜTZUNG"
+      },
+      "techMaps": {
+        "title": "TECHNISCHE KARTEN",
+        "desc": "Detaillierte Spezifikationen (TDS) und MSDS aller Systeme.",
+        "label": "SPECIFICATIONS",
+        "heroTitle": "DOC CENTER",
+        "buttonText": "TDS HERUNTERLADEN",
+        "badge": "TECHNISCHE DOKUMENTATION"
+      },
+      "cadBim": {
+        "title": "CAD & BIM BIBLIOTHEK",
+        "desc": "Fertige Systemdetails im .DWG- und Revit-Format.",
+        "label": "INTEGRATION",
+        "heroTitle": "CAD / BIM ASSETS",
+        "buttonText": "ZUGANG ANFRAGEN",
+        "badge": "BIM & INGENIEURMODELLE"
+      },
+      "certs": {
+        "title": "ZERTIFIKATE",
+        "desc": "HACCP, ISO und Leistungserklärungen.",
+        "label": "COMPLIANCE",
+        "heroTitle": "ZERTIFIZIERUNG",
+        "buttonText": "ZERTIFIKATE ANSEHEN",
+        "badge": "COMPLIANCE & ZERTIFIZIERUNG"
+      }
+    },
+    "about": {
+      "main": {
+        "title": "ÜBER UNS",
+        "desc": "Philosophie der Innovation und nachhaltigen Entwicklung.",
+        "label": "ÜBER DAS UNTERNEHMEN",
+        "heroTitle": "ÜBER UNS",
+        "buttonText": "MEHR ERFAHREN",
+        "badge": "DAS UNTERNEHMEN"
+      },
+      "careers": {
+        "title": "KARRIERE & ENTWICKLUNG",
+        "desc": "Werden Sie Teil des GEONYX-Teams.",
+        "label": "TEAM & ENTWICKLUNG",
+        "heroTitle": "KARRIERE BEI GEONYX",
+        "buttonText": "OFFENE STELLEN",
+        "badge": "BERUFLICHE ENTWICKLUNG"
+      },
+      "hseq": {
+        "title": "HSEQ & NACHHALTIGKEIT",
+        "desc": "Unsere Verpflichtungen gegenüber Gesundheit, Sicherheit und Umwelt.",
+        "label": "VERANTWORTUNG",
+        "heroTitle": "SICHERHEITSSTANDARDS",
+        "buttonText": "MEHR SEHEN",
+        "badge": "SICHERHEIT & NACHHALTIGKEIT"
+      }
+    },
+    "systems": {
+      "armor": {
+        "title": "GEONYX ARMOR (MECHANISCHER WIDERSTAND)",
+        "desc": "Mechanischer Widerstand und Industrieböden.",
+        "tech": "MECHANISCHER SCHUTZ"
+      },
+      "chem": {
+        "title": "GEONYX CHEM (CHEMISCHER SCHUTZ)",
+        "desc": "Schutz vor aggressiven Chemikalien und Kraftstoffen.",
+        "tech": "CHEMISCHER SCHUTZ"
+      },
+      "hydro": {
+        "title": "GEONYX HYDRO (WASSERSCHUTZ)",
+        "desc": "Wasserdichte und hydrotechnische Systeme.",
+        "tech": "WASSERDICHTIGKEIT"
+      },
+      "therm": {
+        "title": "GEONYX THERM (THERMISCHE SICHERHEIT)",
+        "desc": "Nicht brennbare Lösungen für Brand und Wärmerisiken.",
+        "tech": "THERMISCHER SCHUTZ"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Industrielle Geopolymer-Lösungen für kritische Infrastruktur.",
+    "solutions": "LÖSUNGEN",
+    "systems": "SYSTEME",
+    "company": "UNTERNEHMEN",
+    "legal": "RECHTLICHES",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsConditions": "Nutzungsbedingungen",
+    "allRightsReserved": "Alle Rechte vorbehalten."
+  },
+  "buttons": {
+    "learnMore": "MEHR ERFAHREN",
+    "requestInspection": "TECHNISCHES AUDIT ANFRAGEN",
+    "downloadTDS": "TDS HERUNTERLADEN",
+    "contactEngineer": "INGENIEUR KONTAKTIEREN",
+    "projectInquiry": "PROJEKTANFRAGE",
+    "viewLicenses": "UNSERE LIZENZEN",
+    "copyTender": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copied": "TEXT KOPIERT!"
+  },
+  "common": {
+    "threat": "GEFAHR",
+    "solution": "LÖSUNG",
+    "zones": "ZONEN:",
+    "systems": "SYSTEME:"
+  },
+  "ticker": {
+    "aurubis": "METALLURGIE",
+    "kaufland": "LOGISTIK",
+    "lufthansa": "LUFTFAHRT",
+    "dundee": "BERGBAU",
+    "iso9001": "QUALITÄT",
+    "iso14001": "ÖKOLOGIE",
+    "haccp": "LEBENSMITTEL",
+    "bds": "STANDARD",
+    "learnMore": "MEHR ERFAHREN",
+    "partnersLabel": "VERTRAUENSPARTNER",
+    "certsLabel": "ZERTIFIZIERTE STANDARDS"
+  },
+  "cookies": {
+    "title": "Wir verwenden Cookies",
+    "desc": "Wir nutzen Analyse-Cookies (Google Analytics), um unsere Website zu verbessern. Sie können ablehnen — nur technisch notwendige Cookies bleiben aktiv.",
+    "acceptAll": "ALLE AKZEPTIEREN",
+    "essentialOnly": "NUR NOTWENDIGE",
+    "privacyLink": "Datenschutzrichtlinie"
+  },
+  "notFound": {
+    "title": "SEITE NICHT GEFUNDEN",
+    "subtitle": "Falsche Adresse oder die Seite wurde verschoben.",
+    "home": "ZUR STARTSEITE",
+    "back": "ZURÜCK"
+  }
+}

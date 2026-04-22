@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "GEONYX | Industrial Geopolymer Solutions",
+    "description": "High-technology geopolymer matrices for critical infrastructure and heavy industry. Engineering beyond the limits of concrete."
+  },
+  "hero": {
+    "eyebrow": "INDUSTRIAL INNOVATIONS",
+    "titleLine1": "INDUSTRIAL",
+    "titleLine2": "GEOPOLYMER",
+    "titleLine3": "SOLUTIONS",
+    "description": "We develop advanced materials for heavy industry, infrastructure, and mining.",
+    "descriptionBold": "Guaranteed resistance to acids, fire, and time.",
+    "btnSectors": "INDUSTRIAL SECTORS",
+    "btnTech": "TECHNICAL SPECIFICATIONS",
+    "statChemistry": "CHEMISTRY",
+    "statStrength": "STRENGTH",
+    "statFire": "FIRE",
+    "statEco": "ECO",
+    "fireClass": "Class A1"
+  },
+  "manifesto": {
+    "title": "Engineering",
+    "titleHighlight": "beyond concrete",
+    "body": "Standard flooring is the weak link in industry. We create monolithic, chemically resistant armor that holds where ordinary concrete and epoxy fail."
+  },
+  "eco": {
+    "eyebrow": "SUSTAINABILITY & STANDARDS",
+    "titleLine1": "INDUSTRIAL",
+    "titleLine2": "DECARBONIZATION & ESG",
+    "subtitle": "Reduce your carbon footprint by up to 80% and meet EU Green Deal requirements.",
+    "body": "A sustainable infrastructure solution that transforms industrial construction into an ecological asset.",
+    "col1Title": "CIRCULAR ECONOMY",
+    "col1Body": "We transform industrial by-products (slag, fly ash) into high-strength composites.",
+    "col2Title": "SAFE ENVIRONMENT (HSEQ)",
+    "col2Body": "Zero volatile organic compound emissions (VOC Free). Safe for enclosed spaces and the food industry.",
+    "col3Title": "LOW-CARBON PROCESS",
+    "col3Body": "Cold synthesis without clinker firing. Saves tonnes of CO2 emissions per square metre."
+  },
+  "trustbridge": {
+    "eyebrow": "TECHNOLOGY PARTNER",
+    "titleLine1": "COMPREHENSIVE",
+    "titleHighlight": "ENGINEERING",
+    "body": "We are not just contractors, but a technology partner. We provide a full cycle: from laboratory analysis and design to implementation of protective systems.",
+    "btn": "VIEW OUR LICENSES"
+  },
+  "systems": {
+    "armor": {
+      "label": "EXTREME MECHANICS",
+      "desc": "Armored geopolymer matrices for heavy industry, military-industrial complexes, and large-scale warehouse logistics.",
+      "badge": "> 110 MPa STRENGTH"
+    },
+    "chem": {
+      "label": "CHEMICAL PROTECTION",
+      "desc": "Absolute mineral immunity against concentrated acids, bases, and aggressive solvents. WHG certified.",
+      "badge": "pH 1-14 RESISTANCE"
+    },
+    "therm": {
+      "label": "THERMAL SAFETY",
+      "desc": "Incombustible systems designed to withstand molten metal spills, fire, and cyclic thermal shock.",
+      "badge": "CLASS A1fl / 1200°C"
+    },
+    "hydro": {
+      "label": "HYDRO-ENGINEERING & INFRASTRUCTURE",
+      "desc": "Watertight barriers for dam walls, water treatment plants, and harbours. Underwater placement and curing available.",
+      "badge": "W20 / UNDERWATER REPAIR"
+    }
+  },
+  "solutions": {
+    "s1": {
+      "eyebrow": "TECHNOLOGY",
+      "title": "GEONYX® MATRIX",
+      "solutionLabel": "SOLUTION",
+      "body": "Our patented geopolymer matrix is a universal shield. Applicable to tailings ponds, chemical tanks, hangars, and tunnels. Resistance to pH 1-14 and temperatures above 1000°C.",
+      "btn": "TECHNICAL SPECIFICATIONS",
+      "badge": "Innovation"
+    },
+    "s2": {
+      "eyebrow": "COMPLIANCE",
+      "title": "STANDARDS & CERTIFICATION",
+      "solutionLabel": "SOLUTION",
+      "body": "We work strictly to BDS EN 206 and ISO 9001. Every system comes with a complete technical passport, HSEQ safety plan, and guarantee for public and corporate audits.",
+      "btn": "VIEW CERTIFICATES",
+      "badge": "ISO / BDS"
+    },
+    "s3": {
+      "eyebrow": "ENGINEERING",
+      "title": "DESIGN AND AUDIT",
+      "solutionLabel": "SOLUTION",
+      "body": "Request an expert assessment of your facilities and budget preparation. Our engineers perform a detailed condition analysis and propose optimised solutions for lasting protection.",
+      "btn": "REQUEST AUDIT",
+      "badge": "Design"
+    }
+  }
+}

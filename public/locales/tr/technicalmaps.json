@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "GEONYX | Teknik Veri Sayfaları ve Sistem Dokümantasyonu",
+    "description": "GEONYX ARMOR, CHEM, HYDRO ve THERM için teknik veri sayfaları (TDS), performans beyanları (DoP), sertifikalar ve sistem detaylarından oluşan merkezi kütüphane – endüstriyel ve altyapı inşaatında tasarımcılar, yatırımcılar ve yükleniciler için tasarlanmıştır."
+  },
+  "hero": {
+    "eyebrow": "TEKNİK VERİ SAYFALARI",
+    "titleLine1": "VERİLER",
+    "titleLine2": "YALAN SÖYLEMEZ.",
+    "description": "Burada pazarlama için yer yok. Burada ampirik fiziko-mekanik parametreler, bağımsız laboratuvar testleri ve normatif sertifikalar konuşur. Kesme mukavemeti, aşınma direnci indeksi, kimyasal inerlik ve karbon ayak izi.",
+    "btnCatalog": "TAM KATALOG İNDİR"
+  },
+  "blockSDS": {
+    "eyebrow": "SPESİFİKASYONLAR",
+    "title": "SİSTEM (SDS) VE ÜRÜN (PDS) TEKNİK VERİ SAYFALARI",
+    "description": "Her değişkenin hassas tanımı. Mühendislik mantığı, genel sistemin (System Data Sheet) bileşen ürünlerinden (Product Data Sheets) ayrılmasını gerektirir. EN 13813'e göre sistemin elastisite modülünden her bireysel astar ve sızdırmazlık malzemesinin pot ömrüne kadar.",
+    "btnSDS": "SİSTEM PASAPORTLARI İNDİR (SDS)",
+    "btnPDS": "ÜRÜN PASAPORTLARI İNDİR (PDS)"
+  },
+  "blockDoP": {
+    "eyebrow": "UYUMLULUK VE ESG",
+    "title": "PERFORMANS BEYANLARI (DoP) VE EKOLOJİ (EPD)",
+    "description": "Altyapı projeleri ve kamu ihaleleri (B2G) için zorunlu varlık. DoP beyanları, (AB) No. 305/2011 (CPR) Yönetmeliği ile tam uyumu garanti eder. ISO 14025'e göre eklenen Çevresel Ürün Beyanları (EPD), tam yaşam döngüsü (LCA) boyunca karbon ayak izi hakkında doğru veriler sağlayarak LEED v4 ve BREEAM sertifikasyonu için maksimum kredi güvencesi verir.",
+    "btnDoP": "DoP KAYIT DEFTERİ İNDİR (CE)",
+    "btnEPD": "EPD RAPORLARI İNDİR (ECO)"
+  },
+  "blockMSDS": {
+    "eyebrow": "SAĞLIK VE GÜVENLİK",
+    "title": "GÜVENLİK VERİ SAYFALARI (MSDS)",
+    "description": "Operatör ve çevre için güvenlik. MSDS sayfaları tam kimyasal profili, REACH sınıflandırmasını ve güvenli çalışma protokollerini sağlar. GEONYX matrisleri VOC-Free'dir ve Bisfenol A içermez; bu da onları iş sağlığı ve hijyeninde referans standart yapar.",
+    "btnMSDS": "MSDS ARŞİVİ İNDİR"
+  },
+  "blockProtocols": {
+    "eyebrow": "UYGULAMA VE KONTROL",
+    "title": "UYGULAMA PROTOKOLLERİ (METHOD STATEMENTS)",
+    "description": "En iyi sistem bile yanlış uygulamayla başarısız olur. Sadece talimat vermiyoruz – yapı denetimi için araçlar sağlıyoruz. Teknoloji protokollerine (Method Statements) ve günlük saha kontrolü için hazır QA/QC formlarına erişim.",
+    "btnMS": "TEKNOLOJİ KARTASI (MS)",
+    "btnQAQC": "QA/QC FORMU (ÇIĞ NOKTASI)"
+  },
+  "analyticsSection": {
+    "eyebrow": "TEKNİK PARAMETRELER",
+    "title": "TEST PROTOKOLLERİ VE DİYAGRAMLAR",
+    "card1title": "Kimyasal Dayanıklılık",
+    "card1desc": "EN 13529'a göre test edilen reaktiflerin listesi (asitler, bazlar, çözücüler). Maruziyet süresi ve bozulma indeksi.",
+    "card1btn": "TABLO İNDİR",
+    "card2title": "Termodinamik ve Sürtünme",
+    "card2desc": "Isıl genleşme katsayıları (CTE), termik şok test sonuçları ve Böhme aşınma eğrileri (DIN 52108).",
+    "card2btn": "RAPOR İNDİR",
+    "card3title": "Elektrik İletkenliği",
+    "card3desc": "Yüzey/hacimsel direnç ölçümleri. Temiz odalar ve ATEX bölgeleri için Walking Body Voltage raporları.",
+    "card3btn": "ESD ANALİZİ İNDİR"
+  },
+  "lifecycle": {
+    "eyebrow": "BAKIM",
+    "title": "YAŞAM DÖNGÜSÜ YÖNETİMİ",
+    "description": "Dayanıklılık, doğru işletimin bir fonksiyonudur. Tesis yönetimi ekipleri için uzmanlaşmış bakım kılavuzları (Maintenance Manuals). Onaylı temizlik maddeleri, aşırı kimyasal dökülme prosedürleri ve endüstriyel zeminler için periyodik denetim takvimi.",
+    "btn": "BAKIM KILAVUZU İNDİR"
+  }
+}

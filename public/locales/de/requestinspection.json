@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Technische Inspektion Anfragen | GEONYX",
+    "description": "Fordern Sie eine kostenlose technische Bodeninspektion durch einen GEONYX-Ingenieur an. Wir diagnostizieren Belastungen und Risiken und erstellen ein individuelles Angebot."
+  },
+  "hero": {
+    "eyebrow": "INGENIEURSDIAGNOSTIK",
+    "title": "ANFRAGE FÜR INGENIEURSAUDIT UND SYSTEMSPEZIFIKATION",
+    "subtitle": "Unsere Ingenieure analysieren die strukturellen Anforderungen, die Betriebsumgebung und die spezifischen Risiken Ihres Objekts, um die präzise geopolymere Matrix zu entwickeln."
+  },
+  "process": {
+    "title": "PROZESS",
+    "step1Title": "01. ERSTANALYSE",
+    "step1Body": "Technisches Interview zur Definition des Industrietyps, der chemischen oder mechanischen Beanspruchung und des Projektumfangs.",
+    "step2Title": "02. STRUKTURAUDIT",
+    "step2Body": "Ingenieurvermessung vor Ort – von Zugfestigkeit und Untergrundfeuchte bis zur Bewertung thermischer Amplituden und normativer Anforderungen.",
+    "step3Title": "03. SYSTEMSPEZIFIKATION",
+    "step3Body": "Erstellung eines detaillierten Protokolls mit Hybridlösung (Method Statement), Kostenschätzung und technologischem Ausführungsplan."
+  },
+  "form": {
+    "title": "ANFRAGEFORMULAR",
+    "subtitle": "Füllen Sie das Formular aus und ein Ingenieur wird sich bei Ihnen melden",
+    "nameLabel": "VOR- UND NACHNAME *",
+    "namePlaceholder": "Hans Müller",
+    "companyLabel": "UNTERNEHMEN / ORGANISATION *",
+    "companyPlaceholder": "Unternehmensname",
+    "phoneLabel": "FIRMENTELEFON *",
+    "phonePlaceholder": "+49...",
+    "emailLabel": "FIRMEN-E-MAIL *",
+    "emailPlaceholder": "office@company.com",
+    "locationLabel": "PROJEKTSTANDORT *",
+    "locationPlaceholder": "Stadt / Industriegebiet",
+    "scaleLabel": "PROJEKTUMFANG (m² / m³)",
+    "scalePlaceholder": "z.B. 2500 m2",
+    "sectorLabel": "INDUSTRIESEKTOR *",
+    "sectorPlaceholder": "-- Sektor wählen --",
+    "threatsLabel": "HAUPTRISIKOFAKTOR (MEHRFACHAUSWAHL MÖGLICH)",
+    "threat1": "Extreme Mechanik und Verschleiß",
+    "threat2": "Chemische Aggression (Säuren/Basen)",
+    "threat3": "Thermischer Schock / Brandgefahr",
+    "threat4": "Wasserdruck / Feuchtigkeit",
+    "threat5": "ESD-Schutz / Hygieneanforderungen (HACCP)",
+    "submitBtn": "AUDITANFRAGE ABSENDEN",
+    "submittingBtn": "Verarbeitung...",
+    "successTitle": "ANFRAGE EINGEGANGEN",
+    "successBody": "Ihr Projekt wurde mit hoher Priorität im System registriert. Ein Ingenieur wird sich innerhalb von 24 Stunden bei Ihnen melden.",
+    "newFormBtn": "Neues Formular ausfüllen",
+    "sector1": "Schwerindustrie und Logistik",
+    "sector2": "Lebensmittel, Getränke und Pharma",
+    "sector3": "Agrar, Biogas und Ökologie",
+    "sector4": "Wasser- und Meeresinfrastruktur",
+    "sector5": "Energie, Bergbau und Verteidigung",
+    "sector6": "Transport und Parkierung",
+    "sector7": "Stadtumgebung und Bauwesen",
+    "sector8": "High-Tech-Zonen und Reinräume",
+    "sector9": "Sonstige spezifische Produktion"
+  },
+  "contact": {
+    "phone": "+359 88 888 8888",
+    "email": "office@geonyx.bg",
+    "address": "Sofia, Bulgarien"
+  },
+  "guarantee": {
+    "title": "GARANTIERTE VERTRAULICHKEIT (NDA) • REAKTION INNERHALB VON 24 STUNDEN",
+    "body": "GARANTIERTE VERTRAULICHKEIT (NDA) • REAKTION INNERHALB VON 24 STUNDEN"
+  }
+}

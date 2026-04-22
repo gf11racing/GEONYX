@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Request Technical Inspection | GEONYX",
+    "description": "Request a free technical floor inspection by a GEONYX engineer. We diagnose the loads and risks and prepare a personalised engineering proposal."
+  },
+  "hero": {
+    "eyebrow": "ENGINEERING DIAGNOSTICS",
+    "title": "REQUEST FOR ENGINEERING AUDIT AND SYSTEM SPECIFICATION",
+    "subtitle": "Our engineers will analyse the structural requirements, operational environment and specific risks of your facility to design the precise geopolymer matrix."
+  },
+  "process": {
+    "title": "PROCESS",
+    "step1Title": "01. INITIAL ANALYSIS",
+    "step1Body": "Technical interview to define industry type, chemical or mechanical aggression and project scale.",
+    "step2Title": "02. STRUCTURAL AUDIT",
+    "step2Body": "On-site engineering survey – from tensile strength and substrate moisture to thermal amplitude assessment and regulatory requirements.",
+    "step3Title": "03. SYSTEM SPECIFICATION",
+    "step3Body": "Preparation of a detailed protocol with a hybrid solution (Method Statement), cost estimation and technological execution plan."
+  },
+  "form": {
+    "title": "REQUEST FORM",
+    "subtitle": "Fill in the form and one of our engineers will contact you",
+    "nameLabel": "FULL NAME *",
+    "namePlaceholder": "John Smith",
+    "companyLabel": "COMPANY / ORGANISATION *",
+    "companyPlaceholder": "Company name",
+    "phoneLabel": "CORPORATE PHONE *",
+    "phonePlaceholder": "+1...",
+    "emailLabel": "CORPORATE EMAIL *",
+    "emailPlaceholder": "office@company.com",
+    "locationLabel": "PROJECT LOCATION *",
+    "locationPlaceholder": "City / Industrial Zone",
+    "scaleLabel": "PROJECT SCALE (m² / m³)",
+    "scalePlaceholder": "e.g. 2500 m2",
+    "sectorLabel": "INDUSTRIAL SECTOR *",
+    "sectorPlaceholder": "-- Select sector --",
+    "threatsLabel": "PRIMARY RISK FACTOR (MORE THAN ONE ALLOWED)",
+    "threat1": "Extreme Mechanics and Abrasion",
+    "threat2": "Chemical Aggression (Acids/Bases)",
+    "threat3": "Thermal Shock / Fire Hazard",
+    "threat4": "Water Pressure / Moisture",
+    "threat5": "ESD Protection / Hygiene Standards (HACCP)",
+    "submitBtn": "SUBMIT AUDIT REQUEST",
+    "submittingBtn": "Processing...",
+    "successTitle": "REQUEST RECEIVED",
+    "successBody": "Your project has been registered in the system with high priority. One of our engineers will contact you within 24 hours.",
+    "newFormBtn": "Fill in a new form",
+    "sector1": "Heavy Industry and Logistics",
+    "sector2": "Food, Beverage and Pharma",
+    "sector3": "Agro, Biogas and Ecology",
+    "sector4": "Water and Marine Infrastructure",
+    "sector5": "Energy, Mining and Defence",
+    "sector6": "Transport and Parking",
+    "sector7": "Urban Environment and Construction",
+    "sector8": "High-Tech Zones and Clean Rooms",
+    "sector9": "Other Specific Production"
+  },
+  "contact": {
+    "phone": "+359 88 888 8888",
+    "email": "office@geonyx.bg",
+    "address": "Sofia, Bulgaria"
+  },
+  "guarantee": {
+    "title": "GUARANTEED CONFIDENTIALITY (NDA) • RESPONSE WITHIN 24 HOURS",
+    "body": "GUARANTEED CONFIDENTIALITY (NDA) • RESPONSE WITHIN 24 HOURS"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "GEONYX | Energie, Bergbau & Schwerer Schutz – Industrielle und abrasionsbeständige Systeme",
+    "description": "GEONYX entwickelt mineralische Schutzsysteme für Energie, Bergbau und Schwerindustrie – beständig gegen extreme Abrasion, Schlagbelastungen, Ketten, Erz, Vibrationen, Öle und Thermoshock. Langlebiger Schutz von Beton und kritischer Infrastruktur unter Schwerlastbetrieb."
+  },
+  "tender": {
+    "text": "Boden-, Konstruktions- und Schutzsysteme in Energie-, Bergbau- und Schutzanlagen (Kesselräume, Turbinenhallen, Umspannwerke, Batterieparks, Bergwerke, Kraftstofflager, Tunnel und Schutzanlagen) sind mit mineralischen Geopolymersystemen vom Typ GEONYX oder gleichwertig auszuführen, die ARMOR / CHEM / THERM / HYDRO / REPAIR entsprechend dem Risikoprofil je Zone kombinieren. Die Systeme müssen Brandklasse A1 (für relevante Zonen), hohe chemische und mechanische Beständigkeit, lokale Reparaturmöglichkeit und minimale Ausfallzeiten gewährleisten."
+  },
+  "hero": {
+    "eyebrow": "ENERGIE, BERGBAU & SCHWERER SCHUTZ",
+    "title1": "OBERFLÄCHEN FÜR",
+    "title2": "HOHES RISIKO.",
+    "description": "In Energie und Bergbau sind Feuer, Chemie, Schlag und Vibration tägliche Realität. GEONYX kombiniert ARMOR, CHEM, THERM und HYDRO in mineralischen Systemen, die die Konstruktion schützen und Schäden im Schadensfall begrenzen.",
+    "btn1": "RISIKOAUDIT ANFORDERN",
+    "btn2": "THERM/ARMOR PROFIL HERUNTERLADEN",
+    "scope": "UMFANG",
+    "zonesLabel": "ZONEN:",
+    "zone1": "Kohle- und Gaskraftwerke & Kraft-Wärme-Kopplung",
+    "zone2": "Dampfkessel, Turbinenhallen und Maschinenräume",
+    "zone3": "Rauchgaskanäle, Gaskanäle und Elektrofilter",
+    "zone4": "Silos für Asche, Kalk und Reagenzien",
+    "zone5": "Transformatorfelder und elektrische Umspannwerke",
+    "zone6": "Tagebaue, Kohle- und Erzabbaufronten",
+    "zone7": "Unterirdische Strecken, Lager und Reparaturkammern",
+    "zone8": "Förderstreckenwege, Übergabetürme und Bunker",
+    "zone9": "Brech-, Sieb- und Verladestationen",
+    "zone10": "Schlackehalden, Absetzteiche und Kläranlagen",
+    "systemsLabel": "SYSTEME:",
+    "anchorApplications": "↓ WO ES EINGESETZT WIRD",
+    "anchorSystem": "↓ SYSTEMAUSWAHL",
+    "anchorOffer": "↓ ANGEBOTSPAKET"
+  },
+  "manifesto": {
+    "title1": "WENN EIN FEHLER",
+    "title2": "LEBEN UND MILLIONEN KOSTET.",
+    "description": "In Energie-, Bergbau- und Schutzanlagen sind Boden, Konstruktion und Schutzschichten Teil des Sicherheitssystems. Ein Kraftstoffaustritt, ein Funken, Thermoshock oder ein chemischer Angriff darf den Beton nicht zum schwächsten Glied machen. GEONYX entwirft mineralische Systeme mit Brandklasse A1, hoher chemischer Beständigkeit und mechanischer Festigkeit – damit ein Vorfall lokal bleibt und die Anlage so schnell wie möglich wieder in Betrieb geht."
+  },
+  "zigzag": {
+    "problem": "PROBLEM:",
+    "solution": "LÖSUNG:",
+    "suitableSystems": "Geeignete Systeme:",
+    "block1": {
+      "tag": "KESSELRÄUME & TURBINENHALLEN",
+      "title": "KRAFTWERKE, KOMBIKRAFTWERKE & BIOMASSE",
+      "problem": "In Kesselräumen und Turbinenhallen gibt es heiße Oberflächen, Öle, Dampf und Vibrationen. Beton reißt durch Thermozyklen, Verschüttungen dringen in die Konstruktion ein und Standardfarben verbrennen und blättern ab.",
+      "solution": "GEONYX THERM + ARMOR bieten einen mineralischen Boden mit Klasse A1, beständig gegen Funken und Thermoshock mit hoher mechanischer Festigkeit für schwere Maschinen. HYDRO und CHEM werden in Kondensations- und Aggressivfluidzonen ergänzt, während REPAIR lokale Reparaturen zwischen Kampagnen ermöglicht.",
+      "systems": "THERM"
+    },
+    "block2": {
+      "tag": "TRANSFORMATOREN & ÖLE",
+      "title": "UMSPANNWERKE & TRANSFORMATORFELDER",
+      "problem": "In Transformatorfeldern und Umspannwerken schaffen Öle, Lichtbögen und Funken Brand- und Kontaminationsrisiken. Gerissener Beton und unkontrollierte Gefälle leiten Verschüttungen in die falsche Richtung.",
+      "solution": "GEONYX ARMOR bildet beständige Auffangwannen und Kanäle zur Auslaufkontrolle. THERM und CHEM erhöhen die Brand- und chemische Beständigkeit, während HYDRO das Eindringen in die Konstruktion und den Boden begrenzt.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "LITHIUMBATTERIEN",
+      "title": "BATTERIEPARKS (BESS) & USV-HALLEN",
+      "problem": "Lithium-Ionen-Batterien tragen das Risiko von Thermal Runaway, Elektrolyten und toxischen Dämpfen. Standardbeschichtungen können brennen, toxische Gase freisetzen und bei hoher Temperatur versagen.",
+      "solution": "GEONYX THERM + CHEM bieten eine nicht brennbare, mineralische Oberfläche, beständig gegen Elektrolyte und Reinigungsmittel. ARMOR gewährleistet Festigkeit für schwere Schränke und Regale, während REPAIR eine schnelle Wiederherstellung nach einem Vorfall ermöglicht.",
+      "systems": "THERM"
+    },
+    "block4": {
+      "tag": "BERGWERKE & RAMPEN",
+      "title": "BERGWERKE, RAMPEN & ERZWERKE",
+      "problem": "In Bergwerken nehmen Böden und Rampen abrasives Erz, Schlamm, Wasser und Schwerlastverkehr von Kippern und Maschinen auf. Beton verschleißt schnell, Schlaglöcher und Staub entstehen.",
+      "solution": "GEONYX ARMOR bietet hochfeste mineralische Beläge mit extremer Abrasionsbeständigkeit. HYDRO schützt vor Wasser und Frost, während REPAIR zum schnellen Verfüllen von Spurrillen und versagten Abschnitten eingesetzt wird.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "PULPEN & CHEMIE",
+      "title": "AUFBEREITUNGSANLAGEN & PULPEN",
+      "problem": "In Aufbereitungsanlagen ist Beton abrasiven Pulpen, Lösungen mit wechselndem pH und Schlagbelastungen durch Geräte ausgesetzt. Standardauskleidungen verschleißen schnell und undicht.",
+      "solution": "GEONYX CHEM + ARMOR bauen verschleiß- und chemisch beständige Oberflächen für Wannen, Kanäle und Plattformen. HYDRO kontrolliert das Eindringen, während REPAIR die Lebensdauer kritischer Details verlängert.",
+      "systems": "CHEM"
+    },
+    "block6": {
+      "tag": "KRAFTSTOFFE & AUSLAUFMENGEN",
+      "title": "KRAFTSTOFF- & CHEMIKELAGER",
+      "problem": "In Lagern für Diesel, Benzin, Reagenzien und explosive Stoffe stellen Auslaufen und Dämpfe ein ernstes Risiko dar. Risse und Fugen ermöglichen das Eindringen in Beton und Boden.",
+      "solution": "GEONYX CHEM + HYDRO schaffen eine mineralische 'Wanne' mit kontrollierter Drainage und chemischer Beständigkeit. THERM verbessert das Brandverhalten, während REPAIR lokale Wiederherstellung ohne Abschaltung des gesamten Lagers ermöglicht.",
+      "systems": "CHEM"
+    },
+    "block7": {
+      "tag": "TUNNEL & FEUER",
+      "title": "TUNNEL, STRECKEN & FLUCHTWEGE",
+      "problem": "In Tunneln und unterirdischen Strecken können Feuer, Rauch und tropfendes Wasser die Konstruktion schnell gefährden. Organische Beschichtungen setzen beim Brennen Rauch und toxische Gase frei.",
+      "solution": "GEONYX THERM bietet nicht brennbare, mineralische Beschichtungen mit Klasse A1, beständig gegen Thermoshock. HYDRO und ARMOR werden für Wasser- und Verkehrskontrolle kombiniert, während REPAIR stufenweise Sanierung ermöglicht.",
+      "systems": "THERM"
+    },
+    "block8": {
+      "tag": "SCHWERER SCHUTZ",
+      "title": "SCHUTZANLAGEN & KRITISCHE INFRASTRUKTUR",
+      "problem": "Schutzanlagen müssen Schlag, Vibrationen und Feuer standhalten, ohne Tragfähigkeit zu verlieren. Gerissene und schlecht geschützte Oberflächen reduzieren das Schutzniveau.",
+      "solution": "GEONYX ARMOR + THERM bieten hochfeste, nicht brennbare Systeme für Böden und Wände. CHEM und HYDRO werden je nach Umgebung ergänzt, während REPAIR die Verstärkung und Lebensverlängerung bestehender Anlagen ermöglicht.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "colParam": "PARAMETER",
+    "colStd": "Standardbeton + Farbe",
+    "colEpoxy": "Epoxid-/PU-Beschichtungen",
+    "row1": "Brandbeständigkeit (Klasse)",
+    "row2": "Beständigkeit gegen Kraftstoffe & Chemikalien",
+    "row3": "Mechanische Festigkeit & Abrasion",
+    "row4": "Verhalten bei Thermoshock",
+    "row5": "Lebenszyklus im 24/7-Betrieb",
+    "row6": "Reparaturzeit / Ausfallzeit",
+    "row7": "Gesamtlebenszykluskosten",
+    "val1geonyx": "A1, Mineralmatrix, nicht brennbar",
+    "val1std": "Abhängig von der Farbe, oft organisch",
+    "val1epoxy": "Organische Harze, Rauch und toxische Gase",
+    "val2geonyx": "Hoch (CHEM-Konfiguration)",
+    "val2std": "Niedrig – Beton und Farbe degradieren",
+    "val2epoxy": "Mittel – empfindlich gegen Lösungsmittel und Säuren",
+    "val3geonyx": "Hoch – ARMOR für Schwerlastverkehr und Schlag",
+    "val3std": "Mittel – schneller Verschleiß",
+    "val3epoxy": "Mittel – Beschichtung verschleißt, Beton bleibt ungeschützt",
+    "val4geonyx": "Stabil – THERM-Systeme",
+    "val4std": "Rissbildung und Abblättern",
+    "val4epoxy": "Blasenbildung und Ablösung",
+    "val5geonyx": "Lang, mit lokalem REPAIR",
+    "val5std": "Kurz bis mittel, häufige Reparaturen",
+    "val5epoxy": "Mittel, periodische Neubeläge erforderlich",
+    "val6geonyx": "Phasenweise Reparatur, kurze Fenster",
+    "val6std": "Lange Zonenstillstände",
+    "val6epoxy": "Erhebliche Ausfallzeiten für Neubeläge",
+    "val7geonyx": "Niedriger über 10–15 Jahre",
+    "val7std": "Niedrige Erstkosten, hohe Langzeitkosten",
+    "val7epoxy": "Mittel, mit hohen Risikokosten bei Vorfall"
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "WO ES EINGESETZT WIRD",
+    "subtitle": "GEONYX-Systeme decken das gesamte Spektrum ab – von Kraftwerken und Bergwerken bis zu Kraftstofflagern und Schutzanlagen.",
+    "a1title": "Kraftwerke & Kombikraftwerke",
+    "a1desc": "Kesselräume, Turbinenhallen, Aschezonen und Maschinenräume.",
+    "a2title": "Umspannwerke & Transformatorfelder",
+    "a2desc": "Transformatorwannen, Ölsümpfe und Serviceplattformen.",
+    "a3title": "Batterieparks (BESS) & USV",
+    "a3desc": "Hallen mit Batterien, Wechselrichtern und elektronischer Ausrüstung.",
+    "a4title": "Bergwerke & Bergbaurampen",
+    "a4desc": "Bodenbeläge, Rampen, Servicebereiche und Arbeitsplattformen.",
+    "a5title": "Aufbereitungsanlagen",
+    "a5desc": "Pulpwannen, Kanäle, Geräteplattten und chemische Bereiche.",
+    "a6title": "Kraftstoff- & Chemikalienlager",
+    "a6desc": "Tankwagenrampen, Tankplattformen und Notauffangwannen.",
+    "a7title": "Tunnel & unterirdische Strecken",
+    "a7desc": "Straßentunnel, Bergbaustrecken und Fluchtwege.",
+    "a8title": "Schutzanlagen & kritische Infrastruktur",
+    "a8desc": "Kontrollräume, Schutzräume und Spezialhallen."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "GEONYX SYSTEMAUSWAHL",
+    "subtitle": "Für jede Energie-, Bergbau- oder Schutzanlage kombiniert GEONYX ARMOR, CHEM, THERM, HYDRO und REPAIR entsprechend dem primären Risiko – Feuer, Chemie, Verkehr, Wasser oder Verstärkungsbedarf.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Hochfeste Boden- und Konstruktionssysteme für schwere Maschinen, Vibrationen und Schlagbelastungen.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Mineralische Lösungen mit hoher Beständigkeit gegen Kraftstoffe, Öle, Säuren, Laugen und Reagenzien in Energie und Bergbau.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Nicht brennbare Systeme mit Klasse A1, ausgelegt für Funken, Thermoshock und hohe Temperaturen.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Schutzsysteme gegen Wasser, Kondensation und aggressive Fluide in Kanälen, Wannen und unterirdischen Abschnitten.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Schnelle Geopolymerlösungen für Reparatur, Verstärkung und Lebensverlängerung bestehender Konstruktionen."
+  },
+  "workflow": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "w1step": "01",
+    "w1title": "Risiko- & Technischer Audit",
+    "w1desc": "Identifizierung von Brand-, chemischen, mechanischen und hydraulischen Risiken je Zone.",
+    "w2step": "02",
+    "w2title": "Standortzonierung",
+    "w2desc": "Trennung von Kesselräumen, Umspannwerken, Bergbauabschnitten, Lagern und Tunneln nach Lasttyp.",
+    "w3step": "03",
+    "w3title": "GEONYX-Systementwurf",
+    "w3desc": "Auswahl von ARMOR / CHEM / THERM / HYDRO / REPAIR, detaillierte Lösungen für Fugen, Kanten und Wannen.",
+    "w4step": "04",
+    "w4title": "Untergrundvorbereitung",
+    "w4desc": "Entfernung alter Beschichtungen, Rissverpressung, Verstärkung bei Bedarf und Schutz angrenzender Systeme.",
+    "w5step": "05",
+    "w5title": "Aufbringung nach Betriebsplan",
+    "w5desc": "Phasenweise Ausführung im Einklang mit dem Produktionsregime – Kampagnen, Notfenster, Nachtschichten.",
+    "w6step": "06",
+    "w6title": "Tests & Inbetriebnahme",
+    "w6desc": "Überprüfung von Haftung, Oberflächeneigenschaften und Brandverhalten; Wartungsanweisungen und künftige REPAIR-Eingriffe."
+  },
+  "offer": {
+    "eyebrow": "KAUFMÄNNISCHE DOKUMENTATION",
+    "title": "ANGEBOTSPAKET",
+    "subtitle": "(B2B / B2G)",
+    "description": "Für Energie-, Bergbau- und Schutzanlagen erstellt GEONYX Dokumentation für Investor, Überwachung, Banken, Versicherer und Aufsichtsbehörden.",
+    "qualityLabel": "QUALITÄTSGARANTIE",
+    "qualityDesc": "Alle Dokumente entsprechen den aktuellen Eurocodes und Standards.",
+    "doc1": "Risikoprofil je Zone – Feuer, Chemie, Mechanik, Wasser",
+    "doc2": "Technische Spezifikationen für ARMOR / CHEM / THERM / HYDRO / REPAIR",
+    "doc3": "Detailzeichnungen von Wannen, Fugen, Kanten und Auslaufzonen",
+    "doc4": "Konformität mit Brand- und Industriestandards (Klasse A1 etc.)",
+    "doc5": "Empfohlener phasenweiser Ausführungsplan ohne Abschaltung der gesamten Anlage",
+    "doc6": "Garantiebedingungen und Plan für Inspektionen und REPAIR-Eingriffe",
+    "copyBtn": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copiedBtn": "TEXT KOPIERT!"
+  },
+  "docs": {
+    "title": "Dokumentation",
+    "d1title": "Power & Heat Plants",
+    "d1sub": "GEONYX-Systeme (PDF)",
+    "d2title": "Substations & BESS",
+    "d2sub": "Bodenlösungen (PDF)",
+    "d3title": "Mining Structures",
+    "d3sub": "Mineralbeläge (PDF)",
+    "d4title": "High-Risk Protection",
+    "d4sub": "Tunnelsysteme (PDF)"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "q1title": "BENÖTIGEN WIR EINEN VOLLSTÄNDIGEN ANLAGENSTILLSTAND WÄHREND DER AUSFÜHRUNG?",
+    "q1answer": "Nicht unbedingt. In den meisten Fällen arbeiten wir in Phasen – Block für Block, Strecke für Strecke oder Feld für Feld, mit auf Produktion und Sicherheit abgestimmten Fenstern.",
+    "q2title": "KÖNNEN GEONYX-SYSTEME BRANDKLASSE A1 ERREICHEN UND IN UNSERE BRANDSZENARIEN INTEGRIERT WERDEN?",
+    "q2answer": "Ja. THERM- und ARMOR-Lösungen sind mineralisch und nicht brennbar, mit Klasse A1 für die relevanten Schichten. Wir stellen die für Brandszenarien und -bewertungen benötigten Daten bereit.",
+    "q3title": "WAS PASSIERT BEI EINEM SCHWEREN KRAFT- ODER CHEMIKALIENAUSTRITT AUF DEM BELAG?",
+    "q3answer": "CHEM + HYDRO-Konfigurationen begrenzen das Eindringen in Konstruktion und Boden. Die Oberfläche wird abgewaschen und bei Bedarf wird eine lokale REPAIR-Maßnahme durchgeführt, ohne das gesamte System zu ersetzen."
+  },
+  "cta": {
+    "title": "UMFASSENDE STANDORTZONIERUNG",
+    "description": "Jede Anlage hat spezifische Risiken. Wir integrieren 6 spezialisierte Matrizen in ein System: von Mechanik, Chemie und Thermoshock bis zu Abdichtung, Antistatik und Architektur. Eine Technologie, die 100% Abdeckung der Anforderungen und vollständige Kompatibilität garantiert.",
+    "btn": "ALLE INGENIEURSYSTEME ANSEHEN"
+  }
+}

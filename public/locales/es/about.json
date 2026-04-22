@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Sobre GEONYX | Empresa de Ingeniería Geopolíméra",
+    "description": "GEONYX GROUP LTD – una empresa de ingeniería búlgara que desarrolla matrices geopolímeras de alta tecnología para infraestructura industrial e instalaciones críticas."
+  },
+  "hero": {
+    "eyebrow": "SOBRE LA EMPRESA",
+    "title": "SOMOS GEONYX.",
+    "titleHighlight": "INGENIEROS DE LA MATERIA.",
+    "description": "Pioneros en el desarrollo e implementación de matrices geopoliméricas de alta tecnología. No somos simples proveedores de materiales de construcción. Somos una empresa tecnológica que redefine el ciclo de vida de la infraestructura industrial."
+  },
+  "philosophy": {
+    "badge": "FILOSOFÍA",
+    "eyebrow": "CAMBIO DE PARADIGMA",
+    "title": "EL FIN DE LA OBSOLESCENCIA PROGRAMADA",
+    "body1": "La industria evoluciona, pero la infraestructura se queda atrás. El hormigón estándar es una tecnología del siglo XIX, y las resinas epoxi son compromisos petroquímicos de corta vida útil. Nuestra misión es acabar con el ciclo de reparaciones constantes (Downtime).",
+    "body2": "Al crear matrices inorgánicas, transformamos el eslabón más vulnerable de su planta — el suelo — en su activo constructivo más duradero. Diseñamos para un ciclo operativo de 50 años."
+  },
+  "rd": {
+    "badge": "LABORATORIO R&D",
+    "eyebrow": "I+D Y SÍNTESIS",
+    "title": "PRECISIÓN DE LABORATORIO E INNOVACIÓN",
+    "body1": "La fortaleza de GEONYX reside en nuestra actividad de investigación y desarrollo. No mezclamos resinas comerciales prefabricadas. Sintetizamos nuestras propias redes cristalinas geopoliméricas a nivel molecular.",
+    "body2": "Cada fórmula pasa por pruebas de estrés implacables de estabilidad termodinámica, inercia química y resistencia a la compresión, verificadas por laboratorios europeos independientes e institutos de ensayo de materiales."
+  },
+  "liability": {
+    "badge": "RESPONSABILIDAD",
+    "eyebrow": "RESPONSABILIDAD ÚNICA",
+    "title": "UNA GARANTÍA. CERO TRANSFERENCIA DE RESPONSABILIDAD.",
+    "body1": "En la construcción, el mayor riesgo es la responsabilidad dividida — el fabricante culpa al contratista, y el contratista culpa al hormigón. GEONYX cierra el ciclo.",
+    "body2": "Fabricamos la tecnología, realizamos la auditoría estructural del emplazamiento y certificamos la ejecución. Usted obtiene un único socio, una garantía sin compromisos y seguridad jurídica absoluta."
+  },
+  "qaqc": {
+    "badge": "QA / QC",
+    "eyebrow": "IMPLEMENTACIÓN QA/QC",
+    "title": "TÉCNICOS CERTIFICADOS Y PROTOCOLOS",
+    "body1": "Trabajar con matrices minerales de alta tecnología requiere disciplina clínica, no trabajadores generales. Nuestros equipos de implementación (Certified Application Technicians) operan bajo estrictos protocolos de ingeniería (Method Statements).",
+    "body2": "Desde la monitorización del punto de rocío (Dew Point) hasta el control en tiempo real de la reacción exotérmica. Garantizamos un tiempo de inactividad mínimo de su producción mediante el cumplimiento estricto de las franjas horarias (time-slots) establecidas."
+  },
+  "esg": {
+    "badge": "PREPARACIÓN ESG",
+    "eyebrow": "ESG Y ECONOMÍA CIRCULAR",
+    "title": "UN FUTURO BAJO EN CARBONO (LOW CARBON)",
+    "body1": "La responsabilidad corporativa exige una reducción radical de la huella de carbono. A diferencia de la producción intensiva en energía del cemento Portland y la petroquímica tóxica de los epoxis, las tecnologías de GEONYX ahorran hasta un 80 % de emisiones de CO2.",
+    "body2": "Nuestros sistemas son 100 % libres de disolventes (VOC-Free) y contribuyen directamente a cumplir los criterios de certificación LEED y BREEAM de sus edificios sostenibles."
+  },
+  "certs": {
+    "eyebrow": "POLÍTICA CORPORATIVA",
+    "title": "ESTÁNDARES OFICIALES DE CONFIANZA",
+    "c1title": "ISO 9001:2015",
+    "c1sub": "Quality Management",
+    "c1body": "Quality Management System (QMS). Sujeto a auditorías independientes continuas.",
+    "c2title": "ISO 14001:2015",
+    "c2sub": "Environmental Mgmt",
+    "c2body": "Gestión medioambiental. Residuo cero a vertederos y control de emisiones.",
+    "c3title": "ISO 45001:2018",
+    "c3sub": "Health & Safety",
+    "c3body": "Occupational Health & Safety. Protección institucionalizada de la salud en el trabajo.",
+    "c4title": "REACH & VOC",
+    "c4sub": "Chemical Compliance",
+    "c4body": "Plena conformidad con las directivas de la UE sobre seguridad química e higiene."
+  },
+  "cta": {
+    "title": "CONFÍE EN LA CIENCIA.",
+    "body": "Póngase en contacto con nuestro equipo de ingeniería para obtener experiencia técnica, análisis cuantitativo y una auditoría estructural de su emplazamiento.",
+    "btn": "CONTÁCTENOS"
+  }
+}

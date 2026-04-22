@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "GEONYX | Kariyer ve Gelişim – Endüstriyel Üretimde Çalışma",
+    "description": "GEONYX'te kariyer fırsatları – altyapı için endüstriyel zemin ve mineral sistemler alanında mühendisler, teknik uzmanlar ve üretim personeli için pozisyonlar. Uzun vadeli mesleki gelişim, eğitim ve stratejik endüstriyel projelere katılım."
+  },
+  "hero": {
+    "eyebrow": "ELİTİN BİR PARÇASI OLUN",
+    "titleLine1": "ÇALIŞAN ARAMIYORUZ.",
+    "titleLine2": "KARAKTER",
+    "titleHighlight": "ARIYORUZ",
+    "description1": "GEONYX, bir inşaat şirketi kılığına bürünmüş bir teknoloji şirketidir. Burada mala ve kürek bulamazsınız. Biz lazer sistemleri, tabletler ve kimyasal maddelerle çalışıyoruz.",
+    "description2": "Sizi",
+    "academyName": "Jeopolimer Akademimiz",
+    "description3": "aracılığıyla geliştiriyoruz; çünkü kimse her şeyi bilerek doğmuyor. Çıraktan baş teknologa uzanan yol çizilmiş ve yalnızca sonuçlarınıza bağlı. Torpil yok, sadece metrik.",
+    "btnPositions": "POZİSYONLARI GÖR"
+  },
+  "positions": {
+    "sales": {
+      "sector": "Satış",
+      "eyebrow": "TİCARİ GÜÇ",
+      "title": "TEKNİK SATIŞ TEMSİLCİSİ",
+      "description": "Siz broşür satıcısı değilsiniz. Göreviniz en zorlu koşullara girmek, sorunu tespit etmek ve bizzat pilot test (Demo Application) yapmaktır. Güce dayalı demonstrasyon ile satış yaparsınız, tatlı sözlerle değil.",
+      "req1": "Yoğun seyahate hazırlıklı olmak",
+      "req2": "Teknik okuryazarlık",
+      "req3": "'Ellerini kirletme' isteği"
+    },
+    "production": {
+      "sector": "Üretim",
+      "eyebrow": "ÜRETİMİN KALBİ",
+      "title": "ÜRETİM VE KALİTE KONTROL OPERATÖRÜ",
+      "description": "GEONYX mutfağını siz yönetirsiniz. Sihir burada doğar. Dozaj sistemleri ve mikserler kullanarak hammaddelerin mükemmel ürüne dönüşmesinden sorumlusunuz. 'Göze bakarak' için yer yok – her şey grama kadar hassas.",
+      "req1": "Demir disiplin",
+      "req2": "Ayrıntılara önem verme",
+      "req3": "Fiziksel dayanıklılık"
+    },
+    "rnd": {
+      "sector": "İnovasyon",
+      "eyebrow": "İNOVASYON MERKEZİ",
+      "title": "Ar-Ge MÜHENDİSİ – İNOVASYON",
+      "description": "GEONYX yerinde saymaz. Mevcut formülleri optimize edecek ve yeni ürünler geliştirecek bir vizyoner arıyoruz. Siz 'bu daha iyi yapılabilir' diyen ve bunu laboratuvarda kanıtlayan kişisiniz.",
+      "req1": "Kimya/yapı malzemeleri bilgisi",
+      "req2": "Analitik düşünme",
+      "req3": "Deneyci ruh"
+    },
+    "requirementsLabel": "GEREKSİNİMLER:",
+    "applyBtn": "ŞIMDI BAŞVUR"
+  },
+  "form": {
+    "title": "HAZIR MISINIZ?",
+    "subtitle": "Yukarıdaki satırlarda kendinizi tanıdıysanız harekete geçin.",
+    "successTitle": "BAŞVURU ALINDI!",
+    "successDesc": "Teşekkürler! Lütfen CV'nizi",
+    "successEmail": "office@geonyxgroup.com",
+    "successDesc2": "adresine göndererek süreci tamamlayın.",
+    "successNewBtn": "Yeni gönder",
+    "labelPosition": "POZİSYON SEÇ *",
+    "placeholderPosition": "-- Lütfen Seçin --",
+    "labelName": "AD SOYAD *",
+    "placeholderName": "Ahmet Yılmaz",
+    "labelPhone": "TELEFON *",
+    "placeholderPhone": "+90 ...",
+    "labelEmail": "E-POSTA *",
+    "placeholderEmail": "ad@posta.com",
+    "labelExperience": "Deneyiminiz GEONYX'i nasıl güçlendirecek? *",
+    "placeholderExperience": "Somut olun. Şablon kullanmayın.",
+    "cvLabel": "CV EKLE",
+    "cvDesc": "CV'nizi doğrudan şu adrese gönderin:",
+    "cvSubject": "\"Başvuru — [Adınız]\"",
+    "cvSubjectLabel": "konu:",
+    "btnSubmitting": "GÖNDERİLİYOR...",
+    "btnSubmit": "BAŞVURU GÖNDER",
+    "errorGeneral": "Gönderim sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "errorFileSize": "Dosya gönderme için çok büyük.",
+    "errorLimit": "Gönderim limiti aşıldı. Lütfen bizimle doğrudan iletişime geçin.",
+    "errorUnexpected": "Beklenmedik bir hata oluştu. Lütfen alanları kontrol edin.",
+    "positionSales": "SATIŞ",
+    "positionProduction": "ÜRETİM",
+    "positionRnd": "Ar-Ge TEKNOLOG"
+  }
+}

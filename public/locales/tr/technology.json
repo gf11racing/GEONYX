@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "GEONYX Teknoloji | Jeopolimer Matris Mühendisliği",
+    "description": "GEONYX'in arkasındaki bilim – dayanıklılık, kimyasal direnç ve mekanik mukavemet açısından geleneksel betonu geçen alkali aktive jeopolimer matrisler."
+  },
+  "hero": {
+    "eyebrow": "GEONYX'İN BİLİMİ",
+    "title": "JEOPOLİMER: YIKULMAZ ZEMİNLERİN BİLİMİ.",
+    "description": "Sadece beton dökmüyoruz. Gelişmiş inorganik polimerizasyon yoluyla yapay taş yaratıyoruz."
+  },
+  "intro": {
+    "title": "NEDEN JEOPOLİMER?",
+    "body": "GEONYX, gelişmiş inorganik polimer kimyası kullanır. Hidrasyona dayanan Portland çimentosunun aksine, bağlarımız alüminosilikatların polikondensasyonu yoluyla oluşur. Sonuç, olağanüstü kimyasal direnci, daha hızlı sertleşmesi ve önemli ölçüde daha düşük karbon ayak izi olan bir zemindir."
+  },
+  "crossSection": {
+    "eyebrow": "AR SCANNER",
+    "title": "SİSTEM X-RAY",
+    "note": "[KATMANLARI İNCELEMEK İÇİN ÜZERINE GELİN]",
+    "layer4name": "TOP COAT: SEALER",
+    "layer4desc": "UV kararlı, kimyasal dirençli sızdırmazlık katmanı. Kaymaz sınıf R13.",
+    "layer3name": "BODY COAT: GEOPOLYMER",
+    "layer3desc": "Birincil taşıyıcı matris. Modifiye kuvars ve inorganik polimer. Dayanım > 90 MPa.",
+    "layer2name": "PRIMER: BONDING AGENT",
+    "layer2desc": "Derin nüfuz eden astar. Altlıkla moleküler bağ (Chemical Weld) oluşturur.",
+    "layer1name": "SUBSTRATE: CONCRETE",
+    "layer1desc": "Betonarme altlık (minimum C20/25). Kumlama ile temizlenmiş."
+  },
+  "chemistry": {
+    "eyebrow": "KİMYA",
+    "badge": "Mikro Yapı",
+    "title": "HİDRASYON YERİNE POLİKONDENSASYON",
+    "body": "Beton bir sünger gibidir – buharlaşan sudan oluşan kılcal borularla dolu. GEONYX farklıdır.",
+    "card1title": "Yoğun yapı",
+    "card1body": "Kimyasal reaksiyon suyu dışarı atarak yoğun, gözeneksiz bir 3D kafes oluşturur.",
+    "card2title": "Mineral köken",
+    "card2body": "Petrol ürünleri (epoksi gibi) kullanmıyoruz. GEONYX %100 mineral \"yapay taş\"tır."
+  },
+  "speed": {
+    "eyebrow": "HIZ VE VERİMLİLİK",
+    "badge": "Hızlı Polimerizasyon",
+    "title": "ZAMAN PARADUR.",
+    "titleHighlight": "LAFZİ OLARAK.",
+    "body": "Endüstri betonun kuruması için 28 gün bekleyemez. Teknolojimiz son derece hızlı devreye almayı mümkün kılar.",
+    "stat1value": "4–6 SAAT",
+    "stat1label": "Priz süresi",
+    "stat2value": "24 SAAT",
+    "stat2label": "Tam yük kapasitesi",
+    "note": "Üretim kesintisi yok"
+  },
+  "resistance": {
+    "eyebrow": "AŞIRI DAYANIM",
+    "badge": "Asit & Yangın",
+    "title": "SALDIRIYA VE YANGINA KARŞI BAĞIŞIKLIK",
+    "body": "Standart zeminler asitler ve yangınlar karşısında dayanamaz. GEONYX hayatta kalmak için tasarlanmıştır.",
+    "item1title": "Yangın dayanımı (Sınıf A1)",
+    "item1body": "Yanan ve duman çıkaran epoksilerden farklı olarak GEONYX mineral yapısıyla 1000°C'ye kadar yanmaz.",
+    "item2title": "Kimyasal kalkan",
+    "item2body": "Konsantre asitlere, tuzlara, sülfatlara ve makine yağlarına tam direnç."
+  },
+  "eco": {
+    "statPrefix": "%80 DAHA DÜŞÜK",
+    "statHighlight": "KARBON AYAK İZİ",
+    "body": "Endüstriyel yan ürünler kullanıyor, çimento gibi enerji yoğun fırın pişirimi gerektirmiyoruz. GEONYX'i seçmek geleceği seçmektir."
+  },
+  "comparison": {
+    "title": "FINAL ARGÜMAN",
+    "col1": "Özellik",
+    "col2": "Sıradan Beton",
+    "col3": "Epoksi (Reçine)",
+    "col4": "GEONYX (Jeopolimer)",
+    "row1": "Devreye alma süresi",
+    "row1v2": "28 Gün (Yavaş)",
+    "row1v3": "3–7 Gün",
+    "row1v4": "24 Saat (Ekspres)",
+    "row2": "Bağ türü",
+    "row2v2": "Mekanik (Zayıf)",
+    "row2v3": "Yapıştırıcı (Yüzeysel)",
+    "row2v4": "Kimyasal (Monolit)",
+    "row3": "Yangın dayanımı",
+    "row3v2": "Sınıf A1",
+    "row3v3": "Yanar (Toksik)",
+    "row3v4": "Yanmaz (Sınıf A1)",
+    "row4": "Asitler ve yağlar",
+    "row4v2": "Emer ve çöker",
+    "row4v3": "Yumuşar / Lekelenır",
+    "row4v4": "Tam Direnç",
+    "row5": "Aşınma dayanımı",
+    "row5v2": "Toz çıkarır",
+    "row5v3": "Kolayca çizilir",
+    "row5v4": "Aşırı (Tozsuz)",
+    "row6": "CO₂ Emisyonları",
+    "row6v2": "Yüksek (%100)",
+    "row6v3": "Çok yüksek (Petrol)",
+    "row6v4": "-%80 (Yeşil ürün)"
+  },
+  "cta": {
+    "title": "BİLİM SİZİN TARAFINIZDA.",
+    "body": "Teknik danışmanlık için mühendislik ekibimizle iletişime geçin.",
+    "btn": "BİZİMLE İLETİŞİME GEÇİN"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "GEONYX Technologie | Geopolymermatrix-Engineering",
+    "description": "Die Wissenschaft hinter GEONYX – alkaliaktivierte Geopolymermatrizen, die herkömmlichen Beton in Haltbarkeit, chemischer Beständigkeit und mechanischer Festigkeit übertreffen."
+  },
+  "hero": {
+    "eyebrow": "DIE WISSENSCHAFT VON GEONYX",
+    "title": "GEOPOLYMER: DIE WISSENSCHAFT DES UNZERSTÖRBAREN BODENS.",
+    "description": "Wir gießen nicht einfach Beton. Wir erschaffen Kunststein durch fortschrittliche anorganische Polymerisation."
+  },
+  "intro": {
+    "title": "WARUM GEOPOLYMER?",
+    "body": "GEONYX nutzt fortschrittliche anorganische Polymerchemie. Im Gegensatz zu Portlandzement, der auf Hydratation basiert, entstehen unsere Bindungen durch Polykondensation von Aluminosilikaten. Das Ergebnis ist ein Boden mit außergewöhnlicher chemischer Beständigkeit, schnellerer Aushärtung und einem deutlich geringeren CO₂-Fußabdruck."
+  },
+  "crossSection": {
+    "eyebrow": "AR SCANNER",
+    "title": "SYSTEM-RÖNTGENAUFNAHME",
+    "note": "[MAUS DRÜBERHALTEN ZUM INSPIZIEREN]",
+    "layer4name": "TOP COAT: SEALER",
+    "layer4desc": "UV-stabiler, chemisch beständiger Versiegelungsschicht. Rutschhemmklasse R13.",
+    "layer3name": "BODY COAT: GEOPOLYMER",
+    "layer3desc": "Primäre tragende Matrix. Modifizierter Quarz und anorganisches Polymer. Festigkeit > 90 MPa.",
+    "layer2name": "PRIMER: BONDING AGENT",
+    "layer2desc": "Tiefenpenetrierender Primer. Erzeugt eine molekulare Verbindung (Chemical Weld) mit dem Untergrund.",
+    "layer1name": "SUBSTRATE: CONCRETE",
+    "layer1desc": "Stahlbetonuntergrund (mindestens C20/25). Kugelgestrahlt und gereinigt."
+  },
+  "chemistry": {
+    "eyebrow": "DIE CHEMIE",
+    "badge": "Mikrostruktur",
+    "title": "POLYKONDENSATION STATT HYDRATATION",
+    "body": "Beton ist wie ein Schwamm – voller Kapillare des verdunsteten Wassers. GEONYX ist anders.",
+    "card1title": "Dichte Struktur",
+    "card1body": "Die chemische Reaktion treibt Wasser aus und erzeugt ein dichtes, nicht-poröses 3D-Gitter.",
+    "card2title": "Mineralischer Ursprung",
+    "card2body": "Wir verwenden keine Erdölprodukte (wie Epoxide). GEONYX ist 100% mineralischer \"Kunststein\"."
+  },
+  "speed": {
+    "eyebrow": "GESCHWINDIGKEIT UND EFFIZIENZ",
+    "badge": "Schnelle Polymerisation",
+    "title": "ZEIT IST GELD.",
+    "titleHighlight": "BUCHSTÄBLICH.",
+    "body": "Die Industrie kann nicht 28 Tage warten, bis Beton aushärtet. Unsere Technologie ermöglicht extrem schnelle Inbetriebnahme.",
+    "stat1value": "4–6 STUNDEN",
+    "stat1label": "Abbindezeit",
+    "stat2value": "24 STUNDEN",
+    "stat2label": "Volle Belastbarkeit",
+    "note": "Keine Produktionsunterbrechung"
+  },
+  "resistance": {
+    "eyebrow": "EXTREME BESTÄNDIGKEIT",
+    "badge": "Säure & Feuer",
+    "title": "IMMUNITÄT GEGEN ANGRIFFE UND FEUER",
+    "body": "Standardböden geben vor Säuren und Bränden nach. GEONYX ist darauf ausgelegt, zu überleben.",
+    "item1title": "Feuerwiderstand (Klasse A1)",
+    "item1body": "Im Gegensatz zu Epoxiden, die brennen und Rauch erzeugen, ist GEONYX mineralisch und bis 1000°C nicht brennbar.",
+    "item2title": "Chemischer Schutzschild",
+    "item2body": "Volle Beständigkeit gegen konzentrierte Säuren, Salze, Sulfate und Maschinenöle."
+  },
+  "eco": {
+    "statPrefix": "80% NIEDRIGERER",
+    "statHighlight": "CO₂-FUSSABDRUCK",
+    "body": "Wir verwenden industrielle Nebenprodukte und benötigen kein energieintensives Brennen wie Zement. Wer GEONYX wählt, wählt die Zukunft."
+  },
+  "comparison": {
+    "title": "DAS FINALE ARGUMENT",
+    "col1": "Eigenschaft",
+    "col2": "Gewöhnlicher Beton",
+    "col3": "Epoxid (Harz)",
+    "col4": "GEONYX (Geopolymer)",
+    "row1": "Inbetriebnahmezeit",
+    "row1v2": "28 Tage (Langsam)",
+    "row1v3": "3–7 Tage",
+    "row1v4": "24 Stunden (Express)",
+    "row2": "Bindungstyp",
+    "row2v2": "Mechanisch (Schwach)",
+    "row2v3": "Kleber (Oberflächlich)",
+    "row2v4": "Chemisch (Monolith)",
+    "row3": "Feuerwiderstand",
+    "row3v2": "Klasse A1",
+    "row3v3": "Brennt (Toxisch)",
+    "row3v4": "Nicht brennbar (Klasse A1)",
+    "row4": "Säuren und Öle",
+    "row4v2": "Saugt auf und bröckelt",
+    "row4v3": "Weicht auf / Fleckenbildung",
+    "row4v4": "Volle Beständigkeit",
+    "row5": "Abriebfestigkeit",
+    "row5v2": "Staubt",
+    "row5v3": "Verkratzt leicht",
+    "row5v4": "Extrem (Staubfrei)",
+    "row6": "CO₂-Emissionen",
+    "row6v2": "Hoch (100%)",
+    "row6v3": "Sehr hoch (Erdöl)",
+    "row6v4": "-80% (Grünes Produkt)"
+  },
+  "cta": {
+    "title": "DIE WISSENSCHAFT IST AUF IHRER SEITE.",
+    "body": "Kontaktieren Sie unser Ingenieurteam für eine technische Beratung.",
+    "btn": "KONTAKTIEREN SIE UNS"
+  }
+}

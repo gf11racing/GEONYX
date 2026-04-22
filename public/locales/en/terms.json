@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Terms and Conditions | GEONYX GROUP",
+    "description": "General terms and conditions of GEONYX GROUP LTD for use of the website and provision of engineering services."
+  },
+  "header": {
+    "eyebrow": "LEGAL PROTOCOL 08",
+    "title": "GENERAL TERMS AND WARRANTIES",
+    "subtitle": "REGULATIONS FOR EXECUTION, QUALITY AND LIABILITY."
+  },
+  "block1": {
+    "title": "FINANCIAL FRAMEWORK AND OWNERSHIP",
+    "validity_label": "Validity:",
+    "validity": "Quotations are valid for 30 calendar days. After this period they are subject to recalculation based on current chemical commodity prices.",
+    "payment_label": "Payment scheme:",
+    "payment": "50% Advance (Start) / 40% Material delivery / 10% Acceptance.",
+    "retention_label": "Retention of title:",
+    "retention": "The applied flooring and incorporated materials remain the property of \"GEONYX GROUP\" Ltd. until 100% of the outstanding sum has been paid. In the event of non-payment, the Contractor retains the right to dismantle or chemically remove the system."
+  },
+  "block2": {
+    "title": "SUBSTRATE AND LATENT DEFECTS",
+    "critical": "(Critical!)",
+    "note": "Responsibility for the quality of the concrete substrate rests entirely with the Client.",
+    "requirements_label": "Requirements:",
+    "requirements": "Concrete grade minimum C20/25, moisture below 4%, level surface.",
+    "exclusion_title": "Exclusion of liability:",
+    "exclusion_intro": "\"GEONYX GROUP\" Ltd. bears NO liability for defects arising from:",
+    "li1": "Absence of waterproofing and appearance of capillary (rising) moisture from the ground.",
+    "li2": "Structural cracks in the building or foundation settlement.",
+    "li3": "Hidden oil pockets in the depth of the existing concrete."
+  },
+  "block3": {
+    "title": "OPERATIONAL LIMITS",
+    "intro": "The warranty is valid only when the specified operational standards are observed.",
+    "li1_label": "Chemistry and Temperature:",
+    "li1": "The warranty covers only chemicals and temperatures explicitly described in the Technical Specification.",
+    "li2_label": "Mechanical Impact:",
+    "li2": "Damage from falling objects, pallet dragging or unauthorised heavy equipment traffic is not covered under warranty service."
+  },
+  "block4": {
+    "title": "INTELLECTUAL PROPERTY",
+    "body": "All formulations (GEONYX® Formulas), process sheets and application methods are trade secrets and intellectual property of \"GEONYX GROUP\" Ltd. Any attempt at chemical analysis (Reverse Engineering) or copying of the technology will be prosecuted to the full extent of the law."
+  },
+  "block5": {
+    "title": "TIMELINES AND FORCE MAJEURE",
+    "body": "The technological polymerisation time is 24 hours (at 20°C). Entry to the site before this period voids the warranty. Execution timelines are suspended at temperatures below +5°C or air humidity above 80%, to ensure the quality of the reaction."
+  },
+  "footer": {
+    "note": "The accepted general terms form an integral part of the Works Contract. To contact the legal department:"
+  }
+}

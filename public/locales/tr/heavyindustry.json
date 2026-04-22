@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Ağır Sanayi ve Lojistik – Aşırı Mekanik Yükler için Zeminler",
+    "description": "Aşırı mekanik yükler, VNA koridorları, forkliftler, metal talaşlar, yağlar ve sıcak kauçuk için ağır sanayi ve lojistik zeminleri. GEONYX ARMOR ve GEONYX CHEM, uzun servis ömrü, minimum duruş süresi ve düşük toz emisyonu ile mineral endüstriyel zeminler tasarlar."
+  },
+  "tender": {
+    "text": "Zeminler, lojistik merkezlerde ve üretim salonlarındaki aşırı endüstriyel yükler için tasarlanmış GEONYX ARMOR / GEONYX CHEM tipi monolitik mineral sistem olarak uygulanacaktır. Sistem, minimum 20 yıl servis ömrü, aşınmaya, darbeye ve kimyasal saldırılara karşı yüksek direnç, düşük toz emisyonu ve tesisin tamamen kapatılması olmaksızın yerel onarım imkânı sağlamalıdır."
+  },
+  "hero": {
+    "eyebrow": "AĞIR SANAYİ VE LOJİSTİK",
+    "title1": "AĞIR SANAYİ",
+    "title2": "VE LOJİSTİK",
+    "description": "Hiç durmayan salonlar için zeminler ve sistemler – forkliftler, VNA koridorları, paletler, metal talaşlar, yağlar ve ağır köprülü vinçler. GEONYX, 24/7 yük, düşük toz emisyonu ve onarımlarda minimum duruş süresi için mineral endüstriyel zeminler tasarlar.",
+    "btn1": "MÜHENDİSLE PROJE PLANLA",
+    "btn2": "TEKNİK MUAYENE TALEP ET",
+    "scope": "KAPSAM",
+    "zonesLabel": "BÖLGELER:",
+    "zone1": "Lojistik Merkezler",
+    "zone2": "VNA Koridorları",
+    "zone3": "Metal İşleme",
+    "zone4": "Gigafabrikalar",
+    "zone5": "Lastik Üretimi",
+    "zone6": "Ağır Atölyeler",
+    "zone7": "Demiryolu Depoları",
+    "zone8": "Tekstil Fabrikaları",
+    "zone9": "Matbaalar",
+    "zone10": "Veri Merkezleri",
+    "systemsLabel": "SİSTEMLER:",
+    "anchorApplications": "↓ NEREDE KULLANILIR",
+    "anchorSystem": "↓ SİSTEM SEÇİMİ",
+    "anchorOffer": "↓ TEKLİF PAKETİ"
+  },
+  "manifesto": {
+    "title1": "AĞIR SANAYİDE",
+    "title2": "ZEMİNİN HATA PAYI YOKTUR.",
+    "description": "Lojistik üslerinde, fabrikalarda ve depolarda her şey 'salon + makineler + trafik + paletler' ile özetlenir. Her milimetre çökme, toz ya da kırık derz gerçek bir riske dönüşür – hasar görmüş yük, durmuş hat, operatör kazası. GEONYX, yamaları ve boyayı; yapıyla birlikte çalışan – ona karşı savaşmak yerine – mühendislik tasarımlı mineral sistemlerle değiştirir."
+  },
+  "zigzag": {
+    "problem": "SORUN:",
+    "solution": "ÇÖZÜM:",
+    "suitableSystems": "Uygun sistemler:",
+    "block1": {
+      "tag": "Lojistik Merkezler",
+      "title": "VNA KORİDORLARI VE AĞIR TRAFİK",
+      "problem": "Lojistik merkezlerde trafik dar VNA koridorlarında yoğunlaşır. Her milimetre düzensizlik veya ufalanan bir derz; direk titreşimlerine, dengesiz paletlere ve operatör ile yük için riske yol açar.",
+      "solution": "GEONYX ARMOR, zemin alanını kontrollü derzler ve yüksek dinamik yükler için taşıma kapasitesiyle süper düz, monolitik mineral sistem olarak tasarlar. Yüzey, yüksek raflı sistemler için düşük toz emisyonuna ve stabil geometriye sahiptir.",
+      "systems": "ARMOR"
+    },
+    "block2": {
+      "tag": "Metal İşleme",
+      "title": "METAL TALAŞLAR VE YAĞLAR",
+      "problem": "Metal işlemede talaşlar zımpara kâğıdı gibi davranırken, soğutma sıvıları, emülsiyonlar ve hidrolik yağlar betona sızarak onu yumuşatır. Polimer kaplamalar, makinelerin etrafında kesilir, şişer ve soyulur.",
+      "solution": "GEONYX, mekanik direnç için ARMOR'ı ve kimyasal koruma için CHEM'i birleştirir. Mineral matris talaşlar tarafından 'kesilmez', yağlardan yumuşamaz ve CNC makineleri ile ağır torna tezgâhlarının altında hassas seviyeleme imkânı sunar.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "Batarya Gigafabrikaları",
+      "title": "GİGAFABRİKA VE ESD KONTROLÜ",
+      "problem": "Batarya gigafabrikalarında toz, statik elektrik ve elektrolitler kritik risklerdir. Beton tozu hücreleri kirletirken, kontrolsüz ESD hassas bileşenlere zarar verebilir.",
+      "solution": "GEONYX ARMOR, minimum toz emisyonlu monolitik yüzey ve iletken ESD konfigürasyonları seçeneği sunar. CHEM, üretim ve formasyon bölgelerinde elektrolitlerden ve kimyasal dökülmelerden alt zemini korur.",
+      "systems": "CHEM"
+    },
+    "block4": {
+      "tag": "Lastik Üretimi",
+      "title": "İS VE SICAK KAUÇUK",
+      "problem": "Lastik ve kauçuk üretiminde is, yüksek sıcaklık ve plastifiyanların bir kombinasyonu vardır. Standart polimer kaplamalar 'hot tyre pickup'tan muzdarip olur – lastikler yüksek sıcaklıkta kaplamaları 'çeker'.",
+      "solution": "GEONYX ARMOR, kauçuk ve plastifiyanlarla reaksiyona girmeyen inert mineral matris kullanır. Zemin, ısıl döngüler sırasında kararlı, aşınmaya dirençli ve is ve siyah izlerden temizlenmesi kolay kalır.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "Ağır Atölyeler",
+      "title": "AĞIR KAMYON ATÖLYELERİ",
+      "problem": "Kamyon ve inşaat ekipmanı atölyelerinde, kriko, destek ve darbeli aletlerden kaynaklanan yerelleştirilmiş yükler betonu kırar. Yağlar, yakıtlar ve fren sıvıları yüzeyi daha da zayıflatır.",
+      "solution": "GEONYX ARMOR, nokta yükler için taşıyıcı, darbeye dayanıklı zemin tasarlarken CHEM yağ ve kimyasal dökülmelerden korur. REPAIR sistemleri, tüm atölyeyi kapatmadan hızlı yerel onarımlara izin verir.",
+      "systems": "REPAIR"
+    },
+    "block6": {
+      "tag": "Demiryolu Altyapısı",
+      "title": "DEMİRYOLU DEPOLARI VE BAKIM ÜSLERI",
+      "problem": "Demiryolu depolarında ve bakım üslerinde raylar, tekerlek setleri ve ağır bileşenler küçük bir alanda muazzam kuvvetler yoğunlaştırır. Yağlar, gres ve metal parçacıklar beton bozunmasını hızlandırır.",
+      "solution": "GEONYX ARMOR, çukurlar ve raylar etrafındaki bölgeleri darbeye ve kesilmeye dirençli yüksek mukavemetli mineral sistemle güçlendirir. CHEM, alt zeminin yağ ve yakıtların etkisiyle bozunmamasını sağlar.",
+      "systems": "ARMOR"
+    },
+    "block7": {
+      "tag": "Tekstil Fabrikaları",
+      "title": "TEKSTİL VE BOYAHANE BÖLÜMLERI",
+      "problem": "Tekstil fabrikaları ve boyahanelerde boyalar, asitler ve bazlar betonun derinlerine sızar, lekeler oluşturur ve yüzeyi aşındırır. Islak bölgeler, buhar ve nem zemine ek yük bindirir.",
+      "solution": "GEONYX CHEM, boya absorbe etmeyen ve yıkanması kolay yoğun, kimyasal dirençli bir yüzey oluşturur. HYDRO, alt zemini uzun süreli ıslanmadan ve yüzey altı hasardan korur.",
+      "systems": "CHEM"
+    },
+    "block8": {
+      "tag": "Matbaalar",
+      "title": "MATBAALAR VE POLİGRAFİ",
+      "problem": "Matbaa mürekkepleri, çözücüler ve ağır rulo makineleri, aynı anda kimyasal dirençli, antistatik ve çok düşük toz emisyonlu bir zemin gerektirir.",
+      "solution": "GEONYX, süper düz, kararlı bir zemin için ARMOR'ı ve mürekkeplere ve çözücülere direnç için CHEM'i birleştirir. Yüzey temiz, tozsuz ve baskı kalitesi üzerinde etkisiz kalır.",
+      "systems": "CHEM"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "colParam": "PARAMETRE",
+    "colStd": "Standart Endüstriyel Beton",
+    "colEpoxy": "Epoksi Kaplama",
+    "row1": "Servis Ömrü",
+    "row2": "Planlı Duruşlar (10 yıl)",
+    "row3": "Talaş ve Zincire Direnç",
+    "row4": "Toz Emisyonu",
+    "row5": "Toplam TCO (10 yıl)",
+    "val1geonyx": "≥ 20 yıl",
+    "val1std": "5–7 yıl",
+    "val1epoxy": "7–10 yıl",
+    "val2geonyx": "1–2 yerel onarım",
+    "val2std": "Sık yama ve derzler",
+    "val2epoxy": "Tam bölge yenileme",
+    "val3geonyx": "Mineral matris, derin kesik yok",
+    "val3std": "Hızlı pullanma",
+    "val3epoxy": "Yüzey kesikleri ve delaminasyon",
+    "val4geonyx": "Çok düşük",
+    "val4std": "Yüksek",
+    "val4epoxy": "Orta",
+    "val5geonyx": "Optimize edilmiş – en düşük",
+    "val5std": "Yüksek gizli maliyetler",
+    "val5epoxy": "Yüksek başlangıç fiyatı + onarımlar"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "Tüm tipik 'salon + makineler + trafik + paletler' senaryoları – lojistik merkezler ve fabrikalardan demiryolu depolarına ve veri merkezlerine kadar.",
+    "a1title": "Lojistik Merkezler ve 3PL",
+    "a1desc": "VNA koridorları, raf bölgeleri, rampalar ve sürekli forklift trafiğiyle yükleme rıhtımları.",
+    "a2title": "Metal İşleme ve Makine Fabrikaları",
+    "a2desc": "Ağır makineler, talaşlar, soğutucular, yağlar ve dinamik yükler.",
+    "a3title": "Lastik ve Kauçuk Üretimi",
+    "a3desc": "Sıcak kauçuk, is, plastifiyanlar ve yüksek ısıl döngüler.",
+    "a4title": "Ağır Kamyon ve Ekipman Atölyeleri",
+    "a4desc": "Krikolar, destekler, darbe yükleri ve sürekli yağ dökülmeleri.",
+    "a5title": "Demiryolu Depoları ve Bakım Üsleri",
+    "a5desc": "Raylar, tekerlek setleri, ağır bileşenler ve mekanik ile kimyasal yüklerin kombinasyonu.",
+    "a6title": "Tekstil Fabrikaları ve Boyahaneler",
+    "a6desc": "Organik ve inorganik boyalar, nem, buhar ve ıslak işlemler.",
+    "a7title": "Matbaalar ve Poligrafi",
+    "a7desc": "Mürekkepler, çözücüler, ağır makineler ve temiz, tozsuz yüzey gereksinimi.",
+    "a8title": "Veri Merkezleri",
+    "a8desc": "IT rafları ve UPS için yüksek taşıma kapasiteli antistatik, tozsuz zeminler."
+  },
+  "systems": {
+    "eyebrow": "TEKNOLOJİ",
+    "title": "GEONYX SİSTEM SEÇİMİ",
+    "subtitle": "Sistem seçimi, mekanik yük, kimyasal saldırı ve sıcaklık, ESD ve hijyen gereksinimlerinin kombinasyonuna bağlıdır. GEONYX, 'herkese tek kaplama' yerine bölge bazlı çözümler yapılandırır.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Endüstriyel salon zeminleri için birincil taşıyıcı sistem – VNA koridorları, rampalar, raf altı bölgeleri, ağır makineler ve vinçler altı. Aşırı aşınma, darbe ve nokta yükler için tasarlanmıştır.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Yağ, emülsiyon, çözücü, elektrolit ve boya içeren bölgeler için mineral kimyasal dirençli sistem. Metal işleme, boyahane, baskı ve EV üretimi için uygundur.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Isıl tepe noktaları, kıvılcımlar ve yerelleştirilmiş ısınma olan bölgelerde kullanılır – fırınlar, kurutucular, sıcak kauçuk ve ısıl işlemlerin çevresinde.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Salon ve depoların zemin ve yeraltı bölümlerinde neme, kılcal yükselmeye ve endüstriyel sızıntılara karşı alt zemin koruması.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Tüm hattı durdurmadan derzler, çukurlar, kırık kenarlar ve yerel kusurlar için yüksek mukavemetli onarım çözümleri."
+  },
+  "workflow": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "w1step": "01",
+    "w1title": "Yük Tanısı",
+    "w1desc": "Trafik, aks yükleri, kimyasal ortam, sıcaklıklar ve beklenen servis ömrü hakkında veri toplanması.",
+    "w2step": "02",
+    "w2title": "Laboratuvar ve Saha Analizi",
+    "w2desc": "Mevcut beton, nem, çatlaklar ve taşıma kapasitesinin incelenmesi. Kritik bölgelerin belirlenmesi.",
+    "w3step": "03",
+    "w3title": "Mühendislik Sistem Tasarımı",
+    "w3desc": "Derz geometrisi, kalınlıklar, donatı tasarımı ve bölgeye göre ARMOR / CHEM / THERM / HYDRO sistemlerinin seçimi.",
+    "w4step": "04",
+    "w4title": "Pilot Bölge",
+    "w4desc": "Gerçek koşullarda kontrol bölgesinin uygulanması, operasyonel parametrelerin testi ve ekip eğitimi.",
+    "w5step": "05",
+    "w5title": "Ana Uygulama",
+    "w5desc": "Sektör bazlı aşamalama, kalite kontrolü, kabul tutanakları ve duruş süresinin en aza indirilmesi.",
+    "w6step": "06",
+    "w6title": "Denetim, Garanti ve Bakım",
+    "w6desc": "Son mühendislik denetimi, garanti koşulları ve muayeneler ile hızlı REPAIR müdahaleleri için plan."
+  },
+  "offer": {
+    "eyebrow": "TİCARİ DOKÜMANTASYON",
+    "title": "TEKLİF PAKETİ",
+    "subtitle": "(B2B / B2G)",
+    "description": "Yatırımcılar, lojistik merkez operatörleri, endüstriyel parklar ve kamu müşterileri için ihale prosedürlerine ve teknik şartnamelere dahil edilmeye hazır eksiksiz bir belge paketi hazırlarız.",
+    "qualityLabel": "KALİTE GARANTİSİ",
+    "qualityDesc": "Tüm belgeler EN 1504 ve ulusal standartlara uygundur.",
+    "doc1": "Seçilen sistemler için teknik veri sayfaları ve TDS",
+    "doc2": "Statik ve operasyonel yük sınıfları",
+    "doc3": "Derz, rampa ve VNA koridoru detayları",
+    "doc4": "Alt zemin hazırlama önerileri ve REPAIR protokolleri",
+    "doc5": "HSEQ dokümantasyonu ve güvenlik talimatları",
+    "doc6": "Örnek ihale şartname metinleri (B2B / B2G)",
+    "copyBtn": "İHALE METNİNİ KOPYALA",
+    "copiedBtn": "METİN KOPYALANDI!"
+  },
+  "docs": {
+    "title": "Dokümantasyon",
+    "d1title": "GEONYX ARMOR – TDS",
+    "d1sub": "Teknik veri sayfası (PDF)",
+    "d2title": "GEONYX CHEM – TDS",
+    "d2sub": "Kimyasal direnç (PDF)",
+    "d3title": "VNA Floors Guide",
+    "d3sub": "Tasarım kılavuzu (PDF)",
+    "d4title": "Heavy Industry Specs",
+    "d4sub": "Örnek ihale metinleri (PDF)"
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "q1title": "ÇALIŞAN BİR LOJİSTİK MERKEZİNDE ZEMİNİN DEĞİŞTİRİLMESİ İÇİN NE KADAR DURUŞ SÜRESİ GEREKECEKTİR?",
+    "q1answer": "Gece ve hafta sonu müdahaleleriyle sektör bazlı aşamalama tasarlarız. REPAIR ve hızlı dayanım kazanan sistemler sayesinde, genellikle tüm merkezi durdurmadan tam duruşu bireysel bölümlerle sınırlandırırız.",
+    "q2title": "EPOKSİ KAPLAMA YERİNE NEDEN MİNERAL SİSTEM SEÇMELİYİM?",
+    "q2answer": "Epoksi, beton üzerinde boya gibi çalışır – darbe, talaş ve sıcak lastikler altında kesilir ve soyulur. GEONYX, alt zeminle bir bütün haline gelen, aşırı aşınmaya dayanan ve yağ ile sıcaklıktan yumuşamayan mineral bir sistemdir.",
+    "q3title": "AYNI SALONDA FARKLI SİSTEMLERİ KOMBİNE EDEBİLİR MİYİZ?",
+    "q3answer": "Evet. Tipik yaklaşım, ana trafik bölgelerinde ARMOR, makine ve ıslak işlemlerin etrafında CHEM, termal tepe noktalarında THERM ve zemin/yeraltı bölümlerinde HYDRO'dur. Bu, TCO'yu optimize eder ve tüm tesisin ömrünü uzatır."
+  },
+  "cta": {
+    "title": "KAPSAMLI TESİS BÖLGELENDİRMESİ",
+    "description": "Her tesisin kendine özgü riskleri vardır. Mekanikten, kimyadan ve termal şoktan su yalıtımı, antistatik ve mimariye kadar 6 özel matrisi tek bir sistemde entegre ederiz.",
+    "btn": "TÜM MÜHENDİSLİK SİSTEMLERİNİ GÖR"
+  }
+}

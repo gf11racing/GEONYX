@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "Kontakt GEONYX | Ingenieursberatung",
+    "description": "Kontaktieren Sie GEONYX GROUP LTD für technische Beratung, Standortinspektion oder Projektplanung. Sofia, Bulgarien."
+  },
+  "hero": {
+    "eyebrow": "KONTAKT & BÜROS",
+    "title": "NEHMEN SIE",
+    "titleHighlight": "KONTAKT AUF.",
+    "description": "Haben Sie eine industrielle Herausforderung? Wir haben eine technische Lösung.\nVerlieren Sie keine Zeit – unsere Experten sind für Sie da."
+  },
+  "info": {
+    "adminBadge": "Verwaltung",
+    "locationEyebrow": "STANDORT",
+    "hqTitle": "HAUPTBÜRO &\nVERWALTUNG",
+    "addressLine1": "Yuriy-Venelin-Str. 18, Gabrowo",
+    "addressLine2": "2. OG, 5300 Gabrowo, Bulgarien",
+    "hours": "Mo - Fr: 09:00 - 18:00",
+    "hqNote": "FÜR OFFIZIELLE KORRESPONDENZ, PARTNERSCHAFTEN UND DOKUMENTE.",
+    "salesBadge": "Vertriebsabteilung",
+    "supportEyebrow": "SUPPORT",
+    "salesTitle": "VERTRIEBS- &\nTECHNISCHE ABTEILUNG",
+    "coverage": "Nationale Abdeckung",
+    "salesNote": "FÜR ANGEBOTE, OBJEKTBEGEHUNGEN UND TECHNISCHE BERATUNGEN.",
+    "salesNoteHighlight": "UNSERE INGENIEURE SIND LANDESWEIT UNTERWEGS."
+  },
+  "form": {
+    "eyebrow": "Jetzt Handeln",
+    "title": "ANFRAGE SENDEN",
+    "nameLabel": "Vor- und Nachname *",
+    "namePlaceholder": "Max Mustermann",
+    "companyLabel": "Unternehmen / Organisation *",
+    "companyPlaceholder": "Firmenname",
+    "phoneLabel": "Telefon *",
+    "phonePlaceholder": "+49 ...",
+    "emailLabel": "E-Mail *",
+    "emailPlaceholder": "name@firma.de",
+    "sectorLabel": "Branchentyp *",
+    "sectorPlaceholder": "-- Sektor auswählen --",
+    "messageLabel": "Nachricht / Problembeschreibung",
+    "messagePlaceholder": "Beschreiben Sie kurz Ihr Anliegen...",
+    "submitBtn": "ANFRAGE SENDEN",
+    "submittingBtn": "WIRD GESENDET...",
+    "successTitle": "ANFRAGE EINGEGANGEN",
+    "successBody": "Einer unserer Ingenieure wird sich innerhalb von 24 Stunden zur Klärung der Details bei Ihnen melden.",
+    "newInquiry": "Neue Anfrage senden",
+    "sector1": "Schwerindustrie & Logistik",
+    "sector2": "Lebensmittel & Pharmazie",
+    "sector3": "Agro, Biogas & Tierische Umgebungen",
+    "sector4": "Wasser- & Meeresinfrastruktur",
+    "sector5": "Energie, Bergbau & Schwerschutz",
+    "sector6": "Transport, Parkhäuser & Garagen",
+    "sector7": "Stadtumgebung & Bauwesen",
+    "sector8": "Sonstiges"
+  },
+  "map": {
+    "caption": "Standort: Gabrowo, Bulgarien.",
+    "captionHighlight": "Einsatzgebiet: Ganz Europa."
+  }
+}

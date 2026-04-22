@@ -1,0 +1,14 @@
+{
+  "pilot": {
+    "eyebrow": "PROJETS RÉALISÉS",
+    "title": "SITES DE RÉFÉRENCE",
+    "body": "Des hangars de Lufthansa aux cuves acides d'Aurubis. Consultez nos études de cas (Case Studies) et découvrez comment Geonyx résout les problèmes là où le béton conventionnel échoue.",
+    "btn": "VOIR LES PROJETS RÉALISÉS"
+  },
+  "technology": {
+    "eyebrow": "INGÉNIERIE R&D",
+    "title": "CENTRE TECHNIQUE",
+    "body": "Nous ne coulons pas simplement du béton — nous concevons des matrices moléculaires. Consultez notre bibliothèque pour accéder aux Fiches Techniques (TDS), certificats HSEQ et analyses de laboratoire conformément à l'EN 206.",
+    "btn": "VERS LA BIBLIOTHÈQUE TECHNIQUE"
+  }
+}

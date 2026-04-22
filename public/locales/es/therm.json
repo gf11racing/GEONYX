@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "GEONYX THERM | Sistema de Suelo Resistente al Calor",
+    "description": "GEONYX THERM – pavimento geopolímero para zonas con calor extremo, chispas y choque térmico. Apto para fundiciones, hornos y procesos en caliente."
+  },
+  "hero": {
+    "eyebrow": "SEGURIDAD TÉRMICA E INCENDIO",
+    "description": "Pavimentos minerales resistentes al calor para metalurgia, energía e industria alimentaria – desde la congelación por choque hasta el metal fundido. Clase A1fl y rango de temperatura -40°C / +1200°C.",
+    "statTemp": "TEMP RANGE",
+    "statTempValue": "-40°C / +1200°C",
+    "statClass": "CLASE DE FUEGO",
+    "statClassValue": "A1fl",
+    "statExpansion": "EXPANSIÓN TÉRMICA",
+    "statExpansionValue": "~8 μm/m·K",
+    "statLife": "DESIGN LIFE",
+    "statLifeValue": "≥ 20 años",
+    "btn1": "FICHA TÉCNICA",
+    "btn2": "SOLICITAR AUDITORÍA DE INGENIERÍA"
+  },
+  "diagnostics": {
+    "eyebrow": "AGRESIÓN TÉRMICA",
+    "title": "DE -40°C A +1200°C. EL SISTEMA NO FALLA.",
+    "subtitle": "8 escenarios térmicos y operativos para los que los revestimientos estándar no tienen respuesta.",
+    "d1": {
+      "title": "CHOQUE TÉRMICO POR VAPOR",
+      "problem": "La limpieza con vapor a 120°C sobre un suelo frío provoca el agrietamiento y desprendimiento instantáneo de los revestimientos epoxi.",
+      "solution": "GEONYX THERM tiene un coeficiente de expansión térmica cercano al del hormigón y mantiene la adherencia en ciclos repetidos vapor–frío."
+    },
+    "d2": {
+      "title": "METAL FUNDIDO Y CHISPAS",
+      "problem": "Las salpicaduras de soldadura y los procesos de fundición (700°C+) queman los suelos poliméricos y crean riesgo de incendio.",
+      "solution": "Matriz mineral resistente al contacto directo con fuego y metal fundido – sin ignición ni deformación."
+    },
+    "d3": {
+      "title": "CONGELACIÓN POR CHOQUE",
+      "problem": "A -40°C los revestimientos estándar se vuelven frágiles y se agrietan bajo vibraciones y cargas mecánicas.",
+      "solution": "GEONYX THERM conserva la capacidad portante y la microelasticidad en condiciones criogénicas y durante frecuentes ciclos de congelación–descongelación."
+    },
+    "d4": {
+      "title": "SEGURIDAD CONTRA INCENDIOS Y HUMO",
+      "problem": "En caso de incendio, los revestimientos sintéticos emiten humo tóxico denso y gases nocivos.",
+      "solution": "GEONYX THERM es clase A1fl – incombustible, no contribuye al incendio y no emite humo ni vapores tóxicos."
+    },
+    "d5": {
+      "title": "ACEITE CALIENTE Y GRASAS",
+      "problem": "Las grasas en ebullición (180°C) y los aceites en la industria alimentaria corroen el hormigón y las capas poliméricas.",
+      "solution": "Estructura mineral densa que impide la penetración de grasas y permanece estable a altas temperaturas y exposición química."
+    },
+    "d6": {
+      "title": "PROCESOS EXOTÉRMICOS",
+      "problem": "Las reacciones químicas en reactores y cubas pueden elevar la temperatura a cientos de grados en segundos.",
+      "solution": "GEONYX THERM está diseñado para picos de temperatura de corta duración hasta 1200°C, sin pérdida de adherencia al hormigón."
+    },
+    "d7": {
+      "title": "ESTERILIZACIÓN Y CIP",
+      "problem": "La esterilización en autoclave, el agua caliente a presión y los agentes limpiadores agresivos destruyen las juntas y las zonas débiles.",
+      "solution": "Sistema monolítico sin juntas, resistente a los regímenes CIP, lavado a vapor y desinfección en salas limpias e industria alimentaria."
+    },
+    "d8": {
+      "title": "GENERACIÓN DE CHISPAS EN ZONAS ATEX",
+      "problem": "Las chispas mecánicas por impacto en zonas con gas o polvo pueden desencadenar una explosión.",
+      "solution": "Configuración non-sparking de GEONYX THERM – la superficie no genera chispas mecánicas por impacto ni fricción."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "SECCIÓN TÉCNICA DE GEONYX THERM",
+    "sectionSubtitle": "Modelo interactivo de capas – desde el soporte hasta la superficie de trabajo.",
+    "h1": {
+      "title": "1. HORMIGÓN PORTANTE",
+      "subtitle": "Soporte preparado",
+      "desc": "Hormigón verificado estructuralmente, rectificado o fresado, con juntas y defectos corregidos para resistencia a cargas dinámicas y térmicas."
+    },
+    "h2": {
+      "title": "2. ZONA DE ADHERENCIA",
+      "subtitle": "Unión térmicamente compatible",
+      "desc": "Unión mineral especial con coeficiente de expansión cercano al del hormigón – para cero desprendimiento bajo choque térmico."
+    },
+    "h3": {
+      "title": "3. NÚCLEO THERM",
+      "subtitle": "Capa resistente al calor",
+      "desc": "Capa principal GEONYX THERM que absorbe picos de temperatura extremos y cargas mecánicas sin fractura frágil."
+    },
+    "h4": {
+      "title": "4. ACABADO FUNCIONAL",
+      "subtitle": "Antideslizante e higiene",
+      "desc": "Textura R12/R13 para seguridad, limpieza fácil y compatibilidad con alimentos, vapor y agentes limpiadores agresivos."
+    }
+  },
+  "engineering": {
+    "eyebrow": "DATOS DE INGENIERÍA",
+    "title": "EVIDENCIAS DE LABORATORIO",
+    "subtitle": "Pruebas independientes en laboratorios acreditados – protocolos completos disponibles en TDS.",
+    "block1title": "EXPANSIÓN TÉRMICA (ΔL/L)",
+    "block1note": "GEONYX THERM se expande como el hormigón y no genera tensiones en la capa de adherencia.",
+    "block2title": "CLASIFICACIÓN TÉRMICA",
+    "block2note": "Comparación del rango de temperatura máximo bajo adherencia estable.",
+    "block3title": "CLASE DE FUEGO (A1fl)",
+    "block3note": "Matriz mineral sin componentes combustibles – clase de fuego A1fl según EN 13501-1."
+  },
+  "operational": {
+    "eyebrow": "RENDIMIENTO",
+    "title": "SUPERIORIDAD OPERACIONAL",
+    "r1": {
+      "title": "ADHERENCIA MONOLÍTICA BAJO CHOQUE TÉRMICO",
+      "desc": "Sin desprendimiento durante la transición de 500°C a temperatura ambiente – verificado en simulaciones de incendio y condiciones reales de producción."
+    },
+    "r2": {
+      "title": "CLASE A1fl (INCOMBUSTIBLE)",
+      "desc": "Sin contribución al incendio, sin humo ni gases tóxicos – seguro para evacuación y servicios de bomberos."
+    },
+    "r3": {
+      "title": "COMPATIBILIDAD HACCP",
+      "desc": "Adecuado para instalaciones de producción alimentaria – sin componentes peligrosos, limpieza fácil, resistencia al aceite caliente."
+    },
+    "r4": {
+      "title": "RESISTENCIA CRIOGÉNICA",
+      "desc": "Funciona a -40°C sin cambio de resistencia – para cámaras de congelación, túneles de enfriamiento y almacenamiento criogénico."
+    },
+    "r5": {
+      "title": "ATEX / NON-SPARKING",
+      "desc": "Configuraciones especiales sin generación de chispas mecánicas – para zonas con gases inflamables, polvo y municiones."
+    }
+  },
+  "financial": {
+    "title": "TCO BAJO CARGA TÉRMICA",
+    "subtitle": "Comparación de costes de mantenimiento a temperatura extrema.",
+    "quote": "LOS SUELOS EN METALURGIA SE REEMPLAZAN CADA 3–5 AÑOS.",
+    "quoteHighlight": "GEONYX THERM – DURA 20."
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "subtitle": "Comparación de ciclo de 20 años para zonas con carga térmica.",
+    "colParam": "PARÁMETRO",
+    "colTherm": "GEONYX THERM",
+    "colEpoxy": "Epoxi/PU",
+    "colStd": "Hormigón estándar",
+    "row1": "Rango térmico",
+    "row2": "Clase de fuego",
+    "row3": "Resistencia a choque térmico",
+    "row4": "Compatibilidad HACCP",
+    "row5": "Design Life",
+    "val1therm": "-40°C a +1200°C",
+    "val1epoxy": "hasta 80°C",
+    "val1std": "hasta 300°C (se degrada)",
+    "val2therm": "A1fl – incombustible",
+    "val2epoxy": "Combustible – clase B/C",
+    "val2std": "No aplicable",
+    "val3therm": "Excepcionalmente alta",
+    "val3epoxy": "Baja – desprendimiento",
+    "val3std": "Media – agrietamiento",
+    "val4therm": "Completa",
+    "val4epoxy": "Parcial",
+    "val4std": "No recomendado",
+    "val5therm": "≥20 años",
+    "val5epoxy": "5–8 años",
+    "val5std": "3–5 años"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE UTILIZA",
+    "subtitle": "Instalaciones con agresión térmica, riesgo de incendio o ciclos de temperatura extremos.",
+    "a1": {
+      "title": "Metalurgia y Fundición",
+      "desc": "Fundiciones, zonas de colada, hornos y zonas con salpicaduras de metal fundido."
+    },
+    "a2": {
+      "title": "Industria Alimentaria y Bebidas",
+      "desc": "Instalaciones de producción con aceite caliente, vapor y limpieza agresiva (HACCP)."
+    },
+    "a3": {
+      "title": "Energía y Nuclear",
+      "desc": "Salas de turbinas, calderas y zonas cortafuego que requieren clase A1."
+    },
+    "a4": {
+      "title": "Industria Aeronáutica",
+      "desc": "Hangares con requisitos ATEX y pavimento resistente al fuego."
+    },
+    "a5": {
+      "title": "Industria Química y Petrolera",
+      "desc": "Zonas ATEX, reactores y áreas con riesgo de ignición."
+    },
+    "a6": {
+      "title": "Cámaras Frigoríficas",
+      "desc": "Almacenes criogénicos a -30°C/-40°C con intenso tráfico de carretillas."
+    },
+    "a7": {
+      "title": "Industria Farmacéutica",
+      "desc": "Zonas de esterilización, autoclavado y programas CIP."
+    },
+    "a8": {
+      "title": "Industria de Defensa",
+      "desc": "Búnkeres resistentes a explosiones, salas ATEX para municiones."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESO",
+    "title": "PROCESO DE EJECUCIÓN",
+    "subtitle": "Ejecución controlada en condiciones térmicas activas.",
+    "p1": {
+      "title": "Auditoría térmica de zonas",
+      "desc": "Mapeo de picos de temperatura, ciclos y operaciones por zona."
+    },
+    "p2": {
+      "title": "Selección de configuración THERM",
+      "desc": "Selección del espesor exacto y del sistema (estándar, ATEX o criogénico)."
+    },
+    "p3": {
+      "title": "Preparación del soporte",
+      "desc": "Rugosificación mecánica, nivelación de irregularidades y activación térmica de la adherencia."
+    },
+    "p4": {
+      "title": "Aplicación de capas",
+      "desc": "Aplicación según protocolo termo-tecnológico con control de temperatura y adherencia."
+    },
+    "p5": {
+      "title": "Control y prueba",
+      "desc": "Verificación de adherencia, dureza y planimetría. Prueba térmica si es necesario."
+    },
+    "p6": {
+      "title": "Documentación y entrega",
+      "desc": "Paquete TDS, certificados ATEX/HACCP e instrucciones de mantenimiento."
+    }
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE LICITACIÓN THERM (B2B / B2G)",
+    "desc": "Documentación completa para zonas con carga térmica en metalurgia, industria alimentaria y energética.",
+    "qualityLabel": "GARANTÍA DE CALIDAD",
+    "qualityDesc": "Todos los documentos cumplen con los requisitos HACCP, ATEX y EN 13501-1.",
+    "doc1": "TDS – Especificaciones técnicas y resistencia térmica",
+    "doc2": "Clase de fuego A1fl – Certificado y protocolo",
+    "doc3": "Configuración ATEX y documentación non-sparking",
+    "doc4": "Compatibilidad HACCP (si es necesario)",
+    "doc5": "Detalles de juntas de dilatación y zonas térmicas",
+    "doc6": "Especificación de licitación para zonas con carga térmica",
+    "copyBtn": "COPIAR TEXTO DE LICITACIÓN",
+    "copiedBtn": "¡TEXTO COPIADO!"
+  },
+  "downloads": {
+    "title": "ARCHIVOS TÉCNICOS Y DESCARGAS",
+    "dl1": {
+      "title": "GEONYX THERM – TDS",
+      "sub": "Parámetros técnicos y resistencia térmica"
+    },
+    "dl2": {
+      "title": "Clase de Fuego A1fl",
+      "sub": "Certificado y protocolo EN 13501-1"
+    },
+    "dl3": {
+      "title": "ATEX / Non-Sparking",
+      "sub": "Documentación para zonas con protección contra explosiones"
+    },
+    "dl4": {
+      "title": "Declaración HACCP",
+      "sub": "Compatibilidad con instalaciones de producción alimentaria"
+    }
+  },
+  "cta": {
+    "title": "SEGURIDAD CONTRA INCENDIOS. RESISTENCIA TÉRMICA. TIEMPO DE INACTIVIDAD MÍNIMO.",
+    "desc": "Describa la carga térmica de sus zonas – propondremos una configuración THERM, documentación ATEX/HACCP y análisis TCO.",
+    "btn1": "SOLICITAR AUDITORÍA TÉCNICA",
+    "btn2": "DESCARGAR TDS",
+    "btn3": "CONTACTAR CON UN INGENIERO"
+  },
+  "footerBand": {
+    "label": "SOCIO TECNOLÓGICO PARA INFRAESTRUCTURA CRÍTICA",
+    "desc": "GEONYX THERM proporciona protección térmica donde los revestimientos estándar arden, se derriten o se desprenden."
+  },
+  "shared": {
+    "threat": "AMENAZA",
+    "solution": "SOLUCIÓN"
+  }
+}

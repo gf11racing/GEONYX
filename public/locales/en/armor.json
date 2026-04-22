@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "GEONYX ARMOR | Mineral Industrial Floor System",
+    "description": "GEONYX ARMOR – superflat mineral floor system engineered for extreme mechanical loads, VNA aisles, racking zones and heavy industry halls."
+  },
+  "hero": {
+    "eyebrow": "EXTREME DURABILITY SYSTEM",
+    "description": "MINERAL ARMOR FOR HEAVY INDUSTRY, MINING AND ENERGY. Composite system for tracked vehicles, abrasion and impact loads with Design Life ≥20 years under industrial operation.",
+    "descriptionBold": "Design Life ≥20 years",
+    "statPressure": "PRESSURE",
+    "statHardness": "HARDNESS",
+    "statWear": "WEAR",
+    "statTemp": "TEMPERATURE",
+    "btn1": "TECHNICAL DATA SHEET",
+    "btn2": "REQUEST ENGINEERING AUDIT"
+  },
+  "certStrip": {
+    "cert1": "CLASS CT-C80-F10",
+    "cert2": "WEAR RESISTANCE",
+    "cert4": "NON-COMBUSTIBLE",
+    "cert5": "CERTIFIED"
+  },
+  "diagnostics": {
+    "eyebrow": "THREAT ANALYSIS",
+    "title": "INDUSTRIAL AGGRESSION. WE TAKE IT.",
+    "subtitle": "8 critical mechanical and operational loads that standard concrete was not designed for.",
+    "d1": {
+      "title": "EXTREME ABRASION",
+      "problem": "Friction from tracks, tyres and ore acts like sandpaper on concrete, removing millimetres of material every year.",
+      "solution": "Mineral surface with Mohs 9 hardness and AR ≤ 0.5 – minimal volume loss after 1000 abrasion cycles."
+    },
+    "d2": {
+      "title": "CONCENTRATED LOAD",
+      "problem": "Tracks, heavy axles and crane wheels concentrate tonnes of load onto a small contact area, splitting the surface.",
+      "solution": "Compressive strength >110 N/mm² and high shear resistance – a monolithic layer that does not delaminate or crush under tracked vehicles."
+    },
+    "d3": {
+      "title": "IMPACT LOAD",
+      "problem": "Falling parts, buckets, dies and tools crack the concrete, break edges and open 'nests' for further damage.",
+      "solution": "Ductile mineral matrix that absorbs impact energy without sudden brittle fracture – edges remain intact and the surface stays stable."
+    },
+    "d4": {
+      "title": "VIBRATION",
+      "problem": "Constant vibrations from turbines, presses and cranes cause material fatigue, micro-cracks and coating delamination.",
+      "solution": "Monolithic bond with the substrate and vibration-resistant structure – the system acts as a single body, without voids or weak zones."
+    },
+    "d5": {
+      "title": "JOINTS AND BROKEN EDGES",
+      "problem": "Joints and edges are the weakest zone on industrial floors. Impacts from forklifts and hard wheels break edges, form pits and create vibrations in equipment.",
+      "solution": "GEONYX ARMOR enables monolithic or minimal-joint solutions with reinforced edges. Where joints exist, they are structurally protected so they do not fail under heavy vehicle traffic."
+    },
+    "d6": {
+      "title": "DYNAMIC FATIGUE LOAD",
+      "problem": "Constant traffic along the same routes causes material fatigue. Micro-cracks, local subsidence and 'ruts' appear in high-traffic zones.",
+      "solution": "The mineral ARMOR system distributes dynamic loads in depth and prevents the formation of fatigue cracks, ensuring a stable surface even under 24/7 operation."
+    },
+    "d7": {
+      "title": "LOCAL MACHINE FOUNDATIONS",
+      "problem": "Heavy machinery and anchored structures concentrate loads on small support points. This leads to crushing and cracking around anchors with standard concrete.",
+      "solution": "GEONYX ARMOR builds a high-strength surface with excellent compressive and shear resistance, suitable for integration with machine foundations without local failure."
+    },
+    "d8": {
+      "title": "PRODUCTION DOWNTIME",
+      "problem": "Every repair of joints and pits stops production, blocks equipment and often costs more than the material itself.",
+      "solution": "ARMOR systems with REPAIR protocols – local repairs within 24–48 hours and phased work without prolonged line stoppages."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "TECHNICAL CROSS-SECTION OF GEONYX ARMOR",
+    "sectionSubtitle": "Interactive layer model – from the substrate to the working surface.",
+    "h1": {
+      "title": "1. CONCRETE SUBSTRATE",
+      "subtitle": "Load-bearing structure",
+      "desc": "Concrete substrate – load-bearing structure (existing concrete, steel or old pavement)."
+    },
+    "h2": {
+      "title": "2. PREPARATION AND ADHESION LAYER",
+      "subtitle": "CSP Profile",
+      "desc": "Mechanical profiling (CSP profile) and mineral bond with the substrate."
+    },
+    "h3": {
+      "title": "3. STRUCTURAL COMPOSITE LAYER",
+      "subtitle": "Reinforcement",
+      "desc": "Reinforced mineral matrix 8–12 mm (up to 25 mm under extreme load)."
+    },
+    "h4": {
+      "title": "4. SURFACE PROTECTION LAYER",
+      "subtitle": "Texture",
+      "desc": "Finely tuned texture for grip and easy cleaning."
+    }
+  },
+  "engineering": {
+    "eyebrow": "ENGINEERING DATA",
+    "title": "EVIDENCE FROM THE LABORATORY",
+    "subtitle": "Independent tests in accredited laboratories – full protocols available in TDS.",
+    "block1title": "Mohs Scale (Hardness)",
+    "block1note": "GEONYX ARMOR approaches diamond hardness and outperforms standard concrete and steel in wear resistance.",
+    "block2title": "Böhme Test (Abrasion)",
+    "block2note": "Up to 8 times less volume loss after 1000 friction cycles compared to ordinary industrial concrete.",
+    "block3title": "Ductility (Stress-Strain)",
+    "block3brittle": "SUDDEN FRACTURE",
+    "block3absorb": "ENERGY ABSORPTION",
+    "block3note": "Linear performance without sudden fracture – composite matrix that absorbs energy instead of breaking."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANCE",
+    "title": "OPERATIONAL SUPERIORITY",
+    "r1": {
+      "title": "MOISTURE TOLERANCE",
+      "desc": "Application on 'green' concrete and substrates with residual moisture. Breathable structure that reduces the risk of osmotic pressure and delamination."
+    },
+    "r2": {
+      "title": "SPARK-FREE",
+      "desc": "ATEX logic for mines, fuel and ammunition depots. The surface does not generate mechanical sparks on impact."
+    },
+    "r3": {
+      "title": "CLASS XF4 / FREEZE–THAW",
+      "desc": "Full immunity to freeze/thaw cycles and salts (de-icing agents). Suitable for external ramps, quays and hangars."
+    },
+    "r4": {
+      "title": "JOINTLESS OR MINIMAL-JOINT SYSTEM",
+      "desc": "Zone-based design with a minimum number of industrial joints – fewer repair points and lower risk of failure."
+    },
+    "r5": {
+      "title": "GLOBAL CERTIFICATION",
+      "desc": "EN 13813, CE Mark, ISO 9001. Full engineering documentation for public and private investors."
+    }
+  },
+  "financial": {
+    "title": "WHEN THE FLOOR IS AN INVESTMENT, NOT A COST",
+    "subtitle": "Total cost of ownership comparison over 20 years – standard concrete with periodic repairs versus GEONYX ARMOR with minimal interventions.",
+    "quote": "CONCRETE GETS PAID FOR MANY TIMES OVER.",
+    "quoteHighlight": "GEONYX ARMOR – ONCE."
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "subtitle": "20-year operational cycle comparison between standard concrete and GEONYX ARMOR under 3-shift industrial operation.",
+    "colParam": "PARAMETER",
+    "colStd": "Standard concrete",
+    "colEpoxy": "Epoxy system",
+    "row1": "Design Life",
+    "row2": "Number of repairs (20 yrs)",
+    "row3": "Downtime",
+    "row4": "Abrasion resistance",
+    "row5": "Total cost over 20 yrs",
+    "val1armor": "≥20 yrs",
+    "val1std": "5–8 yrs",
+    "val1epoxy": "7–10 yrs",
+    "val2armor": "0–1",
+    "val2std": "3–5",
+    "val2epoxy": "2–4",
+    "val3armor": "minimal",
+    "val3std": "high",
+    "val3epoxy": "medium",
+    "val5armor": "Low",
+    "val5std": "High",
+    "val5epoxy": "Medium"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "Facilities with high mechanical aggression, heavy traffic and extreme loads.",
+    "a1": {
+      "title": "Heavy Metallurgy",
+      "desc": "Foundries, rolling mills, slag and hot-metal zones."
+    },
+    "a2": {
+      "title": "Logistics Centres",
+      "desc": "VNA aisles, ramps, loading docks and intensive forklift traffic."
+    },
+    "a3": {
+      "title": "Mines and Processing Plants",
+      "desc": "Crushers, mills, flotation areas and heavy-equipment service bays."
+    },
+    "a4": {
+      "title": "Energy",
+      "desc": "Turbine halls, maintenance platforms, coal and ash bunkers."
+    },
+    "a5": {
+      "title": "Automotive Manufacturing",
+      "desc": "Press shops, assembly lines, welding robots and test zones."
+    },
+    "a6": {
+      "title": "Defence Industry",
+      "desc": "Repair bases for tracked vehicles, ammunition depots (ATEX)."
+    },
+    "a7": {
+      "title": "Recycling and Waste",
+      "desc": "Scrap yards, sorting installations and waste disposal sites."
+    },
+    "a8": {
+      "title": "Aviation",
+      "desc": "Maintenance hangars, heavy undercarriage zones and engine service areas."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "subtitle": "Engineering control from the first analysis to final site acceptance.",
+    "p1": {
+      "step": "01",
+      "title": "Engineering Audit",
+      "desc": "Load analysis, zoning and risk profile."
+    },
+    "p2": {
+      "step": "02",
+      "title": "Design",
+      "desc": "Determination of thickness (8–25 mm) and system."
+    },
+    "p3": {
+      "step": "03",
+      "title": "Substrate Preparation",
+      "desc": "Mechanical profiling (CSP profile), cleaning, moisture control."
+    },
+    "p4": {
+      "step": "04",
+      "title": "Application",
+      "desc": "Application of the ARMOR composite system according to the technical protocol."
+    },
+    "p5": {
+      "step": "05",
+      "title": "Quality Control",
+      "desc": "Verification of adhesion, thickness and levelness."
+    },
+    "p6": {
+      "step": "06",
+      "title": "Documentation",
+      "desc": "Documented handover with technical data sheet."
+    }
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "TENDER PACKAGE (B2B / B2G)",
+    "desc": "Full engineering documentation for investors, designers and public procurement.",
+    "qualityLabel": "QUALITY ASSURANCE",
+    "qualityDesc": "All documents comply with current Eurocodes and standards.",
+    "doc1": "Technical Data Sheet (TDS)",
+    "doc2": "CE Declaration",
+    "doc3": "Laboratory Protocols",
+    "doc4": "Method Statement",
+    "doc5": "BIM Details",
+    "doc6": "Tender Specification (copy-ready text)",
+    "copyBtn": "COPY TENDER TEXT",
+    "copiedBtn": "TEXT COPIED!"
+  },
+  "downloads": {
+    "title": "TECHNICAL FILES AND DOWNLOADS",
+    "dl1": {
+      "title": "Technical Data Sheet",
+      "sub": "Full engineering parameters and test results"
+    },
+    "dl2": {
+      "title": "Laboratory Report",
+      "sub": "Summary of test results"
+    },
+    "dl3": {
+      "title": "BIM Library",
+      "sub": "Design details"
+    },
+    "dl4": {
+      "title": "Engineering Specification",
+      "sub": "Ready-to-use tender documentation text"
+    }
+  },
+  "cta": {
+    "title": "DESIGN FOR 20 YEARS. NOT FOR 3.",
+    "subtitle": "Engineering system for facilities with extreme mechanical loads and high operational risk.",
+    "desc": "Full technical documentation and engineering consultation for investors, designers and operators in heavy industry and critical infrastructure.",
+    "btn1": "DOWNLOAD TECHNICAL SPECIFICATIONS (TDS)",
+    "btn2": "DOWNLOAD BIM AND DETAILS",
+    "btn3": "REQUEST ENGINEERING AUDIT"
+  },
+  "footerBand": {
+    "label": "TECHNOLOGY PARTNER FOR CRITICAL INFRASTRUCTURE",
+    "desc": "You need a system that can withstand mines, steelworks, logistics hubs or energy facilities. GEONYX ARMOR combines geopolymer technology, laboratory data and field testing to deliver a floor that can be defended before any investor and auditor."
+  },
+  "shared": {
+    "threat": "THREAT",
+    "solution": "SOLUTION"
+  }
+}

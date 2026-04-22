@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "title": "GEONYX | Kentsel Çevre, İnşaat & Yüksek Teknoloji – Akıllı Mineral Zeminler",
+    "description": "GEONYX, kentsel çevreler, kamu binaları, alışveriş merkezleri, lojistik bölgeler ve yüksek teknoloji üretim için derzsiz mineral sistemler geliştirir. Aşınma, kimya, yük ve yoğun trafiğe karşı direnç ile uzun hizmet ömrü ve düşük karbon ayak izi."
+  },
+  "hero": {
+    "tag": "KENTSEL ÇEVRE, İNŞAAT VE YÜKSEK TEKNOLOJİ",
+    "title_line1": "ŞEHİR VE HIGH-TECH",
+    "title_line2": "BÖLGELERİ İÇİN YÜZEYLER",
+    "description": "Kaykay parklarından ve bisiklet yollarından havacılık hangarlarına ve temiz odalara kadar – GEONYX estetik, aşınma direnci ve su, kimya ile termal strese karşı korumayı bir araya getiren mineral sistemler tasarlar.",
+    "btn_guide": "KILAVUZU İNDİR",
+    "btn_consultation": "DANIŞMA TALEP ET",
+    "scope_title": "KAPSAM",
+    "scope_zones_label": "BÖLGELER:",
+    "scope_systems_label": "SİSTEMLER:",
+    "nav_applications": "↓ NEREDE KULLANILIR",
+    "nav_system_selection": "↓ SİSTEM SEÇİMİ",
+    "nav_offer_package": "↓ TEKLİF PAKETİ",
+    "zones": [
+      "Kaykay parkları ve bisiklet yolları",
+      "Kent mobilyası – banklar, saksılar",
+      "Kaldırım taşı ve plakların derzlenmesi",
+      "Yaya alanları ve bina girişleri",
+      "Alt geçitler ve yeraltı koridorları",
+      "Metro istasyonları ve toplu taşıma durakları",
+      "Kamu binaları",
+      "Havacılık hangarları ve MRO",
+      "Temiz odalar ve ESD bölgeleri",
+      "Veri merkezleri ve AR-GE merkezleri"
+    ]
+  },
+  "manifesto": {
+    "title_line1": "ŞEHİR VE TEKNOLOJİ",
+    "title_line2": "YÜZEYLERDEN BAŞLAR.",
+    "text": "Kentsel ve yüksek teknolojili ortamlarda beton sadece yapı değil – arka plan, sahne ve kritik altyapıdır. Kaykay trafiği, tuzlar ve UV, havacılık yakıtları, ESD gereksinimleri ve hassas elektronik gibi senaryolar 'sıradan şap' ile çözülemez. GEONYX, estetiği feda etmeden dinamik yüklere, iklime, kimyaya ve yangına dayanan ARMOR, HYDRO, CHEM ve THERM sistemlerini bir araya getirir."
+  },
+  "blocks": {
+    "problem_label": "SORUN:",
+    "solution_label": "ÇÖZÜM:",
+    "suitable_systems": "Uygun sistemler:",
+    "b1": { "badge": "KAYKAY VE BİSİKLET", "title": "KAYKAY PARKLARI, BİSİKLET YOLLARI VE DARBE YÜKLEMESİ", "problem": "Kaykay parkları ve bisiklet yolları darbe, aşınma ve kenarlar ile radyuslarda konsantre yüklemeleri bir araya getirir. Sıradan yüzeyler ufalanır, kenarlar kırılır ve yüzeyler düzensiz ve tehlikeli hale gelir.", "solution": "GEONYX ARMOR, yüksek darbe ve aşınma direnci ile yoğun mineral yüzey sağlar. Kenar, kırık ve radyus detayları aynı mineral mantıkla tasarlanarak parkın tribi, darbelere ve iklime uzun vadede dayanması sağlanır.", "systems": "ARMOR" },
+    "b2": { "badge": "KENT MOBİLYASI", "title": "KENT MOBİLYASI, BANKLAR, SAKSILAR VE DEKORATİF BETON", "problem": "Banklar, saksılar ve dekoratif elemanlar UV, yağmur, tuz ve vandalizme maruz kalır. Çatlaklar, kopan kenarlar ve grafiti lekeleri kamusal alanın görünümünü hızla bozar.", "solution": "GEONYX ARMOR + HYDRO yoğun, hidrofobize edilmiş ve iklime dayanıklı mineral yüzeyler sunar. CHEM, temizlik maddelerine daha iyi direnç ve anti-grafiti çözümleri gerektiren bölgelere eklenerek 'mineral look' korunur.", "systems": "HYDRO" },
+    "b3": { "badge": "KALDIRIM TAŞI VE PLAKLAR", "title": "YABANI OT OLMADAN KALDIRIM TAŞI VE PLAK DERZLEMESİ", "problem": "Klasik kum veya zayıf karışım derzlemesi yıkanmaya, yabani otlara, çamura ve yerinden çıkmış kaldırım taşlarına yol açar. Su yüzeyin altına sızar, donar ve zemini tahrip eder.", "solution": "GEONYX HYDRO + ARMOR, suya ve tuzlara karşı yüksek dirençli mineral derzleme ve doldurma çözümleri sunar. Derzler yapının parçası haline gelir – yabani ot yok ve yağmur ya da basınçlı yıkamada yıkanma yok.", "systems": "HYDRO" },
+    "b4": { "badge": "HEYKELLER VE DEKOR", "title": "HEYKELLER, DEKOR VE KAMUSAL ALANLAR", "problem": "Parklardaki, film setlerindeki ve kamusal alanlardaki heykel ve dekorlar estetik görünmeli ve neme, kirliliğe ve darbeye dayanmalıdır. Standart sıvalar hızla çatlar ve döküler.", "solution": "GEONYX ARMOR + THERM, yüksek mekanik ve termal direnç ile mineral 'kabuk' sağlar. HYDRO suya karşı korur, CHEM estetiği feda etmeden gerektiğinde daha agresif maddelerle temizleme yapılmasına olanak tanır.", "systems": "THERM" },
+    "b5": { "badge": "YERALTI VE KAMUSAL BÖLGELER", "title": "ALT GEÇİTLER, METRO İSTASYONLARI VE KAMU BİNALARI", "problem": "Alt geçitler ve metro istasyonları nem, yoğuşma, ayakkabı tuzları ve yoğun yaya trafiğini bir araya getirir. Fayanslar kayar, derzler karartır ve zeminler düzensiz şekilde aşınır.", "solution": "GEONYX ARMOR + HYDRO, kontrollü kaymaz özelliğiyle derzsiz veya minimum derzli mineral zemin oluşturur. THERM yangın durumunda daha iyi davranış ekler, CHEM deterjanlarla düzenli makine temizliğine olanak tanır.", "systems": "ARMOR" },
+    "b6": { "badge": "TERASLAR VE MERDİVENLER", "title": "TERASLAR, DÖŞEMELER, MERDİVENLER VE GİRİŞ BÖLGELERİ", "problem": "Dış teraslar ve merdivenler yağmur, UV, buz ve tuzlara maruz kalır. Kayma, alt katlara sızıntı ve hasar görmüş kenarlar tipik senaryolardır.", "solution": "GEONYX HYDRO + ARMOR, basamaklar ve sahanlıklarda tasarlanmış tutuş ile su yalıtımlı ve aşınmaya dayanıklı sistem sağlar. Kenar, süzgeç ve cephe bağlantı detayları beklenmedik sızıntıları önlemek için sistematik olarak çözülür.", "systems": "HYDRO" },
+    "b7": { "badge": "HANGAR VE MRO", "title": "HAVACILIK HANGARLARI VE MRO BÖLGELERİ", "problem": "Havacılık hangarlarında havacılık yakıtları, hidrolik sıvılar, ağır boji ve temiz, düz yüzey ihtiyacı bir arada bulunur. Standart sistemler kimya ve konsantre yüklerden zarar görür.", "solution": "GEONYX ARMOR + CHEM, havacılık sıvılarına ve ağır bojilere dayanıklı mineral sistem sağlar. HYDRO yapıyı dökülmelerden korur, THERM zeminin yangın davranışını iyileştirir.", "systems": "CHEM" },
+    "b8": { "badge": "OTOMOTİV VE EV HATLARI", "title": "OTOMOTİV VE EV MONTAJ HATLARI", "problem": "Otomotiv ve EV montaj hatlarında zeminler AGV/AMR trafiği, arabalar, robotlar ve proses sıvısı dökülmelerini karşılar. Düzensiz yüzeyler ve derzler titreşimlere ve hassasiyet sorunlarına yol açar.", "solution": "GEONYX ARMOR, robotlar ve AGV'ler için uygun düşük titreşimli düz, aşınmaya dayanıklı yüzeyler sağlar. CHEM yağ ve sıvı direnci için eklenir, HYDRO ıslak temizleme bölgelerinde kullanılır.", "systems": "ARMOR" },
+    "b9": { "badge": "ESD VE ELEKTRONİK", "title": "ELEKTRONİK VE AVİYONİK İÇİN ESD BÖLGELERİ", "problem": "ESD hassas bölgelerde kıvılcımlar ve statik elektrik bileşenler ve ekipman için kritik risk oluşturur. Klasik zeminler genellikle zamanla stabil ESD parametreleri koruyamaz.", "solution": "GEONYX ARMOR + CHEM, mekanik direnç ve temizliğden ödün vermeden elektronik ve aviyonik gereksinimleriyle uyumlu ESD yönetilebilir mineral sistemler olarak yapılandırılabilir.", "systems": "CHEM" },
+    "b10": { "badge": "TEMİZ ODALAR VE VERİ", "title": "TEMİZ ODALAR, VERİ MERKEZLERİ VE LABORATUVARLAR", "problem": "Temiz odalar, veri merkezleri ve laboratuvarlar toz, nem, ESD ve kimya kontrolü gerektirir. Çatlaklar, derzler ve dökülen kaplamalar kabul edilemez.", "solution": "GEONYX ARMOR + HYDRO + CHEM, dezenfektanlara ve laboratuvar kimyasına dayanıklı, gerektiğinde ESD yönetilebilir düz, temiz, kolay temizlenebilir yüzeyleri bir araya getirir. THERM, artan yangın gereksinimlerinin olduğu bölgelere eklenir.", "systems": "HYDRO" }
+  },
+  "roi": {
+    "section_tag": "ROI ANALİZİ",
+    "section_title": "YATIRIM DENETİMİ",
+    "col_param": "PARAMETRE",
+    "col_geonyx": "GEONYX",
+    "col_standard": "Standart beton / fayans",
+    "col_alt": "Epoksi / PU zemin",
+    "rows": [
+      { "param": "İklim direnci (UV, yağmur, sıcaklıklar)", "geonyx": "Yüksek – mineral matris, HYDRO/THERM koruması", "standard": "Orta – çatlaklar ve eflorescens", "alt": "Orta – yaşlanma, sararma ve çatlama" },
+      { "param": "Mekanik aşınma direnci", "geonyx": "Yüksek – darbe, sürtünme ve trafik için ARMOR", "standard": "Orta – dökülme ve toz", "alt": "Başlangıçta iyi, hızlı yüzey aşınması" },
+      { "param": "Kimyasal direnç (temizlik, yakıtlar)", "geonyx": "Yüksek – CHEM konfigürasyonu", "standard": "Sınırlı – temizlik maddelerine hassasiyet", "alt": "Kimyaya bağlı, şişme ve leke riski" },
+      { "param": "Su yalıtımı ve alt katlara sızıntı", "geonyx": "Sistemik HYDRO mantığı", "standard": "Kısmi çözümler, pek çok detay zayıflığı", "alt": "Organik membranlara bağımlılık" },
+      { "param": "Estetik ve zamanla 'mineral görünüm'", "geonyx": "Korunan mineral görünüm, düşük toz", "standard": "Eşit olmayan yaşlanma ve lekeler", "alt": "Çizik ve kusurları öne çıkaran parlaklık" },
+      { "param": "Bakım ve onarım", "geonyx": "Yerel REPAIR ve bölgesel sistem yenilemeleri", "standard": "Zor kısmi onarımlar, sık tam değişim", "alt": "Yaşlanmayla sık yeniden kaplama" },
+      { "param": "Toplam yaşam döngüsü maliyeti", "geonyx": "10–15+ yıl için optimize edilmiş", "standard": "Düşük başlangıç, yüksek uzun vadeli", "alt": "Orta, erken yaşlanma riski" }
+    ]
+  },
+  "applications": {
+    "section_tag": "UYGULAMALAR",
+    "section_title": "NEREDE KULLANILIR",
+    "section_desc": "GEONYX hem kentsel sahneyi hem de yüksek teknolojili tesisleri kapsar – kaykay parkından temiz odaya kadar.",
+    "items": [
+      { "id": "skate", "title": "Kaykay parkları ve bisiklet yolları", "desc": "Darbe yüklemesi, sürtünme ve iklimsel etkiler." },
+      { "id": "furniture", "title": "Kent mobilyası ve dekoratif beton", "desc": "Banklar, saksılar, elemanlar ve küçük mimari formlar." },
+      { "id": "pavers", "title": "Kaldırım taşı ve plaklar", "desc": "Yabani ot, yıkanma ve donma olmadan derzleme." },
+      { "id": "sculptures", "title": "Heykeller ve kamusal alanlar", "desc": "Dekor, sahneler, meydan ve park elemanları." },
+      { "id": "metro", "title": "Alt geçitler, metro ve kamu binaları", "desc": "Yaya trafiği, nem ve yüksek güvenlik gereksinimleri." },
+      { "id": "terraces", "title": "Teraslar, merdivenler ve giriş bölgeleri", "desc": "Yağmur, buz ve tuzlara maruz dış alanlar." },
+      { "id": "hangars", "title": "Havacılık hangarları ve apron bölgeleri", "desc": "Ağır bojiler, havacılık yakıtları ve MRO faaliyetleri." },
+      { "id": "esd", "title": "ESD ve yüksek teknoloji odaları", "desc": "Elektronik, aviyonik, statik elektrik kontrolü." },
+      { "id": "datacenters", "title": "Veri merkezleri ve temiz odalar", "desc": "Düşük toz, kontrollü nem, stabil yüzeyler." },
+      { "id": "labs", "title": "Laboratuvarlar ve AR-GE merkezleri", "desc": "Kimya, dezenfeksiyon ve hassas ölçümler." }
+    ]
+  },
+  "systems": {
+    "section_tag": "TEKNOLOJİ",
+    "section_title": "GEONYX SİSTEM SEÇİMİ",
+    "section_desc": "Kentsel ve yüksek teknolojili ortamlar için GEONYX, birincil riskin trafik, iklim, kimya, ESD veya yangın olmasına göre ARMOR, HYDRO, CHEM ve THERM'i bir araya getirir.",
+    "items": [
+      { "id": "armor", "name": "GEONYX ARMOR", "desc": "Darbe, aşınma ve yoğun yaya ve tekerlekli trafik için yüksek mukavemetli mineral sistemler." },
+      { "id": "hydro", "name": "GEONYX HYDRO", "desc": "Su, yağış ve sızıntı için çözümler – teraslar ve kaldırım taşından yeraltı geçitlerine ve metro istasyonlarına." },
+      { "id": "chem", "name": "GEONYX CHEM", "desc": "Havacılık sıvıları, temizlik maddeleri ve laboratuvar kimyası için geliştirilmiş kimyasal direnç sistemleri." },
+      { "id": "therm", "name": "GEONYX THERM", "desc": "Kamu ve yüksek teknoloji binalarında daha iyi yangın davranışı ve termal stres direnci ile mineral çözümler." }
+    ]
+  },
+  "workflow": {
+    "section_tag": "SÜREÇ",
+    "section_title": "UYGULAMA SÜRECİ",
+    "steps": [
+      { "id": "s1", "step": "01", "title": "Fonksiyon ve trafik analizi", "desc": "Senaryoların incelenmesi – kentsel ortam, kamusal erişim, yüksek teknoloji bölgeleri, ESD/clean gereksinimleri." },
+      { "id": "s2", "step": "02", "title": "Riske göre bölgeleme", "desc": "Sitenin bölgelere ayrılması: dış alanlar, iç kamusal bölgeler, yüksek teknoloji, laboratuvarlar, hangarlar." },
+      { "id": "s3", "step": "03", "title": "GEONYX sistem seçimi", "desc": "Her bölge için açıkça tanımlanmış parametrelerle ARMOR / HYDRO / CHEM / THERM kombinasyonu." },
+      { "id": "s4", "step": "04", "title": "Detaylar ve test bölgeleri", "desc": "Derzlerde, kenarlarda, cephelerde, süzgeçlerde ve gerektiğinde test kesitlerinde detay tasarımı." },
+      { "id": "s5", "step": "05", "title": "Aşamalı uygulama", "desc": "Sitenin mümkün olan yerlerde kısmen işlevsel kalacağı şekilde iş organizasyonu." },
+      { "id": "s6", "step": "06", "title": "Kontrol ve eğitim", "desc": "Son kontrol, dokümantasyon ve bakım, temizlik ve gelecekteki REPAIR müdahaleleri için talimatlar." }
+    ]
+  },
+  "offer": {
+    "section_tag": "TİCARİ DOKÜMANTASYON",
+    "section_title": "TEKLİF PAKETİ (B2B / B2G)",
+    "section_desc": "Belediyeler, yatırımcılar, mimarlar ve yüksek teknoloji tesis operatörleri için GEONYX ihale, yarışma ve dahili onay için eksiksiz bir paket hazırlar.",
+    "quality_title": "KALİTE GARANTİSİ",
+    "quality_desc": "Tüm belgeler güncel Eurokodlar ve standartlarla uyumludur.",
+    "copy_btn": "İHALE METNİNİ KOPYALA",
+    "copy_success": "METİN KOPYALANDI!",
+    "tender_text": "Kentsel bölgelerde, kamu binalarında, havacılık hangarlarında, yüksek teknoloji odalarda, temiz odalarda, ESD bölgelerinde ve veri merkezlerinde mineral zeminler, kaplamalar ve koruma sistemleri; fonksiyonel ve operasyonel gereksinimlere göre ARMOR / HYDRO / CHEM / THERM'i birleştiren GEONYX tipi veya eşdeğer mineral sistemlerle uygulanacaktır. Sistemler yüksek aşınma direnci, kontrollü kaymaz, iklim ve kimyasal direnç, uygun yangın davranışı ve işverenin ESD/clean gereksinimleriyle uyumluluk sağlamalıdır.",
+    "items": [
+      "Kentsel ve yüksek teknoloji alanlarının fonksiyon ve riske göre bölgelenmesi",
+      "ARMOR / HYDRO / CHEM / THERM için bölgesel teknik özellikler",
+      "Derzler, kenarlar, cepheler, teraslar ve yeraltı bağlantıları için detaylar",
+      "Tam site kapanışı olmaksızın uygulama senaryosu önerisi",
+      "Temizlik, kimya ve yangın güvenliği gereksinimleri",
+      "Garanti koşulları ve muayene ve yerel onarım planı"
+    ]
+  },
+  "docs": {
+    "section_title": "Dokümantasyon",
+    "items": [
+      { "id": "d1", "title": "Parking Systems Guide", "subtitle": "OS 8 / OS 11 (PDF)" },
+      { "id": "d2", "title": "Maintenance Manual", "subtitle": "Park bakımı (PDF)" },
+      { "id": "d3", "title": "Color Chart", "subtitle": "Renkler ve işaretlemeler (PDF)" },
+      { "id": "d4", "title": "Aviation & High-Tech Floors", "subtitle": "Teknik gereksinimler (PDF)" }
+    ]
+  },
+  "faq": {
+    "section_title": "Sıkça Sorulan Sorular",
+    "items": [
+      { "id": "f1", "question": "TİPİK BİR REÇİNE ZEMİN YERİNE 'MİNERAL GÖRÜNÜM' KORUYABİLİR MİYİZ?", "answer": "Evet. GEONYX sistemleri mineraldir ve yüksek aşınma direnci ve koruma ile 'mineral look' sağlar. Renk ve doku, mimari konsepte göre projede belirlenir." },
+      { "id": "f2", "question": "SİSTEMLER ESD VE TEMİZ ODA GEREKSİNİMLERİNE UYGUN MU?", "answer": "Belirli ARMOR ve CHEM konfigürasyonları, temiz oda protokolleriyle uyumlu pürüzsüz, kolay temizlenebilir yüzeyle kontrollü ESD parametrelerinde sunulabilir." },
+      { "id": "f3", "question": "KAMUSAL VE YÜKSEK TEKNOLOJİLİ BİNALARDA YANGIN DURUMUNDA ZEMİNLER NASIL DAVRANIR?", "answer": "THERM konfigürasyonları, yangın davranışı uygun olan yanmaz mineral sistemlere dayanır; spesifik sınıflar yönetmeliklere ve projeye göre belirlenir." }
+    ]
+  },
+  "cta": {
+    "title": "KAPSAMLI SİTE BÖLGELEMESİ",
+    "desc": "Her sitenin kendine özgü riskleri vardır. Mekanik, kimya ve termal şoktan su yalıtımı, antistatik ve mimariye kadar 6 özel matrisi tek bir sistemde entegre ediyoruz.",
+    "btn": "TÜM MÜHENDİSLİK SİSTEMLERİNİ GÖR"
+  }
+}

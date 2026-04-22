@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "GEONYX | Solutions Géopolymères Industrielles",
+    "description": "Matrices géopolymères haute technologie pour les infrastructures critiques et l'industrie lourde. L'ingénierie au-delà des limites du béton."
+  },
+  "hero": {
+    "eyebrow": "INNOVATIONS INDUSTRIELLES",
+    "titleLine1": "SOLUTIONS",
+    "titleLine2": "GÉOPOLYMÈRES",
+    "titleLine3": "INDUSTRIELLES",
+    "description": "Nous développons des matériaux avancés pour l'industrie lourde, les infrastructures et les mines.",
+    "descriptionBold": "Résistance garantie aux acides, au feu et au temps.",
+    "btnSectors": "SECTEURS INDUSTRIELS",
+    "btnTech": "SPÉCIFICATIONS TECHNIQUES",
+    "statChemistry": "CHIMIE",
+    "statStrength": "RÉSISTANCE",
+    "statFire": "FEU",
+    "statEco": "ÉCO",
+    "fireClass": "Classe A1"
+  },
+  "manifesto": {
+    "title": "L'ingénierie",
+    "titleHighlight": "au-delà du béton",
+    "body": "Les revêtements standard sont le maillon faible de l'industrie. Nous créons une armure monolithique et chimiquement résistante qui tient là où le béton ordinaire et l'époxyde échouent."
+  },
+  "eco": {
+    "eyebrow": "DURABILITÉ & NORMES",
+    "titleLine1": "DÉCARBONISATION",
+    "titleLine2": "INDUSTRIELLE & ESG",
+    "subtitle": "Réduisez votre empreinte carbone jusqu'à 80% et répondez aux exigences du Green Deal européen.",
+    "body": "Une solution d'infrastructure durable qui transforme la construction industrielle en atout écologique.",
+    "col1Title": "ÉCONOMIE CIRCULAIRE",
+    "col1Body": "Nous transformons les sous-produits industriels (laitier, cendres) en composites haute résistance.",
+    "col2Title": "ENVIRONNEMENT SÉCURISÉ (HSEQ)",
+    "col2Body": "Zéro émission de composés organiques volatils (sans COV). Sécurisé pour les espaces confinés et l'industrie alimentaire.",
+    "col3Title": "PROCESSUS BAS CARBONE",
+    "col3Body": "Synthèse à froid sans cuisson de clinker. Économise des tonnes d'émissions de CO2 par mètre carré."
+  },
+  "trustbridge": {
+    "eyebrow": "PARTENAIRE TECHNOLOGIQUE",
+    "titleLine1": "INGÉNIERIE",
+    "titleHighlight": "COMPLÈTE",
+    "body": "Nous ne sommes pas de simples sous-traitants, mais un partenaire technologique. Nous fournissons un cycle complet : de l'analyse en laboratoire et de la conception jusqu'à la mise en œuvre des systèmes de protection.",
+    "btn": "VOIR NOS LICENCES"
+  },
+  "systems": {
+    "armor": {
+      "label": "MÉCANIQUE EXTRÊME",
+      "desc": "Matrices géopolymères blindées pour l'industrie lourde, les complexes militaro-industriels et la logistique d'entrepôt à grande échelle.",
+      "badge": "> 110 MPa RÉSISTANCE"
+    },
+    "chem": {
+      "label": "PROTECTION CHIMIQUE",
+      "desc": "Immunité minérale absolue contre les acides concentrés, les bases et les solvants agressifs. Certifié WHG.",
+      "badge": "pH 1-14 RÉSISTANCE"
+    },
+    "therm": {
+      "label": "SÉCURITÉ THERMIQUE",
+      "desc": "Systèmes incombustibles conçus pour résister aux déversements de métal fondu, aux incendies et aux chocs thermiques cycliques.",
+      "badge": "CLASSE A1fl / 1200°C"
+    },
+    "hydro": {
+      "label": "GÉNIE HYDRAULIQUE & INFRASTRUCTURE",
+      "desc": "Barrières étanches pour barrages, stations d'épuration et ports. Pose et durcissement sous-marins disponibles.",
+      "badge": "W20 / RÉPARATION SOUS-MARINE"
+    }
+  },
+  "solutions": {
+    "s1": {
+      "eyebrow": "TECHNOLOGIE",
+      "title": "GEONYX® MATRIX",
+      "solutionLabel": "SOLUTION",
+      "body": "Notre matrice géopolymère brevetée est un bouclier universel. Applicable aux bassins de résidus, réservoirs chimiques, hangars et tunnels. Résistance au pH 1-14 et aux températures supérieures à 1000°C.",
+      "btn": "SPÉCIFICATIONS TECHNIQUES",
+      "badge": "Innovation"
+    },
+    "s2": {
+      "eyebrow": "CONFORMITÉ",
+      "title": "NORMES & CERTIFICATION",
+      "solutionLabel": "SOLUTION",
+      "body": "Nous travaillons strictement selon BDS EN 206 et ISO 9001. Chaque système est livré avec un passeport technique complet, un plan de sécurité HSEQ et une garantie pour les audits publics et d'entreprise.",
+      "btn": "VOIR LES CERTIFICATS",
+      "badge": "ISO / BDS"
+    },
+    "s3": {
+      "eyebrow": "INGÉNIERIE",
+      "title": "CONCEPTION ET AUDIT",
+      "solutionLabel": "SOLUTION",
+      "body": "Demandez une évaluation experte de vos installations et une préparation budgétaire. Nos ingénieurs effectuent une analyse détaillée de l'état et proposent des solutions optimisées pour une protection durable.",
+      "btn": "DEMANDER UN AUDIT",
+      "badge": "Conception"
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "GEONYX | Agro, Biogaz, Engrais & Environnements Animaux – Protection chimiquement résistante",
+    "description": "GEONYX conçoit des systèmes de sol et de protection minéraux pour les fermes agricoles, les installations de biogaz, les silos, les fosses à fumier et les environnements d'élevage – résistants à l'ammoniac, aux acides, à la corrosion biogène, aux engrais et à un environnement organique agressif."
+  },
+  "tender": {
+    "text": "Les surfaces dans les entrepôts d'engrais, fermes, étables, salles de traite, installations de biogaz, équarrissages, sites de compostage et zoos seront réalisées avec des systèmes géopolymères minéraux de type GEONYX ou équivalent, combinant ARMOR / CHEM / HYDRO / THERM / REPAIR selon l'agressivité de l'environnement et la charge mécanique.",
+    "copy": "COPIER LE TEXTE D'APPEL D'OFFRES",
+    "copied": "TEXTE COPIÉ!"
+  },
+  "hero": {
+    "eyebrow": "AGRO, BIOGAZ, ENGRAIS & ENVIRONNEMENTS ANIMAUX",
+    "titleLine1": "SURFACES QUI RÉSISTENT",
+    "titleLine2": "AU FUMIER ET À L'AMMONIAC",
+    "description": "Dans les environnements agro et biogaz, le béton vit en permanence dans le fumier, l'ammoniac et l'humidité. GEONYX construit des systèmes minéraux résistants aux matières organiques, aux agrochimiques et à la fermentation.",
+    "btn1": "TÉLÉCHARGER LE PROFIL TECHNIQUE",
+    "btn2": "DEMANDER UNE INSPECTION TECHNIQUE"
+  },
+  "scope": {
+    "title": "PÉRIMÈTRE",
+    "zonesLabel": "ZONES:",
+    "systemsLabel": "SYSTÈMES:",
+    "z1": "Élevages (bovins, porcins, volailles)",
+    "z2": "Étables, cases et couloirs pour animaux",
+    "z3": "Aires de stockage et de compostage du fumier",
+    "z4": "Abris et aires béton pour fourrage et ensilage",
+    "z5": "Plates-formes de chargement/déchargement de fumier et fourrage",
+    "z6": "Réacteurs biogaz et couloirs techniques",
+    "z7": "Lagunes à lisier, décanteurs et bassins de décantation",
+    "z8": "Canaux, fosses septiques et goulottes pour lisier",
+    "z9": "Aire de lavage des engins et citernes à lisier",
+    "z10": "Infrastructures agro autour des fermes (zones service)",
+    "link1": "↓ OÙ IL EST UTILISÉ",
+    "link2": "↓ SÉLECTION DU SYSTÈME",
+    "link3": "↓ OFFRE COMMERCIALE"
+  },
+  "manifesto": {
+    "titleLine1": "LES MATIÈRES ORGANIQUES ET LES AGROCHIMIQUES",
+    "titleLine2": "DÉTRUISENT LE BÉTON LE PLUS VITE.",
+    "body": "Le fumier, l'ammoniac, les silos d'engrais, les digestats et l'humidité permanente détruisent le béton standard en quelques années. GEONYX remplace la peinture et les revêtements temporaires par des systèmes minéraux spécialement conçus pour les environnements agro et biogaz."
+  },
+  "blocks": {
+    "problemLabel": "PROBLÈME:",
+    "solutionLabel": "SOLUTION:",
+    "suitableLabel": "Systèmes adaptés:",
+    "b1": {
+      "tag": "ENTREPÔTS D'ENGRAIS",
+      "title": "SILOS ET ENTREPÔTS D'ENGRAIS MINÉRAUX",
+      "problem": "Les engrais minéraux (nitrate d'ammonium, phosphates, sels de potassium) combinés à l'humidité forment un milieu fortement corrosif. Le béton commence à s'émietter et les équipements de chargement aggravent les dégâts.",
+      "solution": "GEONYX CHEM + ARMOR créent une surface minérale dense avec une haute résistance chimique et mécanique. Les détails HYDRO aux joints, murs et drainages stoppent la pénétration des solutions dans la structure.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "FERMES ET ÉTABLES",
+      "title": "FERMES, ÉTABLES ET SALLES DE TRAITE – FUMIER, URINE ET AMMONIAC",
+      "problem": "Dans les étables et salles de traite le sol est en permanence mouillé – fumier, urine, eau de lavage et désinfectants. Le béton est rongé, des trous et des zones glissantes apparaissent.",
+      "solution": "GEONYX HYDRO + CHEM fournissent une surface étanche et chimiquement résistante qui ne se dégrade pas sous l'ammoniac et les matières organiques. ARMOR supporte le trafic des animaux, tracteurs et équipements d'alimentation.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "BIOGAZ ET LAGUNES",
+      "title": "BIOGAZ ET DIGESTAT – MILIEU ACIDE AGRESSIF",
+      "problem": "Dans les installations de biogaz, le béton est en contact avec des digestats, gaz, condensats et une humidité élevée. Béton classique et revêtements résine se fissurent et se décollent.",
+      "solution": "GEONYX CHEM + HYDRO construisent des systèmes minéraux pour cuves à digestat, auges et aires, résistants aux acides organiques et aux gaz. THERM est utilisé dans les zones à températures élevées autour des réacteurs.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "ÉQUARRISSAGE",
+      "title": "ÉQUARRISSAGE ET DÉCHETS ANIMAUX",
+      "problem": "Dans les équarrissages le sol absorbe sang, graisse, eau, solutions de nettoyage agressives et charges lourdes. Les revêtements standards deviennent poreux rapidement et retiennent les odeurs.",
+      "solution": "GEONYX CHEM crée une surface dense et chimiquement résistante sans pores ni microfissures. HYDRO protège les zones à humidité permanente, ARMOR garantit la résistance pour machines et conteneurs.",
+      "systems": "CHEM"
+    },
+    "b5": {
+      "tag": "COMPOSTAGE",
+      "title": "COMPOST ET AIRES OUVERTES DE DÉCHETS",
+      "problem": "Les installations de compostage combinent matière organique, humidité, acidité et trafic de machines lourdes. Le béton se dégrade, des trous boueux apparaissent.",
+      "solution": "GEONYX ARMOR + CHEM construisent une surface minérale résistante à l'usure pour chargeurs et excavateurs. Les détails HYDRO limitent l'infiltration dans le sol.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "tag": "SERRES",
+      "title": "SERRES, HYDROPONIQUE ET AGROCHIMIQUES",
+      "problem": "Dans les serres et systèmes hydroponiques, le sol est en permanence mouillé – solutions nutritives, correcteurs acide/base, irrigation goutte-à-goutte et condensat.",
+      "solution": "GEONYX HYDRO + CHEM fournissent une surface étanche et chimiquement résistante. ARMOR supporte le trafic des chariots. La surface est conçue pour diriger facilement l'eau vers les gouttières.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "ZOOS ET AQUARIUMS",
+      "title": "ZOOS, AQUARIUMS ET BASSINS POUR ANIMAUX",
+      "problem": "Dans les zoos et aquariums, sols et auges subissent eau, excréments, sel, chlore et usure mécanique. Fissures et fuites entraînent des pertes d'eau.",
+      "solution": "GEONYX HYDRO crée des systèmes monolithiques, étanches pour auges et zones humides. CHEM assure la résistance au sel et au chlore. ARMOR protège les passages de service.",
+      "systems": "HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANALYSE ROI",
+    "title": "AUDIT D'INVESTISSEMENT",
+    "colParam": "PARAMÈTRE",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Béton standard avec revêtement",
+    "colEpoxy": "Revêtement époxy / PU",
+    "r1param": "Résistance au fumier, urine et ammoniac",
+    "r1geonyx": "Élevée – configuration minérale CHEM",
+    "r1standard": "Faible – corrosion et émiettement rapides",
+    "r1epoxy": "Moyenne – résine attaquée, durée limitée",
+    "r2param": "Résistance à l'humidité permanente et à la fermentation",
+    "r2geonyx": "Élevée – étanchéité HYDRO",
+    "r2standard": "Moyenne – absorption capillaire et gel",
+    "r2epoxy": "Moyenne – risque de cloques et décollement",
+    "r3param": "Résistance mécanique (chargeurs, tracteurs)",
+    "r3geonyx": "Élevée – ARMOR, >110 MPa",
+    "r3standard": "Moyenne – usure et ornières",
+    "r3epoxy": "Moyenne – sensible aux chocs et rayures",
+    "r4param": "Durée de vie en fonctionnement 24/7",
+    "r4geonyx": "Longue, avec REPAIR local",
+    "r4standard": "Courte – rapiéçages fréquents",
+    "r4epoxy": "Moyenne – renouvellement périodique",
+    "r5param": "Risque de fuites et contamination du sol",
+    "r5geonyx": "Faible – détails étanches HYDRO",
+    "r5standard": "Élevé – fissures et pores",
+    "r5epoxy": "Moyen – dépend de l'adhérence",
+    "r6param": "Temps de réparation / arrêt",
+    "r6geonyx": "Courts créneaux, REPAIR phasé",
+    "r6standard": "Longs arrêts et équipements lourds",
+    "r6epoxy": "Arrêt important pour renouvellement",
+    "r7param": "Coût total du cycle de vie",
+    "r7geonyx": "Inférieur sur horizon 10+ ans",
+    "r7standard": "Faible initialement, élevé à long terme",
+    "r7epoxy": "Moyen – coûts significatifs tous les 5–7 ans"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "OÙ IL EST UTILISÉ",
+    "subtitle": "Les systèmes GEONYX couvrent l'ensemble du cycle – des entrepôts d'engrais et fermes au biogaz, compost et zoos.",
+    "a1title": "Entrepôts d'engrais minéraux",
+    "a1desc": "Aires intérieures et extérieures pour nitrate d'ammonium, phosphates et engrais composés.",
+    "a2title": "Fermes, étables et salles de traite",
+    "a2desc": "Couloirs, cases, lignes de traite et cours pour animaux.",
+    "a3title": "Serres et hydroponique",
+    "a3desc": "Allées de production, couloirs techniques et zones de préparation de solutions.",
+    "a4title": "Installations biogaz",
+    "a4desc": "Cuves à digestat, auges, plates-formes de service et fosses de réception.",
+    "a5title": "Installations de compostage",
+    "a5desc": "Aires de compost, dépôts temporaires et pistes pour chargeurs.",
+    "a6title": "Équarrissage et déchets animaux",
+    "a6desc": "Zones de réception, traitement, lavage et stockage temporaire.",
+    "a7title": "Zoos et aquariums",
+    "a7desc": "Bassins pour animaux, couloirs de service et salles humides.",
+    "a8title": "Lagunes, canaux et drainage",
+    "a8desc": "Canaux à lisier, lagunes et goulottes de drainage autour des sites agro."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "SÉLECTION DU SYSTÈME GEONYX",
+    "subtitle": "Dans les projets agro et biogaz, la sélection du système dépend de la combinaison fumier/ammoniac, humidité, trafic et régime de température.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Systèmes minéraux à haute résistance chimique contre fumier, ammoniac, acides organiques, agrochimiques et digestat.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Solutions étanches pour lagunes, canaux, zones de lavage et surfaces en permanence humides.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Sols mécaniquement résistants pour trafic lourd – tracteurs, chargeurs, remorques et conteneurs.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Systèmes pour zones à températures élevées autour des réacteurs, tuyaux et procédés chauds.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Solutions géopolymères rapides pour la réparation locale du béton corrodé et des joints."
+  },
+  "workflow": {
+    "eyebrow": "PROCESSUS",
+    "title": "PROCESSUS D'EXÉCUTION",
+    "w1step": "01",
+    "w1title": "Inspection du site et prélèvements",
+    "w1desc": "Évaluation du béton existant, des environnements agressifs et du régime de nettoyage.",
+    "w2step": "02",
+    "w2title": "Zonage par fonction et risque",
+    "w2desc": "Division en zones: entrepôt d'engrais, fermes, étables, traite, biogaz, compost, équarrissage, zoo.",
+    "w3step": "03",
+    "w3title": "Sélection du système GEONYX",
+    "w3desc": "Sélection de ARMOR / CHEM / HYDRO / THERM / REPAIR pour chaque zone.",
+    "w4step": "04",
+    "w4title": "Préparation du support et détails",
+    "w4desc": "Préparation mécanique, traitement des joints, canaux, siphons et détails critiques.",
+    "w5step": "05",
+    "w5title": "Pose par phases",
+    "w5desc": "Systèmes posés par phases pour que la ferme continue de fonctionner.",
+    "w6step": "06",
+    "w6title": "Contrôle et instructions d'exploitation",
+    "w6desc": "Inspection, documentation et formation au nettoyage et à la maintenance."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTATION COMMERCIALE",
+    "title": "OFFRE COMMERCIALE",
+    "titleSub": "(B2B / B2G)",
+    "description": "Pour les sites agro, biogaz et engrais, GEONYX prépare un dossier technique complet pour investisseurs, banques, autorités de contrôle et marchés publics.",
+    "qualityTitle": "GARANTIE QUALITÉ",
+    "qualityDesc": "Tous les documents sont conformes aux Eurocodes et normes en vigueur.",
+    "i1": "Zonage par agressivité – fumier, engrais, digestat, agrochimiques",
+    "i2": "Description des systèmes ARMOR / CHEM / HYDRO / THERM / REPAIR par zone",
+    "i3": "Détails pour lagunes, canaux, silos et drainage",
+    "i4": "Évaluation des risques de fuite et mesures de protection du sol",
+    "i5": "Planning d'exécution recommandé sans arrêt total",
+    "i6": "Conditions de garantie et instructions de nettoyage et maintenance"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1name": "Agro & Biogas Floors Guide",
+    "d1sub": "Systèmes de sol GEONYX (PDF)",
+    "d2name": "Fertilizer Warehouses Spec",
+    "d2sub": "Exigences techniques (PDF)",
+    "d3name": "Manure & Lagoon Protection",
+    "d3sub": "Protection des lagunes (PDF)",
+    "d4name": "Zoo & Aquatic Surfaces",
+    "d4sub": "Systèmes pour zoos (PDF)"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "q1": "LES SYSTÈMES GEONYX RÉSISTERONT-ILS AU FUMIER, À L'URINE ET À L'AMMONIAC À LONG TERME?",
+    "a1": "Oui. Les configurations CHEM sont conçues pour l'acidité organique, l'ammoniac et les agrochimiques. Lors de l'audit nous choisissons le système adapté à vos processus.",
+    "q2": "PEUT-ON CONTINUER À TRAVAILLER DANS LA FERME OU L'INSTALLATION BIOGAZ PENDANT LES TRAVAUX?",
+    "a2": "Généralement – oui. Nous concevons une exécution phasée de sorte que seules des zones individuelles soient fermées.",
+    "q3": "LES SYSTÈMES CONVIENNENT-ILS AUX ESPACES EXTÉRIEURS ET AUX LAGUNES EXTERNES?",
+    "a3": "Oui. Les configurations HYDRO et ARMOR sont développées pour les conditions extérieures, les cycles gel/dégel et le trafic lourd."
+  },
+  "cta": {
+    "title": "ZONAGE COMPLET DU SITE",
+    "description": "Chaque site a des risques spécifiques. Nous intégrons 6 matrices spécialisées en un seul système: de la mécanique, chimie et thermique, à l'étanchéité, l'antistatique et l'architecture.",
+    "btn": "VOIR TOUS LES SYSTÈMES INGÉNIERIE"
+  }
+}

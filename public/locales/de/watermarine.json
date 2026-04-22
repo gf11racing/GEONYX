@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "GEONYX | Wasser, Abwasser & Meeresinfrastruktur – Hydro- und Korrosionsschutz",
+    "description": "GEONYX entwickelt mineralische Schutzsysteme für Trinkwasser, Kläranlagen (WWTP), Kanalisation, Reservoirs, Staudämme und Meeresinfrastruktur – beständig gegen hydrostatischen Druck, Chloride, Kavitation und biogene Korrosion. Dauerhafter Betonschutz in aggressiven Wasserumgebungen."
+  },
+  "tender": {
+    "text": "Wasserbauliche Anlagen und Flächen mit Wasserkontakt (Trink-, Abwasser oder Meerwasser) sind mit mineralischen Geopolymersystemen vom Typ GEONYX oder gleichwertig zu schützen. Das System muss Wasserdichtigkeit (W20), Beständigkeit gegen positiven und negativen Druck, Sulfatbeständigkeit und (soweit anwendbar) Zulassung für Trinkwasserkontakt oder Chloridbeständigkeit für Meeresumgebungen bieten.",
+    "copy": "AUSSCHREIBUNGSTEXT KOPIEREN",
+    "copied": "TEXT KOPIERT!"
+  },
+  "hero": {
+    "eyebrow": "WASSER, ABWASSER & MEERESINFRASTRUKTUR",
+    "titleLine1": "WASSERDICHTIGKEIT",
+    "titleLine2": "UNTER DRUCK",
+    "description": "Schutz des Betons vor Erosion, Carbonatisierung und Chloridangriff. Lösungen für Staudämme, Kläranlagen und Häfen – auch unter Wasser ausführbar.",
+    "btn1": "HYDRO-KATALOG HERUNTERLADEN",
+    "btn2": "OBJEKTINSPEKTION ANFRAGEN"
+  },
+  "scope": {
+    "title": "ANWENDUNGSBEREICH",
+    "zonesLabel": "ZONEN:",
+    "systemsLabel": "SYSTEME:",
+    "z1": "Kläranlagen für Abwasser (WWTP)",
+    "z2": "Pumpstationen und Abwasserpumpwerke",
+    "z3": "Trinkwasserbehälter und Reinwasserkammern",
+    "z4": "Staumauern, Überlaufbauwerke und Grundablässe",
+    "z5": "Druckrohrleitungen, Tunnel und Druckschächte",
+    "z6": "Kanäle, Sammler und Revisionsschächte für Abwasser",
+    "z7": "Absetz-, Belüftungs- und Biobecken",
+    "z8": "Häfen, Kais und Uferschutzbauwerke",
+    "z9": "Trockendocks, Schiffsdocks und Dockkammern",
+    "z10": "See- und Flusssperren, Schiffskanäle und Wasserbaugalerien",
+    "link1": "↓ EINSATZBEREICHE",
+    "link2": "↓ SYSTEMAUSWAHL",
+    "link3": "↓ ANGEBOTSPAKET"
+  },
+  "manifesto": {
+    "titleLine1": "WASSER IST DER HARTNÄCKIGSTE",
+    "titleLine2": "ZERSTÖRER.",
+    "body": "Druck, Kavitation, Chloride, Sulfate und Frost greifen Betoninfrastruktur rund um die Uhr an. GEONYX bietet wasserbautechnische Geopolymere, die eine wasserdichte Barriere (W20) bilden, die Bewehrungskorrosion stoppen und aggressiven Wässern standhalten. Von Trinkwasserbehältern bis zu Kläranlagen und Meereskais."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEM:",
+    "solutionLabel": "LÖSUNG:",
+    "suitableLabel": "Geeignete Systeme:",
+    "b1": {
+      "tag": "KLÄRANLAGEN",
+      "title": "BIOGENE KORROSION UND SULFATE",
+      "problem": "In Kläranlagen (WWTP) wird Schwefelwasserstoff durch Bakterien in Schwefelsäure umgewandelt (biogene Korrosion). Diese greift den Beton an, legt die Bewehrung frei und führt zu Strukturschäden.",
+      "solution": "GEONYX HYDRO + CHEM bilden eine Schutzschicht mit hoher Sulfatbeständigkeit und Immunität gegen Säuren (pH 1–14). Die glatte Oberfläche verbessert die Hydraulik und verhindert Schlammablagerungen.",
+      "systems": "HYDRO, CHEM"
+    },
+    "b2": {
+      "tag": "STAUMAUERN",
+      "title": "HYDROSTATISCHER DRUCK UND FROST",
+      "problem": "Staumauern und Überlaufbauwerke sind enormem Wasserdruck, Frost-Tau-Wechseln und Wasserabrasion ausgesetzt. Risse und Undichtigkeiten können die Mauerstabilität gefährden.",
+      "solution": "GEONYX HYDRO bietet Wasserdichtigkeit bei hohem Druck (W20) und Frostbeständigkeit (XF4). Das System kann auch unter Wasser aufgetragen und ausgehärtet werden, was Reparaturen ohne Entleeren des Stausees ermöglicht.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "MEERESUMGEBUNG",
+      "title": "SALZ, WELLEN UND CHLORIDKORROSION",
+      "problem": "In Häfen und Kais treibt Meerwasser Chloride in den Beton, die die Bewehrung erreichen und Korrosion (Abplatzungen) verursachen. Wellen und Gezeiten erzeugen mechanischen Verschleiß.",
+      "solution": "GEONYX HYDRO schafft eine dichte Barriere, die die Chloridmigration zur Bewehrung stoppt. Das System ist beständig gegen Salzwasser und mechanische Einwirkungen durch Schiffe und Treibgut.",
+      "systems": "HYDRO"
+    },
+    "b4": {
+      "tag": "TRINKWASSER",
+      "title": "TRINKWASSERBEHÄLTER UND SICHERHEIT",
+      "problem": "Trinkwasserbehälter müssen absolut glatt sein, um keine Bakterien zurückzuhalten, und vollständig inert. Alter Beton wird rau und saugfähig.",
+      "solution": "GEONYX HYDRO ist für Trinkwasserkontakt zertifiziert. Die mineralische Matrix enthält keine Lösungsmittel oder Giftstoffe. Die Oberfläche ist glatt, leicht zu reinigen und verhindert Mikroorganismenwachstum.",
+      "systems": "HYDRO"
+    },
+    "b5": {
+      "tag": "KANALISATION",
+      "title": "KANALISATION UND SAMMLER",
+      "problem": "Kanäle und Sammler sind aggressivem Abwasser, Sand und biogener Schwefelsäure ausgesetzt, die den Beton im oberen Teil des Rohres angreift.",
+      "solution": "GEONYX CHEM bietet Schutz gegen Säureangriff, während HYDRO die Wasserdichtigkeit von Verbindungen und Revisionsschächten gewährleistet. Das System ist abriebbeständig gegen Schwebstoffe.",
+      "systems": "CHEM, HYDRO"
+    },
+    "b6": {
+      "tag": "AQUAPARKS",
+      "title": "AQUAPARKS UND SCHWIMMBÄDER",
+      "problem": "Chlor, Ozon und ständige Feuchtigkeit greifen die Fliesenfugen an. Die darunter liegende Abdichtung versagt häufig, was zu Undichtigkeiten und kostspieligen Reparaturen führt.",
+      "solution": "GEONYX HYDRO ist ein fugenloses, monolithisches System, das gleichzeitig als Abdichtung und als Deckschicht mit ästhetischer Wirkung und Rutschhemmung dient. Beständig gegen UV und Poolchemikalien.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "INDUSTRIEWASSER",
+      "title": "INDUSTRIELLE KÜHLTÜRME",
+      "problem": "Prozesswasser mit Chemikalien, hohe Temperaturen und ständige Durchnässung zerstören den Beton von Kühltürmen und Prozesswasserbehältern.",
+      "solution": "GEONYX THERM + CHEM bieten Beständigkeit gegen Temperaturschwankungen und chemische Zusätze im Wasser. Das System schützt die Bewehrung vor Korrosion und verlängert die Lebensdauer der Anlage.",
+      "systems": "CHEM, THERM"
+    },
+    "b8": {
+      "tag": "KÜSTENSCHUTZ",
+      "title": "KÜSTENSCHUTZ UND WELLENBRECHER",
+      "problem": "Erosion durch Wellen, Salz und mechanische Einwirkungen von Treibgut zerstören Küstenschutzbauwerke. Standardbeton verschleißt im Gezeitenbereich schnell.",
+      "solution": "Hochfeste GEONYX ARMOR (Marine) Mörtel zur Geometriewiederherstellung und zum Schutz vor Wellenabrasion. Beständig gegen Sulfate und Chloride.",
+      "systems": "ARMOR, HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI-ANALYSE",
+    "title": "INVESTITIONSAUDIT",
+    "colParam": "PARAMETER",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Standardbeton / Putz",
+    "colPolymer": "Bitumen- / Polymerbeschichtung",
+    "r1param": "Wasserdichtigkeit (DIN 1048)",
+    "r1geonyx": "Klasse W20, 0 mm Eindringtiefe bei 5 Bar",
+    "r1standard": "Hohe Durchlässigkeit unter Druck",
+    "r1polymer": "Teilschutz, Risiko von Mikrodurchbrüchen",
+    "r2param": "Beständigkeit gegen negativen Druck",
+    "r2geonyx": "Monolithische Verbindung, keine Delamination",
+    "r2standard": "Nicht für Gegendruck ausgelegt",
+    "r2polymer": "Hohes Ablöse- und Blasenbildungsrisiko",
+    "r3param": "Unterwasserauftrag",
+    "r3geonyx": "Möglich, mit Tauchern und Lokal­reparaturen",
+    "r3standard": "Nicht anwendbar",
+    "r3polymer": "Üblicherweise unmöglich, erfordert trockene Fläche",
+    "r4param": "Lebensdauer im Wasserbau",
+    "r4geonyx": "≥ 20 Jahre bei fachgerechter Wartung",
+    "r4standard": "Häufige Reparaturen und Injektionen",
+    "r4polymer": "5–10 Jahre bis zur umfassenden Sanierung",
+    "r5param": "Einfluss auf NRW und Verluste",
+    "r5geonyx": "Deutliche Reduzierung von Leckagen",
+    "r5standard": "Keine wirkliche Kontrolle über Verluste",
+    "r5polymer": "Begrenzter Effekt, kurzer Horizont"
+  },
+  "applications": {
+    "eyebrow": "ANWENDUNGEN",
+    "title": "EINSATZBEREICHE",
+    "subtitle": "Von industriellen Kläranlagen bis zu Meeresleuchttürmen und Trinkwasserbehältern.",
+    "a1title": "Kläranlagen (WWTP)",
+    "a1desc": "Belebungsbecken, Absetzbecken, Kanäle und Pumpstationen.",
+    "a2title": "Trinkwasser und Reservoirs",
+    "a2desc": "Wasserkörper, Türme, Behälter und Verteilerschächte.",
+    "a3title": "Staumauern und Wasserkraft",
+    "a3desc": "Überlaufbauwerke, Druckrohrleitungen, Sperren und Wassertürme.",
+    "a4title": "Häfen und Kais",
+    "a4desc": "Kaimauern, Pfähle, Wellenbrecher und Docks.",
+    "a5title": "Kanalisation und Sammler",
+    "a5desc": "Hauptsammler, Revisionsschächte und Entwässerungskanäle.",
+    "a6title": "Aquaparks und Schwimmbäder",
+    "a6desc": "Schwimmbecken, Wasserrutschen und angrenzende Bereiche.",
+    "a7title": "Meeresschutz",
+    "a7desc": "Küstenschutzbauwerke, Leuchttürme und Offshore-Plattformen.",
+    "a8title": "Industriewasser",
+    "a8desc": "Kühltürme, Prozesswasserbehälter und Neutralisationsanlagen."
+  },
+  "workflow": {
+    "eyebrow": "PROZESS",
+    "title": "AUSFÜHRUNGSPROZESS",
+    "w1step": "01",
+    "w1title": "Wasserbautechnische Prüfung",
+    "w1desc": "Inspektion der Anlage, Messung von Carbonatisierung, Chloriden und Betondruckfestigkeit. Unterwasserinspektion bei Bedarf.",
+    "w2step": "02",
+    "w2title": "Schutzplanung",
+    "w2desc": "Auswahl des GEONYX HYDRO-Systems entsprechend Wasseraggression, Druck und mechanischen Belastungen.",
+    "w3step": "03",
+    "w3title": "Untergrundvorbereitung",
+    "w3desc": "Hydrostrahlen (2500 bar) zur Entfernung von geschädigtem Beton und Reinigung der Bewehrung.",
+    "w4step": "04",
+    "w4title": "Geometriewiederherstellung",
+    "w4desc": "Reprofilierung abgeplatzter Bereiche mit hochfesten Geopolymermörteln (R4).",
+    "w5step": "05",
+    "w5title": "Auftrag des Schutzsystems",
+    "w5desc": "Aufbringen der GEONYX HYDRO-Membran – von Hand oder maschinell (Spritzbeton), auch unter Wasser.",
+    "w6step": "06",
+    "w6title": "Qualitätskontrolle und Inbetriebnahme",
+    "w6desc": "Haft- und Wasserdichtigkeitsprüfungen. Ausstellung von Zertifikaten und Gewährleistung."
+  },
+  "offer": {
+    "eyebrow": "HANDELSDOKUMENTATION",
+    "title": "ANGEBOTSPAKET",
+    "titleSub": "(B2B / B2G)",
+    "description": "Für Wasserversorger, Kommunen und Industriebetreiber bereitet GEONYX ein vollständiges Dokumentenpaket für Ausschreibungen und Direktvergaben vor.",
+    "qualityTitle": "QUALITÄTSGARANTIE",
+    "qualityDesc": "Alle Dokumente entsprechen EN 1504 und nationalen Normen.",
+    "i1": "Technische Spezifikation für Abdichtung und Betonschutz",
+    "i2": "Details für Fugenbehandlung, Durchdringungen und Risssanierung",
+    "i3": "Arbeitsorganisationsplan (inkl. Unterwasserarbeiten)",
+    "i4": "Materialzertifikate (EN 1504-2, Trinkwasser)",
+    "i5": "Leistungsverzeichnis (LV)",
+    "i6": "Gewährleistungsbedingungen und Betriebsplan"
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "GEONYX-SYSTEMAUSWAHL",
+    "subtitle": "Für Wasserbauwerke kombiniert GEONYX HYDRO, CHEM, ARMOR und REPAIR je nach Wassertyp, Druck und Umgebungsaggression.",
+    "s1name": "GEONYX HYDRO",
+    "s1desc": "Spezialisierte Systeme für Wasserdichtigkeit (W20), beständig gegen positiven und negativen hydrostatischen Druck.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Mineralischer Schutz gegen biogene Korrosion, Sulfate und Säuren in Kläranlagen und Kanalisation.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Hochfeste Lösungen für Bereiche mit Kavitation, Abrasion und mechanischem Schlag in Überlaufbauwerken und Häfen.",
+    "s4name": "GEONYX REPAIR",
+    "s4desc": "Geopolymermörtel zur konstruktiven Instandsetzung von abgeplatzetem Beton und korrodierter Bewehrung.",
+    "s5name": "GEONYX PURE",
+    "s5desc": "Zertifizierte Systeme für Trinkwasserkontakt, die Mikroorganismenwachstum verhindern."
+  },
+  "docs": {
+    "title": "Dokumentation",
+    "d1name": "Water & WWTP",
+    "d1sub": "GEONYX-Systeme (PDF)",
+    "d2name": "Marine & Coastal",
+    "d2sub": "Schutzlösungen (PDF)",
+    "d3name": "Drinking Water",
+    "d3sub": "Zertifikate (PDF)",
+    "d4name": "Technical Data",
+    "d4sub": "EN 1504-2 (PDF)"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "q1": "KÖNNEN GEONYX-SYSTEME UNTER WASSER AUFGETRAGEN WERDEN?",
+    "a1": "Ja, bestimmte Konfigurationen von GEONYX HYDRO sind für den Auftrag und die Aushärtung unter Wasser durch Taucherteams konzipiert, was Reparaturen an Staumauern und Kais ohne Entleeren des Stausees ermöglicht.",
+    "q2": "SIND DIE MATERIALIEN FÜR DEN TRINKWASSERKONTAKT SICHER?",
+    "a2": "Ja, GEONYX HYDRO besitzt Zertifikate für den Trinkwasserkontakt. Sein mineralischer Charakter gibt keine Giftstoffe ab, enthält keine Lösungsmittel und verändert weder Geschmack noch Zusammensetzung des Wassers.",
+    "q3": "WIE HOCH IST DIE BESTÄNDIGKEIT GEGEN MEERWASSER UND CHLORIDE?",
+    "a3": "Außerordentlich hoch. Die Systeme sind darauf ausgelegt, die Chloriddiffusion zu stoppen und die Bewehrung vor Korrosion zu schützen, auch in aggressiver Salzumgebung und Gezeitenbereichen."
+  },
+  "cta": {
+    "title": "UMFASSENDES OBJEKT-ZONING",
+    "description": "Jedes Wasserbauwerk hat spezifische Risiken. Wir integrieren spezialisierte Matrizen in ein System: von Wasserdichtigkeit unter Druck und chemischer Beständigkeit bis zu Abriebbeständigkeit und Trinkwasserkontakt. Eine Technologie, die 100 % Bedarfsabdeckung garantiert.",
+    "btn": "ALLE SYSTEME ENTDECKEN"
+  }
+}

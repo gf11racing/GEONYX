@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "GEONYX | Références – Projets industriels réalisés et sites",
+    "description": "Références et projets réalisés avec les systèmes GEONYX – sols industriels, protection chimique, protection contre l'eau et sécurité thermique pour l'industrie lourde, l'agroalimentaire et la pharmacie, la logistique, l'énergie et l'infrastructure. Solutions durables pour zones critiques."
+  },
+  "hero": {
+    "eyebrow": "RAPPORTS OPÉRATIONNELS",
+    "titleLine1": "ARCHIVE",
+    "titleLine2": "OPÉRATIONNEL.",
+    "description": "PAS DE PROMESSES. DES FAITS D'INGÉNIERIE. Découvrez comment les technologies GEONYX transforment des substrats industriels gravement compromis en systèmes monolithiques indestructibles.",
+    "btnReports": "CONSULTER LES RAPPORTS"
+  },
+  "slider": {
+    "eyebrow": "CONTRÔLE VISUEL",
+    "title": "DE LA RUINE AU MONOLITHE",
+    "instruction": "FAITES GLISSER POUR VOIR LA TRANSFORMATION STRUCTURELLE",
+    "labelAfter": "APRÈS : GEONYX ARMOR",
+    "labelBefore": "AVANT : BÉTON DÉGRADÉ"
+  },
+  "metrics": {
+    "m1value": "500 000 m²+",
+    "m1label": "SYSTÈMES INSTALLÉS",
+    "m2value": "100%",
+    "m2label": "FOCUS INDUSTRIEL",
+    "m3value": "0",
+    "m3label": "COMPROMIS SUR LA QUALITÉ"
+  },
+  "cases": {
+    "problemLabel": "PROBLÈME",
+    "resultLabel": "RÉSULTAT",
+    "applyBtn": "DEMANDER UNE INSPECTION D'INGÉNIERIE",
+    "case1": {
+      "eyebrow": "Case #001",
+      "sector": "SECTEUR AGRO",
+      "title": "ÉLEVAGE INTENSIF",
+      "solutionLabel": "SOLUTION : GEONYX CHEM",
+      "problem": "L'acide biogène agressif (pH < 3) et l'ammoniac du lisier avaient rongé le béton standard jusqu'à l'armature en moins de 3 ans. Les joints compromis généraient des pathogènes.",
+      "s1title": "Immunité aux acides organiques :",
+      "s1desc": "Inertie totale vis-à-vis de l'urine et de l'acide lactique.",
+      "s2title": "Monolithe bactériostatique :",
+      "s2desc": "Système sans joint ni pore, éliminant le développement du biofilm.",
+      "s3title": "Sécurité zootechnique :",
+      "s3desc": "Texture de profil R12 assurant l'adhérence pour les sabots.",
+      "result": "Corrosion structurelle stoppée. L'exploitation réussit les audits vétérinaires les plus stricts et les traumatismes sont réduits à zéro."
+    },
+    "case2": {
+      "eyebrow": "Case #002",
+      "sector": "MÉTALLURGIE",
+      "title": "MÉCANIQUE LOURDE",
+      "solutionLabel": "SOLUTION : GEONYX ARMOR",
+      "problem": "La dalle de béton était saturée d'huiles hydrauliques sur 50 mm de profondeur. Les vibrations de presses de 200 tonnes et les chocs de pièces métalliques tombantes avaient transformé les joints en cratères.",
+      "s1title": "Fraisage chimique :",
+      "s1desc": "Extraction en profondeur des huiles du béton par des primaires spéciaux.",
+      "s2title": "Absorption des vibrations :",
+      "s2desc": "Application d'une matrice géopolymère ductile (12 mm).",
+      "s3title": "Ingénierie sans joint :",
+      "s3desc": "Élimination de tous les points faibles du sol.",
+      "result": "5 ans d'exploitation sous charge vibratoire 24/7. Zéro perte de volume."
+    },
+    "case3": {
+      "eyebrow": "Case #003",
+      "sector": "USINE CHIMIQUE",
+      "title": "AGRESSION CHIMIQUE EXTRÊME",
+      "solutionLabel": "SOLUTION : GEONYX CHEM",
+      "problem": "Des fuites de production d'acide sulfurique concentré (H₂SO₄ 98%) détruisaient le béton en quelques semaines. Les revêtements époxy conventionnels gonflaient, se décollaient et créaient un risque de catastrophe environnementale.",
+      "s1title": "Bouclier minéral :",
+      "s1desc": "Inertie totale vis-à-vis des acides concentrés et des solvants agressifs.",
+      "s2title": "Rétention secondaire :",
+      "s2desc": "Construction d'une cuvette impénétrable (certifiée WHG).",
+      "s3title": "Sécurité ATEX :",
+      "s3desc": "Finition antistatique pour prévenir les explosions.",
+      "result": "La production est protégée contre les amendes environnementales. 100% de rétention des déversements en surface."
+    },
+    "case4": {
+      "eyebrow": "Case #004",
+      "sector": "LOGISTIQUE",
+      "title": "HUB LOGISTIQUE À HAUTE CHARGE",
+      "solutionLabel": "SOLUTION : GEONYX ARMOR (RAPID)",
+      "problem": "Besoin critique de réhabiliter 2 000 m² d'une zone de chargement active. Joints entièrement compromis par le trafic de chariots à mât rétractable. Chaque minute d'arrêt logistique coûtait des dizaines de milliers d'euros.",
+      "s1title": "Chrono-ingénierie :",
+      "s1desc": "Utilisation d'accélérateurs pour une polymérisation extrêmement rapide (4–6 heures).",
+      "s2title": "Zonage :",
+      "s2desc": "Travail par sections sans interrompre les couloirs adjacents.",
+      "s3title": "Résistance au cisaillement :",
+      "s3desc": "Protection contre les petites roues dures des transpalettes.",
+      "result": "Le sol a été fraisé et posé le samedi soir. Le dimanche matin (moins de 12 heures plus tard), les chariots élévateurs opéraient sur la nouvelle surface."
+    }
+  },
+  "clients": {
+    "label": "LEADERS INDUSTRIELS QUI ONT INTÉGRÉ GEONYX"
+  },
+  "cta": {
+    "title": "ANALYSEZ VOTRE RISQUE.",
+    "subtitle": "N'attendez pas qu'une défaillance structurelle arrête votre production. Demandez une expertise technique à notre ingénieur.",
+    "btn": "DEMANDER UNE INSPECTION D'INGÉNIERIE"
+  }
+}

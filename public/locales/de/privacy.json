@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Datenschutzrichtlinie | GEONYX GROUP",
+    "description": "Datenschutzrichtlinie der GEONYX GROUP LTD – wie wir personenbezogene Daten gemäß DSGVO erheben, speichern und verarbeiten."
+  },
+  "header": {
+    "eyebrow": "RECHTSPROTOKOLL 07",
+    "title": "DATENSCHUTZRICHTLINIE",
+    "subtitle": "DIE SICHERHEIT IHRER INFORMATIONEN IST GARANTIERT."
+  },
+  "block1": {
+    "title": "VERANTWORTLICHER",
+    "body": "Ihre Daten werden von der \"GEONYX GROUP\" GmbH als Verantwortlichem in strikter Einhaltung der Verordnung (EU) 2016/679 (DSGVO) verwaltet. Wir tragen die volle rechtliche Verantwortung für den Schutz Ihrer Informationen."
+  },
+  "block2": {
+    "title": "INDUSTRIEGEHEIMNIS (NDA)",
+    "body": "Wir verstehen die Besonderheiten der Arbeit in gesicherten Anlagen und Produktionsstätten. Die \"GEONYX GROUP\" GmbH garantiert vollständige Vertraulichkeit. Kein Teil Ihrer Zeichnungen, Verfahrensschemata oder Standortfotos wird ohne Ihre ausdrückliche schriftliche Zustimmung an Dritte weitergegeben."
+  },
+  "block3": {
+    "title": "ZWECK DER DATEN",
+    "intro": "Wir erheben ausschließlich technische und Kontaktinformationen, die erforderlich sind für:",
+    "li1": "Die Erstellung präziser technischer Spezifikationen und Angebote.",
+    "li2": "Die Ausstellung von Garantiedokumenten.",
+    "li3": "Die Bereitstellung von Nachgarantieservice."
+  },
+  "footer": {
+    "note": "Dieses Dokument gilt gemäß den Allgemeinen Geschäftsbedingungen der \"GEONYX GROUP\" GmbH. Kontakt zur Rechtsabteilung:"
+  }
+}

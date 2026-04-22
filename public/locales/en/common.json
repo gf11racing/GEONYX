@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "solutions": "SOLUTIONS",
+    "systems": "SYSTEMS",
+    "techCenter": "TECHNICAL CENTER",
+    "references": "REFERENCES",
+    "company": "COMPANY",
+    "contacts": "CONTACTS",
+    "projectInquiry": "PROJECT INQUIRY"
+  },
+  "navChildren": {
+    "heavy": "Heavy Industry",
+    "food": "Food & Pharma",
+    "agro": "Agro & Ecology",
+    "water": "Water Infrastructure",
+    "energy": "Energy & Mining",
+    "transport": "Transport & Parking",
+    "urban": "Urban Environment",
+    "archZone": "Architectural Zone",
+    "techMaps": "Technical Maps",
+    "cadBim": "CAD & BIM Details",
+    "certs": "Certificates",
+    "aboutMain": "About Us",
+    "careers": "Careers",
+    "hseq": "HSEQ & Sustainability"
+  },
+  "mega": {
+    "solutions": {
+      "heavy": {
+        "title": "HEAVY INDUSTRY & LOGISTICS",
+        "desc": "Floors and systems for extreme mechanical loads.",
+        "badge": "EXTREME LOADS"
+      },
+      "food": {
+        "title": "FOOD, BEVERAGES, PHARMA & HYGIENE",
+        "desc": "Hygiene without compromise. Seamless, easy-to-clean floors.",
+        "badge": "HYGIENE CONTROL"
+      },
+      "agro": {
+        "title": "AGRO, BIOGAS, FERTILISERS & ANIMAL ENVIRONMENTS",
+        "desc": "Protection from organic acids, manure, ammonia and aggressive juices.",
+        "badge": "ORGANIC AGGRESSION"
+      },
+      "water": {
+        "title": "WATER, WASTEWATER & MARINE INFRASTRUCTURE",
+        "desc": "100% waterproofing and resistance to salts and erosion.",
+        "badge": "WATER PROTECTION"
+      },
+      "energy": {
+        "title": "ENERGY, MINING & HEAVY PROTECTION",
+        "desc": "Non-combustible and chemically resistant systems.",
+        "badge": "CRITICAL INFRASTRUCTURE"
+      },
+      "transport": {
+        "title": "TRANSPORT, PARKING, GARAGES & TRAFFIC",
+        "desc": "High-grip floors and ramps, resistant to brine and salts.",
+        "badge": "HIGH-TRAFFIC ZONES"
+      },
+      "urban": {
+        "title": "URBAN ENVIRONMENT, CONSTRUCTION & HIGH TECHNOLOGY",
+        "desc": "UHPC solutions for facades and urban environments.",
+        "badge": "URBAN INFRASTRUCTURE"
+      }
+    },
+    "techCenter": {
+      "archZone": {
+        "title": "ARCHITECTURAL ZONE",
+        "desc": "Textures, PBR maps and visual assets for design.",
+        "label": "DESIGN RESOURCES",
+        "heroTitle": "DESIGN CENTER",
+        "buttonText": "TO THE GALLERY",
+        "badge": "DESIGN SUPPORT"
+      },
+      "techMaps": {
+        "title": "TECHNICAL MAPS",
+        "desc": "Detailed specifications (TDS) and MSDS for all systems.",
+        "label": "SPECIFICATIONS",
+        "heroTitle": "DOC CENTER",
+        "buttonText": "DOWNLOAD TDS",
+        "badge": "TECHNICAL DOCUMENTATION"
+      },
+      "cadBim": {
+        "title": "CAD & BIM LIBRARY",
+        "desc": "Ready system details in .DWG and Revit format.",
+        "label": "INTEGRATION",
+        "heroTitle": "CAD / BIM ASSETS",
+        "buttonText": "REQUEST ACCESS",
+        "badge": "BIM & ENGINEERING MODELS"
+      },
+      "certs": {
+        "title": "CERTIFICATES",
+        "desc": "HACCP, ISO and declarations of performance.",
+        "label": "COMPLIANCE",
+        "heroTitle": "CERTIFICATION",
+        "buttonText": "VIEW CERTIFICATES",
+        "badge": "COMPLIANCE & CERTIFICATION"
+      }
+    },
+    "about": {
+      "main": {
+        "title": "ABOUT US",
+        "desc": "Philosophy of innovation and sustainable development.",
+        "label": "ABOUT THE COMPANY",
+        "heroTitle": "ABOUT US",
+        "buttonText": "LEARN MORE",
+        "badge": "THE COMPANY"
+      },
+      "careers": {
+        "title": "CAREERS & DEVELOPMENT",
+        "desc": "Become part of the GEONYX team.",
+        "label": "TEAM & DEVELOPMENT",
+        "heroTitle": "CAREERS AT GEONYX",
+        "buttonText": "OPEN POSITIONS",
+        "badge": "PROFESSIONAL DEVELOPMENT"
+      },
+      "hseq": {
+        "title": "HSEQ & SUSTAINABILITY",
+        "desc": "Our commitments to health, safety and the environment.",
+        "label": "RESPONSIBILITY",
+        "heroTitle": "SAFETY STANDARDS",
+        "buttonText": "VIEW MORE",
+        "badge": "SAFETY & SUSTAINABILITY"
+      }
+    },
+    "systems": {
+      "armor": {
+        "title": "GEONYX ARMOR (MECHANICAL RESISTANCE)",
+        "desc": "Mechanical resistance and industrial floors.",
+        "tech": "MECHANICAL PROTECTION"
+      },
+      "chem": {
+        "title": "GEONYX CHEM (CHEMICAL PROTECTION)",
+        "desc": "Protection from aggressive chemicals and fuels.",
+        "tech": "CHEMICAL PROTECTION"
+      },
+      "hydro": {
+        "title": "GEONYX HYDRO (WATER PROTECTION)",
+        "desc": "Waterproof and hydrotechnical systems.",
+        "tech": "WATERPROOFING"
+      },
+      "therm": {
+        "title": "GEONYX THERM (THERMAL SAFETY)",
+        "desc": "Non-combustible solutions for fire and thermal risk.",
+        "tech": "THERMAL PROTECTION"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Industrial geopolymer solutions for critical infrastructure.",
+    "solutions": "SOLUTIONS",
+    "systems": "SYSTEMS",
+    "company": "COMPANY",
+    "legal": "LEGAL",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "allRightsReserved": "All rights reserved."
+  },
+  "buttons": {
+    "learnMore": "LEARN MORE",
+    "requestInspection": "REQUEST ENGINEERING AUDIT",
+    "downloadTDS": "DOWNLOAD TDS",
+    "contactEngineer": "CONTACT AN ENGINEER",
+    "projectInquiry": "PROJECT INQUIRY",
+    "viewLicenses": "VIEW OUR LICENSES",
+    "copyTender": "COPY TENDER TEXT",
+    "copied": "TEXT COPIED!"
+  },
+  "common": {
+    "threat": "THREAT",
+    "solution": "SOLUTION",
+    "zones": "ZONES:",
+    "systems": "SYSTEMS:"
+  },
+  "ticker": {
+    "aurubis": "METALLURGY",
+    "kaufland": "LOGISTICS",
+    "lufthansa": "AVIATION",
+    "dundee": "MINING",
+    "iso9001": "QUALITY",
+    "iso14001": "ECOLOGY",
+    "haccp": "FOOD",
+    "bds": "STANDARD",
+    "learnMore": "LEARN MORE",
+    "partnersLabel": "TRUSTED PARTNERS",
+    "certsLabel": "CERTIFIED STANDARDS"
+  },
+  "cookies": {
+    "title": "We use cookies",
+    "desc": "We use analytics cookies (Google Analytics) to improve our website. You may decline — only technically necessary cookies will be active.",
+    "acceptAll": "ACCEPT ALL",
+    "essentialOnly": "ESSENTIAL ONLY",
+    "privacyLink": "Privacy Policy"
+  },
+  "notFound": {
+    "title": "PAGE NOT FOUND",
+    "subtitle": "Wrong address or the page has been moved.",
+    "home": "GO HOME",
+    "back": "GO BACK"
+  }
+}

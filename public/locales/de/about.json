@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Über GEONYX | Geopolymer-Ingenieurunternehmen",
+    "description": "GEONYX GROUP LTD – ein bulgarisches Ingenieurunternehmen, das hochleistungsfähige Geopolymermatrizen für industrielle Infrastruktur und kritische Anlagen entwickelt."
+  },
+  "hero": {
+    "eyebrow": "ÜBER DAS UNTERNEHMEN",
+    "title": "WIR SIND GEONYX.",
+    "titleHighlight": "INGENIEURE DER MATERIE.",
+    "description": "Pioniere in der Entwicklung und Implementierung hochentwickelter geopolymerer Matrizen. Wir sind nicht nur Lieferanten von Baumaterialien. Wir sind ein Technologieunternehmen, das den Lebenszyklus industrieller Infrastruktur neu definiert."
+  },
+  "philosophy": {
+    "badge": "PHILOSOPHIE",
+    "eyebrow": "PARADIGMENWECHSEL",
+    "title": "DAS ENDE DER GEPLANTEN OBSOLESZENZ",
+    "body1": "Die Industrie entwickelt sich weiter, aber die Infrastruktur bleibt zurück. Standardbeton ist eine Technologie aus dem 19. Jahrhundert, und Epoxidharze sind petrochemische Kompromisse mit kurzer Lebensdauer. Unsere Mission ist es, den Kreislauf ständiger Reparaturen (Downtime) zu durchbrechen.",
+    "body2": "Durch die Schaffung anorganischer Matrizen verwandeln wir das schwächste Glied in Ihrer Anlage – den Boden – in Ihr langlebigsten konstruktiven Vermögenswert. Wir planen für einen 50-jährigen Betriebszyklus."
+  },
+  "rd": {
+    "badge": "F&E-LABOR",
+    "eyebrow": "F&E UND SYNTHESE",
+    "title": "LABORPRÄZISION UND INNOVATION",
+    "body1": "Die Stärke von GEONYX liegt in unserer Forschungs- und Entwicklungstätigkeit. Wir mischen keine handelsüblichen Fertigharze. Wir synthetisieren eigene geopolymere Kristallgitter auf molekularer Ebene.",
+    "body2": "Jede Formel durchläuft kompromisslose Stresstests auf thermodynamische Stabilität, chemische Inertheit und Druckfestigkeit, verifiziert durch unabhängige europäische Labore und Materialprüfinstitute."
+  },
+  "liability": {
+    "badge": "HAFTUNG",
+    "eyebrow": "EINHEITLICHE HAFTUNG",
+    "title": "EINE GARANTIE. NULL HAFTUNGSABWÄLZUNG.",
+    "body1": "Im Bauwesen ist das größte Risiko die geteilte Verantwortung – der Hersteller beschuldigt den Auftragnehmer, und der Auftragnehmer beschuldigt den Beton. GEONYX schließt den Kreislauf.",
+    "body2": "Wir fertigen die Technologie, wir führen das Strukturaudit des Standorts durch und wir zertifizieren die Ausführung. Sie erhalten einen einzigen Partner, eine kompromisslose Garantie und absolute Rechtssicherheit."
+  },
+  "qaqc": {
+    "badge": "QA / QC",
+    "eyebrow": "QA/QC-IMPLEMENTIERUNG",
+    "title": "ZERTIFIZIERTE TECHNIKER UND PROTOKOLLE",
+    "body1": "Die Arbeit mit hochtechnologischen Mineralmatrizen erfordert klinische Disziplin, keine Hilfsarbeiter. Unsere Implementierungsteams (Certified Application Technicians) arbeiten nach strengen Ingenieurprotokollen (Method Statements).",
+    "body2": "Von der Taupunktüberwachung (Dew Point) bis zur Echtzeit-Kontrolle der exothermen Reaktion. Wir garantieren minimale Ausfallzeiten Ihrer Produktion durch strikte Einhaltung der geplanten Zeitfenster (time-slots)."
+  },
+  "esg": {
+    "badge": "ESG-BEREITSCHAFT",
+    "eyebrow": "ESG & KREISLAUFWIRTSCHAFT",
+    "title": "EINE KOHLENSTOFFARME ZUKUNFT (LOW CARBON)",
+    "body1": "Unternehmerische Verantwortung erfordert eine radikale Reduzierung des CO2-Fußabdrucks. Im Gegensatz zur energieintensiven Herstellung von Portlandzement und der toxischen Petrochemie von Epoxiden sparen GEONYX-Technologien bis zu 80 % CO2-Emissionen.",
+    "body2": "Unsere Systeme sind zu 100 % lösungsmittelfrei (VOC-Free) und tragen direkt dazu bei, die Kriterien für die LEED- und BREEAM-Zertifizierung Ihrer Nachhaltigkeitsgebäude zu erfüllen."
+  },
+  "certs": {
+    "eyebrow": "UNTERNEHMENSPOLITIK",
+    "title": "OFFIZIELLE VERTRAUENSSTANDARDS",
+    "c1title": "ISO 9001:2015",
+    "c1sub": "Quality Management",
+    "c1body": "Quality Management System (QMS). Gegenstand kontinuierlicher unabhängiger Audits.",
+    "c2title": "ISO 14001:2015",
+    "c2sub": "Environmental Mgmt",
+    "c2body": "Umweltmanagement. Null Abfall auf Deponien und Emissionskontrolle.",
+    "c3title": "ISO 45001:2018",
+    "c3sub": "Health & Safety",
+    "c3body": "Occupational Health & Safety. Institutionalisierter Schutz der Gesundheit am Arbeitsplatz.",
+    "c4title": "REACH & VOC",
+    "c4sub": "Chemical Compliance",
+    "c4body": "Vollständige Konformität mit den EU-Richtlinien zur chemischen Sicherheit und Hygiene."
+  },
+  "cta": {
+    "title": "VERTRAUEN SIE DER WISSENSCHAFT.",
+    "body": "Kontaktieren Sie unser Ingenieurteam für technisches Fachwissen, quantitative Analyse und ein Strukturaudit Ihres Standorts.",
+    "btn": "KONTAKTIEREN SIE UNS"
+  }
+}

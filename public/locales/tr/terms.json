@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Şartlar ve Koşullar | GEONYX GROUP",
+    "description": "Web sitesinin kullanımı ve mühendislik hizmetlerinin sunulması için GEONYX GROUP LTD genel şartlar ve koşulları."
+  },
+  "header": {
+    "eyebrow": "HUKUKİ PROTOKOL 08",
+    "title": "GENEL ŞARTLAR VE GARANTİLER",
+    "subtitle": "UYGULAMA, KALİTE VE SORUMLULUK YÖNETMELİĞİ."
+  },
+  "block1": {
+    "title": "MALİ ÇERÇEVE VE MÜLKİYET",
+    "validity_label": "Geçerlilik:",
+    "validity": "Teklifler 30 takvim günü geçerlidir. Bu sürenin ardından kimyasal emtia fiyatlarına göre yeniden hesaplanmaya tabidir.",
+    "payment_label": "Ödeme planı:",
+    "payment": "%50 Avans (Başlangıç) / %40 Malzeme teslimatı / %10 Kabul.",
+    "retention_label": "Mülkiyetin korunması:",
+    "retention": "Uygulanan kaplama ve gömülü malzemeler, borcun %100'ü ödenene kadar \"GEONYX GROUP\" Ltd. mülkiyetinde kalır. Ödeme yapılmaması durumunda Yüklenici, sistemin sökülmesi veya kimyasal yolla kaldırılması hakkını saklı tutar."
+  },
+  "block2": {
+    "title": "ALTYAPI VE GİZLİ KUSURLAR",
+    "critical": "(Kritik!)",
+    "note": "Beton altyapının kalitesinden sorumluluk tamamen İşverene aittir.",
+    "requirements_label": "Gereksinimler:",
+    "requirements": "En az C20/25 sınıfı beton, %4'ün altında nem, düzgün yüzey.",
+    "exclusion_title": "Sorumluluk reddi:",
+    "exclusion_intro": "\"GEONYX GROUP\" Ltd. aşağıdakilerden kaynaklanan kusurlardan SORUMLU DEĞİLDİR:",
+    "li1": "Su yalıtımının yokluğu ve zeminden kılcal (yükselen) nemin ortaya çıkması.",
+    "li2": "Binanın yapısal çatlakları veya temel oturması.",
+    "li3": "Eski betonun derinliğindeki gizli yağ ceplereleri."
+  },
+  "block3": {
+    "title": "OPERASYONEL SINIRLAR",
+    "intro": "Garanti yalnızca belirlenen operasyonel standartlara uyulduğunda geçerlidir.",
+    "li1_label": "Kimyasallar ve Sıcaklık:",
+    "li1": "Garanti yalnızca Teknik Şartnamede açıkça belirtilen kimyasalları ve sıcaklıkları kapsar.",
+    "li2_label": "Mekanik Darbe:",
+    "li2": "Düşen nesnelerden, palet sürüklenmesinden veya yetkisiz ağır ekipman trafiğinden kaynaklanan hasarlar garanti hizmetinin kapsamında değildir."
+  },
+  "block4": {
+    "title": "FİKRİ MÜLKİYET",
+    "body": "Tüm formülasyonlar (GEONYX® Formulas), proses sayfaları ve uygulama yöntemleri ticari sır niteliğinde olup \"GEONYX GROUP\" Ltd. fikri mülkiyetidir. Teknolojinin kimyasal analizi (Tersine Mühendislik) veya kopyalanmasına yönelik her türlü girişim kanunun tüm ağırlığıyla kovuşturulacaktır."
+  },
+  "block5": {
+    "title": "SÜRELER VE MÜCBİR SEBEPLER",
+    "body": "Teknolojik polimerizasyon süresi 24 saattir (20°C'de). Bu süre dolmadan sahaya girilmesi garantiyi geçersiz kılar. Uygulama süreleri, reaksiyon kalitesini sağlamak amacıyla +5°C'nin altındaki sıcaklıklarda veya %80'in üzerindeki hava neminde durur."
+  },
+  "footer": {
+    "note": "Kabul edilen genel şartlar, İş Sözleşmesi'nin ayrılmaz bir parçasını oluşturur. Hukuk departmanıyla iletişim için:"
+  }
+}

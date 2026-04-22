@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "GEONYX | Fiches Techniques et Documentation Système",
+    "description": "Bibliothèque centralisée de fiches techniques (TDS), déclarations de performances (DoP), certificats et détails de systèmes pour GEONYX ARMOR, CHEM, HYDRO et THERM – destinés aux concepteurs, investisseurs et entrepreneurs en construction industrielle et infrastructure."
+  },
+  "hero": {
+    "eyebrow": "FICHES TECHNIQUES",
+    "titleLine1": "LES DONNÉES",
+    "titleLine2": "NE MENTENT PAS.",
+    "description": "Il n'y a pas de place pour le marketing ici. Ici parlent les paramètres physico-mécaniques empiriques, les tests de laboratoire indépendants et les certificats normatifs. Résistance au cisaillement, indice d'usure, inertie chimique et empreinte carbone.",
+    "btnCatalog": "TÉLÉCHARGER LE CATALOGUE COMPLET"
+  },
+  "blockSDS": {
+    "eyebrow": "SPÉCIFICATIONS",
+    "title": "FICHES TECHNIQUES SYSTÈME (SDS) ET PRODUIT (PDS)",
+    "description": "Définition précise de chaque variable. La logique d'ingénierie exige la séparation du système global (System Data Sheet) de ses composants (Product Data Sheets). Du module d'élasticité du système selon EN 13813, jusqu'au temps de pot life de chaque primaire et scellant individuel.",
+    "btnSDS": "TÉLÉCHARGER PASSEPORTS SYSTÈME (SDS)",
+    "btnPDS": "TÉLÉCHARGER PASSEPORTS PRODUIT (PDS)"
+  },
+  "blockDoP": {
+    "eyebrow": "CONFORMITÉ ET ESG",
+    "title": "DÉCLARATIONS DE PERFORMANCE (DoP) ET ÉCOLOGIE (EPD)",
+    "description": "L'actif obligatoire pour les projets d'infrastructure et les marchés publics (B2G). Les déclarations DoP garantissent la pleine conformité au Règlement (UE) n° 305/2011 (CPR). Les Déclarations Environnementales de Produit (EPD) ajoutées selon ISO 14025 fournissent des données précises sur l'empreinte carbone sur l'ensemble du cycle de vie (ACV), garantissant le maximum de crédits pour les certifications LEED v4 et BREEAM.",
+    "btnDoP": "TÉLÉCHARGER REGISTRE DoP (CE)",
+    "btnEPD": "TÉLÉCHARGER RAPPORTS EPD (ECO)"
+  },
+  "blockMSDS": {
+    "eyebrow": "SANTÉ ET SÉCURITÉ",
+    "title": "FICHES DE DONNÉES DE SÉCURITÉ (MSDS)",
+    "description": "Sécurité pour l'opérateur et l'environnement. Les fiches MSDS fournissent le profil chimique complet, la classification REACH et les protocoles de manipulation sécurisée. Les matrices GEONYX sont sans COV et sans Bisphénol A, ce qui en fait la référence en matière d'hygiène au travail.",
+    "btnMSDS": "TÉLÉCHARGER ARCHIVE MSDS"
+  },
+  "blockProtocols": {
+    "eyebrow": "EXÉCUTION ET CONTRÔLE",
+    "title": "PROTOCOLES D'APPLICATION (METHOD STATEMENTS)",
+    "description": "Même le meilleur système échoue avec une mauvaise application. Nous ne donnons pas seulement des instructions – nous fournissons les outils pour la supervision de chantier. Accès aux protocoles technologiques (Method Statements) et aux formulaires QA/QC prêts à l'emploi pour le contrôle quotidien du chantier.",
+    "btnMS": "FICHE TECHNOLOGIQUE (MS)",
+    "btnQAQC": "FORMULAIRE QA/QC (POINT DE ROSÉE)"
+  },
+  "analyticsSection": {
+    "eyebrow": "PARAMÈTRES TECHNIQUES",
+    "title": "PROTOCOLES DE TEST ET DIAGRAMMES",
+    "card1title": "Résistance Chimique",
+    "card1desc": "Liste des réactifs testés (acides, bases, solvants) selon EN 13529. Temps d'exposition et indice de dégradation.",
+    "card1btn": "TÉLÉCHARGER LE TABLEAU",
+    "card2title": "Thermodynamique et Friction",
+    "card2desc": "Coefficients de dilatation thermique (CTE), résultats des tests de choc thermique et courbes d'usure Böhme (DIN 52108).",
+    "card2btn": "TÉLÉCHARGER LE RAPPORT",
+    "card3title": "Conductivité Électrique",
+    "card3desc": "Mesures de résistance de surface/volume. Rapports Walking Body Voltage pour salles blanches et zones ATEX.",
+    "card3btn": "TÉLÉCHARGER ANALYSE ESD"
+  },
+  "lifecycle": {
+    "eyebrow": "MAINTENANCE",
+    "title": "GESTION DU CYCLE DE VIE",
+    "description": "La durabilité est fonction d'une exploitation correcte. Manuels de maintenance spécialisés pour les équipes de gestion des installations. Produits de nettoyage approuvés, procédures pour les déversements chimiques extrêmes et calendriers d'inspection périodique des sols industriels.",
+    "btn": "TÉLÉCHARGER LE MANUEL DE MAINTENANCE"
+  }
+}

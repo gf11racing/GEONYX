@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "GEONYX | Technische Datenblätter und Systemdokumentation",
+    "description": "Zentralisierte Bibliothek mit technischen Datenblättern (TDS), Leistungserklärungen (DoP), Zertifikaten und Systemdetails für GEONYX ARMOR, CHEM, HYDRO und THERM – für Planer, Investoren und Auftragnehmer im Industrie- und Infrastrukturbau."
+  },
+  "hero": {
+    "eyebrow": "TECHNISCHE DATENBLÄTTER",
+    "titleLine1": "DIE DATEN",
+    "titleLine2": "LÜGEN NICHT.",
+    "description": "Hier ist kein Platz für Marketing. Hier sprechen die empirischen physikalisch-mechanischen Kennwerte, unabhängige Laborprüfungen und normative Zertifikate. Scherfestigkeit, Verschleißwiderstandsindex, chemische Inertheit und CO₂-Fußabdruck.",
+    "btnCatalog": "VOLLSTÄNDIGEN KATALOG HERUNTERLADEN"
+  },
+  "blockSDS": {
+    "eyebrow": "SPEZIFIKATIONEN",
+    "title": "SYSTEM (SDS) UND PRODUKT (PDS) DATENBLÄTTER",
+    "description": "Präzise Definition jeder Variablen. Die Ingenieurlogik erfordert eine Trennung des Gesamtsystems (System Data Sheet) von seinen Komponenten (Product Data Sheets). Vom Elastizitätsmodul des Systems nach EN 13813 bis zur Topfzeit jedes einzelnen Grundiermittels und Versiegelungsmittels.",
+    "btnSDS": "SYSTEMPÄSSE HERUNTERLADEN (SDS)",
+    "btnPDS": "PRODUKTPÄSSE HERUNTERLADEN (PDS)"
+  },
+  "blockDoP": {
+    "eyebrow": "KONFORMITÄT UND ESG",
+    "title": "LEISTUNGSERKLÄRUNGEN (DoP) UND ÖKOLOGIE (EPD)",
+    "description": "Das obligatorische Asset für Infrastrukturprojekte und öffentliche Aufträge (B2G). DoP-Erklärungen garantieren die vollständige Konformität mit der Verordnung (EU) Nr. 305/2011 (CPR). Die zusätzlichen Umweltproduktdeklarationen (EPD) gemäß ISO 14025 liefern genaue Daten zum CO₂-Fußabdruck über den gesamten Lebenszyklus (LCA) und sichern maximale Punkte für LEED v4 und BREEAM-Zertifizierung.",
+    "btnDoP": "DoP REGISTER HERUNTERLADEN (CE)",
+    "btnEPD": "EPD BERICHTE HERUNTERLADEN (ECO)"
+  },
+  "blockMSDS": {
+    "eyebrow": "GESUNDHEIT UND SICHERHEIT",
+    "title": "SICHERHEITSDATENBLÄTTER (MSDS)",
+    "description": "Sicherheit für Bediener und Umwelt. MSDS-Blätter liefern das vollständige chemische Profil, die REACH-Klassifizierung und Protokolle für sicheres Arbeiten. GEONYX-Matrizen sind VOC-frei und enthalten kein Bisphenol A, was sie zum Maßstab für Arbeitshygiene macht.",
+    "btnMSDS": "MSDS ARCHIV HERUNTERLADEN"
+  },
+  "blockProtocols": {
+    "eyebrow": "AUSFÜHRUNG UND KONTROLLE",
+    "title": "VERARBEITUNGSPROTOKOLLE (METHOD STATEMENTS)",
+    "description": "Selbst das beste System versagt bei falscher Verarbeitung. Wir geben nicht nur Anweisungen – wir liefern die Werkzeuge für die Bauaufsicht. Zugang zu Technologieprotokollen (Method Statements) und vorgefertigten QA/QC-Formularen für die tägliche Baukontrolle.",
+    "btnMS": "TECHNOLOGIEKARTE (MS)",
+    "btnQAQC": "QA/QC FORMULAR (TAUPUNKT)"
+  },
+  "analyticsSection": {
+    "eyebrow": "TECHNISCHE KENNWERTE",
+    "title": "TESTPROTOKOLLE UND DIAGRAMME",
+    "card1title": "Chemische Beständigkeit",
+    "card1desc": "Liste der getesteten Reagenzien (Säuren, Basen, Lösungsmittel) gemäß EN 13529. Expositionszeit und Abbauindex.",
+    "card1btn": "TABELLE HERUNTERLADEN",
+    "card2title": "Thermodynamik und Reibung",
+    "card2desc": "Wärmeausdehnungskoeffizienten (CTE), Ergebnisse von Thermostoßtests und Böhme-Verschleißkurven (DIN 52108).",
+    "card2btn": "BERICHT HERUNTERLADEN",
+    "card3title": "Elektrische Leitfähigkeit",
+    "card3desc": "Oberflächen-/Volumenwiderstandsmessungen. Walking Body Voltage-Berichte für Reinräume und ATEX-Zonen.",
+    "card3btn": "ESD ANALYSE HERUNTERLADEN"
+  },
+  "lifecycle": {
+    "eyebrow": "WARTUNG",
+    "title": "LEBENSZYKLUSMANAGEMENT",
+    "description": "Beständigkeit ist eine Funktion des korrekten Betriebs. Spezialisierte Wartungshandbücher (Maintenance Manuals) für Facility-Management-Teams. Zugelassene Reinigungsmittel, Verfahren bei extremen Chemikalienaustritten und Inspektionspläne für Industrieböden.",
+    "btn": "WARTUNGSHANDBUCH HERUNTERLADEN"
+  }
+}

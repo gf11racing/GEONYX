@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "GEONYX HYDRO | Impermeabilización y Protección contra la Humedad",
+    "description": "GEONYX HYDRO – impermeabilización cristalina para sustratos de hormigón. Protección contra humedad capilar, presión hidrostática e infiltración de agua."
+  },
+  "hero": {
+    "eyebrow": "INGENIERÍA HIDRÁULICA Y PROTECCIÓN DEL AGUA",
+    "description": "Sistemas minerales para la impermeabilidad y la resistencia a la presión – para presas, depósitos, plantas de tratamiento de aguas e infraestructuras marinas. Diseñados para W20, 15 Bar y larga vida útil incluso bajo el agua.",
+    "statWater": "IMPERMEABILIDAD",
+    "statWaterValue": "Clase W20",
+    "statPressure": "PRESIÓN",
+    "statPressureValue": "Hasta 15 Bar",
+    "statDrinking": "AGUA POTABLE",
+    "statDrinkingValue": "Certificado",
+    "statLife": "VIDA ÚTIL DE DISEÑO",
+    "statLifeValue": "≥ 25 años",
+    "btn1": "FICHA TÉCNICA",
+    "btn2": "SOLICITAR AUDITORÍA DE INGENIERÍA"
+  },
+  "diagnostics": {
+    "eyebrow": "AGRESIÓN DEL AGUA",
+    "title": "EL AGUA ES IMPLACABLE. GEONYX HYDRO, NO.",
+    "subtitle": "8 escenarios de ingeniería hidráulica donde el hormigón estándar está perdiendo lentamente la batalla.",
+    "d1": {
+      "title": "REPARACIÓN SUBMARINA SIN ACHIQUE",
+      "problem": "Vaciar una presa, depósito o balsa cuesta millones y paraliza el funcionamiento de infraestructuras críticas.",
+      "solution": "GEONYX HYDRO fragua bajo el agua sin ser arrastrado. Los buzos realizan reparaciones locales en estructuras en funcionamiento – con un tiempo de inactividad mínimo."
+    },
+    "d2": {
+      "title": "PRESIÓN HIDROSTÁTICA HASTA 15 BAR",
+      "problem": "El agua a presión (decenas de metros de carga) fuerza su paso a través de poros y microfisuras, comprometiendo la estructura.",
+      "solution": "GEONYX HYDRO ofrece un rendimiento de Clase W20 y resistencia a la presión positiva de hasta 15 Bar – sin perforación ni delaminación de capas."
+    },
+    "d3": {
+      "title": "CAVITACIÓN Y FLUJO DE ALTA VELOCIDAD",
+      "problem": "Las burbujas de vacío y el flujo turbulento en aliviaderos, canales y compuertas erosionan el hormigón y producen una corrosión profunda por picadura.",
+      "solution": "Superficie extremadamente densa y lisa con baja abrasión (AR ≤ 0,5), resistente a la cavitación y al desgaste mecánico por flujo."
+    },
+    "d4": {
+      "title": "CORROSIÓN BIOGÉNICA EN ALCANTARILLAS Y EDAR",
+      "problem": "Las bacterias en las aguas residuales convierten los gases en ácidos agresivos que atacan el hormigón por encima del nivel del agua.",
+      "solution": "Inmunidad mineral a la corrosión biogénica, combinada cuando se requiere con GEONYX CHEM – protegiendo tanto las zonas húmedas como las gaseosas en una sola solución."
+    },
+    "d5": {
+      "title": "ATAQUE POR CLORUROS Y AMBIENTE MARINO",
+      "problem": "La sal marina penetra a través de los poros, alcanza la armadura y acelera la corrosión de las estructuras costeras y muelles.",
+      "solution": "Barrera mineral densa que limita la migración de cloruros y prolonga la vida útil de los elementos armados en entornos marinos."
+    },
+    "d6": {
+      "title": "LIXIVIACIÓN Y «PIEL DE LEOPARDO»",
+      "problem": "El agua blanda o desmineralizada disuelve la cal del hormigón, provocando manchas, porosidad y pérdida de resistencia.",
+      "solution": "Estructura geopolimérica sin cal libre – nada que lixiviar; la superficie permanece estable y densa."
+    },
+    "d7": {
+      "title": "SEGURIDAD DEL AGUA POTABLE",
+      "problem": "Los recubrimientos epoxy estándar pueden liberar monómeros y disolventes en el agua potable – inaceptable para operadores y reguladores.",
+      "solution": "GEONYX HYDRO es un sistema mineral certificado para el contacto con agua potable según las normas DVGW/BS – sin componentes orgánicos tóxicos."
+    },
+    "d8": {
+      "title": "ABRASIÓN POR LIMO Y ARENA",
+      "problem": "El agua cargada de arena y limo actúa como un abrasivo continuo sobre las paredes y suelos de canales y balsas.",
+      "solution": "Dureza superficial de hasta Mohs 9 con una pérdida de volumen muy baja – significativamente más resistente que el hormigón estándar y los revestimientos convencionales."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "SECCIÓN TRANSVERSAL TÉCNICA DE GEONYX HYDRO",
+    "sectionSubtitle": "Modelo de capas interactivo – desde el sustrato hasta la superficie de trabajo.",
+    "h1": {
+      "title": "1. SUSTRATO DE HORMIGÓN",
+      "subtitle": "Sustrato Saturado",
+      "desc": "Estructura de hormigón armado existente, limpiada mediante hidrodecapado de alta presión (2500 bar) para abrir los capilares."
+    },
+    "h2": {
+      "title": "2. IMPRIMADOR CRISTALINO",
+      "subtitle": "Penetración Activa",
+      "desc": "Imprimador activo que penetra profundamente en los poros del hormigón y cristaliza al contacto con la humedad, bloqueando la ascensión capilar."
+    },
+    "h3": {
+      "title": "3. HIDRO-MORTERO",
+      "subtitle": "Cuerpo Reforzado con Fibras",
+      "desc": "Capa estructural primaria, reforzada con fibras. Soporta presión hidrostática de hasta 20 Bar (W20) y es estanco en toda su masa."
+    },
+    "h4": {
+      "title": "4. ACABADO LISO",
+      "subtitle": "Superficie de Flujo Hidráulico",
+      "desc": "Membrana de superficie lisa para reducir la fricción y aumentar el caudal hidráulico. Resistente a la abrasión y a los productos químicos."
+    }
+  },
+  "engineering": {
+    "eyebrow": "DATOS DE INGENIERÍA",
+    "title": "PRUEBAS DE LABORATORIO Y ENSAYOS DE CAMPO",
+    "subtitle": "Pruebas independientes en laboratorios acreditados – protocolos completos disponibles en las TDS.",
+    "block1title": "IMPERMEABILIDAD AL AGUA (CLASE W)",
+    "block1note": "GEONYX HYDRO alcanza la Clase W20 – una columna de agua de 200 metros sin perforación.",
+    "block2title": "PRESIÓN DE PERFORACIÓN",
+    "block2note": "Comparación de la resistencia a la presión hidrostática entre distintos sistemas.",
+    "block3title": "REDUCCIÓN DE PÉRDIDAS DE AGUA (NRW)",
+    "block3note": "Diferencia en pérdidas de agua durante 20 años sin/con protección HYDRO."
+  },
+  "operational": {
+    "eyebrow": "RENDIMIENTO",
+    "title": "SUPERIORIDAD OPERACIONAL",
+    "r1": {
+      "title": "APLICACIÓN SUBMARINA",
+      "desc": "Fraguado bajo agua activa – los buzos pueden trabajar incluso en zonas húmedas o parcialmente sumergidas."
+    },
+    "r2": {
+      "title": "CLASE W20 / 15 BAR",
+      "desc": "Impermeabilidad al agua Clase W20 y resistencia a la presión hidrostática positiva y negativa."
+    },
+    "r3": {
+      "title": "AGUA POTABLE (DVGW/BS)",
+      "desc": "Certificado para el contacto con agua potable – sin monómeros orgánicos, sin lixiviación tóxica."
+    },
+    "r4": {
+      "title": "PROTECCIÓN MARINA Y COSTERA",
+      "desc": "Resistencia a cloruros, sal marina y sulfatos – para estructuras portuarias y muros de muelle."
+    },
+    "r5": {
+      "title": "CERO PÉRDIDAS (NRW)",
+      "desc": "Sistema sin juntas y denso que minimiza las pérdidas de agua en depósitos, presas y redes de distribución."
+    }
+  },
+  "financial": {
+    "title": "CUANDO EL AGUA ES UN ACTIVO, NO UN PROBLEMA",
+    "subtitle": "Comparación de pérdidas y costes en estructuras hidráulicas protegidas frente a no protegidas.",
+    "quote": "UNA PRESA SIN PROTECCIÓN PIERDE AGUA. Y DINERO.",
+    "quoteHighlight": "GEONYX HYDRO SELLA AMBOS."
+  },
+  "roi": {
+    "eyebrow": "ANÁLISIS ROI",
+    "title": "AUDITORÍA DE INVERSIÓN",
+    "subtitle": "Comparación del ciclo de vida a 25 años para activos de ingeniería hidráulica.",
+    "colParam": "PARÁMETRO",
+    "colHydro": "GEONYX HYDRO",
+    "colEpoxy": "Impermeabilización epoxy",
+    "colStd": "Hormigón estándar",
+    "row1": "Clase de impermeabilidad al agua",
+    "row2": "Aplicación submarina",
+    "row3": "Agua potable",
+    "row4": "Resistencia a cloruros",
+    "row5": "Vida útil de diseño",
+    "val1hydro": "W20 – 15 Bar",
+    "val1epoxy": "W8 – W12",
+    "val1std": "W4 – sin protección",
+    "val2hydro": "Sí – bajo agua activa",
+    "val2epoxy": "No – requiere superficie seca",
+    "val2std": "No",
+    "val3hydro": "Certificado",
+    "val3epoxy": "Limitado",
+    "val3std": "No aplicable",
+    "val4hydro": "Muy alta",
+    "val4epoxy": "Media",
+    "val4std": "Baja",
+    "val5hydro": "≥25 años",
+    "val5epoxy": "8–12 años",
+    "val5std": "5–8 años"
+  },
+  "applications": {
+    "eyebrow": "APLICACIONES",
+    "title": "DÓNDE SE UTILIZA",
+    "subtitle": "Estructuras con alto riesgo de infiltración de agua, presión y agresión hidroquímica.",
+    "a1": {
+      "title": "Presas y Centrales Hidroeléctricas",
+      "desc": "Revestimiento de cuerpos de presa, torres de toma y cámaras de compuertas."
+    },
+    "a2": {
+      "title": "Plantas de Tratamiento de Aguas",
+      "desc": "Bio-balsas, clarificadores y reactores anaerobios (corrosión biogénica)."
+    },
+    "a3": {
+      "title": "Depósitos de Agua Potable",
+      "desc": "Depósitos a presión y torres de agua (certificados DVGW/BS)."
+    },
+    "a4": {
+      "title": "Infraestructuras Marinas",
+      "desc": "Muelles, rompeolas, túneles submarinos y plataformas."
+    },
+    "a5": {
+      "title": "Canales y Compuertas",
+      "desc": "Revestimientos de protección hidráulica contra la cavitación y la abrasión por flujo."
+    },
+    "a6": {
+      "title": "Instalaciones de Residuos Mineros",
+      "desc": "Balsas impermeables para el confinamiento de líquidos de proceso."
+    },
+    "a7": {
+      "title": "Estaciones de Bombeo",
+      "desc": "Pozos húmedos y túneles que transportan aguas residuales agresivas."
+    },
+    "a8": {
+      "title": "Túneles y Metro",
+      "desc": "Bóvedas y paredes sujetas a la infiltración de aguas subterráneas."
+    }
+  },
+  "process": {
+    "eyebrow": "PROCESO",
+    "title": "PROCESO DE EJECUCIÓN",
+    "subtitle": "Ejecución de precisión bajo agua activa y en condiciones submarinas.",
+    "p1": {
+      "title": "Hidro-auditoría de la estructura",
+      "desc": "Análisis de presión, fugas, perfil químico del agua y nivel de actividad biogénica."
+    },
+    "p2": {
+      "title": "Selección de configuración HYDRO",
+      "desc": "Selección del sistema – imprimador cristalino, HYDRO-MORTAR, SMOOTH FINISH o combinación con CHEM."
+    },
+    "p3": {
+      "title": "Hidrodecapado",
+      "desc": "Chorro de agua a 2500 bar para abrir poros y eliminar zonas débiles."
+    },
+    "p4": {
+      "title": "Imprimador cristalino",
+      "desc": "Aplicación del imprimador cristalino – se activa al contacto con la humedad y bloquea el flujo capilar."
+    },
+    "p5": {
+      "title": "Aplicación y sellado",
+      "desc": "Aplicación del HYDRO-MORTAR y el SMOOTH FINISH conforme al protocolo técnico – incluyendo bajo el agua cuando sea necesario."
+    },
+    "p6": {
+      "title": "Prueba hidráulica y documentación",
+      "desc": "Prueba de impermeabilidad al agua, protocolos, paquete TDS y tarjeta de garantía."
+    }
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTACIÓN COMERCIAL",
+    "title": "PAQUETE DE OFERTA HYDRO (B2B / B2G)",
+    "desc": "Documentación completa para presas, depósitos, EDAR e infraestructuras marinas.",
+    "qualityLabel": "ASEGURAMIENTO DE CALIDAD",
+    "qualityDesc": "Conforme con las normas DVGW, BS y Eurocode para ingeniería hidráulica.",
+    "doc1": "TDS – Especificaciones técnicas y ensayos hidráulicos",
+    "doc2": "Certificado de agua potable (DVGW / BS 6920)",
+    "doc3": "Protocolo W20 – impermeabilidad al agua",
+    "doc4": "Metodología de ejecución submarina",
+    "doc5": "Detalles BIM para capas de impermeabilización",
+    "doc6": "Especificación de licitación para proyectos de ingeniería hidráulica",
+    "copyBtn": "COPIAR TEXTO DE LICITACIÓN",
+    "copiedBtn": "¡TEXTO COPIADO!"
+  },
+  "downloads": {
+    "title": "ARCHIVOS TÉCNICOS Y DESCARGAS",
+    "dl1": {
+      "title": "GEONYX HYDRO – TDS",
+      "sub": "Parámetros técnicos y clase W"
+    },
+    "dl2": {
+      "title": "Agua potable – DVGW/BS",
+      "sub": "Certificado de conformidad"
+    },
+    "dl3": {
+      "title": "Ensayo hidráulico W20",
+      "sub": "Protocolo de un laboratorio acreditado"
+    },
+    "dl4": {
+      "title": "Metodología de ejecución submarina",
+      "sub": "Pasos, requisitos de buceo y control de calidad"
+    }
+  },
+  "cta": {
+    "title": "SU INFRAESTRUCTURA NO DEBERÍA PERDER AGUA – NI DINERO.",
+    "desc": "Describa la estructura hidráulica y el problema – le propondremos una configuración HYDRO, la documentación de clase W y un análisis TCO.",
+    "btn1": "SOLICITAR AUDITORÍA HYDRO",
+    "btn2": "DESCARGAR TDS",
+    "btn3": "CONTACTAR UN INGENIERO"
+  },
+  "footerBand": {
+    "label": "SOCIO TECNOLÓGICO PARA INFRAESTRUCTURAS CRÍTICAS",
+    "desc": "GEONYX HYDRO protege presas, depósitos y plantas de tratamiento de aguas donde el hormigón estándar falla."
+  },
+  "shared": {
+    "threat": "AMENAZA",
+    "solution": "SOLUCIÓN"
+  }
+}

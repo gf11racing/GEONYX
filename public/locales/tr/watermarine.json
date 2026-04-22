@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "GEONYX | Su, Atık Su ve Deniz Altyapısı – Hidro ve Korozyon Karşıtı Koruma",
+    "description": "GEONYX, içme suyu, atık su arıtma tesisleri (WWTP), kanalizasyon, rezervuarlar, barajlar ve deniz altyapısı için mineral koruyucu sistemler geliştirmektedir – hidrostatik basınca, klorürlere, kavitasyona ve biyojenik korozyona karşı dayanıklı. Agresif su ortamlarında beton için uzun ömürlü koruma."
+  },
+  "tender": {
+    "text": "Su ile temas halindeki hidrolik yapılar ve yüzeyler (içme suyu, atık su veya deniz suyu) GEONYX tipi veya eşdeğeri mineral jeopolimer sistemlerle korunmalıdır. Sistem; su geçirimsizliği (W20), pozitif ve negatif basınca dayanım, sülfat dayanımı ve (uygulanabilir olduğunda) içme suyu teması için sertifikasyon veya deniz ortamları için klorür dayanımını sağlamalıdır.",
+    "copy": "İHALE METNİNİ KOPYALA",
+    "copied": "METİN KOPYALANDI!"
+  },
+  "hero": {
+    "eyebrow": "SU, ATIK SU VE DENİZ ALTYAPISI",
+    "titleLine1": "BASINÇ ALTINDA",
+    "titleLine2": "SU GEÇİRMEZLİK",
+    "description": "Betonun erozyon, karbonasyon ve klorür saldırısından korunması. Barajlar, arıtma tesisleri ve limanlar için su altında bile uygulanabilen çözümler.",
+    "btn1": "HİDRO KATALOG İNDİR",
+    "btn2": "SAHA İNCELEMESİ TALEP ET"
+  },
+  "scope": {
+    "title": "KAPSAM",
+    "zonesLabel": "BÖLGELER:",
+    "systemsLabel": "SİSTEMLER:",
+    "z1": "Atık su arıtma tesisleri (WWTP)",
+    "z2": "Pompa istasyonları ve kanalizasyon pompa istasyonları",
+    "z3": "İçme suyu rezervuarları ve temiz su odaları",
+    "z4": "Baraj gövdeleri, tahliye savakları ve dip tahliyeciler",
+    "z5": "Basınçlı borular, tüneller ve basınçlı şaftlar",
+    "z6": "Atık su kanalları, kolektörler ve muayene bacaları",
+    "z7": "Çöktürme havuzları, havalandırma havuzları ve bioreaktörler",
+    "z8": "Limanlar, rıhtımlar ve kıyı koruma yapıları",
+    "z9": "Kuru havuzlar, gemi havuzları ve havuz odaları",
+    "z10": "Deniz ve nehir kanalları, gemi kanalları ve hidrolik galerileri",
+    "link1": "↓ NEREDE KULLANILIR",
+    "link2": "↓ SİSTEM SEÇİMİ",
+    "link3": "↓ TEKLİF PAKETİ"
+  },
+  "manifesto": {
+    "titleLine1": "SU EN INATÇI",
+    "titleLine2": "YIKICIDIR.",
+    "body": "Basınç, kavitasyon, klorürler, sülfatlar ve donma, beton altyapıya gece gündüz saldırır. GEONYX, su geçirmez bir bariyer (W20) oluşturan, donatı korozyonunu durduran ve agresif sulara dayanıklı hidrolik jeopolimerler sunar. İçme suyu rezervuarlarından arıtma tesislerine ve deniz rıhtımlarına kadar."
+  },
+  "blocks": {
+    "problemLabel": "SORUN:",
+    "solutionLabel": "ÇÖZÜM:",
+    "suitableLabel": "Uygun sistemler:",
+    "b1": {
+      "tag": "ARITMA TESİSLERİ",
+      "title": "BİYOJENİK KOROZYON VE SÜLFATLAR",
+      "problem": "Atık su arıtma tesislerinde (WWTP) hidrojen sülfür, bakteriler tarafından sülfürik aside dönüştürülür (biyojenik korozyon). Bu, betonu aşındırır, donatıyı açığa çıkarır ve yapısal arızalara yol açar.",
+      "solution": "GEONYX HYDRO + CHEM, yüksek sülfat direncine ve asit bağışıklığına (pH 1–14) sahip koruyucu bir katman oluşturur. Pürüzsüz yüzey hidroliği iyileştirir ve çamur birikmesini önler.",
+      "systems": "HYDRO, CHEM"
+    },
+    "b2": {
+      "tag": "BARAJ GÖVDELERİ",
+      "title": "HİDROSTATİK BASINÇ VE DONMA",
+      "problem": "Baraj gövdeleri ve savaklar, büyük su basıncına, don-çözülme döngülerine ve su aşınmasına maruz kalır. Çatlaklar ve sızıntılar baraj istikrarını tehlikeye atabilir.",
+      "solution": "GEONYX HYDRO, yüksek basınç altında su geçirimsizliği (W20) ve don direnci (XF4) sağlar. Sistem su altında da uygulanabilir ve sertleşebilir; bu da rezervuarı boşaltmadan onarım yapılmasına olanak tanır.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "DENİZ ORTAMI",
+      "title": "TUZ, DALGALAR VE KLORÜR KOROZYONU",
+      "problem": "Liman ve rıhtımlarda deniz suyu, klorürleri betona taşır; bu klorürler donatıya ulaşarak korozyona (patlamaya) neden olur. Dalgalar ve gelgitler mekanik aşınma yaratır.",
+      "solution": "GEONYX HYDRO, klorür göçünü donatıya kadar durduran yoğun bir bariyer oluşturur. Sistem, tuzlu suya ve gemi ile döküntülerden kaynaklanan mekanik darbelere karşı dayanıklıdır.",
+      "systems": "HYDRO"
+    },
+    "b4": {
+      "tag": "İÇME SUYU",
+      "title": "İÇME SUYU TANKLARI VE GÜVENLİK",
+      "problem": "İçme suyu rezervuarları, bakteri tutmaması için mükemmel düzgün ve tamamen inert olmalıdır. Eski beton pürüzlü ve emici hale gelir.",
+      "solution": "GEONYX HYDRO, içme suyu teması için sertifikalandırılmıştır. Mineral matris çözücü ve toksin içermez. Yüzey düzgündür, temizlenmesi kolaydır ve mikroorganizma gelişimini önler.",
+      "systems": "HYDRO"
+    },
+    "b5": {
+      "tag": "KANALİZASYON",
+      "title": "KANALİZASYON VE KOLEKTÖRLEr",
+      "problem": "Kanallar ve kolektörler, borunun üst kısmındaki betonu aşındıran agresif atık sulara, kuma ve biyojenik sülfürik aside maruz kalır.",
+      "solution": "GEONYX CHEM, asit saldırısına karşı koruma sağlarken HYDRO, bağlantıların ve muayene bacalarının su geçirimsizliğini garanti eder. Sistem, askıdaki katı maddelerin aşınmasına karşı dayanıklıdır.",
+      "systems": "CHEM, HYDRO"
+    },
+    "b6": {
+      "tag": "SU PARKLARI",
+      "title": "SU PARKLARI VE HAVUZLAR",
+      "problem": "Klor, ozon ve sürekli nem, fayans derzlerine saldırır. Altındaki su yalıtımı sıklıkla bozulur, bu da sızıntılara ve maliyetli onarımlara yol açar.",
+      "solution": "GEONYX HYDRO, aynı anda su yalıtımı ve estetik görünüm ile kaymaz özelliğe sahip bitiş kaplaması olarak işlev gören derzssiz, monolitik bir sistemdir. UV ışınlarına ve havuz kimyasallarına dayanıklıdır.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "ENDÜSTRİYEL SULAR",
+      "title": "ENDÜSTRİYEL SOĞUTMA KULELERİ",
+      "problem": "Kimyasallı proses suyu, yüksek sıcaklık ve sürekli ıslanma, soğutma kulelerinin ve proses suyu tanklarının betonunu tahrip eder.",
+      "solution": "GEONYX THERM + CHEM, sıcaklık farklılıklarına ve sudaki kimyasal katkılara karşı direnç sağlar. Sistem, donatıyı korozyondan korur ve tesisin hizmet ömrünü uzatır.",
+      "systems": "CHEM, THERM"
+    },
+    "b8": {
+      "tag": "KIYI KORUMA",
+      "title": "KIYI KORUMA VE DALGAKIRAN",
+      "problem": "Dalgalar, tuz ve yüzen nesnelerden kaynaklanan mekanik darbeler kıyı koruma yapılarını tahrip eder. Standart beton, gelgit bölgesinde hızla aşınır.",
+      "solution": "Geometri restorasyonu ve dalga aşınmasına karşı koruma için yüksek mukavemetli GEONYX ARMOR (Marine) harçları. Sülfatlara ve klorürlere dayanıklı.",
+      "systems": "ARMOR, HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "colParam": "PARAMETRE",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Standart beton / sıva",
+    "colPolymer": "Bitüm / polimer kaplama",
+    "r1param": "Su geçirimsizliği (DIN 1048)",
+    "r1geonyx": "W20 sınıfı, 5 Bar'da 0 mm penetrasyon",
+    "r1standard": "Basınç altında yüksek geçirgenlik",
+    "r1polymer": "Kısmi koruma, mikro sızıntı riski",
+    "r2param": "Negatif basınca dayanım",
+    "r2geonyx": "Monolitik bağ, delaminasyon yok",
+    "r2standard": "Karşı basınç için tasarlanmamış",
+    "r2polymer": "Yüksek ayrışma ve kabarcık riski",
+    "r3param": "Su altı uygulama",
+    "r3geonyx": "Dalgıçlarla ve yerel onarımlarla mümkün",
+    "r3standard": "Uygulanamaz",
+    "r3polymer": "Genellikle imkânsız, kuru yüzey gerektirir",
+    "r4param": "Hidrolik mühendislikte hizmet ömrü",
+    "r4geonyx": "Uygun bakımla ≥ 20 yıl",
+    "r4standard": "Sık onarımlar ve enjeksiyonlar",
+    "r4polymer": "Ciddi rehabilitasyona kadar 5–10 yıl",
+    "r5param": "NRW ve kayıplar üzerindeki etki",
+    "r5geonyx": "Sızıntılarda önemli azalma",
+    "r5standard": "Kayıplar üzerinde gerçek kontrol yok",
+    "r5polymer": "Sınırlı etki, kısa ufuk"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "Endüstriyel arıtma tesislerinden deniz fenerlerine ve içme suyu rezervuarlarına kadar.",
+    "a1title": "Atık su arıtma tesisleri (WWTP)",
+    "a1desc": "Havalandırma havuzları, çöktürme tankları, kanallar ve pompa istasyonları.",
+    "a2title": "İçme suyu ve rezervuarlar",
+    "a2desc": "Su kütleleri, kuleler, rezervuarlar ve dağıtım bacaları.",
+    "a3title": "Barajlar ve hidroelektrik",
+    "a3desc": "Savaklar, basınçlı borular, kanallar ve su kuleleri.",
+    "a4title": "Limanlar ve rıhtımlar",
+    "a4desc": "Rıhtım duvarları, kazıklar, dalgakıranlar ve havuzlar.",
+    "a5title": "Kanalizasyon ve kolektörler",
+    "a5desc": "Ana kolektörler, muayene bacaları ve drenaj kanalları.",
+    "a6title": "Su parkları ve havuzlar",
+    "a6desc": "Yüzme havuzları, su kaydırakları ve çevre alanları.",
+    "a7title": "Deniz koruması",
+    "a7desc": "Kıyı koruma yapıları, fenerler ve açık deniz platformları.",
+    "a8title": "Endüstriyel sular",
+    "a8desc": "Soğutma kuleleri, proses suyu tankları ve nötralizatörler."
+  },
+  "workflow": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "w1step": "01",
+    "w1title": "Hidrolik mühendislik denetimi",
+    "w1desc": "Yapı incelemesi, karbonasyon, klorür ve beton mukavemeti ölçümü. Gerektiğinde su altı muayenesi.",
+    "w2step": "02",
+    "w2title": "Koruma projesi",
+    "w2desc": "Suyun agresifliğine, basınca ve mekanik yüklere göre GEONYX HYDRO sistem seçimi.",
+    "w3step": "03",
+    "w3title": "Yüzey hazırlığı",
+    "w3desc": "Hasarlı betonu gidermek ve donatıyı temizlemek için hidro-patlatma (2500 bar).",
+    "w4step": "04",
+    "w4title": "Geometri restorasyonu",
+    "w4desc": "Dökülmüş bölgelerin yüksek mukavemetli jeopolimer harçlarla (R4) yeniden profillendirilmesi.",
+    "w5step": "05",
+    "w5title": "Koruma sisteminin uygulanması",
+    "w5desc": "GEONYX HYDRO membranının el ile veya makineyle (shotcrete) uygulanması – su altında dahil.",
+    "w6step": "06",
+    "w6title": "Kalite kontrolü ve devreye alma",
+    "w6desc": "Yapışma ve su geçirimsizlik testleri. Sertifika ve garanti belgelerinin düzenlenmesi."
+  },
+  "offer": {
+    "eyebrow": "TİCARİ BELGELER",
+    "title": "TEKLİF PAKETİ",
+    "titleSub": "(B2B / B2G)",
+    "description": "Su şirketleri, belediyeler ve endüstriyel işletmeciler için GEONYX, ihaleler ve doğrudan siparişler için eksiksiz bir belge paketi hazırlar.",
+    "qualityTitle": "KALİTE GARANTİSİ",
+    "qualityDesc": "Tüm belgeler EN 1504 ve ulusal standartlara uygundur.",
+    "i1": "Su yalıtımı ve beton koruması için teknik şartname",
+    "i2": "Derz, geçiş ve çatlak işleme detayları",
+    "i3": "İş organizasyon planı (su altı çalışmalar dahil)",
+    "i4": "Malzeme sertifikaları (EN 1504-2, içme suyu)",
+    "i5": "Birim fiyat cetveli (BFC)",
+    "i6": "Garanti koşulları ve işletme planı"
+  },
+  "systems": {
+    "eyebrow": "TEKNOLOJİ",
+    "title": "GEONYX SİSTEM SEÇİMİ",
+    "subtitle": "Hidrolik yapılar için GEONYX, su tipine, basınca ve ortam agresifliğine göre HYDRO, CHEM, ARMOR ve REPAIR'ı birleştirir.",
+    "s1name": "GEONYX HYDRO",
+    "s1desc": "Pozitif ve negatif hidrostatik basınca dayanıklı, su geçirimsizliği (W20) için özel sistemler.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Arıtma tesisleri ve kanalizasyonda biyojenik korozyon, sülfat ve asitlere karşı mineral koruma.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Savaklar ve limanlardaki kavitasyon, aşınma ve mekanik darbeli bölgeler için yüksek mukavemetli çözümler.",
+    "s4name": "GEONYX REPAIR",
+    "s4desc": "Dökülen beton ve paslanmış donatının yapısal restorasyonu için jeopolimer harçlar.",
+    "s5name": "GEONYX PURE",
+    "s5desc": "Mikroorganizma gelişimini önleyen, içme suyu teması için sertifikalı sistemler."
+  },
+  "docs": {
+    "title": "Belgeler",
+    "d1name": "Water & WWTP",
+    "d1sub": "GEONYX sistemleri (PDF)",
+    "d2name": "Marine & Coastal",
+    "d2sub": "Koruyucu çözümler (PDF)",
+    "d3name": "Drinking Water",
+    "d3sub": "Sertifikalar (PDF)",
+    "d4name": "Technical Data",
+    "d4sub": "EN 1504-2 (PDF)"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "q1": "GEONYX SİSTEMLERİ SU ALTINDA UYGULANABİLİR Mİ?",
+    "a1": "Evet, GEONYX HYDRO'nun belirli konfigürasyonları dalgıç ekipleri tarafından su altında uygulanmak ve sertleşmek üzere tasarlanmıştır; bu da rezervuarı boşaltmadan baraj ve rıhtım onarımı yapılmasına olanak tanır.",
+    "q2": "MALZEMELER İÇME SUYU TEMASI İÇİN GÜVENLİ Mİ?",
+    "a2": "Evet, GEONYX HYDRO, içme suyu teması için sertifikalara sahiptir. Mineral yapısı toksin salmaz, çözücü içermez ve suyun tat veya bileşimini değiştirmez.",
+    "q3": "DENİZ SUYU VE KLORÜRLERe DAYANIM NEDİR?",
+    "a3": "Son derece yüksek. Sistemler, klorür difüzyonunu durdurmak için tasarlanmış olup agresif tuzlu su ortamlarında ve gelgit bölgelerinde bile donatıyı korozyondan korur."
+  },
+  "cta": {
+    "title": "KAPSAMLI SAHA ZONLAMA",
+    "description": "Her hidrolik yapının kendine özgü riskleri vardır. Uzmanlaşmış matrisleri tek bir sistemde entegre ediyoruz: basınç altında su geçirimsizliğinden ve kimyasal dirençten aşınma direncine ve içme suyu temasına kadar. İhtiyaçların %100'ünü karşılamayı garanti eden bir teknoloji.",
+    "btn": "TÜM SİSTEMLERİ KEŞFEDİN"
+  }
+}

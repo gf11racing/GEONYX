@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "Contacter GEONYX | Consultation en Ingénierie",
+    "description": "Contactez GEONYX GROUP LTD pour une consultation technique, une inspection de site ou une planification de projet. Sofia, Bulgarie."
+  },
+  "hero": {
+    "eyebrow": "CONTACTS & BUREAUX",
+    "title": "CONTACTEZ-",
+    "titleHighlight": "NOUS.",
+    "description": "Vous avez un défi industriel ? Nous avons une solution d'ingénierie.\nNe perdez pas de temps – nos experts sont disponibles."
+  },
+  "info": {
+    "adminBadge": "Administration",
+    "locationEyebrow": "LOCALISATION",
+    "hqTitle": "SIÈGE SOCIAL &\nADMINISTRATION",
+    "addressLine1": "18 rue Yuriy Venelin, Gabrovo",
+    "addressLine2": "2e étage, 5300 Gabrovo, Bulgarie",
+    "hours": "Lun - Ven : 09h00 - 18h00",
+    "hqNote": "POUR LA CORRESPONDANCE OFFICIELLE, LES PARTENARIATS ET LES DOCUMENTS.",
+    "salesBadge": "Département Commercial",
+    "supportEyebrow": "SUPPORT",
+    "salesTitle": "DÉPARTEMENT COMMERCIAL &\nTECHNIQUE",
+    "coverage": "Couverture nationale",
+    "salesNote": "POUR LES DEVIS, INSPECTIONS DE SITES ET CONSULTATIONS TECHNIQUES.",
+    "salesNoteHighlight": "NOS INGÉNIEURS SE DÉPLACENT DANS TOUT LE PAYS."
+  },
+  "form": {
+    "eyebrow": "Agissez Maintenant",
+    "title": "ENVOYER UNE DEMANDE",
+    "nameLabel": "Nom et Prénom *",
+    "namePlaceholder": "Jean Dupont",
+    "companyLabel": "Entreprise / Organisation *",
+    "companyPlaceholder": "Nom de l'entreprise",
+    "phoneLabel": "Téléphone *",
+    "phonePlaceholder": "+33 ...",
+    "emailLabel": "E-mail *",
+    "emailPlaceholder": "nom@entreprise.fr",
+    "sectorLabel": "Type d'Industrie *",
+    "sectorPlaceholder": "-- Sélectionner un secteur --",
+    "messageLabel": "Message / Description du problème",
+    "messagePlaceholder": "Décrivez brièvement votre cas...",
+    "submitBtn": "ENVOYER LA DEMANDE",
+    "submittingBtn": "ENVOI EN COURS...",
+    "successTitle": "DEMANDE REÇUE",
+    "successBody": "L'un de nos ingénieurs vous contactera dans les 24 heures pour clarifier les détails.",
+    "newInquiry": "Envoyer une nouvelle demande",
+    "sector1": "Industrie Lourde & Logistique",
+    "sector2": "Agroalimentaire & Pharmacie",
+    "sector3": "Agro, Biogaz & Environnements Animaux",
+    "sector4": "Infrastructure Hydraulique & Maritime",
+    "sector5": "Énergie, Mines & Protection Lourde",
+    "sector6": "Transport, Parkings & Garages",
+    "sector7": "Environnement Urbain & Construction",
+    "sector8": "Autre"
+  },
+  "map": {
+    "caption": "Localisation : Gabrovo, Bulgarie.",
+    "captionHighlight": "Rayonnement opérationnel : Toute l'Europe."
+  }
+}

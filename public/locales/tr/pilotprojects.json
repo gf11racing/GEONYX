@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "GEONYX | Referanslar – Tamamlanmış Endüstriyel Projeler ve Tesisler",
+    "description": "GEONYX sistemleriyle gerçekleştirilen referanslar ve projeler – endüstriyel zeminler, kimyasal koruma, su koruma ve termal güvenlik; ağır sanayi, gıda ve ilaç, lojistik, enerji ve altyapı için. Kritik bölgeler için uzun vadeli çözümler."
+  },
+  "hero": {
+    "eyebrow": "OPERASYONEL RAPORLAR",
+    "titleLine1": "OPERASYONEL",
+    "titleLine2": "ARŞİV.",
+    "description": "SADECE VAATLer DEĞİL. MÜHENDİSLİK GERÇEKLERİ. GEONYX teknolojilerinin kritik düzeyde tehlikeye atılmış endüstriyel substratları nasıl yıkılmaz monolitik sistemlere dönüştürdüğünü görün.",
+    "btnReports": "RAPORLARI İNCELE"
+  },
+  "slider": {
+    "eyebrow": "GÖRSEL KONTROL",
+    "title": "YIKINTıDAN MONOLİTE",
+    "instruction": "YAPISAL DÖNÜŞÜMÜ GÖRMEK İÇİN KAYDIRIN",
+    "labelAfter": "SONRA: GEONYX ARMOR",
+    "labelBefore": "ÖNCE: BOZULMUŞ BETON"
+  },
+  "metrics": {
+    "m1value": "500.000 m²+",
+    "m1label": "KURULU SİSTEMLER",
+    "m2value": "100%",
+    "m2label": "ENDÜSTRİYEL ODAK",
+    "m3value": "0",
+    "m3label": "KALİTEDEN ÖDÜN"
+  },
+  "cases": {
+    "problemLabel": "SORUN",
+    "resultLabel": "SONUÇ",
+    "applyBtn": "MÜHENDİSLİK DENETİMİ TALEP ET",
+    "case1": {
+      "eyebrow": "Case #001",
+      "sector": "TARIM SEKTÖRÜ",
+      "title": "YOĞUN HAYVANCILIK",
+      "solutionLabel": "ÇÖZÜM: GEONYX CHEM",
+      "problem": "Agresif biyojenik asit (pH < 3) ve gübredeki amonyak, standart betonu 3 yıldan kısa sürede donatısına kadar aşındırmıştı. Tehlikeye giren derzler patojen üretiyordu.",
+      "s1title": "Organik asitlere karşı bağışıklık:",
+      "s1desc": "İdrar ve laktik aside karşı tam inerlik.",
+      "s2title": "Bakteriostatik monolit:",
+      "s2desc": "Biyofilm oluşumunu ortadan kaldıran, dersiz ve gözeneksiz sistem.",
+      "s3title": "Zooteknik güvenlik:",
+      "s3desc": "Toynak tutuşu sağlayan R12 profil dokusu.",
+      "result": "Yapısal korozyon durduruldu. Çiftlik en katı veteriner denetimlerini geçiyor ve travma oranı sıfıra indirildi."
+    },
+    "case2": {
+      "eyebrow": "Case #002",
+      "sector": "METALURJİ",
+      "title": "AĞIR MAKİNE MÜHENDİSLİĞİ",
+      "solutionLabel": "ÇÖZÜM: GEONYX ARMOR",
+      "problem": "Beton döşeme 50 mm derinliğe kadar hidrolik yağla doygundu. 200 tonluk preslerden kaynaklanan titreşimler ve düşen metal parçalardan gelen darbe yükleri derzleri kratere çevirmişti.",
+      "s1title": "Kimyasal frezeleme:",
+      "s1desc": "Özel astarlar kullanılarak yağların betondan derinlemesine çıkarılması.",
+      "s2title": "Titreşim absorbsiyonu:",
+      "s2desc": "Sünek jeopolimer matris (12 mm) uygulaması.",
+      "s3title": "Derzsiz mühendislik:",
+      "s3desc": "Zemin boyunca tüm zayıf noktaların ortadan kaldırılması.",
+      "result": "24/7 titreşim yükü altında 5 yıl işletim. Sıfır hacim kaybı."
+    },
+    "case3": {
+      "eyebrow": "Case #003",
+      "sector": "KİMYA TESİSİ",
+      "title": "AŞIRI KİMYASAL SALDIRGANLIK",
+      "solutionLabel": "ÇÖZÜM: GEONYX CHEM",
+      "problem": "Konsantre sülfürik asit (H₂SO₄ %98) üretim sızıntıları betonu haftalar içinde tahrip ediyordu. Geleneksel epoksi kaplamalar şişiyor, soyuluyordu ve çevresel felaket riski yaratıyordu.",
+      "s1title": "Mineral kalkan:",
+      "s1desc": "Konsantre asitlere ve agresif çözücülere karşı tam inerlik.",
+      "s2title": "İkincil muhafaza:",
+      "s2desc": "Geçirimsiz 'bent' inşası (WHG Sertifikalı).",
+      "s3title": "ATEX Güvenliği:",
+      "s3desc": "Patlamaları önlemek için antistatik yüzey.",
+      "result": "Üretim çevre cezalarına karşı güvence altına alındı. Döküntülerin yüzeyde %100 tutulması sağlandı."
+    },
+    "case4": {
+      "eyebrow": "Case #004",
+      "sector": "LOJİSTİK",
+      "title": "YÜKSEK YÜKLEMELİ LOJİSTİK MERKEZİ",
+      "solutionLabel": "ÇÖZÜM: GEONYX ARMOR (RAPID)",
+      "problem": "2.000 m²'lik aktif yükleme bölgesinin rehabilitasyonu için kritik ihtiyaç. Reach truck trafiğiyle tamamen tehlikeye giren derzler. Her dakikalık lojistik durma onlarca bin euroya mal oluyordu.",
+      "s1title": "Krono-mühendislik:",
+      "s1desc": "Son derece hızlı polimerizasyon için hızlandırıcıların kullanımı (4–6 saat).",
+      "s2title": "Bölgelendirme:",
+      "s2desc": "Komşu koridorları aksatmadan bölümler halinde çalışma.",
+      "s3title": "Kesme direnci:",
+      "s3desc": "Palet arabalarının küçük sert tekerleklerine karşı koruma.",
+      "result": "Zemin Cumartesi akşamı frezelendi ve döşendi. Pazar sabahı (12 saatten az sonra) forkliftler yeni yüzey üzerinde çalışıyordu."
+    }
+  },
+  "clients": {
+    "label": "GEONYX'İ ENTEGRE EDEN ENDÜSTRİ LİDERLERİ"
+  },
+  "cta": {
+    "title": "RİSKİNİZİ ANALİZ EDİN.",
+    "subtitle": "Yapısal bir arızanın üretiminizi durdurmasını beklemeyin. Mühendisimizden teknik değerlendirme isteyin.",
+    "btn": "MÜHENDİSLİK DENETİMİ TALEP ET"
+  }
+}

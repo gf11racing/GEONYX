@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "GEONYX | Enerji, Madencilik ve Ağır Savunma – Endüstriyel ve Aşınmaya Dirençli Sistemler",
+    "description": "GEONYX, enerji, madencilik ve ağır sanayi için mineral koruyucu sistemler geliştiriyor – aşırı aşınma, darbe yükleri, zincirler, maden cevheri, titreşimler, yağlar ve termal şoka dayanıklı. Yoğun işletme koşullarında beton ve kritik altyapının uzun ömürlü korunması."
+  },
+  "tender": {
+    "text": "Enerji, madencilik ve savunma tesislerindeki (kazan daireleri, türbin salonları, trafo merkezleri, batarya parkları, madenler, yakıt depoları, tüneller ve koruyucu yapılar) zemin, yapısal ve koruyucu sistemler, bölge bazında risk profiline göre ARMOR / CHEM / THERM / HYDRO / REPAIR kombinasyonunu içeren GEONYX tipi veya eşdeğeri mineral jeopolimer sistemlerle uygulanacaktır. Sistemler, yangın sınıfı A1 (ilgili bölgeler için), yüksek kimyasal ve mekanik direnç, yerel onarım kapasitesi ve minimum duruş süresi sağlamalıdır."
+  },
+  "hero": {
+    "eyebrow": "ENERJİ, MADENCİLİK VE AĞIR SAVUNMA",
+    "title1": "YÜKSEK RİSK İÇİN",
+    "title2": "YÜZEYLER.",
+    "description": "Enerji ve madencilikte yangın, kimya, darbe ve titreşim günlük gerçeklerdir. GEONYX, yapıyı koruyan ve bir olay sırasında hasarı sınırlayan mineral sistemlerde ARMOR, CHEM, THERM ve HYDRO'yu birleştirir.",
+    "btn1": "RİSK DENETİMİ TALEP ET",
+    "btn2": "THERM/ARMOR PROFİLİNİ İNDİR",
+    "scope": "KAPSAM",
+    "zonesLabel": "BÖLGELER:",
+    "zone1": "Termik santraller ve kojenerasyon",
+    "zone2": "Buhar kazanları, türbin salonları ve makine daireleri",
+    "zone3": "Baca gazı kanalları, gaz kanalları ve elektrofiltreler",
+    "zone4": "Kül, kireç ve reaktif siloları",
+    "zone5": "Trafo alanları ve elektrik trafo merkezleri",
+    "zone6": "Açık maden ocakları, kömür ve maden cephesi",
+    "zone7": "Yeraltı galerileri, depolar ve tamir odaları",
+    "zone8": "Konveyör hatları, aktarma kuleleri ve bunkerler",
+    "zone9": "Kırma, eleme ve yükleme istasyonları",
+    "zone10": "Cüruf sahaları, atık barajları ve çöktürme havuzları",
+    "systemsLabel": "SİSTEMLER:",
+    "anchorApplications": "↓ NEREDE KULLANILIR",
+    "anchorSystem": "↓ SİSTEM SEÇİMİ",
+    "anchorOffer": "↓ TEKLİF PAKETİ"
+  },
+  "manifesto": {
+    "title1": "BİR HATA",
+    "title2": "HAYATLARA VE MİLYONLARA MAL OLDUĞUNDA.",
+    "description": "Enerji, madencilik ve savunma tesislerinde zemin, yapı ve koruyucu katmanlar güvenlik sisteminin bir parçasıdır. Yakıt sızıntısı, bir kıvılcım, termal şok veya kimyasal saldırı betonu en zayıf halka haline getirmemelidir. GEONYX, yangın sınıfı A1, yüksek kimyasal direnç ve mekanik mukavemet ile mineral sistemler tasarlar – böylece bir olay yerel kalır ve tesis mümkün olan en kısa sürede devreye girer."
+  },
+  "zigzag": {
+    "problem": "SORUN:",
+    "solution": "ÇÖZÜM:",
+    "suitableSystems": "Uygun sistemler:",
+    "block1": {
+      "tag": "KAZAN DAİRELERİ VE TÜRBİN SALONLARI",
+      "title": "SANTRAL, KOMBİNE ÇEVRIM VE BİYOKÜTLE",
+      "problem": "Kazan daireleri ve türbin salonlarında sıcak yüzeyler, yağlar, buhar ve titreşimler bulunur. Beton termal döngülerden çatlar, sızıntılar yapıya işler ve standart boyalar yanar ve soyulur.",
+      "solution": "GEONYX THERM + ARMOR, ağır makineler için yüksek mekanik mukavemetle kıvılcımlara ve termal şoka dayanıklı, A1 sınıfı mineral zemin sağlar. HYDRO ve CHEM, yoğuşma ve agresif sıvı bölgelerine eklenir; REPAIR kampanyalar arasında yerel onarıma izin verir.",
+      "systems": "THERM"
+    },
+    "block2": {
+      "tag": "TRANSFORMATÖRLER VE YAĞLAR",
+      "title": "TRAFO MERKEZLERİ VE TRAFO ALANLARI",
+      "problem": "Trafo alanlarında ve trafo merkezlerinde yağlar, ark ve kıvılcımlar yangın ve kirlilik riski yaratır. Çatlak beton ve kontrolsüz eğimler sızıntıları yanlış yöne yönlendirir.",
+      "solution": "GEONYX ARMOR, sızıntı kontrolü için dayanıklı havuzlar ve kanallar oluşturur. THERM ve CHEM yangın ve kimyasal direnci artırır; HYDRO yapı ve zemine nüfuzu sınırlar.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "LİTYUM BATARYALAR",
+      "title": "BATARYA PARKLARI (BESS) VE UPS SALONLARI",
+      "problem": "Lityum iyon bataryalar termal kaçınma, elektrolit ve toksik duman riski taşır. Standart kaplamalar yanabilir, toksik gaz salabilir ve yüksek sıcaklıkta bozulabilir.",
+      "solution": "GEONYX THERM + CHEM, elektrolitlere ve temizlik maddelerine dayanıklı yanmaz, mineral yüzey sağlar. ARMOR ağır dolap ve raflar için mukavemet garantisi verirken REPAIR bir olaydan sonra hızlı iyileşmeye olanak tanır.",
+      "systems": "THERM"
+    },
+    "block4": {
+      "tag": "MADENLER VE RAMPALAR",
+      "title": "MADENLER, RAMPALAR VE MADEN ÇALIŞMALARI",
+      "problem": "Madenlerde zeminler ve rampalar aşındırıcı cevher, çamur, su ve damperli kamyon ve makinelerden gelen ağır trafik alır. Beton hızla aşınır, çukurlar ve toz oluşur.",
+      "solution": "GEONYX ARMOR, aşırı aşınma direnci ile yüksek mukavemetli mineral kaplama sunar. HYDRO suya ve donmaya karşı korur; REPAIR iz sürtünmelerini ve bozulan kesimleri hızlıca doldurmak için kullanılır.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "PULPALAR VE KİMYA",
+      "title": "ZENGINLEŞTIRME FABRİKALARI VE PULPALAR",
+      "problem": "Zenginleştirme fabrikalarında beton, aşındırıcı pulpalara, değişken pH'lı çözeltilere ve ekipman darbe yüklerine maruz kalır. Standart kaplamalar hızla aşınır ve sızdırır.",
+      "solution": "GEONYX CHEM + ARMOR, havuzlar, kanallar ve platformlar için aşınmaya ve kimyasallara dirençli yüzeyler inşa eder. HYDRO sızmayı kontrol eder; REPAIR kritik detayların ömrünü uzatır.",
+      "systems": "CHEM"
+    },
+    "block6": {
+      "tag": "YAKITLAR VE SIZINTILAR",
+      "title": "YAKIT VE KİMYASAL DEPOLARI",
+      "problem": "Mazot, benzin, reaktif ve patlayıcı madde depolarında sızıntılar ve buharlar ciddi bir risktir. Çatlaklar ve derzler betona ve zemine sızmaya izin verir.",
+      "solution": "GEONYX CHEM + HYDRO, kontrollü drenaj ve kimyasal direnç ile mineral 'havuz' oluşturur. THERM yangın davranışını iyileştirir; REPAIR tüm depoyu kapatmadan yerel iyileşmeye olanak tanır.",
+      "systems": "CHEM"
+    },
+    "block7": {
+      "tag": "TÜNELLER VE YANGIN",
+      "title": "TÜNELLER, GALERİLER VE TAHLİYE GÜZERGAHLARI",
+      "problem": "Tünellerde ve yeraltı galerilerde yangın, duman ve damlayan su yapıyı hızla tehlikeye atabilir. Organik kaplamalar yanarken duman ve toksik gaz salınır.",
+      "solution": "GEONYX THERM, termal şoka dayanıklı A1 sınıfı yanmaz, mineral kaplamalar sağlar. HYDRO ve ARMOR su ve trafik kontrolü için birleştirilir; REPAIR aşamalı rehabilitasyona izin verir.",
+      "systems": "THERM"
+    },
+    "block8": {
+      "tag": "AĞIR SAVUNMA",
+      "title": "KORUYUCU BUNKERLER VE KRİTİK ALTYAPI",
+      "problem": "Koruyucu yapılar, taşıma kapasitesini kaybetmeden darbe, titreşim ve yangına dayanmalıdır. Çatlak ve yetersiz korunan yüzeyler koruma düzeyini düşürür.",
+      "solution": "GEONYX ARMOR + THERM, zemin ve duvarlar için yüksek mukavemetli, yanmaz sistemler sağlar. CHEM ve HYDRO ortama göre eklenir; REPAIR mevcut yapıların güçlendirilmesini ve ömrünün uzatılmasını sağlar.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "colParam": "PARAMETRE",
+    "colStd": "Standart beton + boya",
+    "colEpoxy": "Epoksi / PU kaplamalar",
+    "row1": "Yangın direnci (sınıf)",
+    "row2": "Yakıt ve kimyasallara direnç",
+    "row3": "Mekanik mukavemet ve aşınma",
+    "row4": "Termal şok altında davranış",
+    "row5": "24/7 işletimde yaşam döngüsü",
+    "row6": "Onarım süresi / duruş",
+    "row7": "Toplam yaşam döngüsü maliyeti",
+    "val1geonyx": "A1, mineral matris, yanmaz",
+    "val1std": "Boyaya bağlı, genellikle organik",
+    "val1epoxy": "Organik reçineler, duman ve toksik gazlar",
+    "val2geonyx": "Yüksek (CHEM konfigürasyonu)",
+    "val2std": "Düşük – beton ve boya bozunur",
+    "val2epoxy": "Orta – çözücü ve asitlere duyarlı",
+    "val3geonyx": "Yüksek – ağır trafik ve darbe için ARMOR",
+    "val3std": "Orta – hızlı aşınma",
+    "val3epoxy": "Orta – kaplama aşınır, beton korumasız kalır",
+    "val4geonyx": "Kararlı – THERM sistemleri",
+    "val4std": "Çatlama ve soyulma",
+    "val4epoxy": "Kabarcık ve delaminasyon",
+    "val5geonyx": "Uzun, yerel REPAIR ile",
+    "val5std": "Kısa ile orta, sık onarımlar",
+    "val5epoxy": "Orta, periyodik yeniden döşeme gerekli",
+    "val6geonyx": "Aşamalı onarım, kısa pencereler",
+    "val6std": "Uzun bölge duruşları",
+    "val6epoxy": "Yeniden döşeme için önemli duruş",
+    "val7geonyx": "10–15 yıllık ufukta daha düşük",
+    "val7std": "Düşük başlangıç, uzun vadede yüksek",
+    "val7epoxy": "Orta, olayda yüksek risk maliyetiyle"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "GEONYX sistemleri tüm spektruму kapsıyor – santrallerden ve madenlerden yakıt depolarına ve koruyucu yapılara kadar.",
+    "a1title": "Termik santraller ve kombine çevrim",
+    "a1desc": "Kazan daireleri, türbin salonları, kül bölgeleri ve makine daireleri.",
+    "a2title": "Trafo merkezleri ve trafo alanları",
+    "a2desc": "Trafo havuzları, yağ kuyuları ve servis platformları.",
+    "a3title": "Batarya parkları (BESS) ve UPS",
+    "a3desc": "Batarya, invertör ve elektronik ekipman salonları.",
+    "a4title": "Madenler ve maden rampaları",
+    "a4desc": "Zemin kaplaması, rampalar, servis bölgeleri ve çalışma platformları.",
+    "a5title": "Zenginleştirme fabrikaları",
+    "a5desc": "Pulpa havuzları, kanallar, ekipman platformları ve kimyasal alanlar.",
+    "a6title": "Yakıt ve kimyasal depolar",
+    "a6desc": "Tanker rampaları, tank platformları ve acil havuzlar.",
+    "a7title": "Tüneller ve yeraltı galerileri",
+    "a7desc": "Karayolu tünelleri, maden galerileri ve tahliye koridorları.",
+    "a8title": "Koruyucu bunkerler ve kritik altyapı",
+    "a8desc": "Kontrol odaları, sığınaklar ve özel salonlar."
+  },
+  "systems": {
+    "eyebrow": "TEKNOLOJİ",
+    "title": "GEONYX SİSTEM SEÇİMİ",
+    "subtitle": "Her enerji, madencilik veya savunma tesisi için GEONYX, birincil riske göre ARMOR, CHEM, THERM, HYDRO ve REPAIR'ı birleştirir – yangın, kimya, trafik, su veya güçlendirme ihtiyacı.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Ağır makineler, titreşimler ve darbe yükleri için yüksek mukavemetli zemin ve yapısal sistemler.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Enerji ve madencilikte yakıt, yağ, asit, baz ve reaktiflere karşı yüksek dirençli mineral çözümler.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Kıvılcımlar, termal şok ve yüksek sıcaklıklar için tasarlanmış A1 sınıfı yanmaz sistemler.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Kanallarda, havuzlarda ve yeraltı bölümlerinde suya, yoğuşmaya ve agresif sıvılara karşı koruma sistemleri.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Mevcut yapıların onarımı, güçlendirilmesi ve ömrünün uzatılması için hızlı jeopolimer çözümler."
+  },
+  "workflow": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "w1step": "01",
+    "w1title": "Risk ve Teknik Denetim",
+    "w1desc": "Bölge bazında yangın, kimyasal, mekanik ve hidrolik risklerin belirlenmesi.",
+    "w2step": "02",
+    "w2title": "Tesis Bölgelendirmesi",
+    "w2desc": "Kazan daireleri, trafo merkezleri, maden bölümleri, depolar ve tünellerin yük tipine göre ayrılması.",
+    "w3step": "03",
+    "w3title": "GEONYX Sistem Tasarımı",
+    "w3desc": "ARMOR / CHEM / THERM / HYDRO / REPAIR seçimi, derzler, kenarlar ve havuzlar için ayrıntılı çözümler.",
+    "w4step": "04",
+    "w4title": "Alt Zemin Hazırlama",
+    "w4desc": "Eski kaplamaların kaldırılması, çatlak onarımı, gerektiğinde güçlendirme ve komşu sistemlerin korunması.",
+    "w5step": "05",
+    "w5title": "Operasyonel Programa Göre Uygulama",
+    "w5desc": "Üretim rejimine uygun aşamalı uygulama – kampanyalar, acil pencereler, gece vardiyaları.",
+    "w6step": "06",
+    "w6title": "Testler ve Devreye Alma",
+    "w6desc": "Yapışma, yüzey özellikleri ve yangın davranışının doğrulanması; bakım talimatları ve gelecekteki REPAIR müdahaleleri."
+  },
+  "offer": {
+    "eyebrow": "TİCARİ DOKÜMANTASYON",
+    "title": "TEKLİF PAKETİ",
+    "subtitle": "(B2B / B2G)",
+    "description": "Enerji, madencilik ve savunma tesisleri için GEONYX, yatırımcı, denetim, bankalar, sigortacılar ve düzenleyici kurumlar için dokümantasyon hazırlar.",
+    "qualityLabel": "KALİTE GARANTİSİ",
+    "qualityDesc": "Tüm belgeler güncel Eurokodlar ve standartlara uygundur.",
+    "doc1": "Bölge bazında risk profili – yangın, kimya, mekanik, su",
+    "doc2": "ARMOR / CHEM / THERM / HYDRO / REPAIR için teknik özellikler",
+    "doc3": "Havuz, derz, kenar ve sızıntı bölgeleri ayrıntılı çizimleri",
+    "doc4": "Yangın ve endüstriyel standartlara uygunluk (A1 sınıfı vb.)",
+    "doc5": "Tüm tesisi durdurmadan aşamalı uygulama için önerilen takvim",
+    "doc6": "Garanti koşulları ve muayeneler ile REPAIR müdahaleleri için plan",
+    "copyBtn": "İHALE METNİNİ KOPYALA",
+    "copiedBtn": "METİN KOPYALANDI!"
+  },
+  "docs": {
+    "title": "Dokümantasyon",
+    "d1title": "Power & Heat Plants",
+    "d1sub": "GEONYX sistemleri (PDF)",
+    "d2title": "Substations & BESS",
+    "d2sub": "Zemin çözümleri (PDF)",
+    "d3title": "Mining Structures",
+    "d3sub": "Mineral kaplamalar (PDF)",
+    "d4title": "High-Risk Protection",
+    "d4sub": "Tünel sistemleri (PDF)"
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "q1title": "UYGULAMA SIRASINDA TESİSİN TAMAMEN KAPATILMASI GEREKİYOR MU?",
+    "q1answer": "Zorunlu değil. Çoğu durumda aşamalı çalışırız – blok blok, galeri galeri veya saha saha, üretim ve güvenlik gereksinimlerine uyumlu pencerelerle.",
+    "q2title": "GEONYX SİSTEMLERİ YANGIN SINIFI A1'E ULAŞABİLİR VE YANGIN SENARYOLARIMIZA ENTEGRe EDİLEBİLİR Mİ?",
+    "q2answer": "Evet. THERM ve ARMOR çözümleri mineraldir ve yanmaz; ilgili katmanlar için A1 sınıfındadır. Yangın senaryoları ve değerlendirmeleri için gerekli verileri sağlarız.",
+    "q3title": "KAPLAMA ÜZERİNDE CİDDİ BİR YAKIT VEYA KİMYASAL SIZINTISI OLDUĞUNDA NE OLUR?",
+    "q3answer": "CHEM + HYDRO konfigürasyonları yapı ve zemine nüfuzu sınırlar. Yüzey yıkanır ve gerektiğinde tüm sistemi değiştirmeden yerel REPAIR uygulanır."
+  },
+  "cta": {
+    "title": "KAPSAMLI TESİS BÖLGELENDİRMESİ",
+    "description": "Her tesisin kendine özgü riskleri vardır. Mekanikten, kimyadan ve termal şoktan su yalıtımı, antistatik ve mimariye kadar 6 özel matrisi tek bir sistemde entegre ederiz. İhtiyaçların %100 karşılandığını ve tam uyumluluğu garanti eden tek bir teknoloji.",
+    "btn": "TÜM MÜHENDİSLİK SİSTEMLERİNİ GÖR"
+  }
+}

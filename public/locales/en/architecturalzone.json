@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "GEONYX | Architectural Zone – Designer Mineral Surfaces and Façade Solutions",
+    "description": "GEONYX Architectural Zone offers high-durability mineral coatings and surfaces for public spaces, retail, façades and modern architecture. Seamless systems with high aesthetics, mechanical resistance and long service life."
+  },
+  "hero": {
+    "eyebrow": "ARCHITECTURAL ZONE",
+    "titleLine1": "TECHNICAL",
+    "titleLine2": "CENTER",
+    "description": "Engineering portal for architects and designers.",
+    "descriptionLine2": "Textures, CAD details and specifications for public procurement."
+  },
+  "textures": {
+    "badge": "Textures",
+    "eyebrow": "SURFACE STRUCTURE",
+    "title": "VISUAL AND TACTILE CLASSIFICATION",
+    "description": "GEONYX surfaces are classified according to Light Reflectance Value (LRV) and Surface Roughness index. From deep matte coatings (Deep Matte) for light absorption to satin finishes. We provide textures corresponding to the real physical properties of the material.",
+    "btn": "BROWSE LIBRARY"
+  },
+  "monolith": {
+    "badge": "Monolith",
+    "eyebrow": "SEAMLESS INTEGRATION",
+    "title": "STRUCTURAL CONTINUITY",
+    "description": "GEONYX technology allows application over large areas without expansion joints (Seamless Application). This ensures hygienic cleanliness and eliminates the grid of grout lines typical of tiles. A single, continuous mineral surface from wall to wall.",
+    "btn": "APPLICATION TECHNOLOGY"
+  },
+  "assets3d": {
+    "badge": "3D Assets",
+    "eyebrow": "DIGITAL ASSETS",
+    "title": "PBR MAPS FOR V-RAY / CORONA / BIM",
+    "description": "Digitised surfaces via 8K scanning. The full package includes physically accurate maps: Diffuse, Reflection, Glossiness, Normal and Displacement. Ready-to-use materials for integration into your BIM and CAD visualisations before execution.",
+    "btn": "DOWNLOAD PBR ZIP (8K)"
+  },
+  "documentation": {
+    "eyebrow": "DATA CENTER",
+    "title": "TECHNICAL DOCUMENTATION",
+    "subtitle": "SYSTEM PASSPORTS AND DECLARATIONS OF PERFORMANCE (DoP)",
+    "btnTds": "[TDS Technical Data]",
+    "btnMsds": "[MSDS Safety Data]",
+    "btnDop": "[DoP Declaration]"
+  },
+  "cadBim": {
+    "eyebrow": "ENGINEERING",
+    "title": "STRUCTURAL DETAILS AND NODES",
+    "subtitle": "STANDARDISED .DWG AND .RVT FILES FOR DESIGNERS",
+    "btnDwg": "DOWNLOAD .DWG",
+    "btnRvt": "DOWNLOAD .RVT",
+    "detailA": {
+      "title": "DETAIL A: WALL-FLOOR",
+      "desc": "Detail for hygienic cove and wall connection."
+    },
+    "detailB": {
+      "title": "DETAIL B: DRAINAGE",
+      "desc": "Detail for connection with linear drains and point drainage."
+    },
+    "detailC": {
+      "title": "DETAIL C: JOINTS AND CRACKS",
+      "desc": "Detail for treatment of expansion joints and cracks."
+    }
+  },
+  "tender": {
+    "title": "BILL OF QUANTITIES TEXTS (TENDER SPECS)",
+    "subtitle": "READY SPECIFICATIONS FOR PUBLIC PROCUREMENT AND TENDERS",
+    "text": "Supply and installation of high-durability mineral flooring type GEONYX®, thickness 6–9 mm. Compressive strength >110 N/mm² in accordance with EN 13892-2. Wear resistance <1.5 cm³/50cm² in accordance with DIN 52108 (Böhme). Fire classification A1fl. The product must hold CE marking and DoP declaration...",
+    "btnCopy": "COPY TEXT TO CLIPBOARD",
+    "btnCopied": "COPIED!"
+  },
+  "certifications": {
+    "title": "CERTIFICATES AND STANDARDS",
+    "items": {
+      "iso9001": "Quality Management",
+      "en13813": "Screed Material",
+      "haccp": "Food Safety",
+      "whg": "Water Resources Act",
+      "din51130": "Slip Resistance R9-R13",
+      "euroclass": "Fire Safety"
+    }
+  }
+}

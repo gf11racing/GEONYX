@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Systèmes d'Ingénierie GEONYX | ARMOR, CHEM, THERM, HYDRO",
+    "description": "Aperçu de tous les systèmes géopolymères GEONYX: ARMOR pour charges mécaniques, CHEM pour résistance chimique, THERM pour chaleur extrême, HYDRO pour étanchéité."
+  },
+  "hero": {
+    "eyebrow": "NOMENCLATURE TECHNOLOGIQUE",
+    "title": "REGISTRE DES SYSTÈMES",
+    "subtitle1": "// INDEX DES MATRICES D'INGÉNIERIE GEONYX®",
+    "subtitle2": "// SÉLECTIONNEZ UN SYSTÈME POUR LES SPÉCIFICATIONS TECHNIQUES",
+    "stat1label": "SYSTÈMES DE BASE",
+    "stat2label": "CLASSE FEU",
+    "stat3label": "DURÉE DE VIE"
+  },
+  "systems": {
+    "sys01category": "MÉCANIQUE",
+    "sys01desc": "Système blindé pour l'industrie lourde. Absorbe les vibrations, résiste aux chocs et au trafic d'engins à chenilles lourdes.",
+    "sys02category": "CHIMIE",
+    "sys02desc": "Barrière chimiquement inerte (WHG). Protection complète contre les acides concentrés, les bases et les solvants agressifs.",
+    "sys03category": "THERMODYNAMIQUE",
+    "sys03desc": "Système pour amplitudes de température extrêmes. Résiste au choc thermique (vapeur/eau glacée), au métal fondu et au feu direct.",
+    "sys04category": "HYDROTECHNIQUE",
+    "sys04desc": "Membranes minérales étanches pour barrages, stations d'épuration et infrastructure marine. Fonctionnement sous l'eau."
+  },
+  "cta": {
+    "eyebrow": "INGÉNIERIE SPÉCIALISÉE",
+    "title": "VOUS NE TROUVEZ PAS VOTRE CAS D'USAGE?",
+    "body": "Nos ingénieurs chimistes développent des matrices modifiées pour des environnements spécifiques (Custom Formulations). Contactez-nous pour une analyse en laboratoire.",
+    "btn": "DEMANDER UN DÉVELOPPEMENT"
+  }
+}

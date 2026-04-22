@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "title": "GEONYX | Énergie, Mines & Protection Lourde – Systèmes Industriels et Résistants à l'Abrasion",
+    "description": "GEONYX développe des systèmes de protection minéraux pour l'énergie, les mines et l'industrie lourde – résistants à l'abrasion extrême, aux chocs, chaînes, minerai, vibrations, huiles et choc thermique. Protection durable du béton et des infrastructures critiques en exploitation intensive."
+  },
+  "tender": {
+    "text": "Les systèmes de plancher, de structure et de protection dans les installations énergétiques, minières et de défense (chaufferies, salles des turbines, sous-stations, parcs de batteries, mines, entrepôts de carburant, tunnels et installations de protection) seront exécutés avec des systèmes géopolymères minéraux de type GEONYX ou équivalent, combinant ARMOR / CHEM / THERM / HYDRO / REPAIR selon le profil de risque par zone. Les systèmes doivent atteindre la classe de feu A1 (pour les zones concernées), une haute résistance chimique et mécanique, la possibilité de réparations locales et des temps d'arrêt minimaux."
+  },
+  "hero": {
+    "eyebrow": "ÉNERGIE, MINES & PROTECTION LOURDE",
+    "title1": "SURFACES POUR",
+    "title2": "RISQUE ÉLEVÉ.",
+    "description": "Dans l'énergie et les mines, le feu, la chimie, les chocs et les vibrations sont quotidiens. GEONYX combine ARMOR, CHEM, THERM et HYDRO dans des systèmes minéraux qui protègent la structure et limitent les dommages en cas d'incident.",
+    "btn1": "DEMANDER UN AUDIT DE RISQUE",
+    "btn2": "TÉLÉCHARGER LE PROFIL THERM/ARMOR",
+    "scope": "PÉRIMÈTRE",
+    "zonesLabel": "ZONES :",
+    "zone1": "Centrales thermiques et cogénération",
+    "zone2": "Chaudières, salles des turbines et salles des machines",
+    "zone3": "Conduits de fumée, conduits de gaz et électrofiltres",
+    "zone4": "Silos pour cendres, chaux et réactifs",
+    "zone5": "Champs de transformateurs et sous-stations électriques",
+    "zone6": "Mines à ciel ouvert, fronts charbonniers et miniers",
+    "zone7": "Galeries souterraines, entrepôts et chambres de réparation",
+    "zone8": "Convoyeurs, tours de transfert et bunkers",
+    "zone9": "Stations de concassage, tamisage et chargement",
+    "zone10": "Terrains de laitier, bassins de décantation et clarificateurs",
+    "systemsLabel": "SYSTÈMES :",
+    "anchorApplications": "↓ OÙ IL EST UTILISÉ",
+    "anchorSystem": "↓ CHOIX DU SYSTÈME",
+    "anchorOffer": "↓ PACKAGE D'OFFRE"
+  },
+  "manifesto": {
+    "title1": "QUAND UNE ERREUR",
+    "title2": "COÛTE DES VIES ET DES MILLIONS.",
+    "description": "Dans les installations d'énergie, de mines et de défense, le sol, la structure et les couches de protection font partie du système de sécurité. Un déversement de carburant, une étincelle, un choc thermique ou une attaque chimique ne doivent pas faire du béton le maillon faible. GEONYX conçoit des systèmes minéraux de classe de feu A1, à haute résistance chimique et mécanique – afin qu'un incident reste local et que l'installation reprenne le plus vite possible."
+  },
+  "zigzag": {
+    "problem": "PROBLÈME :",
+    "solution": "SOLUTION :",
+    "suitableSystems": "Systèmes adaptés :",
+    "block1": {
+      "tag": "CHAUFFERIES & SALLES DES TURBINES",
+      "title": "CENTRALES, CYCLES COMBINÉS & BIOMASSE",
+      "problem": "Dans les chaufferies et salles des turbines, il y a des surfaces chaudes, des huiles, de la vapeur et des vibrations. Le béton se fissure sous les cycles thermiques, les déversements pénètrent dans la structure et les peintures standard brûlent et s'écaillent.",
+      "solution": "GEONYX THERM + ARMOR fournissent un revêtement minéral de classe A1, résistant aux étincelles et au choc thermique avec une haute résistance mécanique pour les machines lourdes. HYDRO et CHEM s'ajoutent dans les zones de condensation et de fluides agressifs, tandis que REPAIR permet la réparation locale entre les campagnes.",
+      "systems": "THERM"
+    },
+    "block2": {
+      "tag": "TRANSFORMATEURS & HUILES",
+      "title": "SOUS-STATIONS & CHAMPS DE TRANSFORMATEURS",
+      "problem": "Dans les champs de transformateurs et sous-stations, les huiles, arcs et étincelles créent des risques d'incendie et de contamination. Un béton fissuré et des pentes incontrôlées orientent les déversements dans la mauvaise direction.",
+      "solution": "GEONYX ARMOR forme des rétentions et canaux résistants pour le contrôle des déversements. THERM et CHEM augmentent la résistance au feu et chimique, tandis que HYDRO limite la pénétration dans la structure et le sol.",
+      "systems": "ARMOR"
+    },
+    "block3": {
+      "tag": "BATTERIES AU LITHIUM",
+      "title": "PARCS DE BATTERIES (BESS) & SALLES UPS",
+      "problem": "Les batteries lithium-ion présentent un risque d'emballement thermique, d'électrolytes et de fumées toxiques. Les revêtements standard peuvent brûler, dégager des gaz toxiques et se dégrader à haute température.",
+      "solution": "GEONYX THERM + CHEM fournissent une surface non combustible, minérale, résistante aux électrolytes et aux produits nettoyants. ARMOR garantit la résistance pour les armoires et rayonnages lourds, tandis que REPAIR permet une récupération rapide après un incident.",
+      "systems": "THERM"
+    },
+    "block4": {
+      "tag": "MINES & RAMPES",
+      "title": "MINES, RAMPES & TRAVAUX MINIERS",
+      "problem": "Dans les mines, les sols et rampes absorbent du minerai abrasif, de la boue, de l'eau et du trafic lourd de camions-bennes et de machines. Le béton s'use rapidement, des nids-de-poule et de la poussière apparaissent.",
+      "solution": "GEONYX ARMOR offre des revêtements minéraux haute résistance avec une résistance extrême à l'abrasion. HYDRO protège contre l'eau et le gel, tandis que REPAIR est utilisé pour combler rapidement les ornières et les sections dégradées.",
+      "systems": "ARMOR"
+    },
+    "block5": {
+      "tag": "PULPES & CHIMIE",
+      "title": "USINES DE TRAITEMENT & PULPES",
+      "problem": "Dans les usines de traitement, le béton est soumis à des pulpes abrasives, des solutions à pH variable et des chocs d'équipement. Les revêtements standard s'usent rapidement et fuient.",
+      "solution": "GEONYX CHEM + ARMOR construisent des surfaces résistantes à l'usure et chimiquement résistantes pour les bacs, canaux et plateformes. HYDRO contrôle la pénétration, tandis que REPAIR prolonge la vie des détails critiques.",
+      "systems": "CHEM"
+    },
+    "block6": {
+      "tag": "CARBURANTS & DÉVERSEMENTS",
+      "title": "ENTREPÔTS DE CARBURANTS & PRODUITS CHIMIQUES",
+      "problem": "Dans les entrepôts de diesel, essence, réactifs et substances explosives, les déversements et vapeurs constituent un risque sérieux. Les fissures et joints permettent la pénétration dans le béton et le sol.",
+      "solution": "GEONYX CHEM + HYDRO créent un 'bac' minéral avec drainage contrôlé et résistance chimique. THERM améliore le comportement au feu, tandis que REPAIR permet une récupération locale sans arrêt de l'entrepôt.",
+      "systems": "CHEM"
+    },
+    "block7": {
+      "tag": "TUNNELS & FEU",
+      "title": "TUNNELS, GALERIES & VOIES D'ÉVACUATION",
+      "problem": "Dans les tunnels et galeries souterraines, le feu, la fumée et l'eau en gouttes peuvent rapidement compromettre la structure. Les revêtements organiques dégagent de la fumée et des gaz toxiques lors de la combustion.",
+      "solution": "GEONYX THERM fournit des revêtements non combustibles, minéraux de classe A1, résistants au choc thermique. HYDRO et ARMOR se combinent pour le contrôle de l'eau et du trafic, tandis que REPAIR permet une réhabilitation par étapes.",
+      "systems": "THERM"
+    },
+    "block8": {
+      "tag": "PROTECTION LOURDE",
+      "title": "BUNKERS DE PROTECTION & INFRASTRUCTURE CRITIQUE",
+      "problem": "Les structures de protection doivent résister aux chocs, vibrations et incendies sans perdre leur capacité portante. Des surfaces fissurées et mal protégées réduisent le niveau de protection.",
+      "solution": "GEONYX ARMOR + THERM fournissent des systèmes haute résistance, non combustibles pour sols et murs. CHEM et HYDRO sont ajoutés selon l'environnement, tandis que REPAIR permet le renforcement et la prolongation de la durée de vie des structures existantes.",
+      "systems": "ARMOR"
+    }
+  },
+  "roi": {
+    "eyebrow": "ANALYSE ROI",
+    "title": "AUDIT D'INVESTISSEMENT",
+    "colParam": "PARAMÈTRE",
+    "colStd": "Béton standard + peinture",
+    "colEpoxy": "Revêtements époxy / PU",
+    "row1": "Résistance au feu (classe)",
+    "row2": "Résistance aux carburants & produits chimiques",
+    "row3": "Résistance mécanique & abrasion",
+    "row4": "Comportement sous choc thermique",
+    "row5": "Cycle de vie en fonctionnement 24/7",
+    "row6": "Temps de réparation / arrêt",
+    "row7": "Coût total du cycle de vie",
+    "val1geonyx": "A1, matrice minérale, non combustible",
+    "val1std": "Dépend de la peinture, souvent organique",
+    "val1epoxy": "Résines organiques, fumée et gaz toxiques",
+    "val2geonyx": "Élevée (configuration CHEM)",
+    "val2std": "Faible – béton et peinture se dégradent",
+    "val2epoxy": "Moyenne – sensibles aux solvants et acides",
+    "val3geonyx": "Élevée – ARMOR pour trafic lourd et choc",
+    "val3std": "Moyenne – usure rapide",
+    "val3epoxy": "Moyenne – revêtement s'use, béton reste non protégé",
+    "val4geonyx": "Stable – systèmes THERM",
+    "val4std": "Fissuration et écaillage",
+    "val4epoxy": "Cloques et délaminage",
+    "val5geonyx": "Long, avec REPAIR local",
+    "val5std": "Court à moyen, réparations fréquentes",
+    "val5epoxy": "Moyen, repose périodique nécessaire",
+    "val6geonyx": "Réparation par phases, courtes fenêtres",
+    "val6std": "Longs arrêts de zones",
+    "val6epoxy": "Arrêt important pour repose",
+    "val7geonyx": "Plus bas sur horizon 10–15 ans",
+    "val7std": "Bas initial, élevé à long terme",
+    "val7epoxy": "Moyen, avec coûts de risque élevés en cas d'incident"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "OÙ IL EST UTILISÉ",
+    "subtitle": "Les systèmes GEONYX couvrent tout le spectre – des centrales et mines aux entrepôts de carburants et aux structures de protection.",
+    "a1title": "Centrales thermiques & cycles combinés",
+    "a1desc": "Chaufferies, salles des turbines, zones de cendres et salles des machines.",
+    "a2title": "Sous-stations & champs de transformateurs",
+    "a2desc": "Rétentions de transformateurs, bacs d'huile et plateformes de service.",
+    "a3title": "Parcs de batteries (BESS) & UPS",
+    "a3desc": "Salles avec batteries, onduleurs et équipements électroniques.",
+    "a4title": "Mines & rampes minières",
+    "a4desc": "Revêtements de sol, rampes, zones de service et plateformes de travail.",
+    "a5title": "Usines de traitement",
+    "a5desc": "Bacs à pulpe, canaux, plateformes d'équipement et zones chimiques.",
+    "a6title": "Entrepôts de carburants & produits chimiques",
+    "a6desc": "Rampes de citernes, plateformes de réservoirs et rétentions d'urgence.",
+    "a7title": "Tunnels & galeries souterraines",
+    "a7desc": "Tunnels routiers, galeries minières et couloirs d'évacuation.",
+    "a8title": "Bunkers de protection & infrastructure critique",
+    "a8desc": "Salles de contrôle, abris et salles spécialisées."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGIE",
+    "title": "CHOIX DU SYSTÈME GEONYX",
+    "subtitle": "Pour chaque installation d'énergie, de mines ou de défense, GEONYX combine ARMOR, CHEM, THERM, HYDRO et REPAIR selon le risque principal – feu, chimie, trafic, eau ou besoin de renforcement.",
+    "s1name": "GEONYX ARMOR",
+    "s1desc": "Systèmes de plancher et de structure haute résistance pour machines lourdes, vibrations et chocs.",
+    "s2name": "GEONYX CHEM",
+    "s2desc": "Solutions minérales à haute résistance aux carburants, huiles, acides, bases et réactifs dans l'énergie et les mines.",
+    "s3name": "GEONYX THERM",
+    "s3desc": "Systèmes non combustibles de classe A1, conçus pour les étincelles, le choc thermique et les hautes températures.",
+    "s4name": "GEONYX HYDRO",
+    "s4desc": "Systèmes de protection contre l'eau, la condensation et les fluides agressifs dans les canaux, bacs et sections souterraines.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Solutions géopolymères rapides pour la réparation, le renforcement et la prolongation de vie des structures existantes."
+  },
+  "workflow": {
+    "eyebrow": "PROCESSUS",
+    "title": "PROCESSUS D'EXÉCUTION",
+    "w1step": "01",
+    "w1title": "Audit de risque & technique",
+    "w1desc": "Identification des risques d'incendie, chimiques, mécaniques et hydrauliques par zone.",
+    "w2step": "02",
+    "w2title": "Zonage du site",
+    "w2desc": "Séparation des chaufferies, sous-stations, sections minières, entrepôts et tunnels par type de charge.",
+    "w3step": "03",
+    "w3title": "Conception des systèmes GEONYX",
+    "w3desc": "Sélection de ARMOR / CHEM / THERM / HYDRO / REPAIR, solutions détaillées pour joints, bords et bacs.",
+    "w4step": "04",
+    "w4title": "Préparation du substrat",
+    "w4desc": "Enlèvement des anciens revêtements, réparation des fissures, renforcement si nécessaire et protection des systèmes adjacents.",
+    "w5step": "05",
+    "w5title": "Application selon le calendrier opérationnel",
+    "w5desc": "Exécution par phases en accord avec le régime de production – campagnes, fenêtres d'urgence, équipes de nuit.",
+    "w6step": "06",
+    "w6title": "Tests & mise en service",
+    "w6desc": "Vérification de l'adhérence, des propriétés de surface et du comportement au feu ; instructions de maintenance et futures interventions REPAIR."
+  },
+  "offer": {
+    "eyebrow": "DOCUMENTATION COMMERCIALE",
+    "title": "PACKAGE D'OFFRE",
+    "subtitle": "(B2B / B2G)",
+    "description": "Pour les installations d'énergie, de mines et de défense, GEONYX prépare la documentation pour l'investisseur, la supervision, les banques, les assureurs et les organismes de contrôle.",
+    "qualityLabel": "GARANTIE DE QUALITÉ",
+    "qualityDesc": "Tous les documents sont conformes aux Eurocodes et normes en vigueur.",
+    "doc1": "Profil de risque par zone – feu, chimie, mécanique, eau",
+    "doc2": "Spécifications techniques pour ARMOR / CHEM / THERM / HYDRO / REPAIR",
+    "doc3": "Plans détaillés de bacs, joints, bords et zones de déversement",
+    "doc4": "Conformité avec les normes d'incendie et industrielles (classe A1, etc.)",
+    "doc5": "Calendrier d'exécution phasée recommandé sans arrêt de l'ensemble du site",
+    "doc6": "Conditions de garantie et plan d'inspections et d'interventions REPAIR",
+    "copyBtn": "COPIER LE TEXTE D'APPEL D'OFFRES",
+    "copiedBtn": "TEXTE COPIÉ !"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1title": "Power & Heat Plants",
+    "d1sub": "Systèmes GEONYX (PDF)",
+    "d2title": "Substations & BESS",
+    "d2sub": "Solutions de plancher (PDF)",
+    "d3title": "Mining Structures",
+    "d3sub": "Revêtements minéraux (PDF)",
+    "d4title": "High-Risk Protection",
+    "d4sub": "Systèmes pour tunnels (PDF)"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "q1title": "AVONS-NOUS BESOIN D'UN ARRÊT TOTAL DU SITE PENDANT L'EXÉCUTION ?",
+    "q1answer": "Pas nécessairement. Dans la plupart des cas, nous travaillons par phases – bloc par bloc, galerie par galerie ou champ par champ, avec des fenêtres adaptées à la production et à la sécurité.",
+    "q2title": "LES SYSTÈMES GEONYX PEUVENT-ILS ATTEINDRE LA CLASSE DE FEU A1 ET ÊTRE INTÉGRÉS DANS NOS SCÉNARIOS D'INCENDIE ?",
+    "q2answer": "Oui. Les solutions THERM et ARMOR sont minérales et non combustibles, avec la classe A1 pour les couches concernées. Nous fournissons les données nécessaires pour les scénarios et évaluations d'incendie.",
+    "q3title": "QUE SE PASSE-T-IL EN CAS DE DÉVERSEMENT IMPORTANT DE CARBURANT OU DE PRODUIT CHIMIQUE SUR LE REVÊTEMENT ?",
+    "q3answer": "Les configurations CHEM + HYDRO limitent la pénétration dans la structure et le sol. La surface est lavée et, si nécessaire, une REPAIR locale est effectuée sans remplacer l'ensemble du système."
+  },
+  "cta": {
+    "title": "ZONAGE COMPLET DU SITE",
+    "description": "Chaque site a des risques spécifiques. Nous intégrons 6 matrices spécialisées en un seul système : de la mécanique, de la chimie et du choc thermique à l'étanchéité, à l'antistatique et à l'architecture. Une technologie qui garantit 100% de couverture des besoins et une compatibilité totale.",
+    "btn": "VOIR TOUS LES SYSTÈMES D'INGÉNIERIE"
+  }
+}

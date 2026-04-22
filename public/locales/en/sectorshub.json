@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "GEONYX | Industrial Sectors We Serve",
+    "description": "GEONYX serves 8 industrial sectors: food & pharma, heavy industry, infrastructure, agriculture, water & marine, energy & defense, construction and urban high-tech."
+  },
+  "hero": {
+    "eyebrow": "SYSTEM REGISTRY",
+    "title": "INDUSTRIAL CATALOGUE",
+    "subtitle": "OPERATIONAL SECTORS & APPLICATIONS",
+    "stat1label": "ACTIVE SECTORS",
+    "stat2label": "CERTIFICATION",
+    "stat3label": "SERVICE LIFE"
+  },
+  "sectors": {
+    "s01title": "HEAVY INDUSTRY & LOGISTICS",
+    "s01subtitle": "EXTREME LOADS",
+    "s01desc": "Flooring for extreme mechanical loads, vibrations and 24/7 traffic.",
+    "s02title": "FOOD, BEVERAGE & PHARMA",
+    "s02subtitle": "HYGIENE & GMP COMPLIANCE",
+    "s02desc": "Bacteriostatic seamless systems. Resistance to steam jets and chemicals.",
+    "s03title": "AGRO, BIOGAS & ECOLOGY",
+    "s03subtitle": "ORGANIC AGGRESSION",
+    "s03desc": "Protection against organic acids, manure, ammonia and aggressive juices.",
+    "s04title": "WATER & MARINE INFRASTRUCTURE",
+    "s04subtitle": "HYDROTECHNICS",
+    "s04desc": "100% watertightness and resistance to salts and erosion.",
+    "s05title": "ENERGY, MINING & DEFENCE",
+    "s05subtitle": "CRITICAL INFRASTRUCTURE",
+    "s05desc": "Non-combustible and chemically resistant systems for nuclear, thermal power plants, mines and military facilities.",
+    "s06title": "TRANSPORT & PARKING",
+    "s06subtitle": "TRAFFIC & MOVEMENT",
+    "s06desc": "Floors and ramps with high grip, resistant to lye and salts.",
+    "s07title": "URBAN ENVIRONMENT & CONSTRUCTION",
+    "s07subtitle": "UHPC & DESIGN",
+    "s07desc": "UHPC solutions for facades, elements and urban environments."
+  },
+  "cta": {
+    "eyebrow": "SPECIALISED ENGINEERING",
+    "title": "CAN'T FIND YOUR USE CASE?",
+    "body": "Our chemical engineers develop modified matrices for specific environments (Custom Formulations). Contact us for laboratory analysis.",
+    "btn": "REQUEST DEVELOPMENT"
+  }
+}

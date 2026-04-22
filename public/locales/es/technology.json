@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "GEONYX Tecnología | Ingeniería de Matrices Geopolímeras",
+    "description": "La ciencia detrás de GEONYX – matrices geopolímeras de activación alcalina que superan al hormigón convencional en durabilidad, resistencia química y resistencia mecánica."
+  },
+  "hero": {
+    "eyebrow": "LA CIENCIA DE GEONYX",
+    "title": "GEOPOLÍMERO: LA CIENCIA DE LOS SUELOS INDESTRUCTIBLES.",
+    "description": "No simplemente vertemos hormigón. Creamos piedra artificial mediante polimerización inorgánica avanzada."
+  },
+  "intro": {
+    "title": "¿POR QUÉ GEOPOLÍMERO?",
+    "body": "GEONYX utiliza química avanzada de polímeros inorgánicos. A diferencia del cemento Portland, que depende de la hidratación, nuestros enlaces se forman mediante policondensación de aluminosilicatos. El resultado es un suelo con una resistencia química excepcional, curado más rápido y una huella de carbono significativamente menor."
+  },
+  "crossSection": {
+    "eyebrow": "AR SCANNER",
+    "title": "RADIOGRAFÍA DEL SISTEMA",
+    "note": "[PASE EL RATÓN PARA INSPECCIONAR CAPAS]",
+    "layer4name": "TOP COAT: SEALER",
+    "layer4desc": "Capa de sellado estable a los UV y resistente a productos químicos. Clase antideslizante R13.",
+    "layer3name": "BODY COAT: GEOPOLYMER",
+    "layer3desc": "Matriz estructural primaria. Cuarzo modificado y polímero inorgánico. Resistencia > 90 MPa.",
+    "layer2name": "PRIMER: BONDING AGENT",
+    "layer2desc": "Imprimación de penetración profunda. Crea un enlace molecular (Chemical Weld) con el sustrato.",
+    "layer1name": "SUBSTRATE: CONCRETE",
+    "layer1desc": "Sustrato de hormigón armado (mínimo C20/25). Granallado y limpiado."
+  },
+  "chemistry": {
+    "eyebrow": "LA QUÍMICA",
+    "badge": "Microestructura",
+    "title": "POLICONDENSACIÓN EN LUGAR DE HIDRATACIÓN",
+    "body": "El hormigón es como una esponja – lleno de capilares del agua evaporada. GEONYX es diferente.",
+    "card1title": "Estructura densa",
+    "card1body": "La reacción química expulsa el agua, creando una red 3D densa y no porosa.",
+    "card2title": "Origen mineral",
+    "card2body": "No utilizamos productos derivados del petróleo (como epoxis). GEONYX es 100% mineral, una \"piedra artificial\"."
+  },
+  "speed": {
+    "eyebrow": "VELOCIDAD Y EFICIENCIA",
+    "badge": "Polimerización Rápida",
+    "title": "EL TIEMPO ES DINERO.",
+    "titleHighlight": "LITERALMENTE.",
+    "body": "La industria no puede esperar 28 días a que el hormigón cure. Nuestra tecnología permite una puesta en marcha extremadamente rápida.",
+    "stat1value": "4–6 HORAS",
+    "stat1label": "Tiempo de fraguado",
+    "stat2value": "24 HORAS",
+    "stat2label": "Carga completa",
+    "note": "Sin interrupción de la producción"
+  },
+  "resistance": {
+    "eyebrow": "RESISTENCIA EXTREMA",
+    "badge": "Ácido & Fuego",
+    "title": "INMUNIDAD A LA AGRESIÓN Y AL FUEGO",
+    "body": "Los suelos estándar ceden ante ácidos e incendios. GEONYX está diseñado para sobrevivir.",
+    "item1title": "Resistencia al fuego (Clase A1)",
+    "item1body": "A diferencia de los epoxis, que arden y emiten humo, GEONYX es mineral e incombustible hasta 1000°C.",
+    "item2title": "Escudo químico",
+    "item2body": "Resistencia total a ácidos concentrados, sales, sulfatos y aceites de máquina."
+  },
+  "eco": {
+    "statPrefix": "80% MENOR",
+    "statHighlight": "HUELLA DE CARBONO",
+    "body": "Usamos subproductos industriales y no requerimos cocción energética como el cemento. Elegir GEONYX es elegir el futuro."
+  },
+  "comparison": {
+    "title": "EL ARGUMENTO FINAL",
+    "col1": "Propiedad",
+    "col2": "Hormigón ordinario",
+    "col3": "Epoxi (Resina)",
+    "col4": "GEONYX (Geopolímero)",
+    "row1": "Tiempo de puesta en marcha",
+    "row1v2": "28 Días (Lento)",
+    "row1v3": "3–7 Días",
+    "row1v4": "24 Horas (Express)",
+    "row2": "Tipo de enlace",
+    "row2v2": "Mecánico (Débil)",
+    "row2v3": "Adhesivo (Superficial)",
+    "row2v4": "Químico (Monolito)",
+    "row3": "Resistencia al fuego",
+    "row3v2": "Clase A1",
+    "row3v3": "Arde (Tóxico)",
+    "row3v4": "Incombustible (Clase A1)",
+    "row4": "Ácidos y aceites",
+    "row4v2": "Absorbe y se deshace",
+    "row4v3": "Se ablanda / Mancha",
+    "row4v4": "Resistencia total",
+    "row5": "Resistencia al desgaste",
+    "row5v2": "Genera polvo",
+    "row5v3": "Se raya fácilmente",
+    "row5v4": "Extrema (Sin polvo)",
+    "row6": "Emisiones CO₂",
+    "row6v2": "Altas (100%)",
+    "row6v3": "Muy altas (Petróleo)",
+    "row6v4": "-80% (Producto verde)"
+  },
+  "cta": {
+    "title": "LA CIENCIA ESTÁ DE SU LADO.",
+    "body": "Contacte con nuestro equipo de ingeniería para una consulta técnica.",
+    "btn": "CONTÁCTENOS"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "À propos de GEONYX | Société d'Ingénierie Géopolymère",
+    "description": "GEONYX GROUP LTD – une société d'ingénierie bulgare développant des matrices géopolymères haute technologie pour l'infrastructure industrielle et les installations critiques."
+  },
+  "hero": {
+    "eyebrow": "À PROPOS DE L'ENTREPRISE",
+    "title": "NOUS SOMMES GEONYX.",
+    "titleHighlight": "INGÉNIEURS DE LA MATIÈRE.",
+    "description": "Pionniers dans le développement et la mise en œuvre de matrices géopolymères de haute technologie. Nous ne sommes pas de simples fournisseurs de matériaux de construction. Nous sommes une entreprise technologique qui redéfinit le cycle de vie de l'infrastructure industrielle."
+  },
+  "philosophy": {
+    "badge": "PHILOSOPHIE",
+    "eyebrow": "CHANGEMENT DE PARADIGME",
+    "title": "LA FIN DE L'OBSOLESCENCE PROGRAMMÉE",
+    "body1": "L'industrie évolue, mais l'infrastructure prend du retard. Le béton standard est une technologie du XIXe siècle, et les résines époxy sont des compromis pétrochimiques à durée de vie courte. Notre mission est de mettre fin au cycle des réparations constantes (Downtime).",
+    "body2": "En créant des matrices inorganiques, nous transformons le maillon le plus vulnérable de votre usine — le sol — en votre actif constructif le plus durable. Nous concevons pour un cycle d'exploitation de 50 ans."
+  },
+  "rd": {
+    "badge": "LABORATOIRE R&D",
+    "eyebrow": "R&D ET SYNTHÈSE",
+    "title": "PRÉCISION LABORATOIRE ET INNOVATION",
+    "body1": "La force de GEONYX réside dans notre activité de recherche et développement. Nous ne mélangeons pas des résines commerciales toutes faites. Nous synthétisons nos propres réseaux cristallins géopolymères au niveau moléculaire.",
+    "body2": "Chaque formule subit des tests de stress impitoyables pour la stabilité thermodynamique, l'inertie chimique et la résistance à la compression, vérifiés par des laboratoires européens indépendants et des instituts de test de matériaux."
+  },
+  "liability": {
+    "badge": "RESPONSABILITÉ",
+    "eyebrow": "RESPONSABILITÉ UNIQUE",
+    "title": "UNE GARANTIE. ZÉRO TRANSFERT DE RESPONSABILITÉ.",
+    "body1": "Dans la construction, le plus grand risque est la responsabilité partagée — le fabricant accuse l'entrepreneur, et l'entrepreneur accuse le béton. GEONYX ferme la boucle.",
+    "body2": "Nous fabriquons la technologie, nous effectuons l'audit structurel du site et nous certifions l'exécution. Vous obtenez un partenaire unique, une garantie sans compromis et une sécurité juridique absolue."
+  },
+  "qaqc": {
+    "badge": "QA / QC",
+    "eyebrow": "DÉPLOIEMENT QA/QC",
+    "title": "TECHNICIENS CERTIFIÉS ET PROTOCOLES",
+    "body1": "Travailler avec des matrices minérales de haute technologie exige une discipline clinique, pas des ouvriers généraux. Nos équipes d'implémentation (Certified Application Technicians) opèrent selon des protocoles d'ingénierie stricts (Method Statements).",
+    "body2": "Du monitoring du point de rosée (Dew Point) au contrôle en temps réel de la réaction exothermique. Nous garantissons un temps d'arrêt minimal de votre production grâce au respect strict des créneaux horaires (time-slots) définis."
+  },
+  "esg": {
+    "badge": "PRÊT POUR L'ESG",
+    "eyebrow": "ESG & ÉCONOMIE CIRCULAIRE",
+    "title": "UN AVENIR BAS CARBONE (LOW CARBON)",
+    "body1": "La responsabilité d'entreprise exige une réduction radicale de l'empreinte carbone. Contrairement à la production énergivore de ciment Portland et à la pétrochimie toxique des époxy, les technologies GEONYX permettent d'économiser jusqu'à 80 % d'émissions de CO2.",
+    "body2": "Nos systèmes sont 100 % sans solvants (VOC-Free) et contribuent directement à répondre aux critères de certification LEED et BREEAM de vos bâtiments verts."
+  },
+  "certs": {
+    "eyebrow": "POLITIQUE D'ENTREPRISE",
+    "title": "NORMES OFFICIELLES DE CONFIANCE",
+    "c1title": "ISO 9001:2015",
+    "c1sub": "Quality Management",
+    "c1body": "Quality Management System (QMS). Soumis à des audits indépendants continus.",
+    "c2title": "ISO 14001:2015",
+    "c2sub": "Environmental Mgmt",
+    "c2body": "Management environnemental. Zéro déchet en décharge et contrôle des émissions.",
+    "c3title": "ISO 45001:2018",
+    "c3sub": "Health & Safety",
+    "c3body": "Occupational Health & Safety. Protection institutionnalisée de la santé au travail.",
+    "c4title": "REACH & VOC",
+    "c4sub": "Chemical Compliance",
+    "c4body": "Pleine conformité avec les directives de l'UE sur la sécurité chimique et l'hygiène."
+  },
+  "cta": {
+    "title": "FAITES CONFIANCE À LA SCIENCE.",
+    "body": "Contactez notre équipe d'ingénieurs pour une expertise technique, une analyse quantitative et un audit structurel de votre site.",
+    "btn": "CONTACTEZ-NOUS"
+  }
+}

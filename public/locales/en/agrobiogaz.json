@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "GEONYX | Agro, Biogas, Fertilisers & Animal Environments – Chemical-Resistant Protection",
+    "description": "GEONYX designs mineral floor and protective systems for agro farms, biogas plants, silos, manure storage and livestock environments – resistant to ammonia, acids, biogenic corrosion, fertilisers and aggressive organic environments. Long-lasting protection of concrete and infrastructure."
+  },
+  "tender": {
+    "text": "Surfaces in fertiliser warehouses, farms, barns, milking parlours, biogas plants, rendering facilities, composting sites and zoos shall be executed with mineral geopolymer systems of the GEONYX type or equivalent, combining ARMOR / CHEM / HYDRO / THERM / REPAIR according to environmental aggression and mechanical load. Systems shall provide chemical resistance to manure, ammonia, organic acids and agrochemicals, watertightness of structural elements, controlled slip resistance and the ability for local repair without long downtime.",
+    "copy": "COPY TENDER TEXT",
+    "copied": "TEXT COPIED!"
+  },
+  "hero": {
+    "eyebrow": "AGRO, BIOGAS, FERTILISERS & ANIMAL ENVIRONMENTS",
+    "titleLine1": "SURFACES THAT",
+    "titleLine2": "WITHSTAND MANURE AND AMMONIA",
+    "description": "In agro and biogas environments concrete lives constantly in manure, ammonia and moisture. GEONYX builds mineral systems resistant to organic matter, agrochemicals and fermentation.",
+    "btn1": "DOWNLOAD TECHNICAL PROFILE",
+    "btn2": "REQUEST TECHNICAL INSPECTION"
+  },
+  "scope": {
+    "title": "SCOPE",
+    "zonesLabel": "ZONES:",
+    "systemsLabel": "SYSTEMS:",
+    "z1": "Livestock farms (cattle, pig, poultry)",
+    "z2": "Barns, stalls and animal corridors",
+    "z3": "Manure storage and composting areas",
+    "z4": "Shelters and concrete areas for feed and silage",
+    "z5": "Loading/unloading platforms for manure and feed",
+    "z6": "Biogas reactors and technical corridors",
+    "z7": "Manure lagoons, settlers and settling basins",
+    "z8": "Channels, septic systems and drainage troughs for liquid manure",
+    "z9": "Equipment and tanker washing areas",
+    "z10": "Agro infrastructure around farms (service and support zones)",
+    "link1": "↓ WHERE IT IS USED",
+    "link2": "↓ SYSTEM SELECTION",
+    "link3": "↓ OFFER PACKAGE"
+  },
+  "manifesto": {
+    "titleLine1": "ORGANIC MATTER AND AGROCHEMICALS",
+    "titleLine2": "DESTROY CONCRETE FASTEST.",
+    "body": "Manure, ammonia, fertiliser silos, fermentate and constant moisture destroy standard concrete within a few years. GEONYX replaces paint and temporary coatings with mineral systems specifically designed for agro and biogas environments – resistant to organic matter, acidity and wet/dry cycles."
+  },
+  "blocks": {
+    "problemLabel": "PROBLEM:",
+    "solutionLabel": "SOLUTION:",
+    "suitableLabel": "Suitable systems:",
+    "b1": {
+      "tag": "FERTILISER WAREHOUSES",
+      "title": "SILOS AND MINERAL FERTILISER WAREHOUSES",
+      "problem": "Mineral fertilisers (ammonium nitrate, phosphates, potassium salts) combined with moisture form a highly corrosive environment. Concrete begins to crumble, holes and dust appear, and loading equipment further damages the floor. Cleaning becomes difficult and the risk of soil and groundwater contamination grows.",
+      "solution": "GEONYX CHEM + ARMOR create a dense mineral surface with high chemical resistance and mechanical strength. HYDRO details at joints, walls and drainage stop solution penetration into the structure. The result is a robust floor that withstands fertiliser, moisture and heavy front loaders.",
+      "systems": "CHEM"
+    },
+    "b2": {
+      "tag": "FARMS AND BARNS",
+      "title": "FARMS, BARNS AND MILKING PARLOURS – MANURE, URINE AND AMMONIA",
+      "problem": "In barns and milking parlours the floor is permanently wet – manure, urine, washing water and disinfectants. Concrete is eaten away, holes and slippery patches appear, animals slip, and cleaning requires ever more time and water.",
+      "solution": "GEONYX HYDRO + CHEM provide a watertight and chemically resistant surface that does not break down from ammonia and organic matter. ARMOR handles traffic from animals, tractors and feeding equipment. The surface is designed with suitable texture – safe for hooves and boots but easy to wash.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "tag": "BIOGAS AND LAGOONS",
+      "title": "BIOGAS AND FERMENTATE – AGGRESSIVE ACID ENVIRONMENT",
+      "problem": "In biogas plants concrete is in contact with fermentate, gases, condensation and high humidity. Classic concrete and resin coatings crack and delaminate, leading to leaks, odours and costly repair shutdowns.",
+      "solution": "GEONYX CHEM + HYDRO build mineral systems for fermentate tanks, troughs and platforms, resistant to organic acids and gases. THERM is used in zones with elevated temperatures around reactors and pipe runs. REPAIR allows local repairs without long plant shutdowns.",
+      "systems": "CHEM"
+    },
+    "b4": {
+      "tag": "RENDERING PLANTS",
+      "title": "RENDERING PLANTS AND ANIMAL WASTE",
+      "problem": "In rendering plants the floor absorbs blood, fat, water, aggressive cleaning solutions and heavy loads. Standard floorings quickly become porous, retain odours and represent a sanitary risk.",
+      "solution": "GEONYX CHEM creates a dense, chemically resistant surface without pores or micro-cracks. HYDRO protects zones of constant moisture and channels, while ARMOR guarantees strength for machinery and containers. The surface cleans faster and does not retain odours.",
+      "systems": "CHEM"
+    },
+    "b5": {
+      "tag": "COMPOSTING",
+      "title": "COMPOST AND OPEN WASTE AREAS",
+      "problem": "Composting facilities combine organic matter, moisture, acidity and heavy machinery traffic. Concrete breaks down, muddy holes appear and environmental contamination occurs.",
+      "solution": "GEONYX ARMOR + CHEM build a wear-resistant mineral surface for front loaders and excavators, resistant to organic acidity. HYDRO details at manholes and the perimeter limit soil infiltration. REPAIR allows rapid restoration of local damage.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "tag": "GREENHOUSES",
+      "title": "GREENHOUSES, HYDROPONICS AND AGROCHEMICALS",
+      "problem": "In greenhouses and hydroponic systems the floor is permanently wet – nutrient solutions, acid and alkali correction agents, drip irrigation and condensation. Standard concrete cracks, water puddles and algae appear.",
+      "solution": "GEONYX HYDRO + CHEM provide a watertight and chemically resistant surface through which solutions do not penetrate the structure. ARMOR handles traffic from trolleys and mobile benches. The surface is designed for easy water direction towards gutters and drains.",
+      "systems": "HYDRO"
+    },
+    "b7": {
+      "tag": "ZOOS AND AQUARIUMS",
+      "title": "ZOOS, AQUARIUMS AND ANIMAL POOLS",
+      "problem": "In zoos and aquariums floors and troughs are subjected to water, excrement, salt, chlorine and mechanical wear from animals and service equipment. Cracks and leaks lead to water losses and structural risk.",
+      "solution": "GEONYX HYDRO creates monolithic, watertight systems for troughs and wet zones, while CHEM provides resistance to salt, chlorine and cleaning chemicals. ARMOR protects passages and service zones with traffic. Wet/dry transition details are executed without weak points.",
+      "systems": "HYDRO"
+    }
+  },
+  "roi": {
+    "eyebrow": "ROI ANALYSIS",
+    "title": "INVESTMENT AUDIT",
+    "colParam": "PARAMETER",
+    "colGeonyx": "GEONYX",
+    "colStandard": "Standard concrete with coating",
+    "colEpoxy": "Epoxy / PU coating",
+    "r1param": "Resistance to manure, urine and ammonia",
+    "r1geonyx": "High – mineral CHEM configuration",
+    "r1standard": "Low – fast corrosion and crumbling",
+    "r1epoxy": "Medium – resin attacked, limited lifespan",
+    "r2param": "Resistance to constant moisture and fermentation",
+    "r2geonyx": "High – HYDRO watertightness",
+    "r2standard": "Medium – capillary absorption and freezing",
+    "r2epoxy": "Medium – blister and delamination risk",
+    "r3param": "Mechanical resistance (loaders, tractors)",
+    "r3geonyx": "High – ARMOR, >110 MPa",
+    "r3standard": "Medium – wear and ruts",
+    "r3epoxy": "Medium – sensitive to impact and scratching",
+    "r4param": "Service life in 24/7 operation",
+    "r4geonyx": "Long, with local REPAIR",
+    "r4standard": "Short – frequent patches",
+    "r4epoxy": "Medium – periodic resurfacing",
+    "r5param": "Risk of leaks and soil contamination",
+    "r5geonyx": "Low – watertight HYDRO details",
+    "r5standard": "High – cracks and pores",
+    "r5epoxy": "Medium – depends on adhesion",
+    "r6param": "Repair time / downtime",
+    "r6geonyx": "Short windows, phased REPAIR",
+    "r6standard": "Long shutdowns and heavy equipment",
+    "r6epoxy": "Significant downtime for resurfacing",
+    "r7param": "Total lifecycle cost",
+    "r7geonyx": "Lower over 10+ year horizon",
+    "r7standard": "Low initially, high long-term",
+    "r7epoxy": "Medium – significant cost every 5–7 years"
+  },
+  "applications": {
+    "eyebrow": "APPLICATIONS",
+    "title": "WHERE IT IS USED",
+    "subtitle": "GEONYX systems cover the full cycle – from fertiliser warehouses and farms to biogas, compost and zoos.",
+    "a1title": "Mineral fertiliser warehouses",
+    "a1desc": "Indoor and outdoor areas for ammonium nitrate, phosphates and blended fertilisers.",
+    "a2title": "Farms, barns and milking parlours",
+    "a2desc": "Corridors, stalls, milking lines and animal yards.",
+    "a3title": "Greenhouses and hydroponics",
+    "a3desc": "Production paths, technical corridors and solution mixing areas.",
+    "a4title": "Biogas plants",
+    "a4desc": "Fermentate tanks, troughs, service platforms and reception pits.",
+    "a5title": "Composting facilities",
+    "a5desc": "Compost pads, temporary depots and front-loader routes.",
+    "a6title": "Rendering plants and animal waste",
+    "a6desc": "Receiving, processing, washing and temporary storage zones.",
+    "a7title": "Zoos and aquariums",
+    "a7desc": "Animal pools, service corridors and wet rooms.",
+    "a8title": "Lagoons, channels and drainage",
+    "a8desc": "Manure channels, lagoons and drainage gutters around agro sites."
+  },
+  "systems": {
+    "eyebrow": "TECHNOLOGY",
+    "title": "GEONYX SYSTEM SELECTION",
+    "subtitle": "In agro and biogas projects system selection depends on the combination of manure/ammonia, moisture, traffic and temperature regime. GEONYX combines ARMOR, CHEM, HYDRO, THERM and REPAIR by zone.",
+    "s1name": "GEONYX CHEM",
+    "s1desc": "Mineral systems with high chemical resistance to manure, ammonia, organic acids, agrochemicals and fermentate.",
+    "s2name": "GEONYX HYDRO",
+    "s2desc": "Watertight solutions for lagoons, channels, wash-down zones and permanently wet surfaces.",
+    "s3name": "GEONYX ARMOR",
+    "s3desc": "Mechanically resistant floors for heavy traffic – tractors, front loaders, trailers and containers.",
+    "s4name": "GEONYX THERM",
+    "s4desc": "Systems for zones with elevated temperatures around reactors, pipes and warm processes.",
+    "s5name": "GEONYX REPAIR",
+    "s5desc": "Fast geopolymer solutions for local repair of corroded concrete and joints without long site shutdowns."
+  },
+  "workflow": {
+    "eyebrow": "PROCESS",
+    "title": "EXECUTION PROCESS",
+    "w1step": "01",
+    "w1title": "Site survey and sampling",
+    "w1desc": "Assessment of existing concrete, aggressive environments (manure, fertilisers, fermentate), cleaning regime and equipment loading.",
+    "w2step": "02",
+    "w2title": "Zoning by function and risk",
+    "w2desc": "Division of the site into zones: fertiliser warehouse, farms and barns, milking, biogas, compost, rendering, zoo/aquarium.",
+    "w3step": "03",
+    "w3title": "GEONYX system selection",
+    "w3desc": "Selection of ARMOR / CHEM / HYDRO / THERM / REPAIR for each zone based on chemistry, moisture, traffic and temperatures.",
+    "w4step": "04",
+    "w4title": "Base preparation and details",
+    "w4desc": "Mechanical preparation, treatment of joints, channels, drains and critical details at walls and steel elements.",
+    "w5step": "05",
+    "w5title": "Phased application",
+    "w5desc": "Systems applied in phases so that the farm or plant continues to operate with minimal downtime.",
+    "w6step": "06",
+    "w6title": "Quality control and operating instructions",
+    "w6desc": "Execution inspection, documentation and training for cleaning and maintenance in agro and biogas mode."
+  },
+  "offer": {
+    "eyebrow": "COMMERCIAL DOCUMENTATION",
+    "title": "OFFER PACKAGE",
+    "titleSub": "(B2B / B2G)",
+    "description": "For agro, biogas and fertiliser sites GEONYX prepares a complete technical package for investors, banks, regulatory bodies and public procurement.",
+    "qualityTitle": "QUALITY GUARANTEE",
+    "qualityDesc": "All documents comply with current Eurocodes and standards.",
+    "i1": "Zoning by aggression – manure, fertilisers, fermentate, agrochemicals",
+    "i2": "Description of ARMOR / CHEM / HYDRO / THERM / REPAIR systems for each zone",
+    "i3": "Details for lagoons, channels, silos and drainage",
+    "i4": "Leak risk assessment and soil and water protection measures",
+    "i5": "Recommended execution schedule without stopping the entire site",
+    "i6": "Warranty conditions and cleaning and maintenance instructions"
+  },
+  "docs": {
+    "title": "Documentation",
+    "d1name": "Agro & Biogas Floors Guide",
+    "d1sub": "GEONYX floor systems (PDF)",
+    "d2name": "Fertilizer Warehouses Spec",
+    "d2sub": "Technical requirements (PDF)",
+    "d3name": "Manure & Lagoon Protection",
+    "d3sub": "Lagoon protection (PDF)",
+    "d4name": "Zoo & Aquatic Surfaces",
+    "d4sub": "Zoo systems (PDF)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "WILL GEONYX SYSTEMS WITHSTAND MANURE, URINE AND AMMONIA IN THE LONG TERM?",
+    "a1": "Yes. CHEM configurations are designed for organic acidity, ammonia and agrochemicals. During the audit we select the specific system based on your processes and loading.",
+    "q2": "CAN WE CONTINUE OPERATING THE FARM OR BIOGAS PLANT DURING REPAIRS?",
+    "a2": "Usually – yes. We design phased execution so that only individual zones are closed, and REPAIR allows fast return to service.",
+    "q3": "ARE THE SYSTEMS SUITABLE FOR OPEN AREAS AND EXTERNAL LAGOONS?",
+    "a3": "Yes. HYDRO and ARMOR configurations are developed for outdoor conditions, freeze/thaw cycles and heavy machinery traffic, limiting the risk of leaks to the soil."
+  },
+  "cta": {
+    "title": "COMPREHENSIVE SITE ZONING",
+    "description": "Every site has specific risks. We integrate 6 specialised matrices into one system: from mechanics, chemistry and thermal shock, to waterproofing, anti-static and architecture. One technology that guarantees 100% coverage of needs and full compatibility.",
+    "btn": "VIEW ALL ENGINEERING SYSTEMS"
+  }
+}

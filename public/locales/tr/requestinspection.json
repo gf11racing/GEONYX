@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Teknik Denetim Talep Edin | GEONYX",
+    "description": "GEONYX mühendisi tarafından ücretsiz teknik zemin denetimi talep edin. Yükleri ve riskleri teşhis eder, kişiselleştirilmiş mühendislik teklifi hazırlarız."
+  },
+  "hero": {
+    "eyebrow": "MÜHENDİSLİK TANILAMA",
+    "title": "MÜHENDİSLİK DENETİMİ VE SİSTEM SPESİFİKASYONU TALEBİ",
+    "subtitle": "Mühendislerimiz, hassas jeopolimer matrisini tasarlamak için tesisinizin yapısal gereksinimlerini, operasyonel ortamını ve özel risklerini analiz edecektir."
+  },
+  "process": {
+    "title": "SÜREÇ",
+    "step1Title": "01. İLK ANALİZ",
+    "step1Body": "Endüstri türü, kimyasal veya mekanik saldırganlık ve proje ölçeğini tanımlamak için teknik görüşme.",
+    "step2Title": "02. YAPISAL DENETİM",
+    "step2Body": "Yerinde mühendislik ölçümü – çekme mukavemeti ve zemin neminden termal genlik değerlendirmesi ve düzenleyici gereksinimlere kadar.",
+    "step3Title": "03. SİSTEM SPESİFİKASYONU",
+    "step3Body": "Hibrit çözüm (Method Statement), maliyet tahmini ve teknolojik uygulama planı içeren ayrıntılı protokol hazırlanması."
+  },
+  "form": {
+    "title": "TALEP FORMU",
+    "subtitle": "Formu doldurun, bir mühendisimiz sizinle iletişime geçecektir",
+    "nameLabel": "AD VE SOYAD *",
+    "namePlaceholder": "Ahmet Yılmaz",
+    "companyLabel": "ŞİRKET / KURULUŞ *",
+    "companyPlaceholder": "Şirket adı",
+    "phoneLabel": "KURUMSAL TELEFON *",
+    "phonePlaceholder": "+90...",
+    "emailLabel": "KURUMSAL E-POSTA *",
+    "emailPlaceholder": "office@company.com",
+    "locationLabel": "PROJE KONUMU *",
+    "locationPlaceholder": "Şehir / Sanayi Bölgesi",
+    "scaleLabel": "PROJE ÖLÇEĞİ (m² / m³)",
+    "scalePlaceholder": "örn. 2500 m2",
+    "sectorLabel": "ENDÜSTRİYEL SEKTÖR *",
+    "sectorPlaceholder": "-- Sektör seçin --",
+    "threatsLabel": "ANA RİSK FAKTÖRÜ (BİRDEN FAZLA SEÇİLEBİLİR)",
+    "threat1": "Aşırı mekanik etki ve aşınma",
+    "threat2": "Kimyasal saldırganlık (Asitler/Bazlar)",
+    "threat3": "Termal şok / Yangın tehlikesi",
+    "threat4": "Su basıncı / Nem",
+    "threat5": "ESD Koruma / Hijyen standartları (HACCP)",
+    "submitBtn": "DENETİM TALEBİ GÖNDER",
+    "submittingBtn": "İşleniyor...",
+    "successTitle": "TALEBİNİZ ALINDI",
+    "successBody": "Projeniz yüksek öncelikle sisteme kaydedildi. Bir mühendisimiz 24 saat içinde sizinle iletişime geçecektir.",
+    "newFormBtn": "Yeni form doldurun",
+    "sector1": "Ağır Sanayi ve Lojistik",
+    "sector2": "Gıda, İçecek ve Eczacılık",
+    "sector3": "Tarım, Biyogaz ve Ekoloji",
+    "sector4": "Su ve Deniz Altyapısı",
+    "sector5": "Enerji, Madencilik ve Savunma",
+    "sector6": "Ulaşım ve Park Yerleri",
+    "sector7": "Kentsel Çevre ve İnşaat",
+    "sector8": "High-Tech Bölgeler ve Temiz Odalar",
+    "sector9": "Diğer spesifik üretim"
+  },
+  "contact": {
+    "phone": "+359 88 888 8888",
+    "email": "office@geonyx.bg",
+    "address": "Sofya, Bulgaristan"
+  },
+  "guarantee": {
+    "title": "GARANTİLİ GİZLİLİK (NDA) • 24 SAAT İÇİNDE YANIT",
+    "body": "GARANTİLİ GİZLİLİK (NDA) • 24 SAAT İÇİNDE YANIT"
+  }
+}

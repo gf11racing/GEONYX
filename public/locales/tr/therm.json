@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "GEONYX THERM | Isıya Dayanıklı Zemin Sistemi",
+    "description": "GEONYX THERM – aşırı ısı, kıvılcım ve termal şok içeren bölgeler için jeopolimer zemin. Döküm, fırın ve sıcak işlem bölgeleri için uygundur."
+  },
+  "hero": {
+    "eyebrow": "ISIL GÜVENLİK VE YANGIN",
+    "description": "Metalurji, enerji ve gıda endüstrileri için şok dondurmadan erimiş metale kadar mineral ısıya dayanıklı zemin kaplaması. A1fl sınıfı ve -40°C / +1200°C sıcaklık aralığı.",
+    "statTemp": "SICAKLIK ARALIĞI",
+    "statTempValue": "-40°C / +1200°C",
+    "statClass": "YANGIN SINIFI",
+    "statClassValue": "A1fl",
+    "statExpansion": "ISIL GENLEŞMELİ",
+    "statExpansionValue": "~8 μm/m·K",
+    "statLife": "TASARIM ÖMRÜ",
+    "statLifeValue": "≥ 20 yıl",
+    "btn1": "TEKNİK VERİ SAYFASI",
+    "btn2": "MÜHENDİSLİK DENETİMİ TALEP ET"
+  },
+  "diagnostics": {
+    "eyebrow": "ISIL SALDIRGANLIK",
+    "title": "-40°C'DEN +1200°C'YE. SİSTEM BAŞARISIZ OLMAZ.",
+    "subtitle": "Standart kaplamaların baş edemediği 8 termal ve operasyonel senaryo.",
+    "d1": {
+      "title": "BUHAR ISIL ŞOKU",
+      "problem": "120°C'de buharla temizleme soğuk bir zemin üzerinde epoksi kaplamaların anında çatlamasına ve ayrılmasına neden olur.",
+      "solution": "GEONYX THERM, betona yakın bir ısıl genleşme katsayısına sahiptir ve tekrarlanan buhar-soğuk döngülerinde yapışma bütünlüğünü korur."
+    },
+    "d2": {
+      "title": "ERİMİŞ METAL VE KIVILIMLLAR",
+      "problem": "Kaynak sıçramaları ve döküm süreçleri (700°C+) polimer zeminleri yakar ve yangın tehlikesi oluşturur.",
+      "solution": "Ateş ve erimiş metalle doğrudan temas için dirençli mineral matris – tutuşma yok, deformasyon yok."
+    },
+    "d3": {
+      "title": "ŞOK DONDURMA",
+      "problem": "-40°C'de standart kaplamalar kırılganlaşır ve titreşim ile mekanik yük altında çatlar.",
+      "solution": "GEONYX THERM, kriyojenik koşullarda ve sık donma-çözülme döngülerinde yük taşıma kapasitesini ve mikro elastikiyetini korur."
+    },
+    "d4": {
+      "title": "YANGIN GÜVENLİĞİ VE DUMAN",
+      "problem": "Yangında sentetik zemin kaplamaları yoğun zehirli duman ve zehirli gazlar yayar.",
+      "solution": "GEONYX THERM A1fl sınıfındadır – yanmaz, yangına katkıda bulunmaz ve duman ya da zehirli buhar üretmez."
+    },
+    "d5": {
+      "title": "SICAK YAĞ VE YAĞ MADDELERİ",
+      "problem": "Gıda endüstrisinde kaynayan yağlar (180°C) ve bitkisel yağlar beton ve polimer katmanlarını aşındırır.",
+      "solution": "Yağ sızmasını engelleyen ve yüksek sıcaklıklarda ve kimyasal maruziyette kararlı kalan yoğun mineral yapı."
+    },
+    "d6": {
+      "title": "EKZOTERMİK SÜREÇLER",
+      "problem": "Reaktörler ve banyolardaki kimyasal tepkimeler sıcaklığı saniyeler içinde yüzlerce dereceye yükseltebilir.",
+      "solution": "GEONYX THERM, betona yapışma kaybı olmaksızın 1200°C'ye kadar kısa süreli sıcaklık zirvelerine yönelik tasarlanmıştır."
+    },
+    "d7": {
+      "title": "STERİLİZASYON VE CIP",
+      "problem": "Otoklav işlemi, basınçlı sıcak su ve agresif temizlik maddeleri derz ve zayıf bölgeleri tahrip eder.",
+      "solution": "CIP rejimlerine, buharla yıkamaya ve temiz odalar ile gıda tesislerinde dezenfeksiyona dayanıklı monolitik derzisiz sistem."
+    },
+    "d8": {
+      "title": "ATEX BÖLGELERİNDE KIVILIMLLAR",
+      "problem": "Gaz veya toz bölgelerinde darbede mekanik kıvılcımlar patlama tetikleyebilir.",
+      "solution": "GEONYX THERM'in kıvılcımsız konfigürasyonu – yüzey darbe veya sürtünmede mekanik kıvılcım üretmez."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "GEONYX THERM TEKNİK KESİT",
+    "sectionSubtitle": "İnteraktif katman modeli – altlıktan çalışma yüzeyine kadar.",
+    "h1": {
+      "title": "1. TAŞIYICI BETON",
+      "subtitle": "Hazırlanmış altlık",
+      "desc": "Dinamik ve termal yüklere karşı direnç için derz ve kusurlar düzeltilmiş, taşlanmış veya frezelenmiş, yapısal olarak doğrulanmış beton."
+    },
+    "h2": {
+      "title": "2. YAPIŞMA BÖLGESİ",
+      "subtitle": "Isıl uyumlu bağ",
+      "desc": "Betona yakın genleşme katsayısına sahip özel mineral bağ – termal şok altında sıfır tabaka ayrılması sağlar."
+    },
+    "h3": {
+      "title": "3. THERM ÇEKİRDEK",
+      "subtitle": "Isıya dayanıklı tabaka",
+      "desc": "Kırılgan kırılma olmaksızın aşırı sıcaklık zirvelerini ve mekanik yükü emen birincil GEONYX THERM katmanı."
+    },
+    "h4": {
+      "title": "4. FONKSİYONEL KAPLAMA",
+      "subtitle": "Kaymaz ve hijyen",
+      "desc": "Güvenlik, kolay temizlik ve gıda, buhar ve agresif temizlik maddeleriyle uyumluluk için R12/R13 doku."
+    }
+  },
+  "engineering": {
+    "eyebrow": "MÜHENDİSLİK VERİLERİ",
+    "title": "LABORATUVAR KANITI",
+    "subtitle": "Akredite laboratuvarlarda bağımsız testler – tam protokoller TDS'de mevcuttur.",
+    "block1title": "ISIL GENLEŞMELİ (ΔL/L)",
+    "block1note": "GEONYX THERM, betonla aynı oranda genleşir ve yapışma katmanında gerilim oluşturmaz.",
+    "block2title": "SICAKLIK SINIFLANDIRMASI",
+    "block2note": "Kararlı yapışma altında maksimum sıcaklık aralığının karşılaştırması.",
+    "block3title": "YANGIN SINIFI (A1fl)",
+    "block3note": "Yanıcı bileşen içermeyen mineral matris – EN 13501-1'e göre A1fl yangin sınıfı."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANS",
+    "title": "OPERASYONEL ÜSTÜNLÜK",
+    "r1": {
+      "title": "ISIL ŞOK ALTINDA MONOLİTİK YAPIŞMA",
+      "desc": "500°C'den ortam sıcaklığına geçişte tabaka ayrılması yok – yangın simülasyonlarında ve gerçek üretim koşullarında doğrulanmıştır."
+    },
+    "r2": {
+      "title": "A1fl SINIFI (YANMAZ)",
+      "desc": "Yangına katkı yok, duman yok ve zehirli gaz yok – tahliye ve itfaiye hizmetleri için güvenli."
+    },
+    "r3": {
+      "title": "HACCP UYUMLULUĞU",
+      "desc": "Gıda üretim tesisleri için uygun – tehlikeli bileşen yok, kolay temizlik, sıcak yağa direnç."
+    },
+    "r4": {
+      "title": "KRİYOJENİK DİRENÇ",
+      "desc": "Soğuk depolar, soğutma tünelleri ve kriyojenik depolama için -40°C'de dayanım değişikliği olmadan çalışır."
+    },
+    "r5": {
+      "title": "ATEX / KIYILCIMSIZ",
+      "desc": "Yanıcı gaz, toz ve cephane bulunan bölgeler için mekanik kıvılcım üretmeyen özel konfigürasyonlar."
+    }
+  },
+  "financial": {
+    "title": "ISIL YÜK ALTINDA TCO",
+    "subtitle": "Aşırı sıcaklık koşullarında bakım maliyeti karşılaştırması.",
+    "quote": "METALURJİDEKİ ZEMİNLER HER 3–5 YILDA BİR DEĞİŞTİRİLİR.",
+    "quoteHighlight": "GEONYX THERM – 20 YIL DAYANIR."
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "subtitle": "Isıl yüklü bölgeler için 20 yıllık döngü karşılaştırması.",
+    "colParam": "PARAMETRE",
+    "colTherm": "GEONYX THERM",
+    "colEpoxy": "Epoksi/PU",
+    "colStd": "Standart beton",
+    "row1": "Isıl aralık",
+    "row2": "Yangın sınıfı",
+    "row3": "Termal şok direnci",
+    "row4": "HACCP uyumluluğu",
+    "row5": "Tasarım ömrü",
+    "val1therm": "-40°C ile +1200°C",
+    "val1epoxy": "80°C'ye kadar",
+    "val1std": "300°C'ye kadar (bozunur)",
+    "val2therm": "A1fl – yanmaz",
+    "val2epoxy": "Yanıcı – B/C sınıfı",
+    "val2std": "Uygulanamaz",
+    "val3therm": "İstisnai yüksek",
+    "val3epoxy": "Düşük – tabaka ayrılması",
+    "val3std": "Orta – çatlama",
+    "val4therm": "Tam",
+    "val4epoxy": "Kısmi",
+    "val4std": "Önerilmez",
+    "val5therm": "≥20 yıl",
+    "val5epoxy": "5–8 yıl",
+    "val5std": "3–5 yıl"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "Isıl saldırganlık, yangın tehlikesi veya aşırı sıcaklık döngülerine sahip tesisler.",
+    "a1": {
+      "title": "Metalurji ve Döküm",
+      "desc": "Döküm tesisleri, dökme bölgeleri, fırın alanları ve erimiş metal sıçramalı bölgeler."
+    },
+    "a2": {
+      "title": "Gıda ve İçecek Endüstrisi",
+      "desc": "Sıcak yağ, buhar ve agresif temizlikle (HACCP) üretim tesisleri."
+    },
+    "a3": {
+      "title": "Enerji ve Nükleer Güç",
+      "desc": "Türbin salonları, kazan daireleri ve A1 sınıfı gerektiren yangına dayanıklı bölgeler."
+    },
+    "a4": {
+      "title": "Havacılık Endüstrisi",
+      "desc": "ATEX gereksinimleri ve yangına dayanıklı zemin kaplamas olan hangarlar."
+    },
+    "a5": {
+      "title": "Kimya ve Petrol Endüstrisi",
+      "desc": "ATEX bölgeleri, reaktörler ve tutuşma riski olan alanlar."
+    },
+    "a6": {
+      "title": "Soğuk Depolama Tesisleri",
+      "desc": "Ağır forklift trafiği olan -30°C/-40°C'deki kriyojenik depolar."
+    },
+    "a7": {
+      "title": "İlaç Endüstrisi",
+      "desc": "Sterilizasyon bölgeleri, otoklav işlemi ve CIP programları."
+    },
+    "a8": {
+      "title": "Savunma Sanayii",
+      "desc": "Patlama korumalı sığınaklar, cephane için ATEX odaları."
+    }
+  },
+  "process": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "subtitle": "Aktif termal koşullar altında kontrollü uygulama.",
+    "p1": {
+      "title": "Isıl Bölge Denetimi",
+      "desc": "Bölgeye göre sıcaklık zirveleri, döngüler ve operasyonların haritalanması."
+    },
+    "p2": {
+      "title": "THERM Konfigürasyon Seçimi",
+      "desc": "Kesin kalınlık ve sistemin seçimi (standart, ATEX veya kriyojenik)."
+    },
+    "p3": {
+      "title": "Altlık Hazırlama",
+      "desc": "Mekanik profilleme, düzensizliklerin düzeltilmesi ve yapışmanın termal aktivasyonu."
+    },
+    "p4": {
+      "title": "Katman Uygulaması",
+      "desc": "Sıcaklık ve yapışma izleme ile termal-teknolojik protokole göre uygulama."
+    },
+    "p5": {
+      "title": "Kalite Kontrol ve Test",
+      "desc": "Yapışma, sertlik ve düzlük doğrulaması. Gerektiğinde termal test."
+    },
+    "p6": {
+      "title": "Belgelendirme ve Teslim",
+      "desc": "TDS paketi, ATEX/HACCP sertifikaları ve bakım talimatları."
+    }
+  },
+  "offer": {
+    "eyebrow": "TİCARİ BELGELER",
+    "title": "THERM İHALE PAKETİ (B2B / B2G)",
+    "desc": "Metalurji, gıda ve enerji endüstrilerindeki ısıl yüklü bölgeler için eksiksiz belgelendirme.",
+    "qualityLabel": "KALİTE GÜVENCESI",
+    "qualityDesc": "Tüm belgeler HACCP, ATEX ve EN 13501-1 gereksinimlerine uygundur.",
+    "doc1": "TDS – Teknik özellikler ve ısıl direnç",
+    "doc2": "Yangın sınıfı A1fl – Sertifika ve protokol",
+    "doc3": "ATEX konfigürasyonu ve kıvılcımsız belgelendirme",
+    "doc4": "HACCP uyumluluğu (gerektiğinde)",
+    "doc5": "Genleşme derzi ve ısıl bölge detayları",
+    "doc6": "Isıl yüklü bölgeler için ihale şartnamesi",
+    "copyBtn": "İHALE METNİNİ KOPYALA",
+    "copiedBtn": "METİN KOPYALANDI!"
+  },
+  "downloads": {
+    "title": "TEKNİK DOSYALAR VE İNDİRMELER",
+    "dl1": {
+      "title": "GEONYX THERM – TDS",
+      "sub": "Teknik parametreler ve ısıl direnç"
+    },
+    "dl2": {
+      "title": "Yangın Sınıfı A1fl",
+      "sub": "Sertifika ve EN 13501-1 protokolü"
+    },
+    "dl3": {
+      "title": "ATEX / Kıvılcımsız",
+      "sub": "Patlama korumalı bölgeler için belgelendirme"
+    },
+    "dl4": {
+      "title": "HACCP Beyanı",
+      "sub": "Gıda üretim tesisleriyle uyumluluk"
+    }
+  },
+  "cta": {
+    "title": "YANGIN GÜVENLİĞİ. ISIL DİRENÇ. MİNİMUM DURUŞ SÜRESİ.",
+    "desc": "Bölgelerinizin ısıl yükünü tanımlayın – THERM konfigürasyonu, ATEX/HACCP belgelendirmesi ve TCO analizi önereceğiz.",
+    "btn1": "TEKNİK DENETİM TALEP ET",
+    "btn2": "TDS İNDİR",
+    "btn3": "MÜHENDİSLE İLETİŞİME GEÇ"
+  },
+  "footerBand": {
+    "label": "KRİTİK ALTYAPI İÇİN TEKNOLOJİ ORTAĞI",
+    "desc": "GEONYX THERM, standart zemin kaplamalarının yandığı, eridiği veya ayrıldığı yerlerde ısıl koruma sağlar."
+  },
+  "shared": {
+    "threat": "TEHDİT",
+    "solution": "ÇÖZÜM"
+  }
+}

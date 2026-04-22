@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Allgemeine Geschäftsbedingungen | GEONYX GROUP",
+    "description": "Allgemeine Geschäftsbedingungen der GEONYX GROUP LTD für die Nutzung der Website und die Erbringung von Ingenieurleistungen."
+  },
+  "header": {
+    "eyebrow": "RECHTSPROTOKOLL 08",
+    "title": "ALLGEMEINE GESCHÄFTSBEDINGUNGEN UND GARANTIEN",
+    "subtitle": "VORSCHRIFTEN FÜR AUSFÜHRUNG, QUALITÄT UND HAFTUNG."
+  },
+  "block1": {
+    "title": "FINANZRAHMEN UND EIGENTUM",
+    "validity_label": "Gültigkeit:",
+    "validity": "Angebote sind 30 Kalendertage gültig. Danach unterliegen sie einer Neuberechnung anhand der aktuellen Chemikalienpreise.",
+    "payment_label": "Zahlungsplan:",
+    "payment": "50% Anzahlung (Start) / 40% Materiallieferung / 10% Abnahme.",
+    "retention_label": "Eigentumsvorbehalt:",
+    "retention": "Der aufgebrachte Belag und die eingebetteten Materialien bleiben Eigentum der \"GEONYX GROUP\" GmbH, bis 100% des geschuldeten Betrags bezahlt wurde. Bei Nichtzahlung behält der Auftragnehmer das Recht zum Rückbau oder zur chemischen Entfernung des Systems."
+  },
+  "block2": {
+    "title": "UNTERGRUND UND VERDECKTE MÄNGEL",
+    "critical": "(Kritisch!)",
+    "note": "Die Verantwortung für die Qualität des Betonuntergrunds liegt vollständig beim Auftraggeber.",
+    "requirements_label": "Anforderungen:",
+    "requirements": "Betonklasse mindestens C20/25, Feuchtigkeit unter 4%, ebene Oberfläche.",
+    "exclusion_title": "Haftungsausschluss:",
+    "exclusion_intro": "Die \"GEONYX GROUP\" GmbH übernimmt KEINE Haftung für Mängel, die entstehen durch:",
+    "li1": "Fehlen einer Abdichtung und Auftreten von kapillarer (aufsteigender) Feuchtigkeit aus dem Boden.",
+    "li2": "Konstruktionsrisse im Gebäude oder Fundamentsetzungen.",
+    "li3": "Versteckte Öltaschen in der Tiefe des alten Betons."
+  },
+  "block3": {
+    "title": "BETRIEBLICHE GRENZEN",
+    "intro": "Die Garantie gilt nur bei Einhaltung der festgelegten Betriebsnormen.",
+    "li1_label": "Chemie und Temperatur:",
+    "li1": "Die Garantie deckt nur Chemikalien und Temperaturen ab, die ausdrücklich in der technischen Spezifikation beschrieben sind.",
+    "li2_label": "Mechanische Einwirkung:",
+    "li2": "Schäden durch herabfallende Gegenstände, Palettenschleifen oder nicht genehmigten Schwerfahrzeugverkehr sind kein Gegenstand des Garantieservice."
+  },
+  "block4": {
+    "title": "GEISTIGES EIGENTUM",
+    "body": "Alle Rezepturen (GEONYX® Formulas), Verfahrensblätter und Auftragsverfahren sind Geschäftsgeheimnisse und geistiges Eigentum der \"GEONYX GROUP\" GmbH. Jeder Versuch der chemischen Analyse (Reverse Engineering) oder Kopie der Technologie wird mit der vollen Strenge des Gesetzes verfolgt."
+  },
+  "block5": {
+    "title": "FRISTEN UND HÖHERE GEWALT",
+    "body": "Die technologische Polymerisationszeit beträgt 24 Stunden (bei 20°C). Das Betreten des Objekts vor Ablauf dieser Zeit macht die Garantie ungültig. Ausführungsfristen werden ausgesetzt bei Temperaturen unter +5°C oder Luftfeuchtigkeit über 80%, um die Reaktionsqualität zu gewährleisten."
+  },
+  "footer": {
+    "note": "Die akzeptierten AGB sind integraler Bestandteil des Werkvertrags. Kontakt zur Rechtsabteilung:"
+  }
+}

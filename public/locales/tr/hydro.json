@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "GEONYX HYDRO | Su Yalıtımı ve Nem Koruması",
+    "description": "GEONYX HYDRO – beton yüzeyler için kristal su yalıtımı. Kılcal nem, hidrostatik basınç ve su sızıntısına karşı koruma."
+  },
+  "hero": {
+    "eyebrow": "HİDROLİK MÜHENDİSLİK VE SU KORUMASI",
+    "description": "Barajlar, rezervuarlar, su arıtma tesisleri ve deniz altyapısı için su geçirmezlik ve basınç direnci sağlayan mineral sistemler. W20, 15 Bar ve su altında bile uzun hizmet ömrü için tasarlanmıştır.",
+    "statWater": "SU GEÇİRMEZLİK",
+    "statWaterValue": "Sınıf W20",
+    "statPressure": "BASINÇ",
+    "statPressureValue": "15 Bar'a kadar",
+    "statDrinking": "İÇME SUYU",
+    "statDrinkingValue": "Sertifikalı",
+    "statLife": "TASARIM ÖMRÜ",
+    "statLifeValue": "≥ 25 yıl",
+    "btn1": "TEKNİK VERİ SAYFASI",
+    "btn2": "MÜHENDİSLİK DENETİMİ İSTE"
+  },
+  "diagnostics": {
+    "eyebrow": "SU SALDIRGANLIĞI",
+    "title": "SU AFFETMEZ. GEONYX HYDRO AFFEDER.",
+    "subtitle": "Standart betonun yavaş yavaş savaşı kaybettiği 8 hidrolik mühendislik senaryosu.",
+    "d1": {
+      "title": "BOŞALTMADAN SU ALTI ONARIM",
+      "problem": "Bir barajı, rezervuarı veya havuzu boşaltmak milyonlara mal olur ve kritik altyapının işleyişini durdurur.",
+      "solution": "GEONYX HYDRO su altında yıkanmadan sertleşir. Dalgıçlar, işletilen yapılarda yerel onarımlar gerçekleştirir – minimum kesinti süresiyle."
+    },
+    "d2": {
+      "title": "15 BAR'A KADAR HİDROSTATİK BASINÇ",
+      "problem": "Basınç altındaki su (onlarca metre yük), gözenekler ve mikro çatlaklar aracılığıyla yapıya sızarak onu tehlikeye atar.",
+      "solution": "GEONYX HYDRO, Sınıf W20 performansı ve 15 Bar'a kadar pozitif basınca karşı direnç sağlar – geçirme yok, tabaka delaminasyonu yok."
+    },
+    "d3": {
+      "title": "KAVİTASYON VE YÜKSEK HIZLI AKIŞ",
+      "problem": "Dolusavaklar, kanallar ve savaklar içindeki vakum kabarcıkları ve türbülanslı akış betonu aşındırır ve derin çukurlar oluşturur.",
+      "solution": "Düşük aşınma ile son derece yoğun ve pürüzsüz yüzey (AR ≤ 0,5), kavitasyona ve akıştan kaynaklanan mekanik aşınmaya dayanıklı."
+    },
+    "d4": {
+      "title": "KANALİZASYON VE ATIKSU ARITMA TESİSLERİNDE BİYOJENİK KOROZYON",
+      "problem": "Atık sulardaki bakteriler, gazları, su hattının üzerindeki betona saldıran agresif asitlere dönüştürür.",
+      "solution": "Biyojenik korozyona mineral bağışıklık; gerektiğinde GEONYX CHEM ile birleştirilerek tek bir çözümde hem ıslak hem de gaz bölgelerini korur."
+    },
+    "d5": {
+      "title": "KLORÜR SALDIRISI VE DENİZ ORTAMI",
+      "problem": "Deniz tuzu gözeneklerden sızar, donatıya ulaşır ve kıyı yapıları ile rıhtımların korozyonunu hızlandırır.",
+      "solution": "Klorür göçünü sınırlayan ve deniz ortamındaki donatılı elemanların hizmet ömrünü uzatan yoğun mineral bariyer."
+    },
+    "d6": {
+      "title": "LİÇ VE «LEOPAR DERİSİ»",
+      "problem": "Yumuşak veya demineralize su, betondaki kireç taşını çözerek lekelenmeye, gözenekliliğe ve dayanım kaybına neden olur.",
+      "solution": "Serbest kireç içermeyen jeopolimer yapı – liç edilecek hiçbir şey yok; yüzey stabil ve yoğun kalır."
+    },
+    "d7": {
+      "title": "İÇME SUYU GÜVENLİĞİ",
+      "problem": "Standart epoksi kaplamalar, içme suyuna monomer ve çözücü salabilir – operatörler ve düzenleyiciler için kabul edilemez.",
+      "solution": "GEONYX HYDRO, DVGW/BS standartlarına göre içme suyu temasına sertifikalı bir mineral sistemdir – organik toksik bileşen içermez."
+    },
+    "d8": {
+      "title": "SILT VE KUM AŞINMASI",
+      "problem": "Kum ve silt yüklü su, kanal ve havuzların duvarları ile zeminlerinde sürekli bir aşındırıcı olarak işlev görür.",
+      "solution": "Mohs 9'a kadar yüzey sertliği ve çok düşük hacim kaybı – standart beton ve sıvalardan önemli ölçüde daha dirençli."
+    }
+  },
+  "anatomy": {
+    "sectionTitle": "GEONYX HYDRO TEKNİK KESİT",
+    "sectionSubtitle": "Etkileşimli katman modeli – altlıktan çalışma yüzeyine.",
+    "h1": {
+      "title": "1. BETON ALTYAPI",
+      "subtitle": "Doymuş Altlık",
+      "desc": "Mevcut betonarme yapı, kılcal damarları açmak için yüksek basınçlı hidrojet (2500 bar) ile temizlenmiştir."
+    },
+    "h2": {
+      "title": "2. KRİSTALİN ASTAR",
+      "subtitle": "Aktif Penetrasyon",
+      "desc": "Beton gözeneklerine derinlemesine sızan ve nem temasıyla kristalleşerek kılcal yükselmeyi engelleyen aktif astar."
+    },
+    "h3": {
+      "title": "3. HYDRO-HARÇ",
+      "subtitle": "Fiber Takviyeli Gövde",
+      "desc": "Fiber takviyeli birincil yapısal katman. 20 Bar'a kadar (W20) hidrostatik basınca dayanır ve tüm kütlesi boyunca su geçirmezdir."
+    },
+    "h4": {
+      "title": "4. DÜZGÜN YÜZEY KAPLAMA",
+      "subtitle": "Hidrolik Akış Yüzeyi",
+      "desc": "Sürtünmeyi azaltmak ve hidrolik akış hızını artırmak için pürüzsüz yüzey membranı. Aşınmaya ve kimyasallara dayanıklı."
+    }
+  },
+  "engineering": {
+    "eyebrow": "MÜHENDİSLİK VERİLERİ",
+    "title": "LABORATUVAR TESTLERİ VE SAHA DENEYLERİ",
+    "subtitle": "Akredite laboratuvarlarda bağımsız testler – tam protokoller TDS'de mevcuttur.",
+    "block1title": "SU GEÇİRMEZLİĞİ (W SINIFI)",
+    "block1note": "GEONYX HYDRO, Sınıf W20'yi karşılar – geçirme olmaksızın 200 metrelik su sütunu.",
+    "block2title": "GEÇIRME BASINCI",
+    "block2note": "Farklı sistemler arasında hidrostatik basınç direncinin karşılaştırması.",
+    "block3title": "SU KAYBI AZALTMA (NRW)",
+    "block3note": "HYDRO koruması olmadan/ile 20 yıl boyunca su kayıplarındaki fark."
+  },
+  "operational": {
+    "eyebrow": "PERFORMANS",
+    "title": "OPERASYONEL ÜSTÜNLÜK",
+    "r1": {
+      "title": "SU ALTI UYGULAMA",
+      "desc": "Aktif su altında sertleşme – dalgıçlar ıslak veya kısmen su altında kalan bölgelerde bile çalışabilir."
+    },
+    "r2": {
+      "title": "SINIF W20 / 15 BAR",
+      "desc": "Su geçirmezlik Sınıfı W20 ve hem pozitif hem negatif hidrostatik basınca direnç."
+    },
+    "r3": {
+      "title": "İÇME SUYU (DVGW/BS)",
+      "desc": "İçme suyu teması için sertifikalı – organik monomer yok, toksik liç yok."
+    },
+    "r4": {
+      "title": "DENİZ VE KIYI KORUMASI",
+      "desc": "Klorürlere, deniz tuzuna ve sülfatlara direnç – liman yapıları ve rıhtım duvarları için."
+    },
+    "r5": {
+      "title": "SIFIR KAYIP (NRW)",
+      "desc": "Derziz ve yoğun sistem, rezervuarlar, barajlar ve dağıtım şebekelerindeki su kayıplarını en aza indirir."
+    }
+  },
+  "financial": {
+    "title": "SU BİR SORUN DEĞİL, BİR VARLIK OLDUĞUNDA",
+    "subtitle": "Korumalı ve korumasız hidrolik yapılarda kayıp ve maliyet karşılaştırması.",
+    "quote": "KORUMASIZ BİR BARAJ SU KAYBEDER. VE PARA.",
+    "quoteHighlight": "GEONYX HYDRO İKİSİNİ DE SIZER."
+  },
+  "roi": {
+    "eyebrow": "ROI ANALİZİ",
+    "title": "YATIRIM DENETİMİ",
+    "subtitle": "Hidrolik mühendislik varlıkları için 25 yıllık yaşam döngüsü karşılaştırması.",
+    "colParam": "PARAMETRE",
+    "colHydro": "GEONYX HYDRO",
+    "colEpoxy": "Epoksi su yalıtımı",
+    "colStd": "Standart beton",
+    "row1": "Su geçirmezlik sınıfı",
+    "row2": "Su altı uygulama",
+    "row3": "İçme suyu",
+    "row4": "Klorür direnci",
+    "row5": "Tasarım ömrü",
+    "val1hydro": "W20 – 15 Bar",
+    "val1epoxy": "W8 – W12",
+    "val1std": "W4 – korumasız",
+    "val2hydro": "Evet – aktif su altında",
+    "val2epoxy": "Hayır – kuru yüzey gerektirir",
+    "val2std": "Hayır",
+    "val3hydro": "Sertifikalı",
+    "val3epoxy": "Sınırlı",
+    "val3std": "Geçerli değil",
+    "val4hydro": "Çok yüksek",
+    "val4epoxy": "Orta",
+    "val4std": "Düşük",
+    "val5hydro": "≥25 yıl",
+    "val5epoxy": "8–12 yıl",
+    "val5std": "5–8 yıl"
+  },
+  "applications": {
+    "eyebrow": "UYGULAMALAR",
+    "title": "NEREDE KULLANILIR",
+    "subtitle": "Su sızması, basınç ve hidrokimyasal saldırı riski yüksek yapılar.",
+    "a1": {
+      "title": "Barajlar ve Hidroelektrik Santraller",
+      "desc": "Baraj gövdesi, alım kuleleri ve kapak odalarının kaplanması."
+    },
+    "a2": {
+      "title": "Su Arıtma Tesisleri",
+      "desc": "Biyohavuzlar, durultucular ve anaerobik reaktörler (biyojenik korozyon)."
+    },
+    "a3": {
+      "title": "İçme Suyu Rezervuarları",
+      "desc": "Basınçlı tanklar ve su kuleleri (DVGW/BS sertifikalı)."
+    },
+    "a4": {
+      "title": "Deniz Altyapısı",
+      "desc": "Rıhtımlar, dalgakıranlar, su altı tünelleri ve platformlar."
+    },
+    "a5": {
+      "title": "Kanallar ve Savaklar",
+      "desc": "Kavitasyon ve akış aşınmasına karşı hidrolik koruyucu kaplamalar."
+    },
+    "a6": {
+      "title": "Maden Artığı Tesisleri",
+      "desc": "Proses sıvılarının tutulması için su geçirmez kapsamalar."
+    },
+    "a7": {
+      "title": "Pompa İstasyonları",
+      "desc": "Agresif atık su taşıyan ıslak kuyular ve tüneller."
+    },
+    "a8": {
+      "title": "Tüneller ve Metro",
+      "desc": "Yeraltı suyu sızıntısına maruz kalan kubbeler ve duvarlar."
+    }
+  },
+  "process": {
+    "eyebrow": "SÜREÇ",
+    "title": "UYGULAMA SÜRECİ",
+    "subtitle": "Aktif su altında ve su altı koşullarında hassas uygulama.",
+    "p1": {
+      "title": "Yapının hidro-denetimi",
+      "desc": "Basınç, sızıntı, suyun kimyasal profili ve biyojenik aktivite düzeyinin analizi."
+    },
+    "p2": {
+      "title": "HYDRO konfigürasyon seçimi",
+      "desc": "Sistem seçimi – kristalin astar, HYDRO-HARÇ, DÜZGÜN YÜZEY KAPLAMA veya CHEM ile kombinasyon."
+    },
+    "p3": {
+      "title": "Hidrojet temizleme",
+      "desc": "Gözenekleri açmak ve zayıf bölgeleri uzaklaştırmak için 2500 bar'da su jeti."
+    },
+    "p4": {
+      "title": "Kristalin astar",
+      "desc": "Kristalin astar uygulaması – nem temasıyla aktive olur ve kılcal akışı engeller."
+    },
+    "p5": {
+      "title": "Uygulama ve sızdırmazlık",
+      "desc": "HYDRO-HARÇ ve DÜZGÜN YÜZEY KAPLAMA'nın teknik protokole göre uygulanması – gerektiğinde su altında dahil."
+    },
+    "p6": {
+      "title": "Hidrolik test ve dokümantasyon",
+      "desc": "Su geçirmezlik testi, protokoller, TDS paketi ve garanti kartı."
+    }
+  },
+  "offer": {
+    "eyebrow": "TİCARİ DOKÜMANTASYON",
+    "title": "HYDRO TEKLİF PAKETİ (B2B / B2G)",
+    "desc": "Barajlar, rezervuarlar, atık su arıtma tesisleri ve deniz altyapısı için eksiksiz dokümantasyon.",
+    "qualityLabel": "KALİTE GÜVENCESİ",
+    "qualityDesc": "DVGW, BS ve Eurocode hidrolik mühendislik standartlarına uygundur.",
+    "doc1": "TDS – Teknik özellikler ve hidrolik testler",
+    "doc2": "İçme suyu sertifikası (DVGW / BS 6920)",
+    "doc3": "W20 Protokolü – su geçirmezliği",
+    "doc4": "Su altı uygulama metodolojisi",
+    "doc5": "Su yalıtım katmanları için BIM detayları",
+    "doc6": "Hidrolik mühendislik projeleri için ihale şartnamesi",
+    "copyBtn": "İHALE METNİNİ KOPYALA",
+    "copiedBtn": "METİN KOPYALANDI!"
+  },
+  "downloads": {
+    "title": "TEKNİK DOSYALAR VE İNDİRMELER",
+    "dl1": {
+      "title": "GEONYX HYDRO – TDS",
+      "sub": "Teknik parametreler ve W sınıfı"
+    },
+    "dl2": {
+      "title": "İçme suyu – DVGW/BS",
+      "sub": "Uygunluk sertifikası"
+    },
+    "dl3": {
+      "title": "Hidrolik test W20",
+      "sub": "Akredite laboratuvar protokolü"
+    },
+    "dl4": {
+      "title": "Su altı uygulama metodolojisi",
+      "sub": "Adımlar, dalış gereksinimleri ve kalite kontrol"
+    }
+  },
+  "cta": {
+    "title": "ALTYAPINIZ SU – VEYA PARA – KAYBETMEMELİDİR.",
+    "desc": "Hidrolik yapıyı ve sorunu açıklayın – bir HYDRO konfigürasyonu, W sınıfı dokümantasyonu ve TCO analizi önereceğiz.",
+    "btn1": "HYDRO DENETİMİ İSTE",
+    "btn2": "TDS İNDİR",
+    "btn3": "MÜHENDİSLE İLETİŞİME GEÇ"
+  },
+  "footerBand": {
+    "label": "KRİTİK ALTYAPI İÇİN TEKNOLOJİ ORTAĞI",
+    "desc": "GEONYX HYDRO, standart betonun başarısız olduğu yerlerde barajları, rezervuarları ve su arıtma tesislerini korur."
+  },
+  "shared": {
+    "threat": "TEHDİT",
+    "solution": "ÇÖZÜM"
+  }
+}

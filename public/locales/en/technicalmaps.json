@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "GEONYX | Technical Data Sheets and System Documentation",
+    "description": "Centralised library of technical data sheets (TDS), declarations of performance (DoP), certificates and system details for GEONYX ARMOR, CHEM, HYDRO and THERM – designed for designers, investors and contractors in industrial and infrastructure construction."
+  },
+  "hero": {
+    "eyebrow": "TECHNICAL DATA SHEETS",
+    "titleLine1": "THE DATA",
+    "titleLine2": "DOESN'T LIE.",
+    "description": "There is no room for marketing here. Here speak the empirical physico-mechanical parameters, independent laboratory tests and normative certificates. Shear strength, wear resistance index, chemical inertness and carbon footprint.",
+    "btnCatalog": "DOWNLOAD FULL CATALOGUE"
+  },
+  "blockSDS": {
+    "eyebrow": "SPECIFICATIONS",
+    "title": "SYSTEM (SDS) AND PRODUCT (PDS) DATA SHEETS",
+    "description": "Precise definition of every variable. Engineering logic requires separation of the overall system (System Data Sheet) from its constituent components (Product Data Sheets). From the system's modulus of elasticity per EN 13813, to the pot life of each individual primer and sealer.",
+    "btnSDS": "DOWNLOAD SYSTEM PASSPORTS (SDS)",
+    "btnPDS": "DOWNLOAD PRODUCT PASSPORTS (PDS)"
+  },
+  "blockDoP": {
+    "eyebrow": "COMPLIANCE AND ESG",
+    "title": "DECLARATIONS OF PERFORMANCE (DoP) AND ECOLOGY (EPD)",
+    "description": "The mandatory asset for infrastructure projects and public procurement (B2G). DoP declarations guarantee full compliance with Regulation (EU) No. 305/2011 (CPR). The added Environmental Product Declarations (EPD) per ISO 14025 provide accurate data on the carbon footprint across the full lifecycle (LCA), ensuring maximum credits for LEED v4 and BREEAM certification.",
+    "btnDoP": "DOWNLOAD DoP REGISTER (CE)",
+    "btnEPD": "DOWNLOAD EPD REPORTS (ECO)"
+  },
+  "blockMSDS": {
+    "eyebrow": "HEALTH AND SAFETY",
+    "title": "MATERIAL SAFETY DATA SHEETS (MSDS)",
+    "description": "Safety for the operator and the environment. MSDS sheets provide the full chemical profile, REACH classification and safe handling protocols. GEONYX matrices are VOC-Free and contain no Bisphenol A, making them the benchmark for occupational hygiene.",
+    "btnMSDS": "DOWNLOAD MSDS ARCHIVE"
+  },
+  "blockProtocols": {
+    "eyebrow": "EXECUTION AND CONTROL",
+    "title": "APPLICATION PROTOCOLS (METHOD STATEMENTS)",
+    "description": "Even the best system fails with incorrect application. We don't just give instructions – we provide the tools for construction supervision. Access to technology protocols (Method Statements) and ready-made QA/QC forms for daily site control, required by investor oversight.",
+    "btnMS": "METHOD STATEMENT (MS)",
+    "btnQAQC": "QA/QC FORM (DEW POINT)"
+  },
+  "analyticsSection": {
+    "eyebrow": "TECHNICAL PARAMETERS",
+    "title": "TEST PROTOCOLS AND CHARTS",
+    "card1title": "Chemical Resistance",
+    "card1desc": "List of tested reagents (acids, bases, solvents) per EN 13529. Exposure time and degradation index.",
+    "card1btn": "DOWNLOAD TABLE",
+    "card2title": "Thermodynamics and Friction",
+    "card2desc": "Coefficients of thermal expansion (CTE), thermal shock test results and Böhme wear curves (DIN 52108).",
+    "card2btn": "DOWNLOAD REPORT",
+    "card3title": "Electrical Conductivity",
+    "card3desc": "Surface/volume resistance measurements. Walking Body Voltage reports for clean rooms and ATEX zones.",
+    "card3btn": "DOWNLOAD ESD ANALYSIS"
+  },
+  "lifecycle": {
+    "eyebrow": "MAINTENANCE",
+    "title": "LIFECYCLE MANAGEMENT",
+    "description": "Durability is a function of correct operation. Specialist Maintenance Manuals for facility management teams. Approved cleaning agents, procedures for extreme chemical spills and periodic inspection schedules for industrial floors.",
+    "btn": "DOWNLOAD MAINTENANCE MANUAL"
+  }
+}

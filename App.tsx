@@ -1,7 +1,9 @@
 
-import React, { useEffect, Component, ReactNode } from 'react';
+import React, { lazy, Suspense, useEffect, Component, ReactNode } from 'react';
 import { BrowserRouter, Routes, Route, useLocation, useNavigate, useParams, Outlet } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+
+// Always-needed components (home page + shell)
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { SolutionsGrid } from './components/SolutionsGrid';
@@ -14,34 +16,6 @@ import { IndustriesSection } from './components/IndustriesSection';
 import { ManifestoBanner } from './components/ManifestoBanner';
 import { PilotProjectsSection } from './components/PilotProjectsSection';
 import { EcoSection } from './components/EcoSection';
-import { FoodPharmaPage } from './components/FoodPharmaPage';
-import { HeavyIndustryLogisticsPage } from './components/HeavyIndustryLogisticsPage';
-import { TransportParkingPage } from './components/TransportParkingPage';
-import { AgroBiogasPage } from './components/AgroBiogasPage';
-import { WaterMarinePage } from './components/WaterMarinePage';
-import { EnergyDefensePage } from './components/EnergyDefensePage';
-import { ConstructionArchitecturePage } from './components/ConstructionArchitecturePage';
-import { TechnologyPage } from './components/TechnologyPage';
-import { PilotProjectsPage } from './components/PilotProjectsPage';
-import { AboutUsPage } from './components/AboutUsPage';
-import { CareersPage } from './components/CareersPage';
-import { HseqPage } from './components/HseqPage';
-import { ContactsPage } from './components/ContactsPage';
-import { ArchitecturalZonePage } from './components/ArchitecturalZonePage';
-import { TechnicalMapsPage } from './components/TechnicalMapsPage';
-import { CadBimPage } from './components/CadBimPage';
-import { CertificatesPage } from './components/CertificatesPage';
-import { RequestInspectionPage } from './components/RequestInspectionPage';
-import { PrivacyPolicyPage } from './components/PrivacyPolicyPage';
-import { TermsConditionsPage } from './components/TermsConditionsPage';
-import { DigitalBusinessCard } from './components/DigitalBusinessCard';
-import { ArmorPage } from './components/ArmorPage';
-import { ChemPage } from './components/ChemPage';
-import { ThermPage } from './components/ThermPage';
-import { HydroPage } from './components/HydroPage';
-import { SectorsHubPage } from './components/SectorsHubPage';
-import { SystemsHubPage } from './components/SystemsHubPage';
-import { UrbanHighTechPage } from './components/UrbanHighTechPage';
 import { StructuredData } from './components/StructuredData';
 import { CookieConsent } from './components/CookieConsent';
 import { NotFoundPage } from './components/NotFoundPage';
@@ -51,7 +25,48 @@ import { usePageMeta } from './hooks/usePageMeta';
 import photoGancho from './assets/photo_gancho.jpg';
 import photoIvaylo from './assets/photo_ivaylo.jpg';
 
+// Lazy-loaded pages — each becomes a separate JS chunk
+const lazy$ = <T extends { [k: string]: React.ComponentType<any> }>(
+  loader: () => Promise<T>,
+  name: keyof T
+) => lazy(() => loader().then(m => ({ default: m[name] as React.ComponentType<any> })));
+
+const SectorsHubPage        = lazy$(() => import('./components/SectorsHubPage'),                'SectorsHubPage');
+const SystemsHubPage        = lazy$(() => import('./components/SystemsHubPage'),                'SystemsHubPage');
+const FoodPharmaPage        = lazy$(() => import('./components/FoodPharmaPage'),                'FoodPharmaPage');
+const HeavyIndustryLogisticsPage = lazy$(() => import('./components/HeavyIndustryLogisticsPage'), 'HeavyIndustryLogisticsPage');
+const TransportParkingPage  = lazy$(() => import('./components/TransportParkingPage'),          'TransportParkingPage');
+const AgroBiogasPage        = lazy$(() => import('./components/AgroBiogasPage'),                'AgroBiogasPage');
+const WaterMarinePage       = lazy$(() => import('./components/WaterMarinePage'),               'WaterMarinePage');
+const EnergyDefensePage     = lazy$(() => import('./components/EnergyDefensePage'),             'EnergyDefensePage');
+const ConstructionArchitecturePage = lazy$(() => import('./components/ConstructionArchitecturePage'), 'ConstructionArchitecturePage');
+const UrbanHighTechPage     = lazy$(() => import('./components/UrbanHighTechPage'),             'UrbanHighTechPage');
+const ArmorPage             = lazy$(() => import('./components/ArmorPage'),                     'ArmorPage');
+const ChemPage              = lazy$(() => import('./components/ChemPage'),                      'ChemPage');
+const ThermPage             = lazy$(() => import('./components/ThermPage'),                     'ThermPage');
+const HydroPage             = lazy$(() => import('./components/HydroPage'),                     'HydroPage');
+const TechnologyPage        = lazy$(() => import('./components/TechnologyPage'),                'TechnologyPage');
+const PilotProjectsPage     = lazy$(() => import('./components/PilotProjectsPage'),             'PilotProjectsPage');
+const AboutUsPage           = lazy$(() => import('./components/AboutUsPage'),                   'AboutUsPage');
+const CareersPage           = lazy$(() => import('./components/CareersPage'),                   'CareersPage');
+const HseqPage              = lazy$(() => import('./components/HseqPage'),                      'HseqPage');
+const ContactsPage          = lazy$(() => import('./components/ContactsPage'),                  'ContactsPage');
+const ArchitecturalZonePage = lazy$(() => import('./components/ArchitecturalZonePage'),         'ArchitecturalZonePage');
+const TechnicalMapsPage     = lazy$(() => import('./components/TechnicalMapsPage'),             'TechnicalMapsPage');
+const CadBimPage            = lazy$(() => import('./components/CadBimPage'),                    'CadBimPage');
+const CertificatesPage      = lazy$(() => import('./components/CertificatesPage'),              'CertificatesPage');
+const RequestInspectionPage = lazy$(() => import('./components/RequestInspectionPage'),         'RequestInspectionPage');
+const PrivacyPolicyPage     = lazy$(() => import('./components/PrivacyPolicyPage'),             'PrivacyPolicyPage');
+const TermsConditionsPage   = lazy$(() => import('./components/TermsConditionsPage'),           'TermsConditionsPage');
+const DigitalBusinessCard   = lazy$(() => import('./components/DigitalBusinessCard'),           'DigitalBusinessCard');
+
 const SUPPORTED_LANGS = ['bg', 'en', 'de', 'fr', 'es', 'tr', 'ru', 'el'];
+
+const PageSpinner = () => (
+  <div className="min-h-screen bg-[#050505] flex items-center justify-center">
+    <div className="w-8 h-8 border-2 border-geo-yellow border-t-transparent rounded-full animate-spin" />
+  </div>
+);
 
 class ErrorBoundary extends Component<{ children: ReactNode }, { error: Error | null }> {
   state = { error: null };
@@ -67,7 +82,7 @@ class ErrorBoundary extends Component<{ children: ReactNode }, { error: Error | 
         </div>
       );
     }
-    return this.state.error === null ? this.props.children : null;
+    return this.props.children;
   }
 }
 
@@ -93,11 +108,7 @@ const LangRedirect: React.FC = () => {
     });
   }, []);
 
-  return (
-    <div className="min-h-screen bg-[#050505] flex items-center justify-center">
-      <div className="w-8 h-8 border-2 border-geo-yellow border-t-transparent rounded-full animate-spin" />
-    </div>
-  );
+  return <PageSpinner />;
 };
 
 // Validates :lang param, syncs i18n, renders child routes
@@ -156,89 +167,91 @@ const HomePage = () => {
 function App() {
   return (
     <ErrorBoundary>
-    <BrowserRouter>
-      <StructuredData />
-      <CookieConsent />
-      <Routes>
-        {/* Root: detect language and redirect */}
-        <Route path="/" element={<LangRedirect />} />
+      <BrowserRouter>
+        <StructuredData />
+        <CookieConsent />
+        <Suspense fallback={<PageSpinner />}>
+          <Routes>
+            {/* Root: detect language and redirect */}
+            <Route path="/" element={<LangRedirect />} />
 
-        {/* Language-prefixed routes */}
-        <Route path="/:lang" element={<LangLayout />}>
-          <Route index element={<HomePage />} />
-          <Route path="sectors" element={<SectorsHubPage />} />
-          <Route path="systems" element={<SystemsHubPage />} />
+            {/* Language-prefixed routes */}
+            <Route path="/:lang" element={<LangLayout />}>
+              <Route index element={<HomePage />} />
+              <Route path="sectors" element={<SectorsHubPage />} />
+              <Route path="systems" element={<SystemsHubPage />} />
 
-          {/* Sector pages */}
-          <Route path="food-industry" element={<FoodPharmaPage />} />
-          <Route path="heavy-industry" element={<HeavyIndustryLogisticsPage />} />
-          <Route path="infrastructure" element={<TransportParkingPage />} />
-          <Route path="agriculture" element={<AgroBiogasPage />} />
-          <Route path="water-marine" element={<WaterMarinePage />} />
-          <Route path="energy-defense" element={<EnergyDefensePage />} />
-          <Route path="construction" element={<ConstructionArchitecturePage />} />
-          <Route path="urban-hightech" element={<UrbanHighTechPage />} />
+              {/* Sector pages */}
+              <Route path="food-industry" element={<FoodPharmaPage />} />
+              <Route path="heavy-industry" element={<HeavyIndustryLogisticsPage />} />
+              <Route path="infrastructure" element={<TransportParkingPage />} />
+              <Route path="agriculture" element={<AgroBiogasPage />} />
+              <Route path="water-marine" element={<WaterMarinePage />} />
+              <Route path="energy-defense" element={<EnergyDefensePage />} />
+              <Route path="construction" element={<ConstructionArchitecturePage />} />
+              <Route path="urban-hightech" element={<UrbanHighTechPage />} />
 
-          {/* System pages */}
-          <Route path="armor" element={<ArmorPage />} />
-          <Route path="chem" element={<ChemPage />} />
-          <Route path="therm" element={<ThermPage />} />
-          <Route path="hydro" element={<HydroPage />} />
+              {/* System pages */}
+              <Route path="armor" element={<ArmorPage />} />
+              <Route path="chem" element={<ChemPage />} />
+              <Route path="therm" element={<ThermPage />} />
+              <Route path="hydro" element={<HydroPage />} />
 
-          {/* Info pages */}
-          <Route path="technology" element={<TechnologyPage />} />
-          <Route path="references" element={<PilotProjectsPage />} />
-          <Route path="about" element={<AboutUsPage />} />
-          <Route path="careers" element={<CareersPage />} />
-          <Route path="hseq" element={<HseqPage />} />
-          <Route path="contacts" element={<ContactsPage />} />
+              {/* Info pages */}
+              <Route path="technology" element={<TechnologyPage />} />
+              <Route path="references" element={<PilotProjectsPage />} />
+              <Route path="about" element={<AboutUsPage />} />
+              <Route path="careers" element={<CareersPage />} />
+              <Route path="hseq" element={<HseqPage />} />
+              <Route path="contacts" element={<ContactsPage />} />
 
-          {/* Technical resources */}
-          <Route path="architectural" element={<ArchitecturalZonePage />} />
-          <Route path="technical-maps" element={<TechnicalMapsPage />} />
-          <Route path="cad-bim" element={<CadBimPage />} />
-          <Route path="certificates" element={<CertificatesPage />} />
-          <Route path="request-inspection" element={<RequestInspectionPage />} />
+              {/* Technical resources */}
+              <Route path="architectural" element={<ArchitecturalZonePage />} />
+              <Route path="technical-maps" element={<TechnicalMapsPage />} />
+              <Route path="cad-bim" element={<CadBimPage />} />
+              <Route path="certificates" element={<CertificatesPage />} />
+              <Route path="request-inspection" element={<RequestInspectionPage />} />
 
-          {/* Legal */}
-          <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
-          <Route path="terms-conditions" element={<TermsConditionsPage />} />
+              {/* Legal */}
+              <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
+              <Route path="terms-conditions" element={<TermsConditionsPage />} />
 
-          {/* 404 inside lang group */}
-          <Route path="*" element={<NotFoundPage />} />
-        </Route>
+              {/* 404 inside lang group */}
+              <Route path="*" element={<NotFoundPage />} />
+            </Route>
 
-        {/* Digital business cards — language-independent */}
-        <Route
-          path="/furnadjiev"
-          element={
-            <DigitalBusinessCard
-              name="ГАНЧО ФУРНАДЖИЕВ"
-              title="ИЗПЪЛНИТЕЛЕН ДИРЕКТОР"
-              phone="+359 897 0000 11"
-              email="furnadjiev@geonyxgroup.com"
-              photoUrl={photoGancho}
-              linkedinUrl="https://www.linkedin.com/in/furnadjiev"
+            {/* Digital business cards — language-independent */}
+            <Route
+              path="/furnadjiev"
+              element={
+                <DigitalBusinessCard
+                  name="ГАНЧО ФУРНАДЖИЕВ"
+                  title="ИЗПЪЛНИТЕЛЕН ДИРЕКТОР"
+                  phone="+359 897 0000 11"
+                  email="furnadjiev@geonyxgroup.com"
+                  photoUrl={photoGancho}
+                  linkedinUrl="https://www.linkedin.com/in/furnadjiev"
+                />
+              }
             />
-          }
-        />
-        <Route
-          path="/koev"
-          element={
-            <DigitalBusinessCard
-              name="ИВАЙЛО КОЕВ"
-              title="ИЗПЪЛНИТЕЛЕН ДИРЕКТОР"
-              phone="+359 89 43 43 990"
-              email="koev@geonyxgroup.com"
-              photoUrl={photoIvaylo}
+            <Route
+              path="/koev"
+              element={
+                <DigitalBusinessCard
+                  name="ИВАЙЛО КОЕВ"
+                  title="ИЗПЪЛНИТЕЛЕН ДИРЕКТОР"
+                  phone="+359 89 43 43 990"
+                  email="koev@geonyxgroup.com"
+                  photoUrl={photoIvaylo}
+                />
+              }
             />
-          }
-        />
 
-        {/* Catch-all: 404 */}
-        <Route path="*" element={<NotFoundPage />} />
-      </Routes>
-    </BrowserRouter>
+            {/* Catch-all: 404 */}
+            <Route path="*" element={<NotFoundPage />} />
+          </Routes>
+        </Suspense>
+      </BrowserRouter>
     </ErrorBoundary>
   );
 }

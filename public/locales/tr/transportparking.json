@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "GEONYX | Ulaşım, Otoparklar, Garajlar & Trafik – Endüstriyel Zemin Kaplamaları R12/R13",
+    "description": "GEONYX, ulaşım altyapısı, yeraltı ve üst kat otoparkları, R12/R13 rampalar, garajlar ve trafik bölgeleri için derzssiz mineral zemin sistemleri tasarlar – lastik, tuz, buz çözücü, yağ, su ve yoğun trafiğe karşı dayanıklı."
+  },
+  "hero": {
+    "tag": "ULAŞIM, OTOPARKLAR VE GARAJLAR",
+    "title_line1": "TUZLARA, TRAFİĞE",
+    "title_line2": "VE KARBONATLAŞMAya KARŞI KORUMA",
+    "description": "Otoparklar ve garajlar şehrin 'akciğerleri'dir; ancak içlerindeki beton buz çözücüler, CO₂ ve yoğun aşınmadan saldırı altındadır. GEONYX uzun süreli koruma için sertifikalı OS 8 ve OS 11 sistemleri sunar.",
+    "btn_catalog": "OS 8 / OS 11 KATALOĞU İNDİR",
+    "btn_inspection": "OTOPARK İNCELEMESİ TALEP ET",
+    "scope_title": "KAPSAM",
+    "scope_zones_label": "BÖLGELER:",
+    "scope_systems_label": "SİSTEMLER:",
+    "nav_applications": "↓ NEREDE KULLANILIR",
+    "nav_system_selection": "↓ SİSTEM SEÇİMİ",
+    "nav_offer_package": "↓ TEKLİF PAKETİ",
+    "zones": [
+      "Çok katlı otoparklar (yerüstü ve yeraltı)",
+      "Alışveriş merkezi ve ofislerdeki yeraltı garajları",
+      "Yükleme, boşaltma ve garaj erişim rampaları",
+      "Perakende zinciri ve alışveriş parkı otoparkları",
+      "Lojistik üslerinin otopark ve manevra bölgeleri",
+      "Endüstriyel bölgelerdeki iç yollar ve servis yolları",
+      "Taksi, teslimat ve kısa süreli park bölgeleri (bırak-al)",
+      "Otobüs terminalleri ve P+R bölgeleri",
+      "Konut komplekslerindeki giriş yolları ve iç yollar",
+      "Yoğun frenleme ve dönüş bölgeleri (rampalar, döner kavşaklar, bariyerler)"
+    ]
+  },
+  "manifesto": {
+    "title_line1": "KLORÜRLER",
+    "title_line2": "BETONUN SESİZ KATİLİDİR.",
+    "text": "Kışın araçlar tonlarca tuz (buz çözücü) otoparka taşır. Çözünen klorürler beton gözeneklerinden sızar, donatıya ulaşır ve levhayı içten patlatan korozyona yol açar. GEONYX HYDRO bu süreci geçirimsiz membranlarla durdururken, ARMOR lastik aşınmasını absorbe eder."
+  },
+  "blocks": {
+    "problem_label": "SORUN:",
+    "solution_label": "ÇÖZÜM:",
+    "suitable_systems": "Uygun sistemler:",
+    "b1": {
+      "badge": "Yoğun yükleme",
+      "title": "ARA KATlar VE YOĞUN TRAFİK",
+      "problem": "Otopark ara katlarında donma riski olmasa da son derece yüksek lastik aşınması ve yerel kimyasal saldırılar (yağlar, yakıtlar) vardır. Beton tozlanmaya başlar, lekeler kalıcı hale gelir ve yüzey düzensiz şekilde aşınır.",
+      "solution": "Sert, mekanik dayanımlı yüzey için GEONYX ARMOR mineral sistemi. Betonu mühürler, toz yayılımını azaltır ve yağ ile yakıtlara karşı korur; yoğun trafik altında kaymaz performans (R11/R12) ve uzun hizmet ömrü sağlar.",
+      "systems": "ARMOR"
+    },
+    "b2": {
+      "badge": "Su ve iklim",
+      "title": "AÇIK VE ÇATI OTOPARKLARI",
+      "problem": "Açık katlarda ve çatı otoparklarında sıcaklık farkları (kış/yaz) levhada daralma ve genleşmeye yol açar. Su, buz çözücüler ve tuzların sızıp betonu ve donatıyı tahrip ettiği dinamik çatlaklar oluşur.",
+      "solution": "Ara membran katmanıyla elastik su yalıtım sistemi GEONYX HYDRO, -20°C'de 0,3 mm'ye kadar çatlakları köprüler. Zemin hareketi altında su geçirmez kalır ve yapıyı su, tuz ve buz çözücü girişine karşı korur.",
+      "systems": "HYDRO"
+    },
+    "b3": {
+      "badge": "Maksimum tutuş",
+      "title": "RAMPALAR VE EĞİMLİ YAKLAŞIMLAR",
+      "problem": "Rampalar en çok zorlanan bölgelerdir – fren, hız, keskin virajlar. Yağmur, kar veya buzda beton kayganlaşır, araçlar patinat ve yüzey viraj ve frenleme bölgelerinde en hızlı aşınır.",
+      "solution": "Güçlendirilmiş aşınma direnci ve R13 kaymaz sınıfıyla özel konfigürasyonlu GEONYX ARMOR. Sert mineral agregalar (korund/bazalt) yoğun manevralarda lastik kesme kuvvetlerine dayanan 'lastik üstü lastik' tutuşu sağlar.",
+      "systems": "ARMOR"
+    },
+    "b4": {
+      "badge": "Ağır yük trafiği",
+      "title": "TIR BÖLGELERİ VE YÜKLEME RAMPALARI",
+      "problem": "Yükleme rıhtımı bölgelerinde, dış platformlarda ve servis yollarında ağır kamyonlar desteklere aşırı statik yükler ve manevra sırasında dinamik kesme kuvvetleri oluşturur. Standart kaplamalar derz ve destek bölgelerinde çöker.",
+      "solution": "100 MPa'nın üzerinde temas basınçları için tasarlanmış ağır hizmet konfigürasyonu GEONYX ARMOR HEAVY DUTY. Sistem kamyon ve römork ağırlıkları altında deforme olmaz; derzler sert endüstriyel tekerlekler için özel olarak güçlendirilir ve şekillendirilir.",
+      "systems": "ARMOR"
+    },
+    "b5": {
+      "badge": "Navigasyon ve güvenlik",
+      "title": "İŞARETLEME VE GÖRSEL TASARIM",
+      "problem": "Büyük otoparklarda ve ulaşım merkezlerinde kalıcı ve net işaretleme eksikliği trafik kaosu, sürücü kargaşası ve artan kaza riskine yol açar. Sıradan yol boyası lastikler ve manevralar altında aylar içinde silinir.",
+      "solution": "GEONYX ARMOR ile zemine entegre işaretleme – renkli bölgeleme, oklar, yaya geçitleri ve işaretler üstüne boyamak yerine sistemin içine gömülür. UV dayanımlı pigmentler ve mineral matris kalıcı görünürlük ve daha yüksek güvenlik garanti eder.",
+      "systems": "ARMOR"
+    },
+    "b6": {
+      "badge": "ELEKTRİKLİ ARAÇ",
+      "title": "EV BÖLGELERİ VE HIZLI ŞARJ",
+      "problem": "EV şarj istasyonları ağır araçları, batarya sıcaklık yüklerini, bakım yağlarını ve yerel kimyasal saldırıları yoğunlaştırır. Standart beton ankrajlar ve kablo kanalları etrafında çatlar.",
+      "solution": "Yüksek mekanik mukavemet ve elektrolit ile yağlara karşı dirençli GEONYX ARMOR + CHEM sistemi. Yüzey ankrajlar ve ekipman çevresinde stabil kalır, kalıcı güvenlik ve düşük bakım sağlar.",
+      "systems": "ARMOR, CHEM"
+    }
+  },
+  "roi": {
+    "section_tag": "ROI ANALİZİ",
+    "section_title": "YATIRIM DENETİMİ",
+    "col_param": "PARAMETRE",
+    "col_geonyx": "GEONYX",
+    "col_standard": "Standart beton / şap",
+    "col_bitumen": "Bitümlü / polimer kaplama",
+    "rows": [
+      {
+        "param": "İklim direnci (UV, yağmur, sıcaklıklar)",
+        "geonyx": "Yüksek – mineral matris, HYDRO/THERM koruması",
+        "standard": "Orta – çatlaklar ve eflorescens",
+        "alt": "Orta – yaşlanma, sararma ve çatlama"
+      },
+      {
+        "param": "Mekanik aşınma direnci",
+        "geonyx": "Yüksek – darbe, sürtünme ve trafik için ARMOR",
+        "standard": "Orta – dökülme ve toz",
+        "alt": "Başlangıçta iyi, hızlı yüzey aşınması"
+      },
+      {
+        "param": "Kimyasal direnç (temizlik, yakıtlar)",
+        "geonyx": "Yüksek – CHEM konfigürasyonu",
+        "standard": "Sınırlı – temizlik maddelerine hassasiyet",
+        "alt": "Kimyaya bağlı, şişme ve leke riski"
+      },
+      {
+        "param": "Su yalıtımı ve alt katlara sızıntı",
+        "geonyx": "Sistemik HYDRO mantığı",
+        "standard": "Kısmi çözümler, pek çok detay zayıflığı",
+        "alt": "Organik membranlara bağımlılık"
+      },
+      {
+        "param": "Estetik ve zamanla 'mineral görünüm'",
+        "geonyx": "Korunan mineral görünüm, düşük toz",
+        "standard": "Eşit olmayan yaşlanma ve lekeler",
+        "alt": "Çizik ve kusurları öne çıkaran parlaklık"
+      },
+      {
+        "param": "Bakım ve onarım",
+        "geonyx": "Yerel REPAIR ve bölgesel sistem yenilemeleri",
+        "standard": "Zor kısmi onarımlar, sık tam değişim",
+        "alt": "Yaşlanmayla sık yeniden kaplama"
+      },
+      {
+        "param": "Toplam yaşam döngüsü maliyeti",
+        "geonyx": "10–15+ yıl için optimize edilmiş",
+        "standard": "Düşük başlangıç, yüksek uzun vadeli",
+        "alt": "Orta, erken yaşlanma riski"
+      }
+    ]
+  },
+  "applications": {
+    "section_tag": "UYGULAMALAR",
+    "section_title": "NEREDE KULLANILIR",
+    "section_desc": "GEONYX hem kentsel sahneyi hem de yüksek teknolojili tesisleri kapsar – kaykay parkından temiz odaya kadar.",
+    "items": [
+      { "id": "underground", "title": "Yeraltı otoparkları", "desc": "Alışveriş merkezleri, ofis binaları ve konut kompleksleri." },
+      { "id": "rooftop", "title": "Açık katlar (Çatı)", "desc": "Atmosferik koşullara maruz çatı otoparkları." },
+      { "id": "ramps", "title": "Rampalar ve spiraller", "desc": "Yüksek tutuş gerektiren eğimli bölgeler." },
+      { "id": "logistics", "title": "Lojistik terminaller", "desc": "Yükleme ve kamyon manevra bölgeleri." },
+      { "id": "airports", "title": "Havalimanları ve hangarlar", "desc": "Servis bölgeleri, taksi yolları ve garajlar." },
+      { "id": "bridges", "title": "Köprüler ve viyadükler", "desc": "Yol döşemesinin su yalıtımı ve korunması." },
+      { "id": "autoservice", "title": "Araç servisleri", "desc": "Yağlar, yakıtlar ve ağır aletlerin bulunduğu bölgeler." },
+      { "id": "tunnels", "title": "Tüneller", "desc": "Yansıtıcı ve yanmaz kaplamalar." }
+    ]
+  },
+  "systems": {
+    "section_tag": "TEKNOLOJİ",
+    "section_title": "GEONYX SİSTEM SEÇİMİ",
+    "items": [
+      { "id": "armor", "name": "GEONYX ARMOR", "desc": "Kapalı otoparklar, garajlar ve depolar için sert sistem. Yüksek aşınma ve kimyasal direnç." },
+      { "id": "hydro", "name": "GEONYX HYDRO", "desc": "Açık otoparklar ve çatılar için elastik sistem. Çatlakları köprüler ve sızıntıları durdurur." },
+      { "id": "chem", "name": "GEONYX CHEM", "desc": "Yakıt, yağ ve akü asidi dökülmeli özel bölgeler için." },
+      { "id": "repair", "name": "GEONYX REPAIR", "desc": "Kaplama uygulamasından önce çukurlar, kopan kenarlar ve derzlerin onarımı için hızlı çözümler." }
+    ]
+  },
+  "workflow": {
+    "section_tag": "SÜREÇ",
+    "section_title": "UYGULAMA SÜRECİ",
+    "steps": [
+      { "id": "s1", "step": "01", "title": "Fonksiyon ve trafik analizi", "desc": "Senaryoların incelenmesi – kentsel ortam, kamusal erişim, yüksek teknoloji bölgeleri, ESD/clean gereksinimleri." },
+      { "id": "s2", "step": "02", "title": "Riske göre bölgeleme", "desc": "Sitenin bölgelere ayrılması: dış alanlar, iç kamusal bölgeler, yüksek teknoloji, laboratuvarlar, hangarlar." },
+      { "id": "s3", "step": "03", "title": "GEONYX sistem seçimi", "desc": "Her bölge için açıkça tanımlanmış parametrelerle ARMOR / HYDRO / CHEM / THERM kombinasyonu." },
+      { "id": "s4", "step": "04", "title": "Detaylar ve test bölgeleri", "desc": "Derzlerde, kenarlarda, cephelerde, süzgeçlerde ve gerektiğinde test kesitlerinde detay tasarımı." },
+      { "id": "s5", "step": "05", "title": "Aşamalı uygulama", "desc": "Sitenin mümkün olan yerlerde kısmen işlevsel kalacağı şekilde iş organizasyonu." },
+      { "id": "s6", "step": "06", "title": "Kontrol ve eğitim", "desc": "Son kontrol, dokümantasyon ve bakım, temizlik ve gelecekteki REPAIR müdahaleleri için talimatlar." }
+    ]
+  },
+  "offer": {
+    "section_tag": "TİCARİ DOKÜMANTASYON",
+    "section_title": "TEKLİF PAKETİ (B2B / B2G)",
+    "section_desc": "Belediyeler, yatırımcılar, mimarlar ve yüksek teknoloji tesis operatörleri için GEONYX ihale, yarışma ve dahili onay için eksiksiz bir paket hazırlar.",
+    "quality_title": "KALİTE GARANTİSİ",
+    "quality_desc": "Tüm belgeler güncel Eurokodlar ve standartlarla uyumludur.",
+    "copy_btn": "İHALE METNİNİ KOPYALA",
+    "copy_success": "METİN KOPYALANDI!",
+    "tender_text": "Otoparklarda, garajlarda ve rampalardaki zemin kaplamaları EN 1504-2'ye göre beton yüzey koruma sistemleriyle yapılacaktır. Ara katlar ve rampalar için: OS 8 sınıfı sistem (sert, trafik dayanımlı). Açık katlar ve çatlak bölgeleri için: OS 11a/b sınıfı sistem (elastik, çatlak köprüleyen). Sistemler klorüre (buz çözücü), yakıt ve yağa karşı dayanıklı olmalı, kanıtlanmış tutunma özelliğine sahip olmalı ve yangın reaksiyon sınıfı Bfl-s1 veya daha yüksek olmalıdır.",
+    "items": [
+      "Kentsel ve yüksek teknoloji alanlarının fonksiyon ve riske göre bölgelenmesi",
+      "ARMOR / HYDRO / CHEM / THERM için bölgesel teknik özellikler",
+      "Derzler, kenarlar, cepheler, teraslar ve yeraltı bağlantıları için detaylar",
+      "Tam site kapanışı olmaksızın uygulama senaryosu önerisi",
+      "Temizlik, kimya ve yangın güvenliği gereksinimleri",
+      "Garanti koşulları ve muayene ve yerel onarım planı"
+    ]
+  },
+  "docs": {
+    "section_title": "Dokümantasyon",
+    "items": [
+      { "id": "d1", "title": "Parking Systems Guide", "subtitle": "OS 8 / OS 11 (PDF)" },
+      { "id": "d2", "title": "Maintenance Manual", "subtitle": "Otopark bakımı (PDF)" },
+      { "id": "d3", "title": "Color Chart", "subtitle": "Renkler ve işaretleme (PDF)" },
+      { "id": "d4", "title": "Aviation & High-Tech Floors", "subtitle": "Teknik gereksinimler (PDF)" }
+    ]
+  },
+  "faq": {
+    "section_title": "Sıkça Sorulan Sorular",
+    "items": [
+      {
+        "id": "f1",
+        "question": "TİPİK BİR REÇİNE ZEMİN YERİNE 'MİNERAL GÖRÜNÜM' KORUYABİLİR MİYİZ?",
+        "answer": "Evet. GEONYX sistemleri mineraldir ve yüksek aşınma direnci ve koruma ile 'mineral look' sağlar. Renk ve doku, mimari konsepte göre projede belirlenir."
+      },
+      {
+        "id": "f2",
+        "question": "SİSTEMLER ESD VE TEMİZ ODA GEREKSİNİMLERİNE UYGUN MU?",
+        "answer": "Belirli ARMOR ve CHEM konfigürasyonları, temiz oda protokolleriyle uyumlu pürüzsüz, kolay temizlenebilir yüzeyle kontrollü ESD parametrelerinde sunulabilir."
+      },
+      {
+        "id": "f3",
+        "question": "KAMUSAL VE YÜKSEK TEKNOLOJİLİ BİNALARDA YANGIN DURUMUNDA ZEMİNLER NASIL DAVRANIR?",
+        "answer": "THERM konfigürasyonları, yangın davranışı uygun olan yanmaz mineral sistemlere dayanır; spesifik sınıflar yönetmeliklere ve projeye göre belirlenir."
+      }
+    ]
+  },
+  "cta": {
+    "title": "KAPSAMLI SİTE BÖLGELEMESİ",
+    "desc": "Her sitenin kendine özgü riskleri vardır. Mekanik, kimya ve termal şoktan su yalıtımı, antistatik ve mimariye kadar 6 özel matrisi tek bir sistemde entegre ediyoruz.",
+    "btn": "TÜM MÜHENDİSLİK SİSTEMLERİNİ GÖR"
+  }
+}

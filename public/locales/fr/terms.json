@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Conditions Générales | GEONYX GROUP",
+    "description": "Conditions générales d'utilisation de GEONYX GROUP LTD pour l'utilisation du site web et la fourniture de services d'ingénierie."
+  },
+  "header": {
+    "eyebrow": "PROTOCOLE JURIDIQUE 08",
+    "title": "CONDITIONS GÉNÉRALES ET GARANTIES",
+    "subtitle": "RÈGLEMENT D'EXÉCUTION, DE QUALITÉ ET DE RESPONSABILITÉ."
+  },
+  "block1": {
+    "title": "CADRE FINANCIER ET PROPRIÉTÉ",
+    "validity_label": "Validité :",
+    "validity": "Les devis sont valables 30 jours calendaires. Au-delà, ils sont soumis à recalcul selon les prix des produits chimiques.",
+    "payment_label": "Plan de paiement :",
+    "payment": "50% Acompte (Démarrage) / 40% Livraison des matériaux / 10% Réception.",
+    "retention_label": "Réserve de propriété :",
+    "retention": "Le revêtement posé et les matériaux incorporés restent la propriété de \"GEONYX GROUP\" SARL jusqu'au paiement de 100% du montant dû. En cas de non-paiement, l'Entrepreneur conserve le droit de déposer ou d'enlever chimiquement le système."
+  },
+  "block2": {
+    "title": "SUPPORT ET DÉFAUTS CACHÉS",
+    "critical": "(Critique !)",
+    "note": "La responsabilité de la qualité du support béton incombe entièrement au Maître d'ouvrage.",
+    "requirements_label": "Exigences :",
+    "requirements": "Béton de classe minimum C20/25, humidité inférieure à 4%, surface plane.",
+    "exclusion_title": "Exclusion de responsabilité :",
+    "exclusion_intro": "\"GEONYX GROUP\" SARL ne peut être tenue responsable des défauts résultant de :",
+    "li1": "L'absence d'imperméabilisation et l'apparition d'humidité capillaire (remontante) du sol.",
+    "li2": "Des fissures structurelles du bâtiment ou le tassement des fondations.",
+    "li3": "Des poches d'huile cachées dans la profondeur de l'ancien béton."
+  },
+  "block3": {
+    "title": "LIMITES D'EXPLOITATION",
+    "intro": "La garantie est valable uniquement dans le respect des normes d'exploitation définies.",
+    "li1_label": "Chimie et Température :",
+    "li1": "La garantie ne couvre que les produits chimiques et les températures explicitement décrits dans le Cahier des Charges Technique.",
+    "li2_label": "Choc Mécanique :",
+    "li2": "Les dommages causés par des objets tombants, le glissement de palettes ou la circulation non autorisée d'engins lourds ne font pas l'objet du service de garantie."
+  },
+  "block4": {
+    "title": "PROPRIÉTÉ INTELLECTUELLE",
+    "body": "Toutes les formulations (GEONYX® Formulas), les fiches de procédés et les méthodes d'application sont des secrets commerciaux et la propriété intellectuelle de \"GEONYX GROUP\" SARL. Toute tentative d'analyse chimique (Reverse Engineering) ou de copie de la technologie sera poursuivie avec toute la rigueur de la loi."
+  },
+  "block5": {
+    "title": "DÉLAIS ET FORCE MAJEURE",
+    "body": "Le temps de polymérisation technologique est de 24 heures (à 20°C). L'entrée sur le chantier avant ce délai annule la garantie. Les délais d'exécution sont suspendus à des températures inférieures à +5°C ou une humidité de l'air supérieure à 80%, afin de garantir la qualité de la réaction."
+  },
+  "footer": {
+    "note": "Les conditions générales acceptées font partie intégrante du Contrat de travaux. Pour contacter le service juridique :"
+  }
+}

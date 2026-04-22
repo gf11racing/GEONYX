@@ -1,0 +1,14 @@
+{
+  "pilot": {
+    "eyebrow": "PROYECTOS REALIZADOS",
+    "title": "INSTALACIONES DE REFERENCIA",
+    "body": "Desde los hangares de Lufthansa hasta las cubas de ácido de Aurubis. Consulte nuestros estudios de caso (Case Studies) y vea cómo Geonyx resuelve los problemas donde el hormigón convencional falla.",
+    "btn": "VER PROYECTOS REALIZADOS"
+  },
+  "technology": {
+    "eyebrow": "INGENIERÍA I+D",
+    "title": "CENTRO TÉCNICO",
+    "body": "No vertemos simplemente hormigón — diseñamos matrices moleculares. Visite nuestra biblioteca para acceder a Fichas Técnicas (TDS), certificados HSEQ y análisis de laboratorio para cumplimiento con EN 206.",
+    "btn": "A LA BIBLIOTECA TÉCNICA"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "GEONYX | Soluciones Geopolímeras Industriales",
+    "description": "Matrices geopolímeras de alta tecnología para infraestructuras críticas e industria pesada. Ingeniería más allá de los límites del hormigón."
+  },
+  "hero": {
+    "eyebrow": "INNOVACIONES INDUSTRIALES",
+    "titleLine1": "SOLUCIONES",
+    "titleLine2": "GEOPOLIMÉRICAS",
+    "titleLine3": "INDUSTRIALES",
+    "description": "Desarrollamos materiales avanzados para la industria pesada, infraestructura y minería.",
+    "descriptionBold": "Resistencia garantizada a ácidos, fuego y el tiempo.",
+    "btnSectors": "SECTORES INDUSTRIALES",
+    "btnTech": "ESPECIFICACIONES TÉCNICAS",
+    "statChemistry": "QUÍMICA",
+    "statStrength": "RESISTENCIA",
+    "statFire": "FUEGO",
+    "statEco": "ECO",
+    "fireClass": "Clase A1"
+  },
+  "manifesto": {
+    "title": "Ingeniería",
+    "titleHighlight": "más allá del concreto",
+    "body": "Los revestimientos estándar son el eslabón débil de la industria. Creamos una armadura monolítica y químicamente resistente que aguanta donde el hormigón ordinario y el epoxi fallan."
+  },
+  "eco": {
+    "eyebrow": "SOSTENIBILIDAD & NORMAS",
+    "titleLine1": "DESCARBONIZACIÓN",
+    "titleLine2": "INDUSTRIAL & ESG",
+    "subtitle": "Reduzca su huella de carbono hasta un 80% y cumpla los requisitos del Pacto Verde Europeo.",
+    "body": "Una solución de infraestructura sostenible que transforma la construcción industrial en un activo ecológico.",
+    "col1Title": "ECONOMÍA CIRCULAR",
+    "col1Body": "Transformamos subproductos industriales (escoria, cenizas) en composites de alta resistencia.",
+    "col2Title": "ENTORNO SEGURO (HSEQ)",
+    "col2Body": "Cero emisiones de compuestos orgánicos volátiles (sin COV). Seguro para espacios cerrados e industria alimentaria.",
+    "col3Title": "PROCESO BAJO EN CARBONO",
+    "col3Body": "Síntesis en frío sin cocción de clinker. Ahorra toneladas de emisiones de CO2 por metro cuadrado."
+  },
+  "trustbridge": {
+    "eyebrow": "SOCIO TECNOLÓGICO",
+    "titleLine1": "INGENIERÍA",
+    "titleHighlight": "INTEGRAL",
+    "body": "No somos simples contratistas, sino un socio tecnológico. Proporcionamos un ciclo completo: desde el análisis de laboratorio y el diseño hasta la implementación de sistemas de protección.",
+    "btn": "VER NUESTRAS LICENCIAS"
+  },
+  "systems": {
+    "armor": {
+      "label": "MECÁNICA EXTREMA",
+      "desc": "Matrices geopoliméricas blindadas para industria pesada, complejos militaro-industriales y logística de almacén a gran escala.",
+      "badge": "> 110 MPa RESISTENCIA"
+    },
+    "chem": {
+      "label": "PROTECCIÓN QUÍMICA",
+      "desc": "Inmunidad mineral absoluta contra ácidos concentrados, bases y solventes agresivos. Certificado WHG.",
+      "badge": "pH 1-14 RESISTENCIA"
+    },
+    "therm": {
+      "label": "SEGURIDAD TÉRMICA",
+      "desc": "Sistemas incombustibles diseñados para resistir derrames de metal fundido, fuego y choque térmico cíclico.",
+      "badge": "CLASE A1fl / 1200°C"
+    },
+    "hydro": {
+      "label": "INGENIERÍA HIDRÁULICA E INFRAESTRUCTURA",
+      "desc": "Barreras impermeables para presas, plantas de tratamiento y puertos. Colocación y curado subacuático disponible.",
+      "badge": "W20 / REPARACIÓN SUBMARINA"
+    }
+  },
+  "solutions": {
+    "s1": {
+      "eyebrow": "TECNOLOGÍA",
+      "title": "GEONYX® MATRIX",
+      "solutionLabel": "SOLUCIÓN",
+      "body": "Nuestra matriz geopolimérica patentada es un escudo universal. Aplicable a balsas de estériles, tanques químicos, hangares y túneles. Resistencia a pH 1-14 y temperaturas superiores a 1000°C.",
+      "btn": "ESPECIFICACIONES TÉCNICAS",
+      "badge": "Innovación"
+    },
+    "s2": {
+      "eyebrow": "CUMPLIMIENTO",
+      "title": "NORMAS & CERTIFICACIÓN",
+      "solutionLabel": "SOLUCIÓN",
+      "body": "Trabajamos estrictamente según BDS EN 206 e ISO 9001. Cada sistema viene con un pasaporte técnico completo, plan de seguridad HSEQ y garantía para auditorías públicas y corporativas.",
+      "btn": "VER CERTIFICADOS",
+      "badge": "ISO / BDS"
+    },
+    "s3": {
+      "eyebrow": "INGENIERÍA",
+      "title": "DISEÑO Y AUDITORÍA",
+      "solutionLabel": "SOLUCIÓN",
+      "body": "Solicite una evaluación experta de sus instalaciones y preparación de presupuesto. Nuestros ingenieros realizan un análisis detallado del estado y proponen soluciones optimizadas para una protección duradera.",
+      "btn": "SOLICITAR AUDITORÍA",
+      "badge": "Diseño"
+    }
+  }
+}
