@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "GEONYX | Welches System ist das Richtige für Sie?",
+    "description": "Interaktiver Konfigurator – beantworten Sie 4 Fragen und finden Sie heraus, welches GEONYX-System (ARMOR, CHEM, THERM, HYDRO) für Ihre Anlage optimal ist."
+  },
+  "eyebrow": "KONFIGURATOR",
+  "title": "WELCHES GEONYX-SYSTEM IST DAS RICHTIGE FÜR SIE?",
+  "subtitle": "4 Fragen. Ingenieurempfehlung.",
+  "progress": "FRAGE {{current}} VON {{total}}",
+  "back": "ZURÜCK",
+  "restart": "NEU STARTEN",
+  "q1": {
+    "text": "Für welchen Anlagentyp planen Sie?",
+    "a1": "Logistikzentrum / Lager",
+    "a2": "Produktion / Maschinenfabrik",
+    "a3": "Lebensmittel & Pharma",
+    "a4": "Chemieanlage / Raffinerie",
+    "a5": "Gießerei / Ofen / Thermoprozess",
+    "a6": "Unterirdisch / Keller / Nassbereich",
+    "a7": "Werkstatt / Wartungsanlage"
+  },
+  "q2": {
+    "text": "Was ist die Hauptbelastung des Bodens?",
+    "a1": "Extreme mechanische (Gabelstapler, Kräne, VNA-Gänge)",
+    "a2": "Chemisch (Öle, Säuren, Lösungsmittel)",
+    "a3": "Thermisch (Öfen, Funken, heißer Gummi)",
+    "a4": "Feuchtigkeit (Grundwasser, hydrostatischer Druck)",
+    "a5": "Kombiniert (mechanisch + chemisch)"
+  },
+  "q3": {
+    "text": "Was ist das Hauptproblem oder -risiko?",
+    "a1": "Staub und schneller Oberflächenverschleiß",
+    "a2": "Chemischer Angriff / Korrosion / Kontamination",
+    "a3": "Thermische Rissbildung / Hitzeschäden",
+    "a4": "Wasseraustritt / Kapillarfeuchte",
+    "a5": "Planung einer neuen Anlage (kein aktuelles Problem)"
+  },
+  "q4": {
+    "text": "Gibt es besondere Anforderungen?",
+    "a1": "Antistatischer Boden (ESD-Schutz)",
+    "a2": "Hygienische Oberflächen (HACCP / FDA / GMP)",
+    "a3": "Brandschutz / Funkenresistenz",
+    "a4": "Abdichtung / Feuchtigkeitssperre",
+    "a5": "Superflacher Boden (VNA-Gänge / Robotik)",
+    "a6": "Keine besonderen Anforderungen"
+  },
+  "result": {
+    "title": "INGENIEUREMPFEHLUNG",
+    "primary": "PRIMÄRSYSTEM",
+    "secondary": "EMPFOHLENE ERGÄNZUNG",
+    "whyTitle": "WARUM DIESES SYSTEM?",
+    "ctaProject": "PROJEKT MIT EINEM INGENIEUR PLANEN",
+    "ctaInspection": "TECHNISCHE INSPEKTION ANFRAGEN",
+    "ctaSystem": "SYSTEM ANSEHEN",
+    "restart": "NEUE BEWERTUNG DURCHFÜHREN",
+    "armor": { "why": "Ihre Anlage erfordert Widerstandsfähigkeit gegen extreme mechanische Belastungen. GEONYX ARMOR baut eine monolithische Mineralmatrix mit einer Festigkeit von über 110 MPa – beständig gegen Gabelstapler, VNA-Gänge und Punktlasten ohne Staubbildung oder Verschleiß." },
+    "chem": { "why": "Ihre Umgebung enthält aggressive Chemikalien, Öle oder hygienische Anforderungen. GEONYX CHEM baut eine dichte chemisch beständige Matrix, stabil bei pH 0–14, ohne Absorption und leicht zu reinigen." },
+    "therm": { "why": "Ihr Prozess umfasst extreme Hitze, Funken oder Thermozyklen. GEONYX THERM ist eine Geopolymermatrix, stabil bis +1200°C, mit Brandklasse A1fl und Thermoschockbeständigkeit." },
+    "hydro": { "why": "Ihre Anlage ist Wasser, Kapillarfeuchte oder hydrostatischem Druck ausgesetzt. GEONYX HYDRO bietet kristalline Abdichtung mit W20-Wasserdichtigkeit, auch bei Negativdruck." }
+  }
+}

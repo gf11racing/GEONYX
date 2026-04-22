@@ -59,6 +59,7 @@ const RequestInspectionPage = lazy$(() => import('./components/RequestInspection
 const PrivacyPolicyPage     = lazy$(() => import('./components/PrivacyPolicyPage'),             'PrivacyPolicyPage');
 const TermsConditionsPage   = lazy$(() => import('./components/TermsConditionsPage'),           'TermsConditionsPage');
 const DigitalBusinessCard   = lazy$(() => import('./components/DigitalBusinessCard'),           'DigitalBusinessCard');
+const SystemSelectorPage    = lazy$(() => import('./components/SystemSelectorPage'),             'SystemSelectorPage');
 
 const SUPPORTED_LANGS = ['bg', 'en', 'de', 'fr', 'es', 'tr', 'ru', 'el'];
 
@@ -180,6 +181,7 @@ function App() {
               <Route index element={<HomePage />} />
               <Route path="sectors" element={<SectorsHubPage />} />
               <Route path="systems" element={<SystemsHubPage />} />
+              <Route path="system-selector" element={<SystemSelectorPage />} />
 
               {/* Sector pages */}
               <Route path="food-industry" element={<FoodPharmaPage />} />

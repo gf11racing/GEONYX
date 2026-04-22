@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "GEONYX | Which System Is Right for You?",
+    "description": "Interactive configurator – answer 4 questions and find out which GEONYX system (ARMOR, CHEM, THERM, HYDRO) is optimal for your facility."
+  },
+  "eyebrow": "CONFIGURATOR",
+  "title": "WHICH GEONYX SYSTEM IS RIGHT FOR YOU?",
+  "subtitle": "4 questions. Engineering recommendation.",
+  "progress": "QUESTION {{current}} OF {{total}}",
+  "back": "BACK",
+  "restart": "START OVER",
+  "q1": {
+    "text": "What type of facility are you planning for?",
+    "a1": "Logistics centre / Warehouse",
+    "a2": "Production / Machine plant",
+    "a3": "Food & Pharma",
+    "a4": "Chemical plant / Refinery",
+    "a5": "Foundry / Furnace / Thermal process",
+    "a6": "Underground / Basement / Wet environment",
+    "a7": "Workshop / Maintenance facility"
+  },
+  "q2": {
+    "text": "What is the main load on the floor?",
+    "a1": "Extreme mechanical (forklifts, cranes, VNA aisles)",
+    "a2": "Chemical (oils, acids, solvents)",
+    "a3": "Thermal (furnaces, sparks, hot rubber)",
+    "a4": "Moisture (groundwater, hydrostatic pressure)",
+    "a5": "Combined (mechanical + chemical)"
+  },
+  "q3": {
+    "text": "What is the main problem or risk?",
+    "a1": "Dust and rapid surface deterioration",
+    "a2": "Chemical attack / corrosion / contamination",
+    "a3": "Thermal cracking / heat damage",
+    "a4": "Water leakage / capillary moisture",
+    "a5": "Planning a new facility (no current problem)"
+  },
+  "q4": {
+    "text": "Are there any special requirements?",
+    "a1": "Antistatic floor (ESD control)",
+    "a2": "Hygienic surfaces (HACCP / FDA / GMP)",
+    "a3": "Fire resistance / spark protection",
+    "a4": "Waterproofing / moisture barrier",
+    "a5": "Superflat floor (VNA aisles / robotics)",
+    "a6": "No special requirements"
+  },
+  "result": {
+    "title": "ENGINEERING RECOMMENDATION",
+    "primary": "PRIMARY SYSTEM",
+    "secondary": "RECOMMENDED ADDITION",
+    "whyTitle": "WHY THIS SYSTEM?",
+    "ctaProject": "PLAN A PROJECT WITH AN ENGINEER",
+    "ctaInspection": "REQUEST TECHNICAL INSPECTION",
+    "ctaSystem": "VIEW SYSTEM",
+    "restart": "RUN A NEW ASSESSMENT",
+    "armor": {
+      "why": "Your facility requires resistance to extreme mechanical loads. GEONYX ARMOR builds a monolithic mineral matrix with strength over 110 MPa – resistant to forklifts, VNA aisles and point loads without dusting or deterioration."
+    },
+    "chem": {
+      "why": "Your environment involves aggressive chemicals, oils or hygienic requirements. GEONYX CHEM builds a dense chemically resistant matrix, stable at pH 0–14, with no absorption and easy to clean."
+    },
+    "therm": {
+      "why": "Your process involves extreme heat, sparks or thermal cycles. GEONYX THERM is a geopolymer matrix stable up to +1200°C, with A1fl fire classification and resistance to thermal shock."
+    },
+    "hydro": {
+      "why": "Your facility is exposed to water, capillary moisture or hydrostatic pressure. GEONYX HYDRO provides crystalline waterproofing with W20 impermeability, even under negative pressure."
+    }
+  }
+}

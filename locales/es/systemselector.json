@@ -1,0 +1,20 @@
+{
+  "meta": { "title": "GEONYX | ¿Qué sistema es el adecuado para usted?", "description": "Configurador interactivo – responda 4 preguntas y descubra qué sistema GEONYX (ARMOR, CHEM, THERM, HYDRO) es óptimo para su instalación." },
+  "eyebrow": "CONFIGURADOR",
+  "title": "¿QUÉ SISTEMA GEONYX ES EL ADECUADO PARA USTED?",
+  "subtitle": "4 preguntas. Recomendación de ingeniería.",
+  "progress": "PREGUNTA {{current}} DE {{total}}",
+  "back": "ATRÁS",
+  "restart": "EMPEZAR DE NUEVO",
+  "q1": { "text": "¿Qué tipo de instalación está planificando?", "a1": "Centro logístico / Almacén", "a2": "Producción / Planta de máquinas", "a3": "Alimentación & Farmacia", "a4": "Planta química / Refinería", "a5": "Fundición / Horno / Proceso térmico", "a6": "Subterráneo / Sótano / Zona húmeda", "a7": "Taller / Centro de mantenimiento" },
+  "q2": { "text": "¿Cuál es la carga principal del suelo?", "a1": "Mecánica extrema (carretillas elevadoras, grúas, pasillos VNA)", "a2": "Química (aceites, ácidos, disolventes)", "a3": "Térmica (hornos, chispas, caucho caliente)", "a4": "Humedad (agua subterránea, presión hidrostática)", "a5": "Combinada (mecánica + química)" },
+  "q3": { "text": "¿Cuál es el problema o riesgo principal?", "a1": "Polvo y deterioro rápido de la superficie", "a2": "Ataque químico / corrosión / contaminación", "a3": "Fisuración térmica / daños por calor", "a4": "Filtración de agua / humedad capilar", "a5": "Planificación de una nueva instalación (sin problema actual)" },
+  "q4": { "text": "¿Hay requisitos especiales?", "a1": "Suelo antiestático (control ESD)", "a2": "Superficies higiénicas (HACCP / FDA / GMP)", "a3": "Resistencia al fuego / protección contra chispas", "a4": "Impermeabilización / barrera de humedad", "a5": "Suelo superplano (pasillos VNA / robótica)", "a6": "Sin requisitos especiales" },
+  "result": {
+    "title": "RECOMENDACIÓN DE INGENIERÍA", "primary": "SISTEMA PRINCIPAL", "secondary": "COMPLEMENTO RECOMENDADO", "whyTitle": "¿POR QUÉ ESTE SISTEMA?", "ctaProject": "PLANIFICAR UN PROYECTO CON UN INGENIERO", "ctaInspection": "SOLICITAR INSPECCIÓN TÉCNICA", "ctaSystem": "VER SISTEMA", "restart": "NUEVA EVALUACIÓN",
+    "armor": { "why": "Su instalación requiere resistencia a cargas mecánicas extremas. GEONYX ARMOR construye una matriz mineral monolítica con resistencia superior a 110 MPa – resistente a carretillas elevadoras, pasillos VNA y cargas puntuales sin polvo ni deterioro." },
+    "chem": { "why": "Su entorno implica productos químicos agresivos, aceites o requisitos higiénicos. GEONYX CHEM construye una matriz densa químicamente resistente, estable a pH 0–14, sin absorción y fácil de limpiar." },
+    "therm": { "why": "Su proceso implica calor extremo, chispas o ciclos térmicos. GEONYX THERM es una matriz geopolímera estable hasta +1200°C, con clasificación A1fl y resistencia al choque térmico." },
+    "hydro": { "why": "Su instalación está expuesta al agua, humedad capilar o presión hidrostática. GEONYX HYDRO proporciona impermeabilización cristalina con impermeabilidad W20, incluso bajo presión negativa." }
+  }
+}

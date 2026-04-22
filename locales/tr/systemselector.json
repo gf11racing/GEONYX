@@ -1,0 +1,20 @@
+{
+  "meta": { "title": "GEONYX | Hangi Sistem Sizin İçin Doğru?", "description": "İnteraktif konfiguratör – 4 soruyu yanıtlayın ve hangi GEONYX sisteminin (ARMOR, CHEM, THERM, HYDRO) tesisiniiz için optimal olduğunu öğrenin." },
+  "eyebrow": "KONFIGURATÖR",
+  "title": "HANGİ GEONYX SİSTEMİ SİZİN İÇİN DOĞRU?",
+  "subtitle": "4 soru. Mühendislik tavsiyesi.",
+  "progress": "SORU {{current}} / {{total}}",
+  "back": "GERİ",
+  "restart": "YENİDEN BAŞLA",
+  "q1": { "text": "Hangi tür tesis planlıyorsunuz?", "a1": "Lojistik merkezi / Depo", "a2": "Üretim / Makine fabrikası", "a3": "Gıda & İlaç", "a4": "Kimya tesisi / Rafineri", "a5": "Dökümhane / Fırın / Termal işlem", "a6": "Yeraltı / Bodrum / Islak alan", "a7": "Atölye / Bakım tesisi" },
+  "q2": { "text": "Zeminin ana yükü nedir?", "a1": "Aşırı mekanik (forkliftler, vinçler, VNA koridorları)", "a2": "Kimyasal (yağlar, asitler, çözücüler)", "a3": "Termal (fırınlar, kıvılcımlar, sıcak kauçuk)", "a4": "Nem (yeraltı suyu, hidrostatik basınç)", "a5": "Kombine (mekanik + kimyasal)" },
+  "q3": { "text": "Ana sorun veya risk nedir?", "a1": "Toz ve hızlı yüzey bozulması", "a2": "Kimyasal saldırı / korozyon / kirlenme", "a3": "Termal çatlama / ısı hasarı", "a4": "Su sızıntısı / kılcal nem", "a5": "Yeni tesis planlaması (mevcut sorun yok)" },
+  "q4": { "text": "Özel gereksinimler var mı?", "a1": "Antistatik zemin (ESD kontrolü)", "a2": "Hijyenik yüzeyler (HACCP / FDA / GMP)", "a3": "Yangın direnci / kıvılcım koruması", "a4": "Su yalıtımı / nem bariyeri", "a5": "Süper düz zemin (VNA koridorları / robotik)", "a6": "Özel gereksinim yok" },
+  "result": {
+    "title": "MÜHENDİSLİK TAVSİYESİ", "primary": "BİRİNCİL SİSTEM", "secondary": "ÖNERİLEN EK", "whyTitle": "NEDEN BU SİSTEM?", "ctaProject": "MÜHENDİSLE PROJE PLANLAYINIZ", "ctaInspection": "TEKNİK DENETİM TALEP EDİNİZ", "ctaSystem": "SİSTEMİ GÖRÜNTÜLE", "restart": "YENİ DEĞERLENDİRME",
+    "armor": { "why": "Tesisiniz aşırı mekanik yüklere karşı direnç gerektiriyor. GEONYX ARMOR, 110 MPa'nın üzerinde mukavemete sahip monolitik bir mineral matris oluşturur – forkliftlere, VNA koridorlarına ve nokta yüklerine toz ve bozulma olmadan dayanıklı." },
+    "chem": { "why": "Ortamınız agresif kimyasallar, yağlar veya hijyenik gereksinimler içeriyor. GEONYX CHEM, pH 0–14'te stabil, emilim olmadan ve temizlemesi kolay yoğun bir kimyasal dirençli matris oluşturur." },
+    "therm": { "why": "Süreciniz aşırı ısı, kıvılcım veya termal döngüler içeriyor. GEONYX THERM, +1200°C'ye kadar stabil, A1fl yangın sınıflandırması ve termal şok dirençli bir jeopolimer matristir." },
+    "hydro": { "why": "Tesisiniz su, kılcal nem veya hidrostatik basınca maruz. GEONYX HYDRO, negatif basınç altında bile W20 su geçirmezliği ile kristal su yalıtımı sağlar." }
+  }
+}

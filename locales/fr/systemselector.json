@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "GEONYX | Quel système vous convient ?",
+    "description": "Configurateur interactif – répondez à 4 questions et découvrez quel système GEONYX (ARMOR, CHEM, THERM, HYDRO) est optimal pour votre installation."
+  },
+  "eyebrow": "CONFIGURATEUR",
+  "title": "QUEL SYSTÈME GEONYX VOUS CONVIENT ?",
+  "subtitle": "4 questions. Recommandation d'ingénierie.",
+  "progress": "QUESTION {{current}} SUR {{total}}",
+  "back": "RETOUR",
+  "restart": "RECOMMENCER",
+  "q1": {
+    "text": "Quel type d'installation planifiez-vous ?",
+    "a1": "Centre logistique / Entrepôt",
+    "a2": "Production / Usine de machines",
+    "a3": "Agroalimentaire & Pharmacie",
+    "a4": "Usine chimique / Raffinerie",
+    "a5": "Fonderie / Four / Procédé thermique",
+    "a6": "Souterrain / Sous-sol / Zone humide",
+    "a7": "Atelier / Centre de maintenance"
+  },
+  "q2": {
+    "text": "Quelle est la charge principale du sol ?",
+    "a1": "Mécanique extrême (chariots élévateurs, grues, allées VNA)",
+    "a2": "Chimique (huiles, acides, solvants)",
+    "a3": "Thermique (fours, étincelles, caoutchouc chaud)",
+    "a4": "Humidité (eau souterraine, pression hydrostatique)",
+    "a5": "Combinée (mécanique + chimique)"
+  },
+  "q3": {
+    "text": "Quel est le problème ou le risque principal ?",
+    "a1": "Poussière et détérioration rapide de la surface",
+    "a2": "Attaque chimique / corrosion / contamination",
+    "a3": "Fissuration thermique / dommages thermiques",
+    "a4": "Infiltration d'eau / humidité capillaire",
+    "a5": "Planification d'une nouvelle installation (aucun problème actuel)"
+  },
+  "q4": {
+    "text": "Y a-t-il des exigences particulières ?",
+    "a1": "Sol antistatique (contrôle ESD)",
+    "a2": "Surfaces hygiéniques (HACCP / FDA / GMP)",
+    "a3": "Résistance au feu / protection contre les étincelles",
+    "a4": "Étanchéité / barrière à l'humidité",
+    "a5": "Sol superplat (allées VNA / robotique)",
+    "a6": "Aucune exigence particulière"
+  },
+  "result": {
+    "title": "RECOMMANDATION D'INGÉNIERIE",
+    "primary": "SYSTÈME PRINCIPAL",
+    "secondary": "COMPLÉMENT RECOMMANDÉ",
+    "whyTitle": "POURQUOI CE SYSTÈME ?",
+    "ctaProject": "PLANIFIER UN PROJET AVEC UN INGÉNIEUR",
+    "ctaInspection": "DEMANDER UNE INSPECTION TECHNIQUE",
+    "ctaSystem": "VOIR LE SYSTÈME",
+    "restart": "NOUVELLE ÉVALUATION",
+    "armor": { "why": "Votre installation nécessite une résistance aux charges mécaniques extrêmes. GEONYX ARMOR construit une matrice minérale monolithique d'une résistance supérieure à 110 MPa – résistante aux chariots élévateurs, allées VNA et charges ponctuelles sans poussière ni détérioration." },
+    "chem": { "why": "Votre environnement implique des produits chimiques agressifs, des huiles ou des exigences hygiéniques. GEONYX CHEM construit une matrice chimiquement résistante et dense, stable à pH 0–14, sans absorption et facile à nettoyer." },
+    "therm": { "why": "Votre procédé implique une chaleur extrême, des étincelles ou des cycles thermiques. GEONYX THERM est une matrice géopolymère stable jusqu'à +1200°C, avec classification A1fl et résistance au choc thermique." },
+    "hydro": { "why": "Votre installation est exposée à l'eau, à l'humidité capillaire ou à la pression hydrostatique. GEONYX HYDRO offre une imperméabilisation cristalline avec étanchéité W20, même sous pression négative." }
+  }
+}

@@ -14,6 +14,7 @@ const NAMESPACES = [
   'pilotprojects', 'cadbim', 'technicalmaps', 'careers',
   'energydefense', 'agrobiogaz', 'watermarine',
   'urbanhightech', 'constructionarch',
+  'systemselector',
 ];
 
 i18n
