@@ -26,30 +26,123 @@
   },
   "mega": {
     "solutions": {
-      "heavy": { "title": "INDUSTRIE LOURDE & LOGISTIQUE", "desc": "Sols et systèmes pour charges mécaniques extrêmes.", "badge": "CHARGES EXTRÊMES" },
-      "food": { "title": "ALIMENTATION, BOISSONS, PHARMA & HYGIÈNE", "desc": "Hygiène sans compromis. Sols sans joint, faciles à nettoyer.", "badge": "CONTRÔLE HYGIÉNIQUE" },
-      "agro": { "title": "AGRO, BIOGAZ, ENGRAIS & ENVIRONNEMENTS ANIMAUX", "desc": "Protection contre les acides organiques, le fumier, l'ammoniac.", "badge": "AGRESSION ORGANIQUE" },
-      "water": { "title": "EAU, EAUX USÉES & INFRASTRUCTURE MARINE", "desc": "Étanchéité à 100% et résistance aux sels et à l'érosion.", "badge": "PROTECTION HYDRAULIQUE" },
-      "energy": { "title": "ÉNERGIE, MINES & PROTECTION LOURDE", "desc": "Systèmes ininflammables et résistants aux produits chimiques.", "badge": "INFRASTRUCTURE CRITIQUE" },
-      "transport": { "title": "TRANSPORT, PARKINGS, GARAGES & CIRCULATION", "desc": "Sols et rampes à haute adhérence, résistants aux sels.", "badge": "ZONES À FORT TRAFIC" },
-      "urban": { "title": "ENVIRONNEMENT URBAIN, CONSTRUCTION & HAUTE TECHNOLOGIE", "desc": "Solutions UHPC pour façades et environnements urbains.", "badge": "INFRASTRUCTURE URBAINE" }
+      "heavy": {
+        "title": "INDUSTRIE LOURDE & LOGISTIQUE",
+        "desc": "Sols et systèmes pour charges mécaniques extrêmes.",
+        "badge": "CHARGES EXTRÊMES"
+      },
+      "food": {
+        "title": "ALIMENTATION, BOISSONS, PHARMA & HYGIÈNE",
+        "desc": "Hygiène sans compromis. Sols sans joint, faciles à nettoyer.",
+        "badge": "CONTRÔLE HYGIÉNIQUE"
+      },
+      "agro": {
+        "title": "AGRO, BIOGAZ, ENGRAIS & ENVIRONNEMENTS ANIMAUX",
+        "desc": "Protection contre les acides organiques, le fumier, l'ammoniac.",
+        "badge": "AGRESSION ORGANIQUE"
+      },
+      "water": {
+        "title": "EAU, EAUX USÉES & INFRASTRUCTURE MARINE",
+        "desc": "Étanchéité à 100% et résistance aux sels et à l'érosion.",
+        "badge": "PROTECTION HYDRAULIQUE"
+      },
+      "energy": {
+        "title": "ÉNERGIE, MINES & PROTECTION LOURDE",
+        "desc": "Systèmes ininflammables et résistants aux produits chimiques.",
+        "badge": "INFRASTRUCTURE CRITIQUE"
+      },
+      "transport": {
+        "title": "TRANSPORT, PARKINGS, GARAGES & CIRCULATION",
+        "desc": "Sols et rampes à haute adhérence, résistants aux sels.",
+        "badge": "ZONES À FORT TRAFIC"
+      },
+      "urban": {
+        "title": "ENVIRONNEMENT URBAIN, CONSTRUCTION & HAUTE TECHNOLOGIE",
+        "desc": "Solutions UHPC pour façades et environnements urbains.",
+        "badge": "INFRASTRUCTURE URBAINE"
+      }
     },
     "techCenter": {
-      "archZone": { "title": "ZONE ARCHITECTURALE", "desc": "Textures, cartes PBR et visuels pour la conception.", "label": "DESIGN RESOURCES", "heroTitle": "DESIGN CENTER", "buttonText": "VERS LA GALERIE", "badge": "SUPPORT DESIGN" },
-      "techMaps": { "title": "CARTES TECHNIQUES", "desc": "Spécifications détaillées (TDS) et MSDS de tous les systèmes.", "label": "SPECIFICATIONS", "heroTitle": "DOC CENTER", "buttonText": "TÉLÉCHARGER TDS", "badge": "DOCUMENTATION TECHNIQUE" },
-      "cadBim": { "title": "BIBLIOTHÈQUE CAD & BIM", "desc": "Détails système prêts en format .DWG et Revit.", "label": "INTEGRATION", "heroTitle": "CAD / BIM ASSETS", "buttonText": "DEMANDER L'ACCÈS", "badge": "MODÈLES BIM & INGÉNIERIE" },
-      "certs": { "title": "CERTIFICATS", "desc": "HACCP, ISO et déclarations de performance.", "label": "COMPLIANCE", "heroTitle": "CERTIFICATION", "buttonText": "VOIR LES CERTIFICATS", "badge": "CONFORMITÉ & CERTIFICATION" }
+      "archZone": {
+        "title": "ZONE ARCHITECTURALE",
+        "desc": "Textures, cartes PBR et visuels pour la conception.",
+        "label": "DESIGN RESOURCES",
+        "heroTitle": "DESIGN CENTER",
+        "buttonText": "VERS LA GALERIE",
+        "badge": "SUPPORT DESIGN"
+      },
+      "techMaps": {
+        "title": "CARTES TECHNIQUES",
+        "desc": "Spécifications détaillées (TDS) et MSDS de tous les systèmes.",
+        "label": "SPECIFICATIONS",
+        "heroTitle": "DOC CENTER",
+        "buttonText": "TÉLÉCHARGER TDS",
+        "badge": "DOCUMENTATION TECHNIQUE"
+      },
+      "cadBim": {
+        "title": "BIBLIOTHÈQUE CAD & BIM",
+        "desc": "Détails système prêts en format .DWG et Revit.",
+        "label": "INTEGRATION",
+        "heroTitle": "CAD / BIM ASSETS",
+        "buttonText": "DEMANDER L'ACCÈS",
+        "badge": "MODÈLES BIM & INGÉNIERIE"
+      },
+      "certs": {
+        "title": "CERTIFICATS",
+        "desc": "HACCP, ISO et déclarations de performance.",
+        "label": "COMPLIANCE",
+        "heroTitle": "CERTIFICATION",
+        "buttonText": "VOIR LES CERTIFICATS",
+        "badge": "CONFORMITÉ & CERTIFICATION"
+      }
     },
     "about": {
-      "main": { "title": "À PROPOS", "desc": "Philosophie d'innovation et de développement durable.", "label": "SUR L'ENTREPRISE", "heroTitle": "À PROPOS", "buttonText": "EN SAVOIR PLUS", "badge": "L'ENTREPRISE" },
-      "careers": { "title": "CARRIÈRES & DÉVELOPPEMENT", "desc": "Rejoignez l'équipe GEONYX.", "label": "ÉQUIPE & DÉVELOPPEMENT", "heroTitle": "CARRIÈRES CHEZ GEONYX", "buttonText": "POSTES OUVERTS", "badge": "DÉVELOPPEMENT PROFESSIONNEL" },
-      "hseq": { "title": "HSEQ & DURABILITÉ", "desc": "Nos engagements envers la santé, la sécurité et l'environnement.", "label": "RESPONSABILITÉ", "heroTitle": "NORMES DE SÉCURITÉ", "buttonText": "VOIR PLUS", "badge": "SÉCURITÉ & DURABILITÉ" }
+      "main": {
+        "title": "À PROPOS",
+        "desc": "Philosophie d'innovation et de développement durable.",
+        "label": "SUR L'ENTREPRISE",
+        "heroTitle": "À PROPOS",
+        "buttonText": "EN SAVOIR PLUS",
+        "badge": "L'ENTREPRISE"
+      },
+      "careers": {
+        "title": "CARRIÈRES & DÉVELOPPEMENT",
+        "desc": "Rejoignez l'équipe GEONYX.",
+        "label": "ÉQUIPE & DÉVELOPPEMENT",
+        "heroTitle": "CARRIÈRES CHEZ GEONYX",
+        "buttonText": "POSTES OUVERTS",
+        "badge": "DÉVELOPPEMENT PROFESSIONNEL"
+      },
+      "hseq": {
+        "title": "HSEQ & DURABILITÉ",
+        "desc": "Nos engagements envers la santé, la sécurité et l'environnement.",
+        "label": "RESPONSABILITÉ",
+        "heroTitle": "NORMES DE SÉCURITÉ",
+        "buttonText": "VOIR PLUS",
+        "badge": "SÉCURITÉ & DURABILITÉ"
+      }
     },
     "systems": {
-      "armor": { "title": "GEONYX ARMOR (RÉSISTANCE MÉCANIQUE)",  "desc": "Résistance mécanique et sols industriels.", "tech": "PROTECTION MÉCANIQUE" },
-      "chem":  { "title": "GEONYX CHEM (PROTECTION CHIMIQUE)",    "desc": "Protection contre les produits chimiques agressifs.", "tech": "PROTECTION CHIMIQUE" },
-      "hydro": { "title": "GEONYX HYDRO (PROTECTION HYDRAULIQUE)","desc": "Systèmes étanches et hydrotechniques.", "tech": "ÉTANCHÉITÉ" },
-      "therm": { "title": "GEONYX THERM (SÉCURITÉ THERMIQUE)",    "desc": "Solutions ininflammables pour le feu et les risques thermiques.", "tech": "PROTECTION THERMIQUE" }
+      "armor": {
+        "title": "GEONYX ARMOR (RÉSISTANCE MÉCANIQUE)",
+        "desc": "Résistance mécanique et sols industriels.",
+        "tech": "PROTECTION MÉCANIQUE"
+      },
+      "chem": {
+        "title": "GEONYX CHEM (PROTECTION CHIMIQUE)",
+        "desc": "Protection contre les produits chimiques agressifs.",
+        "tech": "PROTECTION CHIMIQUE"
+      },
+      "hydro": {
+        "title": "GEONYX HYDRO (PROTECTION HYDRAULIQUE)",
+        "desc": "Systèmes étanches et hydrotechniques.",
+        "tech": "ÉTANCHÉITÉ"
+      },
+      "therm": {
+        "title": "GEONYX THERM (SÉCURITÉ THERMIQUE)",
+        "desc": "Solutions ininflammables pour le feu et les risques thermiques.",
+        "tech": "PROTECTION THERMIQUE"
+      }
     }
   },
   "footer": {
@@ -79,10 +172,29 @@
     "systems": "SYSTÈMES:"
   },
   "ticker": {
-    "aurubis": "MÉTALLURGIE", "kaufland": "LOGISTIQUE", "lufthansa": "AVIATION", "dundee": "MINES",
-    "iso9001": "QUALITÉ", "iso14001": "ÉCOLOGIE", "haccp": "ALIMENTATION", "bds": "STANDARD",
+    "aurubis": "MÉTALLURGIE",
+    "kaufland": "LOGISTIQUE",
+    "lufthansa": "AVIATION",
+    "dundee": "MINES",
+    "iso9001": "QUALITÉ",
+    "iso14001": "ÉCOLOGIE",
+    "haccp": "ALIMENTATION",
+    "bds": "STANDARD",
     "learnMore": "EN SAVOIR PLUS",
     "partnersLabel": "PARTENAIRES DE CONFIANCE",
     "certsLabel": "NORMES CERTIFIÉES"
+  },
+  "cookies": {
+    "title": "Nous utilisons des cookies",
+    "desc": "Nous utilisons des cookies analytiques (Google Analytics) pour améliorer notre site. Vous pouvez refuser — seuls les cookies techniquement nécessaires resteront actifs.",
+    "acceptAll": "TOUT ACCEPTER",
+    "essentialOnly": "ESSENTIELS UNIQUEMENT",
+    "privacyLink": "Politique de confidentialité"
+  },
+  "notFound": {
+    "title": "PAGE INTROUVABLE",
+    "subtitle": "Adresse incorrecte ou la page a été déplacée.",
+    "home": "ACCUEIL",
+    "back": "RETOUR"
   }
 }

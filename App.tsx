@@ -1,5 +1,5 @@
 
-import React, { useEffect } from 'react';
+import React, { useEffect, Component, ReactNode } from 'react';
 import { BrowserRouter, Routes, Route, useLocation, useNavigate, useParams, Outlet } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Navbar } from './components/Navbar';
@@ -43,6 +43,8 @@ import { SectorsHubPage } from './components/SectorsHubPage';
 import { SystemsHubPage } from './components/SystemsHubPage';
 import { UrbanHighTechPage } from './components/UrbanHighTechPage';
 import { StructuredData } from './components/StructuredData';
+import { CookieConsent } from './components/CookieConsent';
+import { NotFoundPage } from './components/NotFoundPage';
 import { detectLanguage } from './utils/detectLanguage';
 
 import photoGancho from './assets/photo_gancho.jpg';
@@ -50,21 +52,43 @@ import photoIvaylo from './assets/photo_ivaylo.jpg';
 
 const SUPPORTED_LANGS = ['bg', 'en', 'de', 'fr', 'es', 'tr', 'ru', 'el'];
 
+class ErrorBoundary extends Component<{ children: ReactNode }, { error: Error | null }> {
+  state = { error: null };
+  static getDerivedStateFromError(error: Error) { return { error }; }
+  render() {
+    if (this.state.error) {
+      return (
+        <div style={{ color: '#fff', background: '#050505', padding: 40, fontFamily: 'monospace' }}>
+          <h2>Грешка при зареждане / Error loading page</h2>
+          <pre style={{ color: '#f90', fontSize: 12, whiteSpace: 'pre-wrap' }}>
+            {(this.state.error as Error).message}
+          </pre>
+        </div>
+      );
+    }
+    return this.state.error === null ? this.props.children : null;
+  }
+}
+
 // Detects language and redirects to /{lang}[/rest-of-path]
 const LangRedirect: React.FC = () => {
   const navigate = useNavigate();
   const location = useLocation();
 
   useEffect(() => {
-    const saved = localStorage.getItem('i18nextLng');
+    const raw = localStorage.getItem('i18nextLng') ?? '';
+    // normalise "bg-BG" → "bg", "en-US" → "en"
+    const saved = raw.split('-')[0].toLowerCase();
     if (saved && SUPPORTED_LANGS.includes(saved)) {
       const rest = location.pathname === '/' ? '' : location.pathname;
       navigate(`/${saved}${rest}`, { replace: true });
       return;
     }
 
+    // Redirect immediately to 'bg', then upgrade language in background
+    navigate('/bg', { replace: true });
     detectLanguage().then(lang => {
-      navigate(`/${lang}`, { replace: true });
+      if (lang !== 'bg') navigate(`/${lang}`, { replace: true });
     });
   }, []);
 
@@ -129,8 +153,10 @@ const HomePage = () => {
 
 function App() {
   return (
+    <ErrorBoundary>
     <BrowserRouter>
       <StructuredData />
+      <CookieConsent />
       <Routes>
         {/* Root: detect language and redirect */}
         <Route path="/" element={<LangRedirect />} />
@@ -175,6 +201,9 @@ function App() {
           {/* Legal */}
           <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
           <Route path="terms-conditions" element={<TermsConditionsPage />} />
+
+          {/* 404 inside lang group */}
+          <Route path="*" element={<NotFoundPage />} />
         </Route>
 
         {/* Digital business cards — language-independent */}
@@ -204,10 +233,11 @@ function App() {
           }
         />
 
-        {/* Catch-all: try to detect language */}
-        <Route path="*" element={<LangRedirect />} />
+        {/* Catch-all: 404 */}
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </BrowserRouter>
+    </ErrorBoundary>
   );
 }
 
