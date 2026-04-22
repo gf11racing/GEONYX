@@ -10,6 +10,7 @@ import {
   Flame, Globe, ShieldAlert, Footprints, BadgeCheck
 } from 'lucide-react';
 import { SafeImage } from './SafeImage';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const DOC_SYSTEMS = [
   { name: 'GEONYX ARMOR', id: 'armor' },
@@ -48,6 +49,7 @@ function DropletsIcon(props: any) {
 }
 
 export const ArchitecturalZonePage: React.FC = () => {
+  usePageMeta('architecturalzone');
   const { t } = useTranslation('architecturalzone');
   const [copySuccess, setCopySuccess] = useState(false);
 

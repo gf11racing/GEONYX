@@ -13,6 +13,7 @@ import { Link } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 // Data arrays: only id/key/icon — text comes from t() in render
 const zigzagBlocks = [
@@ -51,6 +52,7 @@ const heroZones = [
 ];
 
 export const HeavyIndustryLogisticsPage: React.FC = () => {
+  usePageMeta('heavyindustry');
   const navigate = useNavigate();
   const { t } = useTranslation('heavyindustry');
   const { to } = useLang();

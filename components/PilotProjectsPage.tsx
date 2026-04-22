@@ -13,6 +13,7 @@ import { useInView } from 'framer-motion';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 // --- ANIMATED COUNTER COMPONENT ---
 const Counter = ({ to, suffix = "", duration = 2.5 }: { to: number, suffix?: string, duration?: number }) => {
@@ -193,6 +194,7 @@ const TRUSTED_CLIENTS = [
 ];
 
 export const PilotProjectsPage: React.FC = () => {
+  usePageMeta('pilotprojects');
   const navigate = useNavigate();
   const { t } = useTranslation('pilotprojects');
   const { to } = useLang();

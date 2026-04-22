@@ -17,6 +17,7 @@ import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const DIAGNOSTICS_DATA = [
     { id: 1, key: 'd1', icon: Waves,       image: "/GEONYX-HYDRO-UNDERWATER-REPAIR.webp" },
@@ -51,6 +52,7 @@ const PROCESS_STEPS = ['p1', 'p2', 'p3', 'p4', 'p5', 'p6'];
 const OFFER_DOCS    = ['doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6'];
 
 export const HydroPage: React.FC = () => {
+  usePageMeta('hydro');
   const navigate = useNavigate();
   const { t } = useTranslation('hydro');
   const { to } = useLang();

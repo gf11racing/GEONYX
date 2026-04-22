@@ -14,8 +14,10 @@ import { Link } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const WaterMarinePage: React.FC = () => {
+  usePageMeta('watermarine');
   const navigate = useNavigate();
   const { t } = useTranslation('watermarine');
   const { to } = useLang();

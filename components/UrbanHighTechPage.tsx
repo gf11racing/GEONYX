@@ -13,8 +13,10 @@ import { Link } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const UrbanHighTechPage: React.FC = () => {
+  usePageMeta('urbanhightech');
   const { t } = useTranslation('urbanhightech');
   const { to } = useLang();
   const [copySuccess, setCopySuccess] = useState(false);

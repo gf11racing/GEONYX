@@ -17,6 +17,7 @@ import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const DIAGNOSTICS_DATA = [
     { id: 1, key: 'd1', icon: Thermometer, image: "/GEONYX-THERM-GEONYX-THERM.webp" },
@@ -37,6 +38,7 @@ const THERM_HOTSPOTS = [
 ];
 
 export const ThermPage: React.FC = () => {
+  usePageMeta('therm');
   const navigate = useNavigate();
   const { t } = useTranslation('therm');
   const { to } = useLang();

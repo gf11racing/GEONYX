@@ -14,8 +14,10 @@ import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const EnergyDefensePage: React.FC = () => {
+  usePageMeta('energydefense');
   const navigate = useNavigate();
   const { t } = useTranslation('energydefense');
   const { to } = useLang();

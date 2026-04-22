@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "title": "GEONYX Mühendislik Sistemleri | ARMOR, CHEM, THERM, HYDRO",
+    "description": "Tüm GEONYX jeopolimer sistemlerine genel bakış: mekanik yükler için ARMOR, kimyasal direnç için CHEM, aşırı ısı için THERM, su yalıtımı için HYDRO."
+  },
   "hero": {
     "eyebrow": "TEKNOLOJİ NOMANKLATÜRÜ",
     "title": "SİSTEM KAYDI",

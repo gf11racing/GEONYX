@@ -11,6 +11,7 @@ import {
 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const SYSTEMS = [
   {
@@ -56,6 +57,7 @@ const SYSTEMS = [
 ];
 
 export const SystemsHubPage: React.FC = () => {
+  usePageMeta('systemshub');
   const navigate = useNavigate();
   const { t } = useTranslation('systemshub');
   const { to } = useLang();

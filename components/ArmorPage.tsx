@@ -19,6 +19,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const DIAGNOSTICS_META = [
   { id: 1, key: 'd1', icon: Disc,      image: "/GEONYX-ARMOR-EXTREME-ABRASION.webp" },
@@ -65,6 +66,7 @@ const DOWNLOAD_META = [
 ];
 
 export const ArmorPage: React.FC = () => {
+  usePageMeta('armor');
   const navigate = useNavigate();
   const { t } = useTranslation('armor');
   const { to } = useLang();

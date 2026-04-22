@@ -12,6 +12,7 @@ import {
 } from 'lucide-react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const SECTORS = [
   {
@@ -80,6 +81,7 @@ const SECTORS = [
 ];
 
 export const SectorsHubPage: React.FC = () => {
+  usePageMeta('sectorshub');
   const navigate = useNavigate();
   const { t } = useTranslation('sectorshub');
   const { to } = useLang();

@@ -7,8 +7,10 @@ import { Footer } from './Footer';
 import { MapPin, Phone, Mail, Clock, Building2, Briefcase, ArrowRight, CheckCircle, Globe, QrCode } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const ContactsPage: React.FC = () => {
+  usePageMeta('contacts');
   const { t } = useTranslation('contacts');
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
   const [selectedSector, setSelectedSector] = useState<string>('');

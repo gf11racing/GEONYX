@@ -10,8 +10,10 @@ import {
 import { Link } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const TechnicalMapsPage: React.FC = () => {
+  usePageMeta('technicalmaps');
   const { t } = useTranslation('technicalmaps');
 
   useEffect(() => {

@@ -3,8 +3,10 @@ import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Scale, FileText, BadgeDollarSign, AlertTriangle, ShieldAlert, BrainCircuit, Clock, CheckCircle } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const TermsConditionsPage: React.FC = () => {
+  usePageMeta('terms');
   const { t } = useTranslation('terms');
 
   useEffect(() => {

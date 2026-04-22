@@ -12,8 +12,10 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const CertificatesPage: React.FC = () => {
+  usePageMeta('certificates');
   const { t } = useTranslation('certificates');
   const navigate = useNavigate();
   const { to } = useLang();

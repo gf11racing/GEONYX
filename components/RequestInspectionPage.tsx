@@ -6,8 +6,10 @@ import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Button } from './Button';
 import { Phone, Mail, MapPin, ScanLine, Ruler, Activity, CheckCircle, ArrowRight, MousePointer2, FileSearch, HardHat, ClipboardCheck, AlertTriangle, Square, CheckSquare } from 'lucide-react';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const RequestInspectionPage: React.FC = () => {
+  usePageMeta('requestinspection');
   const { t } = useTranslation('requestinspection');
 
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');

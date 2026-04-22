@@ -6,6 +6,7 @@ import { Footer } from './Footer';
 import { Users, Briefcase, Warehouse, Beaker, CheckCircle, Upload, ArrowRight, ChevronRight, HardHat, Microscope } from 'lucide-react';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 // Data arrays — only id and icon keys; all text comes from i18n
 const POSITIONS = [
@@ -15,6 +16,7 @@ const POSITIONS = [
 ];
 
 export const CareersPage: React.FC = () => {
+  usePageMeta('careers');
   const { t } = useTranslation('careers');
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
   const [error, setError] = useState<string | null>(null);

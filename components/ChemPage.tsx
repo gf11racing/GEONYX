@@ -18,6 +18,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 const DIAGNOSTICS_META = [
     { id: 1, key: 'd1', icon: FlaskConical, image: "/GEONYX-CHEM-STRONG-ACIDS.webp" },
@@ -56,6 +57,7 @@ const DOWNLOAD_META = [
 ];
 
 export const ChemPage: React.FC = () => {
+  usePageMeta('chem');
   const navigate = useNavigate();
   const { t } = useTranslation('chem');
   const { to } = useLang();

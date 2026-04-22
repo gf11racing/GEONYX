@@ -46,6 +46,7 @@ import { StructuredData } from './components/StructuredData';
 import { CookieConsent } from './components/CookieConsent';
 import { NotFoundPage } from './components/NotFoundPage';
 import { detectLanguage } from './utils/detectLanguage';
+import { usePageMeta } from './hooks/usePageMeta';
 
 import photoGancho from './assets/photo_gancho.jpg';
 import photoIvaylo from './assets/photo_ivaylo.jpg';
@@ -120,6 +121,7 @@ const LangLayout: React.FC = () => {
 };
 
 const HomePage = () => {
+  usePageMeta('home');
   const { state } = useLocation();
 
   useEffect(() => {

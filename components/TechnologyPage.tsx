@@ -5,8 +5,10 @@ import { Button } from './Button';
 import { Atom, Zap, Flame, Leaf, ArrowRight, CheckCircle, X, Microscope, Clock, ShieldAlert, Rocket, ShieldCheck, Droplets, Gem } from 'lucide-react';
 import { CrossSectionHotspots } from './CrossSectionHotspots';
 import { useTranslation } from 'react-i18next';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const TechnologyPage: React.FC = () => {
+  usePageMeta('technology');
   const { t } = useTranslation('technology');
 
   useEffect(() => {

@@ -13,8 +13,10 @@ import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const FoodPharmaPage: React.FC = () => {
+  usePageMeta('foodpharma');
   const navigate = useNavigate();
   const { t } = useTranslation('foodpharma');
   const { to } = useLang();

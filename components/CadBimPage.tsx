@@ -9,8 +9,10 @@ import {
 } from 'lucide-react';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const CadBimPage: React.FC = () => {
+  usePageMeta('cadbim');
   const { t } = useTranslation('cadbim');
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
 

@@ -11,8 +11,10 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const HseqPage: React.FC = () => {
+  usePageMeta('hseq');
   const { t } = useTranslation('hseq');
   const navigate = useNavigate();
   const { to } = useLang();

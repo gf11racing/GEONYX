@@ -3,8 +3,10 @@ import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { ShieldCheck, Lock, Database, FileCheck, Scale } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { usePageMeta } from '../hooks/usePageMeta';
 
 export const PrivacyPolicyPage: React.FC = () => {
+  usePageMeta('privacy');
   const { t } = useTranslation('privacy');
 
   useEffect(() => {
