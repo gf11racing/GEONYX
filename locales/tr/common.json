@@ -196,5 +196,9 @@
     "subtitle": "Yanlış adres veya sayfa taşındı.",
     "home": "ANA SAYFA",
     "back": "GERİ"
+  },
+  "breadcrumb": {
+    "home": "Ana Sayfa",
+    "sectors": "Sektörler"
   }
 }

@@ -15,6 +15,7 @@ const NAMESPACES = [
   'energydefense', 'agrobiogaz', 'watermarine',
   'urbanhightech', 'constructionarch',
   'systemselector',
+  'tendergenerator',
 ];
 
 i18n

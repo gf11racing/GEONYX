@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "GEONYX | Générateur de texte d'appel d'offres",
+    "description": "Outil gratuit pour générer des spécifications techniques pour les sols industriels. Remplissez les paramètres et obtenez un texte d'appel d'offres prêt à l'emploi pour GEONYX ARMOR, CHEM, THERM ou HYDRO."
+  },
+  "eyebrow": "OUTIL",
+  "title": "GÉNÉRATEUR DE TEXTE D'APPEL D'OFFRES",
+  "subtitle": "Renseignez les paramètres du site et obtenez un texte technique prêt à intégrer dans les documents d'appel d'offres.",
+  "field": {
+    "projectName": "NOM DU PROJET (OPTIONNEL)",
+    "projectNamePlaceholder": "ex. Centre logistique Plovdiv",
+    "facilityType": "TYPE DE SITE",
+    "area": "SURFACE AU SOL",
+    "system": "SYSTÈME GEONYX",
+    "lifespan": "DURÉE DE VIE",
+    "warranty": "GARANTIE",
+    "requirements": "EXIGENCES PARTICULIÈRES",
+    "years": "ANS"
+  },
+  "facility": {
+    "logistics": "Centre logistique / Entrepôt",
+    "factory": "Industrie / Usine mécanique",
+    "foodpharma": "Industrie alimentaire / Pharmaceutique",
+    "chemical": "Usine chimique / Raffinerie",
+    "foundry": "Fonderie / Four / Traitement thermique",
+    "underground": "Souterrain / Environnement humide",
+    "workshop": "Atelier / Installation de maintenance"
+  },
+  "system": {
+    "mixed": "ARMOR+CHEM"
+  },
+  "req": {
+    "esd": "Revêtement antistatique (contrôle ESD)",
+    "haccp": "Surfaces hygiéniques (HACCP/GMP)",
+    "fire": "Résistance au feu et protection contre les étincelles",
+    "waterproof": "Étanchéité / Barrière à l'humidité",
+    "superflat": "Sol super-plat (allées VNA / robotique)",
+    "dustfree": "Zéro émission de poussière",
+    "chemical": "Résistance chimique (pH 0–14)",
+    "none": "sans exigences particulières"
+  },
+  "output": {
+    "label": "TEXTE D'APPEL D'OFFRES GÉNÉRÉ",
+    "copy": "COPIER",
+    "copied": "COPIÉ",
+    "hint": "Veuillez relire et adapter le texte avant de l'intégrer dans la documentation d'appel d'offres.",
+    "line1": "Les revêtements de sol de {{facility}}, d'une superficie totale de {{area}} m², doivent être réalisés sous forme de système minéral monolithique de type {{system}}.",
+    "line1WithProject": "Les revêtements de sol du site „{{name}}" – {{facility}}, d'une superficie totale de {{area}} m², doivent être réalisés sous forme de système minéral monolithique de type {{system}}.",
+    "reqHeader": "Le système doit garantir :",
+    "lifespanLine": "Durée de vie d'au moins {{lifespan}} ans sous les charges prévues",
+    "dust": "Faible émission de poussière et résistance mécanique durable",
+    "repair": "Possibilité de réparations locales sans arrêt complet de l'activité",
+    "standard": "Conformité avérée à EN 13813 et aux normes applicables",
+    "warrantyLine": "Période de garantie du revêtement achevé : minimum {{warranty}} ans.",
+    "reference": "L'entrepreneur est tenu de fournir un projet de référence avec une superficie installée minimale de {{area}} m² lors de la soumission de l'offre. Le système de matériaux doit être approuvé par le maître d'œuvre avant le début des travaux."
+  }
+}

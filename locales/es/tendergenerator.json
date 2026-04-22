@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "GEONYX | Generador de texto de licitación",
+    "description": "Herramienta gratuita para generar especificaciones técnicas de suelos industriales. Complete los parámetros y obtenga un texto de licitación listo para GEONYX ARMOR, CHEM, THERM o HYDRO."
+  },
+  "eyebrow": "HERRAMIENTA",
+  "title": "GENERADOR DE TEXTO DE LICITACIÓN",
+  "subtitle": "Complete los parámetros de la instalación y obtenga un texto técnico listo para la documentación de licitación.",
+  "field": {
+    "projectName": "NOMBRE DEL PROYECTO (OPCIONAL)",
+    "projectNamePlaceholder": "p.ej. Centro logístico Plovdiv",
+    "facilityType": "TIPO DE INSTALACIÓN",
+    "area": "SUPERFICIE DEL SUELO",
+    "system": "SISTEMA GEONYX",
+    "lifespan": "VIDA ÚTIL",
+    "warranty": "GARANTÍA",
+    "requirements": "REQUISITOS ESPECIALES",
+    "years": "AÑOS"
+  },
+  "facility": {
+    "logistics": "Centro logístico / Almacén",
+    "factory": "Producción / Planta mecánica",
+    "foodpharma": "Industria alimentaria / Farmacéutica",
+    "chemical": "Planta química / Refinería",
+    "foundry": "Fundición / Horno / Tratamiento térmico",
+    "underground": "Subterráneo / Entorno húmedo",
+    "workshop": "Taller / Instalación de mantenimiento"
+  },
+  "system": {
+    "mixed": "ARMOR+CHEM"
+  },
+  "req": {
+    "esd": "Revestimiento antiestático (control ESD)",
+    "haccp": "Superficies higiénicas (HACCP/GMP)",
+    "fire": "Resistencia al fuego y protección contra chispas",
+    "waterproof": "Impermeabilización / Barrera de humedad",
+    "superflat": "Suelo superplano (pasillos VNA / robótica)",
+    "dustfree": "Cero emisión de polvo",
+    "chemical": "Resistencia química (pH 0–14)",
+    "none": "sin requisitos especiales"
+  },
+  "output": {
+    "label": "TEXTO DE LICITACIÓN GENERADO",
+    "copy": "COPIAR",
+    "copied": "COPIADO",
+    "hint": "Revise y adapte el texto según sea necesario antes de incluirlo en la documentación de licitación.",
+    "line1": "Los revestimientos de suelo de {{facility}}, con una superficie total de {{area}} m², deberán ejecutarse como sistema mineral monolítico tipo {{system}}.",
+    "line1WithProject": "Los revestimientos de suelo de la instalación „{{name}}" – {{facility}}, con una superficie total de {{area}} m², deberán ejecutarse como sistema mineral monolítico tipo {{system}}.",
+    "reqHeader": "El sistema deberá garantizar:",
+    "lifespanLine": "Vida útil mínima de {{lifespan}} años bajo las cargas previstas",
+    "dust": "Baja emisión de polvo y resistencia mecánica duradera",
+    "repair": "Posibilidad de reparaciones locales sin parada total de la instalación",
+    "standard": "Cumplimiento demostrado de EN 13813 y normas aplicables",
+    "warrantyLine": "Período de garantía del revestimiento terminado: mínimo {{warranty}} años.",
+    "reference": "El contratista deberá presentar un proyecto de referencia con una superficie instalada mínima de {{area}} m² al presentar la oferta. El sistema de materiales debe ser aprobado por el diseñador antes del inicio de los trabajos."
+  }
+}

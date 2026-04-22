@@ -130,18 +130,49 @@ export const SystemSelectorPage: React.FC = () => {
   return (
     <div className="min-h-screen bg-[#050505] flex flex-col">
       <Navbar />
-      <main className="flex-1 flex flex-col items-center justify-start px-4 py-16 md:py-24">
 
-        {/* Header */}
-        <div className="text-center mb-12 max-w-2xl">
-          <p className="text-geo-yellow text-xs font-black tracking-[0.3em] uppercase mb-3">
-            {t('eyebrow')}
-          </p>
-          <h1 className="text-white font-black text-2xl md:text-3xl uppercase tracking-tight leading-tight mb-3">
-            {t('title')}
-          </h1>
-          <p className="text-gray-500 text-sm">{t('subtitle')}</p>
+      {/* Hero header — matches site-wide pattern */}
+      <section className="relative pt-32 pb-16 bg-[#080808] border-b border-[#222]">
+        <div className="container mx-auto px-6 md:px-10">
+          <div className="flex flex-col md:flex-row justify-between items-end gap-10">
+
+            <div className="max-w-3xl">
+              <div className="flex items-center gap-3 mb-6">
+                <div className="h-[2px] w-12 bg-geo-yellow shadow-[0_0_15px_#FFCC00]"></div>
+                <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
+                  {t('eyebrow')}
+                </span>
+              </div>
+              <h1 className="text-3xl md:text-5xl font-black text-white uppercase tracking-tight leading-none mb-6">
+                {t('title')}
+              </h1>
+              <p className="text-gray-500 text-sm font-mono uppercase tracking-widest border-l-2 border-[#333] pl-4">
+                {t('subtitle')}
+              </p>
+            </div>
+
+            {/* System indicators — desktop */}
+            <div className="hidden md:flex gap-6 flex-shrink-0">
+              {(Object.entries(SYSTEM_META) as [SystemKey, typeof SYSTEM_META[SystemKey]][]).map(([key, meta]) => {
+                const Icon = meta.icon;
+                return (
+                  <div key={key} className="flex flex-col items-center gap-2">
+                    <div className="w-10 h-10 border border-[#2a2a2a] flex items-center justify-center">
+                      <Icon className="w-5 h-5" style={{ color: meta.color }} strokeWidth={1.5} />
+                    </div>
+                    <span className="text-[9px] text-gray-600 font-black tracking-widest uppercase">
+                      {key.toUpperCase()}
+                    </span>
+                  </div>
+                );
+              })}
+            </div>
+
+          </div>
         </div>
+      </section>
+
+      <main className="flex-1 flex flex-col items-center justify-start px-4 py-14 md:py-20">
 
         {!isResult ? (
           <>

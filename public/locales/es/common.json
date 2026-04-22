@@ -196,5 +196,9 @@
     "subtitle": "Dirección incorrecta o la página ha sido movida.",
     "home": "INICIO",
     "back": "VOLVER"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "sectors": "Sectores"
   }
 }

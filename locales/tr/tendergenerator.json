@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "GEONYX | İhale Metni Oluşturucu",
+    "description": "Endüstriyel zemin teknik özellikleri oluşturmak için ücretsiz araç. Parametreleri doldurun ve GEONYX ARMOR, CHEM, THERM veya HYDRO için hazır ihale metni alın."
+  },
+  "eyebrow": "ARAÇ",
+  "title": "İHALE METNİ OLUŞTURUCU",
+  "subtitle": "Tesis parametrelerini doldurun ve ihale belgelerine eklenmeye hazır teknik metin alın.",
+  "field": {
+    "projectName": "PROJE ADI (İSTEĞE BAĞLI)",
+    "projectNamePlaceholder": "örn. Plovdiv Lojistik Merkezi",
+    "facilityType": "TESİS TİPİ",
+    "area": "ZEMİN ALANI",
+    "system": "GEONYX SİSTEMİ",
+    "lifespan": "HİZMET ÖMRÜ",
+    "warranty": "GARANTİ",
+    "requirements": "ÖZEL GEREKSİNİMLER",
+    "years": "YIL"
+  },
+  "facility": {
+    "logistics": "Lojistik Merkezi / Depo",
+    "factory": "Üretim / Makine Fabrikası",
+    "foodpharma": "Gıda ve İlaç Endüstrisi",
+    "chemical": "Kimya Tesisi / Rafineri",
+    "foundry": "Döküm / Fırın / Isıl İşlem",
+    "underground": "Yeraltı / Nemli Ortam",
+    "workshop": "Atölye / Bakım Tesisi"
+  },
+  "system": {
+    "mixed": "ARMOR+CHEM"
+  },
+  "req": {
+    "esd": "Antistatik kaplama (ESD kontrolü)",
+    "haccp": "Hijyenik yüzeyler (HACCP/GMP)",
+    "fire": "Yangın dayanımı ve kıvılcım koruması",
+    "waterproof": "Su yalıtımı / Nem bariyeri",
+    "superflat": "Süper düz zemin (VNA / robotik)",
+    "dustfree": "Sıfır toz emisyonu",
+    "chemical": "Kimyasal direnç (pH 0–14)",
+    "none": "özel gereksinim yok"
+  },
+  "output": {
+    "label": "OLUŞTURULAN İHALE METNİ",
+    "copy": "KOPYALA",
+    "copied": "KOPYALANDI",
+    "hint": "Metni ihale belgelerine eklemeden önce gözden geçirin ve gerektiğinde uyarlayın.",
+    "line1": "{{facility}} tesisindeki zemin kaplamaları, toplam {{area}} m² alana sahip olup {{system}} tipi monolitik mineral sistem olarak uygulanacaktır.",
+    "line1WithProject": "„{{name}}" – {{facility}} tesisindeki zemin kaplamaları, toplam {{area}} m² alana sahip olup {{system}} tipi monolitik mineral sistem olarak uygulanacaktır.",
+    "reqHeader": "Sistem şunları sağlamalıdır:",
+    "lifespanLine": "Planlanan yükler altında en az {{lifespan}} yıl hizmet ömrü",
+    "dust": "Düşük toz emisyonu ve kalıcı mekanik dayanıklılık",
+    "repair": "Tesisin tamamen kapatılmadan yerel onarım imkânı",
+    "standard": "EN 13813 ve geçerli standartlara kanıtlanmış uygunluk",
+    "warrantyLine": "Tamamlanan kaplama için garanti süresi: en az {{warranty}} yıl.",
+    "reference": "Yüklenici, teklif sunarken en az {{area}} m² kurulu alana sahip referans proje sunmakla yükümlüdür. Malzeme sistemi, çalışmalara başlamadan önce tasarımcı tarafından onaylanmalıdır."
+  }
+}

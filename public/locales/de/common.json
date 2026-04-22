@@ -196,5 +196,9 @@
     "subtitle": "Falsche Adresse oder die Seite wurde verschoben.",
     "home": "ZUR STARTSEITE",
     "back": "ZURÜCK"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "sectors": "Sektoren"
   }
 }

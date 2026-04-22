@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "GEONYX | Tender Text Generator",
+    "description": "Free tool for generating technical specifications for industrial floors. Fill in the parameters and get a ready-made tender text for GEONYX ARMOR, CHEM, THERM or HYDRO."
+  },
+  "eyebrow": "TOOL",
+  "title": "TENDER TEXT GENERATOR",
+  "subtitle": "Fill in the facility parameters and get a ready-made technical text for tender documentation.",
+  "field": {
+    "projectName": "PROJECT NAME (OPTIONAL)",
+    "projectNamePlaceholder": "e.g. Logistics Centre Plovdiv",
+    "facilityType": "FACILITY TYPE",
+    "area": "FLOOR AREA",
+    "system": "GEONYX SYSTEM",
+    "lifespan": "SERVICE LIFE",
+    "warranty": "WARRANTY",
+    "requirements": "SPECIAL REQUIREMENTS",
+    "years": "YRS."
+  },
+  "facility": {
+    "logistics": "Logistics Centre / Warehouse",
+    "factory": "Manufacturing / Machine Plant",
+    "foodpharma": "Food & Pharmaceutical Industry",
+    "chemical": "Chemical Plant / Refinery",
+    "foundry": "Foundry / Furnace / Thermal Processing",
+    "underground": "Underground / Wet Environment",
+    "workshop": "Workshop / Maintenance Facility"
+  },
+  "system": {
+    "mixed": "ARMOR+CHEM"
+  },
+  "req": {
+    "esd": "Anti-static coating (ESD control)",
+    "haccp": "Hygienic surfaces (HACCP/GMP)",
+    "fire": "Fire resistance & spark protection",
+    "waterproof": "Waterproofing / Moisture barrier",
+    "superflat": "Superflat floor (VNA / robotics)",
+    "dustfree": "Zero dust emission",
+    "chemical": "Chemical resistance (pH 0–14)",
+    "none": "no special requirements"
+  },
+  "output": {
+    "label": "GENERATED TENDER TEXT",
+    "copy": "COPY",
+    "copied": "COPIED",
+    "hint": "Review and adapt the text as needed before including it in tender documentation.",
+    "line1": "The floor coatings at {{facility}}, with a total area of {{area}} m², shall be executed as a monolithic mineral system type {{system}}.",
+    "line1WithProject": "The floor coatings at the facility „{{name}}" – {{facility}}, with a total area of {{area}} m², shall be executed as a monolithic mineral system type {{system}}.",
+    "reqHeader": "The system shall provide:",
+    "lifespanLine": "Service life of at least {{lifespan}} years under the planned loads",
+    "dust": "Low dust emission and lasting mechanical resistance",
+    "repair": "Possibility of local repairs without full shutdown of the facility",
+    "standard": "Proven compliance with EN 13813 and applicable standards",
+    "warrantyLine": "Warranty period for the completed coating: minimum {{warranty}} years.",
+    "reference": "The contractor is required to submit a reference project with a minimum installed area of {{area}} m² when submitting the bid. The material system must be approved by the designer before commencement of works."
+  }
+}

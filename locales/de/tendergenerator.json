@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "GEONYX | Ausschreibungstext-Generator",
+    "description": "Kostenloses Tool zur Erstellung technischer Spezifikationen für Industrieböden. Füllen Sie die Parameter aus und erhalten Sie einen fertigen Ausschreibungstext für GEONYX ARMOR, CHEM, THERM oder HYDRO."
+  },
+  "eyebrow": "WERKZEUG",
+  "title": "AUSSCHREIBUNGSTEXT-GENERATOR",
+  "subtitle": "Füllen Sie die Objektparameter aus und erhalten Sie einen fertigen technischen Text für die Ausschreibungsunterlagen.",
+  "field": {
+    "projectName": "OBJEKTNAME (OPTIONAL)",
+    "projectNamePlaceholder": "z.B. Logistikzentrum Plovdiv",
+    "facilityType": "OBJEKTTYP",
+    "area": "BODENFLÄCHE",
+    "system": "GEONYX-SYSTEM",
+    "lifespan": "NUTZUNGSDAUER",
+    "warranty": "GARANTIE",
+    "requirements": "BESONDERE ANFORDERUNGEN",
+    "years": "J."
+  },
+  "facility": {
+    "logistics": "Logistikzentrum / Lager",
+    "factory": "Produktion / Maschinenfabrik",
+    "foodpharma": "Lebensmittel- / Pharmaindustrie",
+    "chemical": "Chemiewerk / Raffinerie",
+    "foundry": "Gießerei / Ofen / Wärmebehandlung",
+    "underground": "Unterirdisch / Feuchte Umgebung",
+    "workshop": "Werkstatt / Wartungsanlage"
+  },
+  "system": {
+    "mixed": "ARMOR+CHEM"
+  },
+  "req": {
+    "esd": "Antistatischer Belag (ESD-Schutz)",
+    "haccp": "Hygienische Oberflächen (HACCP/GMP)",
+    "fire": "Feuerwiderstand und Funkenprotektion",
+    "waterproof": "Abdichtung / Feuchtigkeitssperre",
+    "superflat": "Superflacher Boden (VNA / Robotik)",
+    "dustfree": "Null-Staubemission",
+    "chemical": "Chemikalienbeständigkeit (pH 0–14)",
+    "none": "keine besonderen Anforderungen"
+  },
+  "output": {
+    "label": "GENERIERTER AUSSCHREIBUNGSTEXT",
+    "copy": "KOPIEREN",
+    "copied": "KOPIERT",
+    "hint": "Bitte prüfen und passen Sie den Text vor der Aufnahme in die Ausschreibungsunterlagen an.",
+    "line1": "Die Bodenbeschichtungen bei {{facility}}, mit einer Gesamtfläche von {{area}} m², sind als monolithisches Mineralsystem Typ {{system}} auszuführen.",
+    "line1WithProject": "Die Bodenbeschichtungen des Objekts „{{name}}" – {{facility}}, mit einer Gesamtfläche von {{area}} m², sind als monolithisches Mineralsystem Typ {{system}} auszuführen.",
+    "reqHeader": "Das System muss gewährleisten:",
+    "lifespanLine": "Nutzungsdauer mindestens {{lifespan}} Jahre unter den geplanten Lasten",
+    "dust": "Geringe Staubemission und dauerhafte mechanische Widerstandsfähigkeit",
+    "repair": "Möglichkeit örtlicher Reparaturen ohne vollständige Betriebsunterbrechung",
+    "standard": "Nachgewiesene Konformität mit EN 13813 und den geltenden Normen",
+    "warrantyLine": "Garantiezeit für den fertiggestellten Belag: mindestens {{warranty}} Jahre.",
+    "reference": "Der Auftragnehmer ist verpflichtet, ein Referenzprojekt mit einer Mindestinstallationsfläche von {{area}} m² bei der Angebotsabgabe vorzulegen. Das Materialsystem muss vor Baubeginn vom Planer genehmigt werden."
+  }
+}

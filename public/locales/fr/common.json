@@ -196,5 +196,9 @@
     "subtitle": "Adresse incorrecte ou la page a été déplacée.",
     "home": "ACCUEIL",
     "back": "RETOUR"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "sectors": "Secteurs"
   }
 }

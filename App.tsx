@@ -60,6 +60,7 @@ const PrivacyPolicyPage     = lazy$(() => import('./components/PrivacyPolicyPage
 const TermsConditionsPage   = lazy$(() => import('./components/TermsConditionsPage'),           'TermsConditionsPage');
 const DigitalBusinessCard   = lazy$(() => import('./components/DigitalBusinessCard'),           'DigitalBusinessCard');
 const SystemSelectorPage    = lazy$(() => import('./components/SystemSelectorPage'),             'SystemSelectorPage');
+const TenderGeneratorPage   = lazy$(() => import('./components/TenderGeneratorPage'),            'TenderGeneratorPage');
 
 const SUPPORTED_LANGS = ['bg', 'en', 'de', 'fr', 'es', 'tr', 'ru', 'el'];
 
@@ -182,6 +183,7 @@ function App() {
               <Route path="sectors" element={<SectorsHubPage />} />
               <Route path="systems" element={<SystemsHubPage />} />
               <Route path="system-selector" element={<SystemSelectorPage />} />
+              <Route path="tender-generator" element={<TenderGeneratorPage />} />
 
               {/* Sector pages */}
               <Route path="food-industry" element={<FoodPharmaPage />} />
