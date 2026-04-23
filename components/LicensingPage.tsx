@@ -32,78 +32,75 @@ export const LicensingPage: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[#050505] flex flex-col">
+    <div className="min-h-screen bg-[#0b0c10] font-sans text-gray-200 overflow-x-hidden selection:bg-geo-yellow selection:text-black">
       <Navbar />
 
       {/* ── HERO ──────────────────────────────────────────────────────── */}
-      <section className="relative min-h-[90vh] flex flex-col justify-end border-b border-[#222] overflow-hidden">
+      <section className="relative min-h-[85vh] flex items-center justify-center border-b border-[#222] overflow-hidden bg-black">
         <div className="absolute inset-0 z-0">
-          <div className="absolute inset-0">
-            <SafeImage
-              src="/GEONYX-LICENSING-HERO.webp"
-              className="w-full h-full object-cover opacity-55"
-              alt="GEONYX Licensing"
-            />
-          </div>
-          <div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-[#050505]/55 to-transparent" />
-          <div className="absolute inset-0 bg-gradient-to-r from-[#050505]/85 via-[#050505]/30 to-transparent" />
+          <SafeImage
+            src="/GEONYX-LICENSING-HERO.webp"
+            className="w-full h-full object-cover opacity-60"
+            alt="GEONYX Licensing"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-[#050505]/60 to-transparent" />
         </div>
 
-        <div className="relative z-10 container mx-auto px-6 md:px-10 pb-0 pt-40">
-          <div className="max-w-3xl pb-16">
-            <div className="flex items-center gap-3 mb-8">
+        <div className="relative z-10 container mx-auto px-6 pt-20 text-left">
+          <div className="max-w-5xl">
+            <div className="flex items-center justify-start gap-3 mb-8">
               <div className="h-[2px] w-12 bg-geo-yellow shadow-[0_0_15px_#FFCC00]" />
               <span className="text-geo-yellow font-black uppercase tracking-[0.3em] text-xs md:text-sm">
                 {t('hero.eyebrow')}
               </span>
             </div>
 
-            <h1 className="text-5xl md:text-7xl lg:text-8xl font-black text-white uppercase tracking-tighter leading-none mb-6">
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-[1.1] mb-6 uppercase tracking-tighter drop-shadow-2xl mix-blend-difference">
               {t('hero.title1')}<br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-geo-yellow to-yellow-600">
                 {t('hero.title2')}
               </span>
             </h1>
 
-            <p className="text-gray-300 text-base md:text-lg leading-relaxed max-w-xl border-l-2 border-geo-yellow pl-5 mb-10">
+            <p className="text-xl md:text-2xl text-gray-300 mb-12 font-light max-w-4xl leading-relaxed border-l-4 border-geo-yellow pl-6 py-2 bg-black/30 backdrop-blur-sm">
               {t('hero.description')}
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
               <button
                 onClick={scrollToForm}
-                className="px-8 py-4 bg-geo-yellow text-black text-xs font-black uppercase tracking-widest hover:bg-white transition-colors flex items-center justify-center gap-2"
+                className="h-12 px-8 bg-geo-yellow text-black text-sm font-bold tracking-wider uppercase hover:bg-white transition-colors flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(255,204,0,0.15)]"
               >
                 {t('hero.btn1')} <ArrowRight className="w-4 h-4" />
               </button>
               <button
                 onClick={() => document.getElementById('ip')?.scrollIntoView({ behavior: 'smooth' })}
-                className="px-8 py-4 border border-white/30 text-white text-xs font-black uppercase tracking-widest hover:border-geo-yellow hover:text-geo-yellow transition-colors"
+                className="h-12 px-8 border border-white/30 text-white text-sm font-bold tracking-wide uppercase hover:bg-geo-yellow hover:text-black hover:border-geo-yellow transition-colors flex items-center justify-center gap-2"
               >
                 {t('hero.btn2')}
               </button>
             </div>
           </div>
         </div>
+      </section>
 
-        {/* Stats bar */}
-        <div className="relative z-10 border-t border-[#222] bg-[#050505]/90 backdrop-blur-sm">
-          <div className="container mx-auto px-6 md:px-10">
-            <div className="grid grid-cols-3 divide-x divide-[#222]">
-              {['stat1', 'stat2', 'stat3'].map(s => (
-                <div key={s} className="py-6 px-4 md:px-10 text-center">
-                  <div className="text-3xl md:text-4xl font-black text-geo-yellow mb-1 shadow-[0_0_30px_#FFCC0040]">
-                    {t(`hero.${s}Val`)}
-                  </div>
-                  <div className="text-[9px] md:text-[10px] font-black uppercase tracking-[0.2em] text-gray-600">
-                    {t(`hero.${s}Label`)}
-                  </div>
+      {/* Stats bar */}
+      <div className="border-b border-[#222] bg-[#0b0c10]">
+        <div className="container mx-auto px-6">
+          <div className="grid grid-cols-3 divide-x divide-[#222]">
+            {['stat1', 'stat2', 'stat3'].map(s => (
+              <div key={s} className="py-8 px-4 md:px-10 text-center">
+                <div className="text-3xl md:text-4xl font-black text-geo-yellow mb-1">
+                  {t(`hero.${s}Val`)}
                 </div>
-              ))}
-            </div>
+                <div className="text-[9px] md:text-[10px] font-black uppercase tracking-[0.2em] text-gray-600">
+                  {t(`hero.${s}Label`)}
+                </div>
+              </div>
+            ))}
           </div>
         </div>
-      </section>
+      </div>
 
       {/* ── ZIGZAG BLOCKS ─────────────────────────────────────────────── */}
       {blocks.map(({ key, img, reverse, bg }) => (
