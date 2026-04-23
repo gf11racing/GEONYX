@@ -29,6 +29,7 @@ i18n
     defaultNS: 'common',
     backend: {
       loadPath: '/locales/{{lng}}/{{ns}}.json',
+      queryStringParams: { v: '2' },
     },
     interpolation: {
       escapeValue: false,
