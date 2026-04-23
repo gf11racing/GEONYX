@@ -243,12 +243,12 @@ export const Navbar: React.FC = () => {
             : 'bg-transparent border-transparent py-6'
         }`}
       >
-        <div className="container mx-auto px-6 md:px-10 flex justify-between items-center relative">
-          <Link to={`/${lang}`} className="flex items-center cursor-pointer select-none relative z-50">
+        <div className="max-w-[1600px] mx-auto w-full px-6 md:px-10 flex items-center relative">
+          <Link to={`/${lang}`} className="flex items-center cursor-pointer select-none relative z-50 flex-shrink-0">
             <img src={logoGEONYX} alt="GEONYX" className="h-7 md:h-9 w-auto object-contain !bg-transparent" />
           </Link>
 
-          <div className="hidden lg:flex items-center gap-6 xl:gap-8 absolute left-1/2 transform -translate-x-1/2 h-full">
+          <div className="hidden lg:flex items-center justify-center flex-1 gap-3 xl:gap-5 h-full px-4">
             {NAV_ITEMS.map((item) => (
               <div key={item.label} className="relative group h-full flex items-center">
                 {item.menuKey ? (
@@ -259,19 +259,19 @@ export const Navbar: React.FC = () => {
                   >
                     <button
                       onClick={() => handleNavigation(item.href)}
-                      className={`flex items-center gap-1 text-sm font-medium uppercase tracking-wide transition-colors focus:outline-none ${
+                      className={`flex items-center gap-1 text-[13px] font-medium uppercase tracking-normal whitespace-nowrap transition-colors focus:outline-none ${
                         activeMegaMenu === item.menuKey ? 'text-geo-yellow' : 'text-white hover:text-geo-yellow'
                       }`}
                     >
                       {item.label}
-                      <ChevronDown size={14} className={`transition-transform duration-300 ${activeMegaMenu === item.menuKey ? 'rotate-180' : ''}`} />
+                      <ChevronDown size={13} className={`transition-transform duration-300 flex-shrink-0 ${activeMegaMenu === item.menuKey ? 'rotate-180' : ''}`} />
                     </button>
                   </div>
                 ) : (
                   <div onMouseEnter={() => handleMouseEnterLink(undefined)} className="h-full flex items-center">
                     <button
                       onClick={() => handleNavigation(item.href)}
-                      className="flex items-center gap-1 text-sm font-medium uppercase tracking-wide text-white hover:text-geo-yellow transition-colors focus:outline-none"
+                      className="flex items-center gap-1 text-[13px] font-medium uppercase tracking-normal whitespace-nowrap text-white hover:text-geo-yellow transition-colors focus:outline-none"
                     >
                       {item.label}
                     </button>
@@ -281,7 +281,7 @@ export const Navbar: React.FC = () => {
             ))}
           </div>
 
-          <div className="hidden lg:flex items-center gap-8">
+          <div className="hidden lg:flex items-center gap-6 flex-shrink-0">
             {/* Language Switcher */}
             <div className="relative" onMouseEnter={() => setIsLangMenuOpen(true)} onMouseLeave={() => setIsLangMenuOpen(false)}>
               <button className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-white hover:text-geo-yellow transition-colors">
