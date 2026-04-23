@@ -31,7 +31,15 @@
   "classification": {
     "eyebrow": "NORMES D'INTÉGRATION",
     "title": "NORMES DE CLASSIFICATION MONDIALES",
-    "description": "Prêt pour les marchés publics internationaux. Tous les actifs numériques GEONYX sont pré-classifiés et codés selon les normes mondiales de référence (UniClass 2015 pour l'Europe/UK et MasterFormat/OmniClass pour l'Amérique du Nord). Cela garantit une intégration transparente dans les spécifications mondiales."
+    "description": "Prêt pour les marchés publics internationaux. Tous les actifs numériques GEONYX sont pré-classifiés et codés selon les normes mondiales de référence (UniClass 2015 pour l'Europe/UK et MasterFormat/OmniClass pour l'Amérique du Nord). Cela garantit une intégration transparente dans les spécifications mondiales.",
+    "regions": {
+      "eu": "EUROPE / UK",
+      "na": "AMÉRIQUE DU NORD",
+      "gl": "MONDIAL",
+      "euDesc": "Systèmes de sols monolithiques",
+      "naDesc": "Revêtements de sol fluides",
+      "glDesc": "Revêtements non combustibles"
+    }
   },
   "lifecycle": {
     "eyebrow": "6D BIM",

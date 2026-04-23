@@ -220,18 +220,48 @@ export const CadBimPage: React.FC = () => {
                             </div>
                        </div>
                    </div>
-                   <div className="relative h-[300px] border border-[#222] bg-[#111] overflow-hidden flex items-center justify-center p-8">
-                        <div className="font-mono text-xs text-geo-yellow leading-loose w-full">
-                            <span className="text-gray-500">// Geonyx_System_Properties.json</span><br/>
-                            {'{'}<br/>
-                            &nbsp;&nbsp;"Classification": "Pr_25_30_04",<br/>
-                            &nbsp;&nbsp;"Uniclass_Description": "Resinous flooring systems",<br/>
-                            &nbsp;&nbsp;"MasterFormat": "09 67 00",<br/>
-                            &nbsp;&nbsp;"OmniClass": "23-13 31 17",<br/>
-                            &nbsp;&nbsp;"FireRating": "Class A1fl",<br/>
-                            &nbsp;&nbsp;"CompressiveStrength": "110MPa"<br/>
-                            {'}'}
-                        </div>
+                   <div className="flex flex-col gap-3">
+                        {[
+                          {
+                            regionKey: 'eu',
+                            standards: ['UniClass 2015', 'ISO 12006-2'],
+                            codes: ['Pr_25_30_04'],
+                            bar: 'w-full',
+                          },
+                          {
+                            regionKey: 'na',
+                            standards: ['MasterFormat', 'OmniClass / CSI'],
+                            codes: ['09 67 00', '23-13 31 17'],
+                            bar: 'w-4/5',
+                          },
+                          {
+                            regionKey: 'gl',
+                            standards: ['EN 13813', 'EN 13501-1'],
+                            codes: ['SR-P4', 'A1fl'],
+                            bar: 'w-3/5',
+                          },
+                        ].map(({ regionKey, standards, codes, bar }) => (
+                          <div key={regionKey} className="border border-[#222] bg-[#0a0a0a] p-5 hover:border-geo-yellow/30 transition-colors">
+                            <div className="flex items-center justify-between mb-3">
+                              <span className="text-[10px] font-black uppercase tracking-[0.3em] text-gray-500">
+                                {t(`classification.regions.${regionKey}`)}
+                              </span>
+                              <div className="flex gap-2">
+                                {codes.map(c => (
+                                  <span key={c} className="text-geo-yellow font-black text-xs font-mono bg-geo-yellow/5 border border-geo-yellow/20 px-2 py-0.5">{c}</span>
+                                ))}
+                              </div>
+                            </div>
+                            <div className="flex gap-3 mb-3">
+                              {standards.map(s => (
+                                <span key={s} className="text-gray-500 text-[10px] font-bold uppercase tracking-widest">{s}</span>
+                              ))}
+                            </div>
+                            <div className="h-px bg-[#1a1a1a] w-full">
+                              <div className={`h-px bg-geo-yellow/40 ${bar} transition-all`} />
+                            </div>
+                          </div>
+                        ))}
                    </div>
               </div>
           </div>

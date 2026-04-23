@@ -160,6 +160,11 @@ export const Footer: React.FC = () => {
               </li>
 
               <li className="flex items-center group">
+                <Phone className="w-5 h-5 text-gray-500 group-hover:text-geo-yellow mr-4 transition-colors" />
+                <a href="tel:+359894343990" className="text-gray-400 text-sm font-bold tracking-wide group-hover:text-geo-yellow transition-colors">+359 894 343 990</a>
+              </li>
+
+              <li className="flex items-center group">
                 <Mail className="w-5 h-5 text-gray-500 group-hover:text-geo-yellow mr-4 transition-colors" />
                 <span className="text-gray-400 text-sm font-normal hover:text-white transition-colors">office@geonyxgroup.com</span>
               </li>

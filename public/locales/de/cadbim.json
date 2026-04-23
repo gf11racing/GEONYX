@@ -31,7 +31,15 @@
   "classification": {
     "eyebrow": "INTEGRATIONSSTANDARDS",
     "title": "GLOBALE KLASSIFIKATIONSSTANDARDS",
-    "description": "Bereit für internationale Ausschreibungen. Alle digitalen Assets von GEONYX sind nach den führenden Weltstandards vorklassifiziert und kodiert (UniClass 2015 für Europa/UK und MasterFormat/OmniClass für Nordamerika). Dies gewährleistet eine nahtlose Integration in globale Ausschreibungen."
+    "description": "Bereit für internationale Ausschreibungen. Alle digitalen Assets von GEONYX sind nach den führenden Weltstandards vorklassifiziert und kodiert (UniClass 2015 für Europa/UK und MasterFormat/OmniClass für Nordamerika). Dies gewährleistet eine nahtlose Integration in globale Ausschreibungen.",
+    "regions": {
+      "eu": "EUROPA / UK",
+      "na": "NORDAMERIKA",
+      "gl": "GLOBAL",
+      "euDesc": "Monolithische Bodensysteme",
+      "naDesc": "Flüssig aufgebrachte Bodenbeläge",
+      "glDesc": "Nichtbrennbare Bodenbeläge"
+    }
   },
   "lifecycle": {
     "eyebrow": "6D BIM",

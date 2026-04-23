@@ -31,7 +31,15 @@
   "classification": {
     "eyebrow": "INTEGRATION STANDARDS",
     "title": "GLOBAL CLASSIFICATION STANDARDS",
-    "description": "Ready for international government procurement. All GEONYX digital assets are pre-classified and coded according to the world's leading standards (UniClass 2015 for Europe/UK and MasterFormat/OmniClass for North America). This ensures seamless integration into global specifications."
+    "description": "Ready for international government procurement. All GEONYX digital assets are pre-classified and coded according to the world's leading standards (UniClass 2015 for Europe/UK and MasterFormat/OmniClass for North America). This ensures seamless integration into global specifications.",
+    "regions": {
+      "eu": "EUROPE / UK",
+      "na": "NORTH AMERICA",
+      "gl": "GLOBAL",
+      "euDesc": "Monolithic flooring systems",
+      "naDesc": "Fluid-applied flooring",
+      "glDesc": "Non-combustible flooring"
+    }
   },
   "lifecycle": {
     "eyebrow": "6D BIM",

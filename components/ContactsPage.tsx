@@ -208,6 +208,10 @@ export const ContactsPage: React.FC = () => {
                           <a href="tel:+359897000011" className="text-white font-bold group-hover:text-geo-yellow transition-colors text-xl">+359 897 0000 11</a>
                       </div>
                       <div className="flex items-center gap-4 border-b border-[#222] pb-4 group cursor-pointer">
+                          <Phone className="w-6 h-6 text-gray-500 group-hover:text-geo-yellow flex-shrink-0 transition-colors" />
+                          <a href="tel:+359894343990" className="text-white font-bold group-hover:text-geo-yellow transition-colors text-xl">+359 894 343 990</a>
+                      </div>
+                      <div className="flex items-center gap-4 border-b border-[#222] pb-4 group cursor-pointer">
                           <Mail className="w-6 h-6 text-gray-500 group-hover:text-geo-yellow flex-shrink-0 transition-colors" />
                           <a href="mailto:sales@geonyxgroup.com" className="text-white font-bold group-hover:text-geo-yellow transition-colors">sales@geonyxgroup.com</a>
                       </div>

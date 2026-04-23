@@ -31,7 +31,15 @@
   "classification": {
     "eyebrow": "ENTEGRASYON STANDARTLARI",
     "title": "KÜRESEL SINIFLANDIRMA STANDARTLARI",
-    "description": "Uluslararası kamu ihalelerine hazır. Tüm GEONYX dijital varlıkları, dünya genelinde önde gelen standartlara (Avrupa/İngiltere için UniClass 2015 ve Kuzey Amerika için MasterFormat/OmniClass) göre önceden sınıflandırılmış ve kodlanmıştır. Bu, küresel spesifikasyonlara sorunsuz entegrasyon sağlar."
+    "description": "Uluslararası kamu ihalelerine hazır. Tüm GEONYX dijital varlıkları, dünya genelinde önde gelen standartlara (Avrupa/İngiltere için UniClass 2015 ve Kuzey Amerika için MasterFormat/OmniClass) göre önceden sınıflandırılmış ve kodlanmıştır. Bu, küresel spesifikasyonlara sorunsuz entegrasyon sağlar.",
+    "regions": {
+      "eu": "AVRUPA / UK",
+      "na": "KUZEY AMERİKA",
+      "gl": "KÜRESEL",
+      "euDesc": "Monolitik zemin sistemleri",
+      "naDesc": "Sıvı uygulanan zemin kaplamaları",
+      "glDesc": "Yanmaz zemin kaplamaları"
+    }
   },
   "lifecycle": {
     "eyebrow": "6D BIM",
