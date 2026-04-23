@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "GEONYX | Lizenzierung – IP, Technologietransfer, Joint Ventures",
+    "description": "Lizenzieren Sie die patentierten Geopolymer-Rezepturen von GEONYX, übertragen Sie die Technologie in die lokale Produktion oder gründen Sie ein Gemeinschaftsunternehmen für Großprojekte."
+  },
+  "hero": {
+    "eyebrow": "LIZENZIERUNG & PARTNERSCHAFT",
+    "title1": "GEONYX-TECHNOLOGIE",
+    "title2": "FÜR IHREN MARKT",
+    "description": "Die patentierten Geopolymer-Rezepturen von GEONYX sind für Lizenzierung, Transfer und Gemeinschaftsproduktion verfügbar. Wir suchen keine Kunden — wir wählen Partner aus.",
+    "btn1": "PARTNERSCHAFT BEANTRAGEN",
+    "btn2": "MODELLE ERKUNDEN",
+    "stat1Val": "4",
+    "stat1Label": "PATENTIERTE SYSTEME",
+    "stat2Val": "8+",
+    "stat2Label": "AKTIVE MÄRKTE",
+    "stat3Val": "20",
+    "stat3Label": "J. GARANTIERTE LEBENSDAUER"
+  },
+  "ip": {
+    "eyebrow": "MODELL 01",
+    "tag": "FÜR BETONHERSTELLER",
+    "title": "IP-LIZENZIERUNG",
+    "subtitle": "GEONYX auf Ihrem Markt produzieren",
+    "description": "Lizenzieren Sie unsere patentierten Geopolymer-Rezepturen und produzieren Sie GEONYX-Systeme für Ihre Region. Sie erhalten vollen Zugang zu den Formulierungen, QC-Standards und dem Recht zur Markennutzung.",
+    "i1": "Vollständige Rezepturbasis für alle 4 Systeme (ARMOR, CHEM, THERM, HYDRO)",
+    "i2": "QC-Protokolle, Qualitätsstandards und Prüfmethoden",
+    "i3": "Recht zur Nutzung der Marke GEONYX im lizenzierten Gebiet",
+    "i4": "Schulung des technischen Personals — vor Ort und remote",
+    "i5": "Laufende technische Unterstützung und Zugang zu neuen Entwicklungen"
+  },
+  "transfer": {
+    "eyebrow": "MODELL 02",
+    "tag": "FÜR LOKALE HERSTELLER",
+    "title": "TECHNOLOGIETRANSFER",
+    "subtitle": "Vollständige Unabhängigkeit mit lokalen Rohstoffen",
+    "description": "Vollständiger Transfer des Produktionsprozesses mit Anpassung an lokal verfügbare Rohstoffe und Zuschlagstoffe. Ihre Anlage, Ihre Materialien — unsere Technologie, Ihre Unabhängigkeit.",
+    "i1": "Anpassung der Rezeptur an lokal verfügbare Zuschlagstoffe und Zusatzmittel",
+    "i2": "Installation und Inbetriebnahme der Produktionslinie",
+    "i3": "Schulung des gesamten Produktions- und Technikteams",
+    "i4": "Vollständige Dokumentation: technische Spezifikationen und Arbeitsanweisungen",
+    "i5": "24-monatiger technischer Support nach Produktionsanlauf"
+  },
+  "jv": {
+    "eyebrow": "MODELL 03",
+    "tag": "FÜR INVESTOREN & BAUUNTERNEHMEN",
+    "title": "GEMEINSCHAFTSUNTERNEHMEN",
+    "subtitle": "Großprojekte. Geteiltes Risiko. Geteilter Erfolg.",
+    "description": "Für Flughäfen, Häfen, Industriezonen und Großinfrastruktur, wo Technologie und lokale Kapazität gemeinsam in einer Struktur arbeiten müssen.",
+    "i1": "Flexible JV-Modelle: 50/50, Revenue Share oder Lizenzgebühren",
+    "i2": "GEONYX bringt Technologie, IP und vollständige technische Aufsicht ein",
+    "i3": "Partner bringt lokale Kapazität, Rohstoffe und Marktzugang ein",
+    "i4": "Anwendbar für Flughäfen, Häfen, Industrieparks und Schieneninfrastruktur",
+    "i5": "Mindestprojektvolumen: 50.000 m² installierte Fläche"
+  },
+  "process": {
+    "eyebrow": "SO FUNKTIONIERT ES",
+    "title": "DER PARTNERSCHAFTSPROZESS",
+    "s1num": "01",
+    "s1title": "ANFRAGE",
+    "s1desc": "Senden Sie eine Interessensbekundung mit Informationen über Ihr Unternehmen, Zielmarkt und Partnerschaftsart.",
+    "s2num": "02",
+    "s2title": "BEWERTUNG",
+    "s2desc": "Unser Team bewertet die Eignung. Bei gegenseitigem Interesse senden wir ein Vertraulichkeits-NDA.",
+    "s3num": "03",
+    "s3title": "VERHANDLUNGEN",
+    "s3desc": "Technische und kaufmännische Verhandlungen. Definition von Umfang, Bedingungen und Vertragsstruktur.",
+    "s4num": "04",
+    "s4title": "START",
+    "s4desc": "Vertragsunterzeichnung und Onboarding — Schulung, Dokumentation, technischer Start.",
+    "disclaimer": "Wir berücksichtigen nur seriöse Bewerbungen von qualifizierten Unternehmen mit nachgewiesener Produktions- oder Investitionskapazität."
+  },
+  "cta": {
+    "eyebrow": "INTERESSENSBEKUNDUNG",
+    "title": "BEREIT FÜR EINE PARTNERSCHAFT?",
+    "subtitle": "Füllen Sie das Formular aus. Wir antworten innerhalb von 48 Stunden.",
+    "fieldCompany": "UNTERNEHMEN",
+    "fieldCountry": "LAND / REGION",
+    "fieldInterest": "ART DER PARTNERSCHAFT",
+    "fieldMessage": "NACHRICHT",
+    "opt1": "IP-LIZENZIERUNG",
+    "opt2": "TECHNOLOGIETRANSFER",
+    "opt3": "GEMEINSCHAFTSUNTERNEHMEN",
+    "btn": "BEWERBUNG SENDEN",
+    "disclaimer": "Alle Anfragen sind vertraulich. Wir berücksichtigen nur seriöse Bewerbungen qualifizierter Unternehmen.",
+    "successTitle": "BEWERBUNG EINGEREICHT",
+    "successDesc": "Wir werden uns innerhalb von 48 Arbeitsstunden bei Ihnen melden."
+  }
+}

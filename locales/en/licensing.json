@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "GEONYX | Licensing – IP, Technology Transfer, Joint Ventures",
+    "description": "License GEONYX's patented geopolymer formulas, transfer the technology to local production, or build a joint venture for large-scale infrastructure projects."
+  },
+  "hero": {
+    "eyebrow": "LICENSING & PARTNERSHIP",
+    "title1": "GEONYX TECHNOLOGY",
+    "title2": "FOR YOUR MARKET",
+    "description": "GEONYX's patented geopolymer formulas are available for licensing, transfer and joint production. We don't look for clients — we select partners.",
+    "btn1": "APPLY FOR PARTNERSHIP",
+    "btn2": "EXPLORE THE MODELS",
+    "stat1Val": "4",
+    "stat1Label": "PATENTED SYSTEMS",
+    "stat2Val": "8+",
+    "stat2Label": "ACTIVE MARKETS",
+    "stat3Val": "20",
+    "stat3Label": "YRS GUARANTEED LIFE"
+  },
+  "ip": {
+    "eyebrow": "MODEL 01",
+    "tag": "FOR CONCRETE MANUFACTURERS",
+    "title": "IP LICENSING",
+    "subtitle": "Produce GEONYX in your market",
+    "description": "License our patented geopolymer formulas and produce GEONYX systems for your region. You get full access to the formulations, QC standards and the right to use the brand.",
+    "i1": "Full formula base for all 4 systems (ARMOR, CHEM, THERM, HYDRO)",
+    "i2": "QC protocols, quality standards and testing methods",
+    "i3": "Right to use the GEONYX brand in the licensed territory",
+    "i4": "Technical personnel training — on-site and remote",
+    "i5": "Ongoing technical support and access to new developments"
+  },
+  "transfer": {
+    "eyebrow": "MODEL 02",
+    "tag": "FOR LOCAL MANUFACTURERS",
+    "title": "TECHNOLOGY TRANSFER",
+    "subtitle": "Full independence with local raw materials",
+    "description": "Full transfer of the production process with adaptation to locally available raw materials and aggregates. Your plant, your materials — our technology, your independence.",
+    "i1": "Formula adaptation to locally available aggregates and admixtures",
+    "i2": "Installation and commissioning of the production line",
+    "i3": "Training of the entire production and technical team",
+    "i4": "Full documentation: technical specifications and work instructions",
+    "i5": "24-month technical support after production start-up"
+  },
+  "jv": {
+    "eyebrow": "MODEL 03",
+    "tag": "FOR INVESTORS & CONTRACTORS",
+    "title": "JOINT VENTURES",
+    "subtitle": "Large-scale projects. Shared risk. Shared success.",
+    "description": "For airports, ports, industrial zones and large-scale infrastructure where technology and local capacity must work together in a single structure.",
+    "i1": "Flexible JV models: 50/50, revenue share or royalty licensing",
+    "i2": "GEONYX contributes technology, IP and full technical supervision",
+    "i3": "Partner contributes local capacity, raw materials and market access",
+    "i4": "Applicable to airports, ports, industrial parks and rail infrastructure",
+    "i5": "Minimum project volume: 50,000 m² installed area"
+  },
+  "process": {
+    "eyebrow": "HOW IT WORKS",
+    "title": "THE PARTNERSHIP PROCESS",
+    "s1num": "01",
+    "s1title": "INQUIRY",
+    "s1desc": "Submit an expression of interest with information about your company, target market and type of partnership.",
+    "s2num": "02",
+    "s2title": "EVALUATION",
+    "s2desc": "Our team evaluates the fit. If there is mutual interest, we send a confidentiality NDA.",
+    "s3num": "03",
+    "s3title": "NEGOTIATION",
+    "s3desc": "Technical and commercial negotiations. Defining scope, terms and contractual structure.",
+    "s4num": "04",
+    "s4title": "LAUNCH",
+    "s4desc": "Contract signing and onboarding — training, documentation, technical launch.",
+    "disclaimer": "We only consider serious applications from qualified companies with proven manufacturing or investment capacity."
+  },
+  "cta": {
+    "eyebrow": "EXPRESSION OF INTEREST",
+    "title": "READY FOR PARTNERSHIP?",
+    "subtitle": "Fill in the form. We will respond within 48 hours.",
+    "fieldCompany": "COMPANY",
+    "fieldCountry": "COUNTRY / REGION",
+    "fieldInterest": "TYPE OF PARTNERSHIP",
+    "fieldMessage": "MESSAGE",
+    "opt1": "IP LICENSING",
+    "opt2": "TECHNOLOGY TRANSFER",
+    "opt3": "JOINT VENTURE",
+    "btn": "SUBMIT APPLICATION",
+    "disclaimer": "All enquiries are confidential. We only consider serious applications from qualified companies.",
+    "successTitle": "APPLICATION SUBMITTED",
+    "successDesc": "We will contact you within 48 business hours."
+  }
+}

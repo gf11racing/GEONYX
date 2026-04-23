@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "GEONYX | Lisans – IP, Teknoloji Transferi, Ortak Girişimler",
+    "description": "GEONYX'in patentli jeopolimer formüllerini lisanslayın, teknolojiyi yerel üretime aktarın veya büyük ölçekli altyapı projeleri için ortak girişim kurun."
+  },
+  "hero": {
+    "eyebrow": "LİSANS VE ORTAKLIK",
+    "title1": "GEONYX TEKNOLOJİSİ",
+    "title2": "SİZİN PAZARINIZ İÇİN",
+    "description": "GEONYX'in patentli jeopolimer formülleri lisanslama, transfer ve ortak üretim için kullanılabilir. Müşteri aramıyoruz — ortak seçiyoruz.",
+    "btn1": "ORTAKLIK BAŞVURUSU YAP",
+    "btn2": "MODELLERİ İNCELE",
+    "stat1Val": "4",
+    "stat1Label": "PATENTLİ SİSTEM",
+    "stat2Val": "8+",
+    "stat2Label": "AKTİF PAZAR",
+    "stat3Val": "20",
+    "stat3Label": "YIL GARANTİLİ ÖMÜR"
+  },
+  "ip": {
+    "eyebrow": "MODEL 01",
+    "tag": "BETON ÜRETİCİLERİ İÇİN",
+    "title": "IP LİSANSLAMA",
+    "subtitle": "GEONYX'i kendi pazarınızda üretin",
+    "description": "Patentli jeopolimer formüllerimizi lisanslayın ve bölgeniz için GEONYX sistemleri üretin. Formülasyonlara, KG standartlarına ve marka kullanım hakkına tam erişim elde edersiniz.",
+    "i1": "4 sistem için tam formül tabanı (ARMOR, CHEM, THERM, HYDRO)",
+    "i2": "KG protokolleri, kalite standartları ve test yöntemleri",
+    "i3": "Lisanslanan bölgede GEONYX markasını kullanma hakkı",
+    "i4": "Teknik personel eğitimi — yerinde ve uzaktan",
+    "i5": "Sürekli teknik destek ve yeni gelişmelere erişim"
+  },
+  "transfer": {
+    "eyebrow": "MODEL 02",
+    "tag": "YEREL ÜRETİCİLER İÇİN",
+    "title": "TEKNOLOJİ TRANSFERİ",
+    "subtitle": "Yerel hammaddelerle tam bağımsızlık",
+    "description": "Yerel olarak temin edilebilen hammadde ve agregalara uyarlama ile üretim sürecinin tam transferi. Sizin tesisiniz, sizin malzemeleriniz — bizim teknolojimiz, sizin bağımsızlığınız.",
+    "i1": "Formülün yerel agrega ve katkı maddeleriyle uyumlu hale getirilmesi",
+    "i2": "Üretim hattının kurulumu ve devreye alınması",
+    "i3": "Tüm üretim ve teknik ekibin eğitimi",
+    "i4": "Tam dokümantasyon: teknik özellikler ve çalışma talimatları",
+    "i5": "Üretim başlangıcından sonra 24 aylık teknik destek"
+  },
+  "jv": {
+    "eyebrow": "MODEL 03",
+    "tag": "YATIRIMCILAR VE MÜTEAHHİTLER İÇİN",
+    "title": "ORTAK GİRİŞİMLER",
+    "subtitle": "Büyük projeler. Paylaşılan risk. Paylaşılan başarı.",
+    "description": "Teknoloji ve yerel kapasitenin tek bir yapıda birlikte çalışması gereken havalimanları, limanlar, sanayi bölgeleri ve büyük ölçekli altyapı için.",
+    "i1": "Esnek JV modelleri: 50/50, gelir paylaşımı veya lisans royaltisi",
+    "i2": "GEONYX teknolojiyi, fikri mülkiyeti ve tam teknik gözetimi sağlar",
+    "i3": "Ortak yerel kapasiteyi, hammaddeleri ve pazar erişimini sağlar",
+    "i4": "Havalimanları, limanlar, sanayi parkları ve demiryolu altyapısı için uygulanabilir",
+    "i5": "Minimum proje hacmi: 50.000 m² kurulu alan"
+  },
+  "process": {
+    "eyebrow": "NASIL ÇALIŞIR",
+    "title": "ORTAKLIK SÜRECİ",
+    "s1num": "01",
+    "s1title": "BAŞVURU",
+    "s1desc": "Şirketiniz, hedef pazarınız ve ortaklık türü hakkında bilgi içeren bir ilgi beyanı gönderin.",
+    "s2num": "02",
+    "s2title": "DEĞERLENDİRME",
+    "s2desc": "Ekibimiz uyumluluğu değerlendirir. Karşılıklı ilgi olması durumunda gizlilik NDA'sı göndeririz.",
+    "s3num": "03",
+    "s3title": "MÜZAKERE",
+    "s3desc": "Teknik ve ticari müzakereler. Kapsam, koşullar ve sözleşme yapısının belirlenmesi.",
+    "s4num": "04",
+    "s4title": "BAŞLANGIÇ",
+    "s4desc": "Sözleşme imzalama ve katılım süreci — eğitim, dokümantasyon, teknik başlangıç.",
+    "disclaimer": "Yalnızca kanıtlanmış üretim veya yatırım kapasitesine sahip nitelikli şirketlerin ciddi başvurularını değerlendiriyoruz."
+  },
+  "cta": {
+    "eyebrow": "İLGİ BEYANI",
+    "title": "ORTAKLIĞA HAZIR MISINIZ?",
+    "subtitle": "Formu doldurun. 48 saat içinde yanıt vereceğiz.",
+    "fieldCompany": "ŞİRKET",
+    "fieldCountry": "ÜLKE / BÖLGE",
+    "fieldInterest": "ORTAKLIK TÜRÜ",
+    "fieldMessage": "MESAJ",
+    "opt1": "IP LİSANSLAMA",
+    "opt2": "TEKNOLOJİ TRANSFERİ",
+    "opt3": "ORTAK GİRİŞİM",
+    "btn": "BAŞVURU GÖNDER",
+    "disclaimer": "Tüm sorular gizlidir. Yalnızca nitelikli şirketlerin ciddi başvurularını değerlendiriyoruz.",
+    "successTitle": "BAŞVURU GÖNDERİLDİ",
+    "successDesc": "48 iş saati içinde sizinle iletişime geçeceğiz."
+  }
+}

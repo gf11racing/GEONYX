@@ -6,7 +6,8 @@
     "references": "REFERENCIAS",
     "company": "EMPRESA",
     "contacts": "CONTACTOS",
-    "projectInquiry": "CONSULTA DE PROYECTO"
+    "projectInquiry": "CONSULTA DE PROYECTO",
+    "licensing": "LICENCIA"
   },
   "navChildren": {
     "heavy": "Industria Pesada",

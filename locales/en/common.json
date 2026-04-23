@@ -6,7 +6,8 @@
     "references": "REFERENCES",
     "company": "COMPANY",
     "contacts": "CONTACTS",
-    "projectInquiry": "PROJECT INQUIRY"
+    "projectInquiry": "PROJECT INQUIRY",
+    "licensing": "LICENSING"
   },
   "navChildren": {
     "heavy": "Heavy Industry",

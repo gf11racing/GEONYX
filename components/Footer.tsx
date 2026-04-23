@@ -136,6 +136,11 @@ export const Footer: React.FC = () => {
                   {t('portal.hseq')}
                 </a>
               </li>
+              <li>
+                <a href={to('/licensing')} onClick={(e) => handleNavigation(e, '/licensing')} className="text-gray-400 hover:text-geo-yellow transition-colors text-sm font-normal uppercase tracking-wide">
+                  {t('portal.licensing')}
+                </a>
+              </li>
             </ul>
           </div>
 

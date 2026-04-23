@@ -6,7 +6,8 @@
     "references": "REFERENZEN",
     "company": "UNTERNEHMEN",
     "contacts": "KONTAKT",
-    "projectInquiry": "PROJEKTANFRAGE"
+    "projectInquiry": "PROJEKTANFRAGE",
+    "licensing": "LIZENZIERUNG"
   },
   "navChildren": {
     "heavy": "Schwerindustrie",

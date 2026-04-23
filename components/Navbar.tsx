@@ -176,6 +176,7 @@ export const Navbar: React.FC = () => {
         { label: t('navChildren.certs'),    href: '/certificates' },
       ]
     },
+    { label: t('nav.licensing'), href: '/licensing' },
     { label: t('nav.references'), href: '/references' },
     {
       label: t('nav.company'), href: '/about', menuKey: 'about',

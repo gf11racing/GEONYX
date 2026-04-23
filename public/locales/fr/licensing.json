@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "GEONYX | Licence – IP, Transfert de Technologie, Joint-ventures",
+    "description": "Obtenez une licence pour les formules géopolymères brevetées de GEONYX, transférez la technologie vers une production locale ou créez une coentreprise pour des projets d'infrastructure à grande échelle."
+  },
+  "hero": {
+    "eyebrow": "LICENCE ET PARTENARIAT",
+    "title1": "LA TECHNOLOGIE GEONYX",
+    "title2": "POUR VOTRE MARCHÉ",
+    "description": "Les formules géopolymères brevetées de GEONYX sont disponibles pour la licence, le transfert et la co-production. Nous ne cherchons pas de clients — nous sélectionnons des partenaires.",
+    "btn1": "DEMANDER UN PARTENARIAT",
+    "btn2": "EXPLORER LES MODÈLES",
+    "stat1Val": "4",
+    "stat1Label": "SYSTÈMES BREVETÉS",
+    "stat2Val": "8+",
+    "stat2Label": "MARCHÉS ACTIFS",
+    "stat3Val": "20",
+    "stat3Label": "ANS DE DURÉE GARANTIE"
+  },
+  "ip": {
+    "eyebrow": "MODÈLE 01",
+    "tag": "POUR LES FABRICANTS DE BÉTON",
+    "title": "LICENCE IP",
+    "subtitle": "Produisez GEONYX sur votre marché",
+    "description": "Obtenez une licence pour nos formules géopolymères brevetées et produisez des systèmes GEONYX pour votre région. Vous bénéficiez d'un accès complet aux formulations, aux normes QC et au droit d'utilisation de la marque.",
+    "i1": "Base complète de formules pour les 4 systèmes (ARMOR, CHEM, THERM, HYDRO)",
+    "i2": "Protocoles QC, normes de qualité et méthodes d'essai",
+    "i3": "Droit d'utilisation de la marque GEONYX dans le territoire licencié",
+    "i4": "Formation du personnel technique — sur site et à distance",
+    "i5": "Support technique continu et accès aux nouveaux développements"
+  },
+  "transfer": {
+    "eyebrow": "MODÈLE 02",
+    "tag": "POUR LES FABRICANTS LOCAUX",
+    "title": "TRANSFERT DE TECHNOLOGIE",
+    "subtitle": "Indépendance totale avec des matières premières locales",
+    "description": "Transfert complet du processus de production avec adaptation aux matières premières et granulats disponibles localement. Votre usine, vos matériaux — notre technologie, votre indépendance.",
+    "i1": "Adaptation des formules aux granulats et adjuvants disponibles localement",
+    "i2": "Installation et mise en service de la ligne de production",
+    "i3": "Formation de l'ensemble de l'équipe de production et technique",
+    "i4": "Documentation complète : spécifications techniques et instructions de travail",
+    "i5": "Support technique de 24 mois après le démarrage de la production"
+  },
+  "jv": {
+    "eyebrow": "MODÈLE 03",
+    "tag": "POUR INVESTISSEURS ET CONSTRUCTEURS",
+    "title": "COENTREPRISES",
+    "subtitle": "Grands projets. Risque partagé. Succès partagé.",
+    "description": "Pour les aéroports, ports, zones industrielles et grandes infrastructures où technologie et capacité locale doivent travailler ensemble dans une structure unique.",
+    "i1": "Modèles JV flexibles : 50/50, partage des revenus ou redevances",
+    "i2": "GEONYX apporte la technologie, la PI et la supervision technique complète",
+    "i3": "Le partenaire apporte la capacité locale, les matières premières et l'accès au marché",
+    "i4": "Applicable aux aéroports, ports, parcs industriels et infrastructures ferroviaires",
+    "i5": "Volume minimum de projet : 50 000 m² de surface installée"
+  },
+  "process": {
+    "eyebrow": "COMMENT ÇA MARCHE",
+    "title": "LE PROCESSUS DE PARTENARIAT",
+    "s1num": "01",
+    "s1title": "DEMANDE",
+    "s1desc": "Envoyez une manifestation d'intérêt avec des informations sur votre entreprise, marché cible et type de partenariat.",
+    "s2num": "02",
+    "s2title": "ÉVALUATION",
+    "s2desc": "Notre équipe évalue la compatibilité. En cas d'intérêt mutuel, nous envoyons un NDA de confidentialité.",
+    "s3num": "03",
+    "s3title": "NÉGOCIATION",
+    "s3desc": "Négociations techniques et commerciales. Définition du périmètre, des conditions et de la structure contractuelle.",
+    "s4num": "04",
+    "s4title": "LANCEMENT",
+    "s4desc": "Signature du contrat et processus d'intégration — formation, documentation, lancement technique.",
+    "disclaimer": "Nous n'examinons que les candidatures sérieuses d'entreprises qualifiées avec une capacité de production ou d'investissement avérée."
+  },
+  "cta": {
+    "eyebrow": "MANIFESTATION D'INTÉRÊT",
+    "title": "PRÊT POUR UN PARTENARIAT ?",
+    "subtitle": "Remplissez le formulaire. Nous répondrons dans les 48 heures.",
+    "fieldCompany": "ENTREPRISE",
+    "fieldCountry": "PAYS / RÉGION",
+    "fieldInterest": "TYPE DE PARTENARIAT",
+    "fieldMessage": "MESSAGE",
+    "opt1": "LICENCE IP",
+    "opt2": "TRANSFERT DE TECHNOLOGIE",
+    "opt3": "COENTREPRISE",
+    "btn": "SOUMETTRE LA CANDIDATURE",
+    "disclaimer": "Toutes les demandes sont confidentielles. Nous n'examinons que les candidatures sérieuses d'entreprises qualifiées.",
+    "successTitle": "CANDIDATURE SOUMISE",
+    "successDesc": "Nous vous contacterons dans les 48 heures ouvrables."
+  }
+}

@@ -6,7 +6,8 @@
     "references": "RÉFÉRENCES",
     "company": "ENTREPRISE",
     "contacts": "CONTACTS",
-    "projectInquiry": "DEMANDE DE PROJET"
+    "projectInquiry": "DEMANDE DE PROJET",
+    "licensing": "LICENCE"
   },
   "navChildren": {
     "heavy": "Industrie Lourde",

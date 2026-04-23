@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "GEONYX | Licencia – IP, Transferencia de Tecnología, Joint Ventures",
+    "description": "Licencie las fórmulas de geopolímero patentadas de GEONYX, transfiera la tecnología a la producción local o cree una empresa conjunta para proyectos de infraestructura a gran escala."
+  },
+  "hero": {
+    "eyebrow": "LICENCIA Y ASOCIACIÓN",
+    "title1": "LA TECNOLOGÍA GEONYX",
+    "title2": "PARA SU MERCADO",
+    "description": "Las fórmulas de geopolímero patentadas de GEONYX están disponibles para licencia, transferencia y producción conjunta. No buscamos clientes — seleccionamos socios.",
+    "btn1": "SOLICITAR ASOCIACIÓN",
+    "btn2": "EXPLORAR LOS MODELOS",
+    "stat1Val": "4",
+    "stat1Label": "SISTEMAS PATENTADOS",
+    "stat2Val": "8+",
+    "stat2Label": "MERCADOS ACTIVOS",
+    "stat3Val": "20",
+    "stat3Label": "AÑOS DE VIDA GARANTIZADA"
+  },
+  "ip": {
+    "eyebrow": "MODELO 01",
+    "tag": "PARA FABRICANTES DE HORMIGÓN",
+    "title": "LICENCIA IP",
+    "subtitle": "Produzca GEONYX en su mercado",
+    "description": "Licencie nuestras fórmulas de geopolímero patentadas y produzca sistemas GEONYX para su región. Obtiene acceso completo a las formulaciones, normas QC y el derecho a utilizar la marca.",
+    "i1": "Base completa de fórmulas para los 4 sistemas (ARMOR, CHEM, THERM, HYDRO)",
+    "i2": "Protocolos QC, normas de calidad y métodos de ensayo",
+    "i3": "Derecho a utilizar la marca GEONYX en el territorio licenciado",
+    "i4": "Formación del personal técnico — in situ y a distancia",
+    "i5": "Soporte técnico continuo y acceso a nuevos desarrollos"
+  },
+  "transfer": {
+    "eyebrow": "MODELO 02",
+    "tag": "PARA FABRICANTES LOCALES",
+    "title": "TRANSFERENCIA DE TECNOLOGÍA",
+    "subtitle": "Independencia total con materias primas locales",
+    "description": "Transferencia completa del proceso de producción con adaptación a las materias primas y áridos disponibles localmente. Su planta, sus materiales — nuestra tecnología, su independencia.",
+    "i1": "Adaptación de la fórmula a los áridos y aditivos disponibles localmente",
+    "i2": "Instalación y puesta en marcha de la línea de producción",
+    "i3": "Formación de todo el equipo de producción y técnico",
+    "i4": "Documentación completa: especificaciones técnicas e instrucciones de trabajo",
+    "i5": "Soporte técnico de 24 meses tras el inicio de la producción"
+  },
+  "jv": {
+    "eyebrow": "MODELO 03",
+    "tag": "PARA INVERSORES Y CONSTRUCTORES",
+    "title": "EMPRESAS CONJUNTAS",
+    "subtitle": "Grandes proyectos. Riesgo compartido. Éxito compartido.",
+    "description": "Para aeropuertos, puertos, zonas industriales y grandes infraestructuras donde tecnología y capacidad local deben trabajar juntos en una estructura única.",
+    "i1": "Modelos JV flexibles: 50/50, reparto de ingresos o regalías de licencia",
+    "i2": "GEONYX aporta tecnología, PI y supervisión técnica completa",
+    "i3": "El socio aporta capacidad local, materias primas y acceso al mercado",
+    "i4": "Aplicable a aeropuertos, puertos, parques industriales e infraestructura ferroviaria",
+    "i5": "Volumen mínimo de proyecto: 50.000 m² de superficie instalada"
+  },
+  "process": {
+    "eyebrow": "CÓMO FUNCIONA",
+    "title": "EL PROCESO DE ASOCIACIÓN",
+    "s1num": "01",
+    "s1title": "CONSULTA",
+    "s1desc": "Envíe una expresión de interés con información sobre su empresa, mercado objetivo y tipo de asociación.",
+    "s2num": "02",
+    "s2title": "EVALUACIÓN",
+    "s2desc": "Nuestro equipo evalúa la compatibilidad. Si hay interés mutuo, enviamos un NDA de confidencialidad.",
+    "s3num": "03",
+    "s3title": "NEGOCIACIÓN",
+    "s3desc": "Negociaciones técnicas y comerciales. Definición del alcance, condiciones y estructura contractual.",
+    "s4num": "04",
+    "s4title": "INICIO",
+    "s4desc": "Firma del contrato y proceso de incorporación — formación, documentación, inicio técnico.",
+    "disclaimer": "Solo consideramos solicitudes serias de empresas cualificadas con capacidad de producción o inversión demostrada."
+  },
+  "cta": {
+    "eyebrow": "EXPRESIÓN DE INTERÉS",
+    "title": "¿LISTO PARA ASOCIARSE?",
+    "subtitle": "Complete el formulario. Responderemos en 48 horas.",
+    "fieldCompany": "EMPRESA",
+    "fieldCountry": "PAÍS / REGIÓN",
+    "fieldInterest": "TIPO DE ASOCIACIÓN",
+    "fieldMessage": "MENSAJE",
+    "opt1": "LICENCIA IP",
+    "opt2": "TRANSFERENCIA DE TECNOLOGÍA",
+    "opt3": "EMPRESA CONJUNTA",
+    "btn": "ENVIAR SOLICITUD",
+    "disclaimer": "Todas las consultas son confidenciales. Solo consideramos solicitudes serias de empresas cualificadas.",
+    "successTitle": "SOLICITUD ENVIADA",
+    "successDesc": "Nos pondremos en contacto con usted en 48 horas hábiles."
+  }
+}

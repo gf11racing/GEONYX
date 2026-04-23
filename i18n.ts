@@ -16,6 +16,7 @@ const NAMESPACES = [
   'urbanhightech', 'constructionarch',
   'systemselector',
   'tendergenerator',
+  'licensing',
 ];
 
 i18n

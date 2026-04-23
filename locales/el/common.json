@@ -6,7 +6,8 @@
     "references": "ΑΝΑΦΟΡΕΣ",
     "company": "ΕΤΑΙΡΕΙΑ",
     "contacts": "ΕΠΙΚΟΙΝΩΝΙΑ",
-    "projectInquiry": "ΑΙΤΗΜΑ ΕΡΓΟΥ"
+    "projectInquiry": "ΑΙΤΗΜΑ ΕΡΓΟΥ",
+    "licensing": "ΑΔΕΙΟΔΟΤΗΣΗ"
   },
   "navChildren": {
     "heavy": "Βαριά Βιομηχανία",

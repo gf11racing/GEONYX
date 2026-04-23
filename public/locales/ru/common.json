@@ -6,7 +6,8 @@
     "references": "РЕФЕРЕНЦИИ",
     "company": "КОМПАНИЯ",
     "contacts": "КОНТАКТЫ",
-    "projectInquiry": "ЗАПРОС ПРОЕКТА"
+    "projectInquiry": "ЗАПРОС ПРОЕКТА",
+    "licensing": "ЛИЦЕНЗИРОВАНИЕ"
   },
   "navChildren": {
     "heavy": "Тяжёлая промышленность",
