@@ -136,26 +136,26 @@ export const LicensingPage: React.FC = () => {
             <div className={`lg:w-[45%] flex flex-col justify-center px-8 md:px-12 lg:px-16 xl:px-20 py-16`}>
               <div className="flex items-center gap-3 mb-5">
                 <div className="h-[2px] w-8 bg-geo-yellow shadow-[0_0_10px_#FFCC00]" />
-                <span className="text-geo-yellow font-black uppercase tracking-[0.35em] text-[10px]">
+                <span className="text-geo-yellow font-black uppercase tracking-[0.35em] text-xs md:text-sm">
                   {t(`${key}.eyebrow`)}
                 </span>
               </div>
 
-              <h2 className="text-4xl md:text-5xl font-black text-white uppercase tracking-tighter leading-none mb-3">
+              <h2 className="text-3xl md:text-4xl font-black text-white uppercase tracking-tighter leading-tight mb-3">
                 {t(`${key}.title`)}
               </h2>
-              <p className="text-geo-yellow/70 font-bold text-[11px] uppercase tracking-[0.25em] mb-7">
+              <p className="text-geo-yellow/70 font-bold text-xs md:text-sm uppercase tracking-[0.25em] mb-7">
                 {t(`${key}.subtitle`)}
               </p>
-              <p className="text-gray-400 text-sm leading-relaxed mb-8 max-w-md">
+              <p className="text-gray-400 text-base md:text-lg leading-relaxed mb-8">
                 {t(`${key}.description`)}
               </p>
 
-              <ul className="space-y-3.5">
+              <ul className="space-y-4">
                 {['i1', 'i2', 'i3', 'i4', 'i5'].map(item => (
                   <li key={item} className="flex items-start gap-3">
-                    <div className="w-1 h-1 rounded-full bg-geo-yellow flex-shrink-0 mt-[7px]" />
-                    <span className="text-gray-300 text-sm leading-relaxed">
+                    <div className="w-1.5 h-1.5 rounded-full bg-geo-yellow flex-shrink-0 mt-2" />
+                    <span className="text-gray-300 text-base leading-relaxed">
                       {t(`${key}.${item}`)}
                     </span>
                   </li>

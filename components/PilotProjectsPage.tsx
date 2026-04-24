@@ -294,12 +294,12 @@ export const PilotProjectsPage: React.FC = () => {
                 <div className="space-y-8">
                     <div className="border-l-2 border-red-500 pl-4">
                         <h4 className="text-red-500 font-bold uppercase text-xs tracking-wider mb-2">{t('cases.problemLabel')}</h4>
-                        <p className="text-gray-400 text-sm italic">{t('cases.case1.problem')}</p>
+                        <p className="text-gray-400 text-base italic">{t('cases.case1.problem')}</p>
                     </div>
 
                     <div className="border-l-2 border-geo-yellow pl-4">
                         <h4 className="text-geo-yellow font-bold uppercase text-xs tracking-wider mb-2">{t('cases.case1.solutionLabel')}</h4>
-                        <ul className="space-y-3 text-gray-400 text-sm">
+                        <ul className="space-y-3 text-gray-400 text-base">
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case1.s1title')}</strong> {t('cases.case1.s1desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case1.s2title')}</strong> {t('cases.case1.s2desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case1.s3title')}</strong> {t('cases.case1.s3desc')}</span></li>
@@ -308,7 +308,7 @@ export const PilotProjectsPage: React.FC = () => {
 
                     <div className="pt-4 border-t border-[#222]">
                         <p className="text-gray-500 text-[10px] font-bold uppercase tracking-widest mb-1">{t('cases.resultLabel')}</p>
-                        <p className="text-white font-medium text-sm">{t('cases.case1.result')}</p>
+                        <p className="text-white font-medium text-base">{t('cases.case1.result')}</p>
                     </div>
                 </div>
             </div>
@@ -346,12 +346,12 @@ export const PilotProjectsPage: React.FC = () => {
                 <div className="space-y-8">
                     <div className="border-l-2 border-red-500 pl-4">
                         <h4 className="text-red-500 font-bold uppercase text-xs tracking-wider mb-2">{t('cases.problemLabel')}</h4>
-                        <p className="text-gray-400 text-sm italic">{t('cases.case2.problem')}</p>
+                        <p className="text-gray-400 text-base italic">{t('cases.case2.problem')}</p>
                     </div>
 
                     <div className="border-l-2 border-geo-yellow pl-4">
                         <h4 className="text-geo-yellow font-bold uppercase text-xs tracking-wider mb-2">{t('cases.case2.solutionLabel')}</h4>
-                        <ul className="space-y-3 text-gray-400 text-sm">
+                        <ul className="space-y-3 text-gray-400 text-base">
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case2.s1title')}</strong> {t('cases.case2.s1desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case2.s2title')}</strong> {t('cases.case2.s2desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case2.s3title')}</strong> {t('cases.case2.s3desc')}</span></li>
@@ -360,7 +360,7 @@ export const PilotProjectsPage: React.FC = () => {
 
                     <div className="pt-4 border-t border-[#222]">
                         <p className="text-gray-500 text-[10px] font-bold uppercase tracking-widest mb-1">{t('cases.resultLabel')}</p>
-                        <p className="text-white font-medium text-sm">{t('cases.case2.result')}</p>
+                        <p className="text-white font-medium text-base">{t('cases.case2.result')}</p>
                     </div>
                 </div>
             </div>
@@ -398,12 +398,12 @@ export const PilotProjectsPage: React.FC = () => {
                 <div className="space-y-8">
                     <div className="border-l-2 border-red-500 pl-4">
                         <h4 className="text-red-500 font-bold uppercase text-xs tracking-wider mb-2">{t('cases.problemLabel')}</h4>
-                        <p className="text-gray-400 text-sm italic">{t('cases.case3.problem')}</p>
+                        <p className="text-gray-400 text-base italic">{t('cases.case3.problem')}</p>
                     </div>
 
                     <div className="border-l-2 border-geo-yellow pl-4">
                         <h4 className="text-geo-yellow font-bold uppercase text-xs tracking-wider mb-2">{t('cases.case3.solutionLabel')}</h4>
-                        <ul className="space-y-3 text-gray-400 text-sm">
+                        <ul className="space-y-3 text-gray-400 text-base">
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case3.s1title')}</strong> {t('cases.case3.s1desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case3.s2title')}</strong> {t('cases.case3.s2desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case3.s3title')}</strong> {t('cases.case3.s3desc')}</span></li>
@@ -412,7 +412,7 @@ export const PilotProjectsPage: React.FC = () => {
 
                     <div className="pt-4 border-t border-[#222]">
                         <p className="text-gray-500 text-[10px] font-bold uppercase tracking-widest mb-1">{t('cases.resultLabel')}</p>
-                        <p className="text-white font-medium text-sm">{t('cases.case3.result')}</p>
+                        <p className="text-white font-medium text-base">{t('cases.case3.result')}</p>
                     </div>
                 </div>
             </div>
@@ -450,12 +450,12 @@ export const PilotProjectsPage: React.FC = () => {
                 <div className="space-y-8">
                     <div className="border-l-2 border-red-500 pl-4">
                         <h4 className="text-red-500 font-bold uppercase text-xs tracking-wider mb-2">{t('cases.problemLabel')}</h4>
-                        <p className="text-gray-400 text-sm italic">{t('cases.case4.problem')}</p>
+                        <p className="text-gray-400 text-base italic">{t('cases.case4.problem')}</p>
                     </div>
 
                     <div className="border-l-2 border-geo-yellow pl-4">
                         <h4 className="text-geo-yellow font-bold uppercase text-xs tracking-wider mb-2">{t('cases.case4.solutionLabel')}</h4>
-                        <ul className="space-y-3 text-gray-400 text-sm">
+                        <ul className="space-y-3 text-gray-400 text-base">
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case4.s1title')}</strong> {t('cases.case4.s1desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case4.s2title')}</strong> {t('cases.case4.s2desc')}</span></li>
                             <li className="flex items-start gap-3"><CheckCircle className="w-4 h-4 text-geo-yellow mt-0.5 flex-shrink-0"/> <span><strong className="text-white">{t('cases.case4.s3title')}</strong> {t('cases.case4.s3desc')}</span></li>
@@ -464,7 +464,7 @@ export const PilotProjectsPage: React.FC = () => {
 
                     <div className="pt-4 border-t border-[#222]">
                         <p className="text-gray-500 text-[10px] font-bold uppercase tracking-widest mb-1">{t('cases.resultLabel')}</p>
-                        <p className="text-white font-medium text-sm">{t('cases.case4.result')}</p>
+                        <p className="text-white font-medium text-base">{t('cases.case4.result')}</p>
                     </div>
                 </div>
             </div>
