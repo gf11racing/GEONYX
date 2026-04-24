@@ -284,7 +284,7 @@ export const Navbar: React.FC = () => {
           <div className="hidden lg:flex items-center gap-6">
             {/* Language Switcher */}
             <div className="relative" onMouseEnter={() => setIsLangMenuOpen(true)} onMouseLeave={() => setIsLangMenuOpen(false)}>
-              <button className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-white hover:text-geo-yellow transition-colors">
+              <button aria-label="Смени езика" className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-white hover:text-geo-yellow transition-colors">
                 <Globe className="w-4 h-4" />
                 <span>{activeLang}</span>
                 <ChevronDown size={14} className={`transition-transform duration-300 ${isLangMenuOpen ? 'rotate-180' : ''}`} />
@@ -311,7 +311,12 @@ export const Navbar: React.FC = () => {
           </div>
 
           <div className="lg:hidden flex items-center gap-6 relative z-50">
-            <button className="text-white hover:text-geo-yellow transition-colors" onClick={() => setIsOpen(!isOpen)}>
+            <button
+              aria-label={isOpen ? 'Затвори меню' : 'Отвори меню'}
+              aria-expanded={isOpen}
+              className="text-white hover:text-geo-yellow transition-colors"
+              onClick={() => setIsOpen(!isOpen)}
+            >
               {isOpen ? <X size={32} /> : <Menu size={32} />}
             </button>
           </div>

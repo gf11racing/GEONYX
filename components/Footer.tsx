@@ -183,10 +183,10 @@ export const Footer: React.FC = () => {
             </h5>
 
             <div className="flex gap-4 mb-10">
-              <a href="https://linkedin.com/company/geonyx" target="_blank" rel="noopener noreferrer" className="bg-[#222] p-3 rounded hover:bg-blue-700 hover:text-white text-gray-400 transition-all duration-300">
+              <a href="https://linkedin.com/company/geonyx" target="_blank" rel="noopener noreferrer" aria-label="GEONYX в LinkedIn" className="bg-[#222] p-3 rounded hover:bg-blue-700 hover:text-white text-gray-400 transition-all duration-300">
                 <Linkedin size={20} />
               </a>
-              <a href="https://facebook.com/GEONYXGROUP" target="_blank" rel="noopener noreferrer" className="bg-[#222] p-3 rounded hover:bg-blue-600 hover:text-white text-gray-400 transition-all duration-300">
+              <a href="https://facebook.com/GEONYXGROUP" target="_blank" rel="noopener noreferrer" aria-label="GEONYX във Facebook" className="bg-[#222] p-3 rounded hover:bg-blue-600 hover:text-white text-gray-400 transition-all duration-300">
                 <Facebook size={20} />
               </a>
             </div>

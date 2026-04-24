@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
+
     <!-- PRIMARY TITLE & METADATA -->
     <title>GEONYX - Индустриални геополимерни решения</title>
     <meta name="description" content="Разработване на високотехнологични геополимерни матрици за критична инфраструктура и тежка индустрия. Инженеринг отвъд границите на бетона.">
@@ -19,7 +19,7 @@
     <link rel="alternate" hreflang="ru" href="https://geonyxgroup.com/ru" />
     <link rel="alternate" hreflang="el" href="https://geonyxgroup.com/el" />
     <link rel="alternate" hreflang="x-default" href="https://geonyxgroup.com/en" />
-    
+
     <!-- FAVICONS & APP ICONS -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="512x512" href="/android-chrome-512x512.png">
@@ -29,14 +29,14 @@
     <link rel="icon" type="image/png" href="/favicon.png">
     <link rel="icon" href="/favicon.ico">
     <link rel="manifest" href="/site.webmanifest">
-    
-    <!-- THEME COLORS (Mobile Browser Bar Color) -->
+
+    <!-- THEME COLORS -->
     <meta name="theme-color" content="#050505">
     <meta name="msapplication-TileColor" content="#050505">
     <meta name="msapplication-navbutton-color" content="#050505">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    <!-- OPEN GRAPH / FACEBOOK / VIBER PREVIEW -->
+    <!-- OPEN GRAPH -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://geonyxgroup.com/">
     <meta property="og:title" content="GEONYX - Индустриални геополимерни решения">
@@ -50,7 +50,16 @@
     <meta property="twitter:description" content="Разработване на високотехнологични геополимерни матрици за критична инфраструктура и тежка индустрия. Инженеринг отвъд границите на бетона.">
     <meta property="twitter:image" content="https://geonyxgroup.com/GEONYX-background-separation.jpg">
 
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- PERFORMANCE: preconnect for fonts (eliminates DNS + TLS handshake delay) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- PERFORMANCE: preload hero poster — LCP element on home page -->
+    <link rel="preload" as="image" href="/GEONYX-bec2.webp" fetchpriority="high">
+
+    <!-- PERFORMANCE: Google Fonts loaded async — eliminates render-blocking -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800;900&display=swap"></noscript>
 
   </head>
   <body>
