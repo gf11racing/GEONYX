@@ -263,14 +263,14 @@ export const ChemPage: React.FC = () => {
                              <div className="space-y-4 opacity-80 group-hover:opacity-100 transition-opacity duration-500">
                                  <div className="border-l-2 border-red-500 pl-3">
                                      <span className="text-xs text-red-500 font-bold uppercase block mb-1">{t('shared.threat')}</span>
-                                     <p className="text-sm text-gray-300 leading-snug font-medium">
+                                     <p className="text-base text-gray-300 leading-snug font-medium">
                                          {t(`diagnostics.${item.key}problem`)}
                                      </p>
                                  </div>
 
                                  <div className="border-l-2 border-geo-yellow pl-3">
                                      <span className="text-xs text-geo-yellow font-bold uppercase block mb-1">{t('shared.solution')}</span>
-                                     <p className="text-sm text-white font-bold leading-snug">
+                                     <p className="text-base text-white font-bold leading-snug">
                                          {t(`diagnostics.${item.key}solution`)}
                                      </p>
                                  </div>
@@ -495,7 +495,7 @@ export const ChemPage: React.FC = () => {
                               {t('operational.r1title')}
                           </h3>
                       </div>
-                      <p className="text-gray-400 text-sm md:text-base max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
+                      <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
                           {t('operational.r1desc')}
                       </p>
                   </div>
@@ -508,7 +508,7 @@ export const ChemPage: React.FC = () => {
                               {t('operational.r2title')}
                           </h3>
                       </div>
-                      <p className="text-gray-400 text-sm md:text-base max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
+                      <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
                           {t('operational.r2desc')}
                       </p>
                   </div>
@@ -521,7 +521,7 @@ export const ChemPage: React.FC = () => {
                               {t('operational.r3title')}
                           </h3>
                       </div>
-                      <p className="text-gray-400 text-sm md:text-base max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
+                      <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
                           {t('operational.r3desc')}
                       </p>
                   </div>
@@ -534,7 +534,7 @@ export const ChemPage: React.FC = () => {
                               {t('operational.r4title')}
                           </h3>
                       </div>
-                      <p className="text-gray-400 text-sm md:text-base max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
+                      <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
                           {t('operational.r4desc')}
                       </p>
                   </div>
@@ -547,7 +547,7 @@ export const ChemPage: React.FC = () => {
                               {t('operational.r5title')}
                           </h3>
                       </div>
-                      <p className="text-gray-400 text-sm md:text-base max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
+                      <p className="text-gray-400 text-sm md:text-lg max-w-xl leading-relaxed md:text-right group-hover:text-white transition-colors duration-300">
                           {t('operational.r5desc')}
                       </p>
                   </div>
@@ -752,8 +752,8 @@ export const ChemPage: React.FC = () => {
                       <div key={key} className="bg-[#0f0f0f] border border-[#222] p-8 relative overflow-hidden group">
                           <span className="text-6xl font-black text-[#1a1a1a] absolute top-4 right-4 z-0 group-hover:text-geo-yellow/40 transition-colors">0{idx + 1}</span>
                           <div className="relative z-10">
-                              <h4 className="text-white font-black uppercase text-sm mb-2">{t(`process.${key}title`)}</h4>
-                              <p className="text-gray-500 text-sm">{t(`process.${key}desc`)}</p>
+                              <h4 className="text-white font-black uppercase text-base mb-2">{t(`process.${key}title`)}</h4>
+                              <p className="text-gray-500 text-base">{t(`process.${key}desc`)}</p>
                           </div>
                       </div>
                   ))}
@@ -785,7 +785,7 @@ export const ChemPage: React.FC = () => {
                       <h2 className="text-3xl md:text-4xl font-black text-white uppercase mb-6 leading-tight">
                           {t('offerPackage.title')}
                       </h2>
-                      <p className="text-gray-400 text-sm leading-relaxed mb-8 font-bold">
+                      <p className="text-gray-400 text-base leading-relaxed mb-8">
                           {t('offerPackage.desc')}
                       </p>
                       <div className="p-6 bg-[#141414] border border-[#333] border-l-4 border-l-geo-yellow">
