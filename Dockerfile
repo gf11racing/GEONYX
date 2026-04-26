@@ -27,6 +27,7 @@ COPY nginx.conf /etc/nginx/http.d/default.conf
 WORKDIR /app/server
 COPY --from=backend-builder /app/server/node_modules ./node_modules
 COPY server/ ./
+COPY public/logoGEONYX.png ./logoGEONYX.png
 
 # Supervisord config
 COPY supervisord.conf /etc/supervisord.conf
