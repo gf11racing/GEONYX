@@ -103,23 +103,17 @@ export const LicensingPage: React.FC = () => {
       </div>
 
       {/* ── ZIGZAG BLOCKS ─────────────────────────────────────────────── */}
-      {blocks.map(({ key, img, reverse, bg }) => (
+      {blocks.map(({ key, img, reverse, bg }, idx) => (
         <section key={key} id={key} className={`${bg} border-b border-[#222]`}>
-          <div className={`flex flex-col ${reverse ? 'lg:flex-row-reverse' : 'lg:flex-row'} min-h-[600px]`}>
+          <div className={`flex flex-col ${reverse ? 'lg:flex-row-reverse' : 'lg:flex-row'} w-full min-h-[600px]`}>
 
             {/* Image */}
-            <div className="relative lg:w-[55%] min-h-[360px] lg:min-h-0 overflow-hidden">
-              <div className="absolute inset-0">
-                <SafeImage
-                  src={img}
-                  className="w-full h-full object-cover"
-                  alt={t(`${key}.title`)}
-                />
-              </div>
-              <div className={`absolute inset-0 ${reverse
-                ? 'bg-gradient-to-l from-transparent via-transparent to-[#050505]/80'
-                : 'bg-gradient-to-r from-transparent via-transparent to-[#080808]/80'
-              }`} />
+            <div className="w-full lg:w-1/2 relative min-h-[400px] bg-black group overflow-hidden">
+              <SafeImage
+                src={img}
+                className="absolute inset-0 w-full h-full object-cover"
+                alt={t(`${key}.title`)}
+              />
               {/* Model number watermark */}
               <div className="absolute top-8 right-8 text-[80px] md:text-[120px] font-black text-white/[0.04] leading-none select-none pointer-events-none">
                 {t(`${key}.eyebrow`).replace('МОДЕЛ ', '').replace('MODEL ', '').replace('MODELL ', '').replace('MODÈLE ', '').replace('MODELO ', '').replace('ΜΟΝΤΕΛΟ ', '')}
@@ -133,7 +127,7 @@ export const LicensingPage: React.FC = () => {
             </div>
 
             {/* Text */}
-            <div className={`lg:w-[45%] flex flex-col justify-center px-8 md:px-12 lg:px-16 xl:px-20 py-16`}>
+            <div className={`w-full lg:w-1/2 flex flex-col justify-center px-8 md:px-12 lg:px-16 xl:px-20 py-16 ${idx % 2 === 0 ? 'bg-[#141414]' : 'bg-[#0F0F0F]'}`}>
               <div className="flex items-center gap-3 mb-5">
                 <div className="h-[2px] w-8 bg-geo-yellow shadow-[0_0_10px_#FFCC00]" />
                 <span className="text-geo-yellow font-black uppercase tracking-[0.35em] text-xs md:text-sm">
