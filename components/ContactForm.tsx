@@ -1,27 +1,29 @@
 
 import React, { useState } from 'react';
-import emailjs from '@emailjs/browser';
 import { Button } from './Button';
-import { CheckCircle } from 'lucide-react';
+import { CheckCircle, AlertCircle } from 'lucide-react';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { useLang } from '../hooks/useLang';
+import { sendForm } from '../utils/sendForm';
 
 export const ContactForm: React.FC = () => {
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
   const [selectedSector, setSelectedSector] = useState<string>('');
   const [message, setMessage] = useState<string>('');
+  const [error, setError] = useState<string | null>(null);
   const { t } = useTranslation('contactform');
   const { to } = useLang();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setError(null);
     setFormState('submitting');
 
     const form = e.target as HTMLFormElement;
 
-    const templateParams = {
+    const fields = {
       name: (form.elements.namedItem('name') as HTMLInputElement).value,
       phone: (form.elements.namedItem('phone') as HTMLInputElement).value,
       email: (form.elements.namedItem('email') as HTMLInputElement).value,
@@ -30,17 +32,11 @@ export const ContactForm: React.FC = () => {
       message: message,
     };
 
-    try {
-      await emailjs.send(
-        'service_6oe57mj',
-        'template_ptk771k',
-        templateParams,
-        'fUu0EmANDHWfYyCK9'
-      );
+    const result = await sendForm('contact', fields);
+    if (result.ok) {
       setFormState('success');
-    } catch (error) {
-      console.error('Error:', error);
-      alert('Error sending form. Please try again or contact us directly.');
+    } else {
+      setError(result.error);
       setFormState('idle');
     }
   };
@@ -223,6 +219,18 @@ export const ContactForm: React.FC = () => {
                           }}
                         />
                     </div>
+
+                    {error && (
+                      <div className="bg-red-500/10 border border-red-500/30 rounded p-4 flex gap-3">
+                        <AlertCircle className="w-5 h-5 text-red-400 flex-shrink-0 mt-0.5" />
+                        <div className="flex-1">
+                          <p className="text-red-400 text-sm font-medium">{error}</p>
+                          <p className="text-gray-400 text-xs mt-1">
+                            {t('errorFallback', 'Or email us directly at')} <a href="mailto:office@geonyxgroup.com" className="text-geo-yellow underline hover:text-white transition-colors">office@geonyxgroup.com</a>
+                          </p>
+                        </div>
+                      </div>
+                    )}
 
                     <div className="pt-4">
                          <Button

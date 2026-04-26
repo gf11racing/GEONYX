@@ -1,13 +1,13 @@
 
 import React, { useEffect, useState } from 'react';
-import emailjs from '@emailjs/browser';
 import { useTranslation } from 'react-i18next';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
-import { MapPin, Phone, Mail, Clock, Building2, Briefcase, ArrowRight, CheckCircle, Globe, QrCode } from 'lucide-react';
+import { MapPin, Phone, Mail, Clock, Building2, Briefcase, ArrowRight, CheckCircle, Globe, QrCode, AlertCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { SafeImage } from './SafeImage';
 import { usePageMeta } from '../hooks/usePageMeta';
+import { sendForm } from '../utils/sendForm';
 
 export const ContactsPage: React.FC = () => {
   usePageMeta('contacts');
@@ -15,6 +15,7 @@ export const ContactsPage: React.FC = () => {
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
   const [selectedSector, setSelectedSector] = useState<string>('');
   const [message, setMessage] = useState<string>('');
+  const [error, setError] = useState<string | null>(null);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -28,33 +29,25 @@ export const ContactsPage: React.FC = () => {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setError(null);
     setFormState('submitting');
 
     const form = e.target as HTMLFormElement;
 
-    const templateParams = {
+    const fields = {
       name: (form.elements.namedItem('name') as HTMLInputElement).value,
       phone: (form.elements.namedItem('phone') as HTMLInputElement).value,
       email: (form.elements.namedItem('email') as HTMLInputElement).value,
       company: (form.elements.namedItem('company') as HTMLInputElement).value,
       sector: selectedSector,
-      message: message
+      message: message,
     };
 
-    console.log('Изпращане...', templateParams);
-
-    try {
-      await emailjs.send(
-        'service_6oe57mj',
-        'template_ptk771k',
-        templateParams,
-        'fUu0EmANDHWfYyCK9'
-      );
-      console.log('Успешно изпратено!');
+    const result = await sendForm('contact', fields);
+    if (result.ok) {
       setFormState('success');
-    } catch (error) {
-      console.error('Error:', error);
-      alert('Възникна грешка при изпращането. Моля, опитайте отново или се свържете с нас директно.');
+    } else {
+      setError(result.error);
       setFormState('idle');
     }
   };
@@ -348,6 +341,18 @@ export const ContactsPage: React.FC = () => {
                                 placeholder={t('form.messagePlaceholder')}
                               ></textarea>
                           </div>
+
+                          {error && (
+                            <div className="bg-red-500/10 border border-red-500/30 rounded p-4 flex gap-3">
+                              <AlertCircle className="w-5 h-5 text-red-400 flex-shrink-0 mt-0.5" />
+                              <div className="flex-1">
+                                <p className="text-red-400 text-sm font-medium">{error}</p>
+                                <p className="text-gray-400 text-xs mt-1">
+                                  {t('form.errorFallback', 'Or email us directly at')} <a href="mailto:office@geonyxgroup.com" className="text-geo-yellow underline hover:text-white transition-colors">office@geonyxgroup.com</a>
+                                </p>
+                              </div>
+                            </div>
+                          )}
 
                           <div className="pt-6">
                               <button

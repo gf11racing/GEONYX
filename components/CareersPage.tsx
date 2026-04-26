@@ -1,12 +1,12 @@
 
 import React, { useEffect, useState } from 'react';
-import emailjs from '@emailjs/browser';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Users, Briefcase, Warehouse, Beaker, CheckCircle, Upload, ArrowRight, ChevronRight, HardHat, Microscope } from 'lucide-react';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { usePageMeta } from '../hooks/usePageMeta';
+import { sendForm } from '../utils/sendForm';
 
 // Data arrays — only id and icon keys; all text comes from i18n
 const POSITIONS = [
@@ -33,53 +33,30 @@ export const CareersPage: React.FC = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError(null);
-    console.log('Starting application submission...');
 
     const form = e.target as HTMLFormElement;
     setFormState('submitting');
 
-    try {
-      const nameEl = form.elements.namedItem('name') as HTMLInputElement;
-      const phoneEl = form.elements.namedItem('phone') as HTMLInputElement;
-      const emailEl = form.elements.namedItem('email') as HTMLInputElement;
-      const positionEl = form.elements.namedItem('position') as HTMLSelectElement;
-      const experienceEl = form.elements.namedItem('experience') as HTMLTextAreaElement;
+    const nameEl = form.elements.namedItem('name') as HTMLInputElement;
+    const phoneEl = form.elements.namedItem('phone') as HTMLInputElement;
+    const emailEl = form.elements.namedItem('email') as HTMLInputElement;
+    const positionEl = form.elements.namedItem('position') as HTMLSelectElement;
+    const experienceEl = form.elements.namedItem('experience') as HTMLTextAreaElement;
 
-      const templateParams = {
-        name: nameEl.value,
-        phone: phoneEl.value,
-        email: emailEl.value,
-        position: positionEl.value,
-        message: `Experience: ${experienceEl.value}\n\n(Candidate will send CV separately to office@geonyxgroup.com)`
-      };
+    const fields = {
+      name: nameEl.value,
+      phone: phoneEl.value,
+      email: emailEl.value,
+      position: positionEl.value,
+      message: `Experience: ${experienceEl.value}\n\n(Candidate will send CV separately to office@geonyxgroup.com)`,
+    };
 
-      try {
-        const result = await emailjs.send(
-          'service_6oe57mj',
-          'template_1smmu4e',
-          templateParams,
-          'fUu0EmANDHWfYyCK9'
-        );
-        console.log('EmailJS Response:', result);
-        setFormState('success');
-        const formElement = document.getElementById('apply');
-        formElement?.scrollIntoView({ behavior: 'smooth' });
-      } catch (err: any) {
-        console.error('EmailJS Error:', err);
-        let errorMsg = t('form.errorGeneral');
-
-        if (err?.text?.includes('Variables size limit')) {
-          errorMsg = t('form.errorFileSize');
-        } else if (err?.text?.includes('limit reached')) {
-          errorMsg = t('form.errorLimit');
-        }
-
-        setError(errorMsg);
-        setFormState('idle');
-      }
-    } catch (err) {
-      console.error('Runtime Error:', err);
-      setError(t('form.errorUnexpected'));
+    const result = await sendForm('careers', fields);
+    if (result.ok) {
+      setFormState('success');
+      document.getElementById('apply')?.scrollIntoView({ behavior: 'smooth' });
+    } else {
+      setError(result.error || t('form.errorGeneral'));
       setFormState('idle');
     }
   };
@@ -337,10 +314,15 @@ export const CareersPage: React.FC = () => {
                           <p className="text-gray-500 font-medium">{t('form.subtitle')}</p>
                       </div>
                       {error && (
-                          <div className="mb-8 p-6 bg-red-900/30 border-l-4 border-red-500 text-red-200 text-sm font-bold uppercase tracking-wide">
-                              <div className="flex items-center gap-3">
-                                  <div className="w-6 h-6 rounded-full bg-red-500 flex items-center justify-center text-nyx-dark text-xs">!</div>
-                                  {error}
+                          <div className="mb-8 p-6 bg-red-900/30 border-l-4 border-red-500 text-red-200 text-sm">
+                              <div className="flex items-start gap-3">
+                                  <div className="w-6 h-6 rounded-full bg-red-500 flex items-center justify-center text-nyx-dark text-xs flex-shrink-0 mt-0.5">!</div>
+                                  <div className="flex-1">
+                                      <p className="font-bold uppercase tracking-wide">{error}</p>
+                                      <p className="text-gray-400 text-xs mt-2 normal-case font-normal tracking-normal">
+                                          {t('form.errorFallback', 'Or email us directly at')} <a href="mailto:office@geonyxgroup.com" className="text-geo-yellow underline hover:text-white transition-colors">office@geonyxgroup.com</a>
+                                      </p>
+                                  </div>
                               </div>
                           </div>
                       )}

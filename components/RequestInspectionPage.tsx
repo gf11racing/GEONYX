@@ -1,12 +1,12 @@
 
 import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
-import emailjs from '@emailjs/browser';
 import { Navbar } from './Navbar';
 import { Footer } from './Footer';
 import { Button } from './Button';
-import { Phone, Mail, MapPin, ScanLine, Ruler, Activity, CheckCircle, ArrowRight, MousePointer2, FileSearch, HardHat, ClipboardCheck, AlertTriangle, Square, CheckSquare } from 'lucide-react';
+import { Phone, Mail, MapPin, ScanLine, Ruler, Activity, CheckCircle, ArrowRight, MousePointer2, FileSearch, HardHat, ClipboardCheck, AlertTriangle, Square, CheckSquare, AlertCircle } from 'lucide-react';
 import { usePageMeta } from '../hooks/usePageMeta';
+import { sendForm } from '../utils/sendForm';
 
 export const RequestInspectionPage: React.FC = () => {
   usePageMeta('requestinspection');
@@ -15,6 +15,7 @@ export const RequestInspectionPage: React.FC = () => {
   const [formState, setFormState] = useState<'idle' | 'submitting' | 'success'>('idle');
   const [focusedField, setFocusedField] = useState<string | null>(null);
   const [selectedSector, setSelectedSector] = useState<string>('');
+  const [error, setError] = useState<string | null>(null);
 
   // State for multi-select threats
   const [selectedThreats, setSelectedThreats] = useState<string[]>([]);
@@ -25,11 +26,12 @@ export const RequestInspectionPage: React.FC = () => {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setError(null);
     setFormState('submitting');
 
     const form = e.target as HTMLFormElement;
 
-    const templateParams = {
+    const fields = {
       name: (form.elements.namedItem('name') as HTMLInputElement).value,
       phone: (form.elements.namedItem('phone') as HTMLInputElement).value,
       email: (form.elements.namedItem('email') as HTMLInputElement).value,
@@ -37,20 +39,14 @@ export const RequestInspectionPage: React.FC = () => {
       location: (form.elements.namedItem('location') as HTMLInputElement).value,
       sector: selectedSector,
       scale: (form.elements.namedItem('scale') as HTMLInputElement).value,
-      risks: selectedThreats.join(', ')
+      risks: selectedThreats.join(', '),
     };
 
-    try {
-      await emailjs.send(
-        'service_6oe57mj',
-        'template_kcobhv4',
-        templateParams,
-        'fUu0EmANDHWfYyCK9'
-      );
+    const result = await sendForm('inspection', fields);
+    if (result.ok) {
       setFormState('success');
-    } catch (error) {
-      console.error('Error:', error);
-      alert('Възникна грешка при изпращането. Моля, опитайте отново или се свържете с нас директно.');
+    } else {
+      setError(result.error);
       setFormState('idle');
     }
   };
@@ -333,6 +329,18 @@ export const RequestInspectionPage: React.FC = () => {
                                     </div>
                                     <input type="hidden" name="risks" value={selectedThreats.join(', ')} />
                                 </div>
+
+                                {error && (
+                                    <div className="bg-red-500/10 border border-red-500/30 rounded p-4 flex gap-3">
+                                        <AlertCircle className="w-5 h-5 text-red-400 flex-shrink-0 mt-0.5" />
+                                        <div className="flex-1">
+                                            <p className="text-red-400 text-sm font-medium">{error}</p>
+                                            <p className="text-gray-400 text-xs mt-1">
+                                                {t('form.errorFallback', 'Or email us directly at')} <a href="mailto:office@geonyxgroup.com" className="text-geo-yellow underline hover:text-white transition-colors">office@geonyxgroup.com</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                )}
 
                                 {/* CTA Button */}
                                 <div className="pt-6">
