@@ -15,6 +15,7 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
+import { HorizontalBarsCard, VerticalBarsCard, DualCurveCard } from './EngineeringCharts';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
 import { usePageMeta } from '../hooks/usePageMeta';
@@ -46,9 +47,6 @@ export const ThermPage: React.FC = () => {
   const [copySuccess, setCopySuccess] = useState(false);
 
   // Animation Reset Keys
-  const [expansionKey, setExpansionKey] = useState(0);
-  const [heatKey, setHeatKey] = useState(0);
-  const [repairKey, setRepairKey] = useState(0);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -115,22 +113,17 @@ export const ThermPage: React.FC = () => {
 
                 {/* HUD Stats Grid */}
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12 max-w-4xl page-animate-stats">
-                    <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statTemp')}</div>
-                        <div className="text-geo-yellow font-mono text-xl font-bold">{t('hero.statTempValue')}</div>
-                    </div>
-                    <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statClass')}</div>
-                        <div className="text-geo-yellow font-mono text-xl font-bold">{t('hero.statClassValue')}</div>
-                    </div>
-                    <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statExpansion')}</div>
-                        <div className="text-geo-yellow font-mono text-xs font-bold leading-tight mt-1">{t('hero.statExpansionValue')}</div>
-                    </div>
-                    <div className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm">
-                        <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-1">{t('hero.statLife')}</div>
-                        <div className="text-geo-yellow font-mono text-xl font-bold">{t('hero.statLifeValue')}</div>
-                    </div>
+                    {[
+                        { label: t('hero.statTemp'),      value: t('hero.statTempValue') },
+                        { label: t('hero.statClass'),     value: t('hero.statClassValue') },
+                        { label: t('hero.statExpansion'), value: t('hero.statExpansionValue') },
+                        { label: t('hero.statLife'),      value: t('hero.statLifeValue') },
+                    ].map((stat, i) => (
+                        <div key={i} className="bg-white/5 border border-white/10 p-4 backdrop-blur-sm flex flex-col justify-between min-h-[88px]">
+                            <div className="text-gray-500 text-[10px] uppercase tracking-widest font-bold mb-2">{stat.label}</div>
+                            <div className="text-geo-yellow font-mono text-lg md:text-xl font-bold leading-tight">{stat.value}</div>
+                        </div>
+                    ))}
                 </div>
 
                 {/* Buttons */}
@@ -360,109 +353,46 @@ export const ThermPage: React.FC = () => {
 
              <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
 
-                 {/* BLOCK 1: THERMAL EXPANSION (Animated Bars) */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setExpansionKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <Scale className="text-geo-yellow w-5 h-5" /> {t('engineering.block1title')}
-                     </h3>
-                     <div className="space-y-4">
-                         <div className="flex items-center text-xs text-gray-500 uppercase font-bold justify-between"><span>{t('roi.colEpoxy')}</span> <span>~4x</span></div>
-                         <div className="w-full h-2 bg-[#222] overflow-hidden"><div key={`exp-1-${expansionKey}`} className="w-[90%] h-full bg-red-600 animate-[width-grow_2s_ease-out]"></div></div>
+                 <HorizontalBarsCard
+                    Icon={Scale}
+                    title={t('engineering.block1title')}
+                    note={t('engineering.block1note')}
+                    bars={[
+                        { label: t('roi.colEpoxy'), percent: 90, color: 'red', valueText: '~4×' },
+                        { label: 'GEONYX THERM', percent: 30, color: 'yellow', hero: true, valueText: t('roi.val3therm') },
+                        { label: t('roi.colStd'), percent: 30, color: 'gray', thin: true, valueText: 'BASE' },
+                    ]}
+                 />
 
-                         <div className="flex items-center text-xs text-geo-yellow uppercase font-black justify-between"><span>GEONYX THERM</span> <span>{t('roi.val3therm')}</span></div>
-                         <div className="w-full h-4 bg-[#222] border border-geo-yellow overflow-hidden"><div key={`exp-2-${expansionKey}`} className="w-[30%] h-full bg-geo-yellow animate-[width-grow_2s_ease-out_0.5s_backwards]"></div></div>
+                 <VerticalBarsCard
+                    Icon={Thermometer}
+                    title={t('engineering.block2title')}
+                    note={t('engineering.block2note')}
+                    yAxisLabels={[1200, 800, 400, 0]}
+                    delay={0.1}
+                    bars={[
+                        { label: t('roi.colEpoxy'), value: 60, percent: 15, color: 'red', decimals: 0, suffix: '°C' },
+                        { label: 'PU', value: 120, percent: 30, color: 'orange', decimals: 0, suffix: '°C' },
+                        { label: 'GEONYX', value: 1200, percent: 100, color: 'yellow', hero: true, decimals: 0, suffix: '°C' },
+                    ]}
+                 />
 
-                         <div className="flex items-center text-xs text-gray-600 uppercase font-bold justify-between"><span>{t('roi.colStd')}</span> <span>BASE</span></div>
-                         <div className="w-full h-1 bg-[#222] overflow-hidden"><div className="w-[30%] h-full bg-gray-500"></div></div>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block1note')}</p>
-                 </div>
-
-                 {/* BLOCK 2: TEMP LIMIT */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setHeatKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <Thermometer className="text-geo-yellow w-5 h-5" /> {t('engineering.block2title')}
-                     </h3>
-                     <div className="h-48 border-b border-[#333] relative">
-                         <div className="flex items-end justify-around h-full pb-4 px-4 gap-6">
-                             {/* Competitor Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-red-500 font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">60°C</span>
-                                 <div className="w-full bg-[#222] border border-red-500 h-[15%] relative overflow-hidden">
-                                     <div key={`heat-1-${heatKey}`} className="absolute bottom-0 w-full bg-red-900/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-
-                             {/* Mid Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-orange-500 font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">120°C</span>
-                                 <div className="w-full bg-[#222] border border-orange-500 h-[30%] relative overflow-hidden">
-                                     <div key={`heat-2-${heatKey}`} className="absolute bottom-0 w-full bg-orange-900/50 animate-[height-grow_1.5s_ease-out_0.2s_backwards] h-full"></div>
-                                 </div>
-                             </div>
-
-                             {/* GEONYX Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-geo-yellow font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">1200°C</span>
-                                 <div className="w-full bg-[#222] border border-geo-yellow h-[100%] relative overflow-hidden">
-                                     <div key={`heat-3-${heatKey}`} className="absolute bottom-0 w-full bg-geo-yellow/50 animate-[height-grow_1.5s_ease-out_0.4s_backwards] h-full"></div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div className="flex justify-around px-4 pt-2">
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">{t('roi.colEpoxy')}</span>
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">PU</span>
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">GEONYX</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block2note')}</p>
-                 </div>
-
-                 {/* BLOCK 3: REPAIR FREQUENCY */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default relative"
-                    onMouseEnter={() => setRepairKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <TrendingUp className="text-geo-yellow w-5 h-5" /> {t('engineering.block3title')}
-                     </h3>
-                     <div className="relative w-full h-40 border-l border-b border-[#333]">
-                         <svg viewBox="0 0 100 100" className="w-full h-full overflow-visible" preserveAspectRatio="none">
-                             {/* Standard - High Maintenance Freq */}
-                             <path d="M 0 80 L 20 20 L 40 80 L 60 20 L 80 80" fill="none" stroke="#ef4444" strokeWidth="2" strokeDasharray="4 2" />
-
-                             {/* Geonyx Therm - Stable */}
-                             <path
-                                key={`repair-${repairKey}`}
-                                d="M 0 80 L 100 75"
-                                fill="none"
-                                stroke="#FFCC00"
-                                strokeWidth="3"
-                                strokeDasharray="200"
-                                strokeDashoffset="200"
-                                className="animate-[dash-draw_3s_linear_forwards_1s]"
-                             />
-                         </svg>
-
-                         <div className="absolute top-[20%] left-[10%] text-[10px] font-bold text-red-500 leading-none whitespace-nowrap">
-                             {t('roi.colEpoxy').toUpperCase()}
-                         </div>
-                         <div className="absolute top-[75%] left-[60%] text-[10px] font-bold text-geo-yellow leading-none whitespace-nowrap">
-                             GEONYX THERM
-                         </div>
-                     </div>
-                     <div className="flex justify-between text-[10px] text-gray-500 font-mono mt-2">
-                         <span>{t('financial.subtitle').split(' ').slice(0, 2).join(' ').toUpperCase()}</span>
-                         <span>{t('roi.row3').toUpperCase()}</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block3note')}</p>
-                 </div>
+                 <DualCurveCard
+                    Icon={TrendingUp}
+                    title={t('engineering.block3title')}
+                    note={t('engineering.block3note')}
+                    redPath="M 0 80 L 20 20 L 40 80 L 60 20 L 80 80 L 100 25"
+                    yellowPath="M 0 80 L 100 75"
+                    redLabel={t('roi.colEpoxy').toUpperCase()}
+                    yellowLabel="GEONYX THERM"
+                    redLabelPosition="top-left"
+                    yellowLabelPosition="bottom-right"
+                    redDot={{ x: 60, y: 20 }}
+                    yellowDot={{ x: 100, y: 75 }}
+                    xLabel={`${t('financial.subtitle').split(' ').slice(0, 2).join(' ').toUpperCase()} →`}
+                    yLabel={`↑ ${t('roi.row3').toUpperCase()}`}
+                    delay={0.2}
+                 />
 
              </div>
          </div>

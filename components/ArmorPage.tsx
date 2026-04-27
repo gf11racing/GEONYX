@@ -16,6 +16,7 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
+import { HorizontalBarsCard, VerticalBarsCard, DualCurveCard } from './EngineeringCharts';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
@@ -73,9 +74,6 @@ export const ArmorPage: React.FC = () => {
   const [activeHotspot, setActiveHotspot] = useState<number | null>(null);
   const [copySuccess, setCopySuccess] = useState(false);
 
-  const [mohsKey, setMohsKey] = useState(0);
-  const [bohmeKey, setBohmeKey] = useState(0);
-  const [stressKey, setStressKey] = useState(0);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -365,95 +363,48 @@ export const ArmorPage: React.FC = () => {
 
              <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
 
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setMohsKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <Activity className="text-geo-yellow w-5 h-5" /> {t('engineering.block1title')}
-                     </h3>
-                     <div className="space-y-4">
-                         <div className="flex items-center text-xs text-gray-500 uppercase font-bold justify-between"><span>Concrete (C30)</span> <span>3-4</span></div>
-                         <div className="w-full h-2 bg-[#222] overflow-hidden"><div key={`mohs-1-${mohsKey}`} className="w-[35%] h-full bg-gray-600 animate-[width-grow_2s_ease-out]"></div></div>
+                 <HorizontalBarsCard
+                    Icon={Activity}
+                    title={t('engineering.block1title')}
+                    note={t('engineering.block1note')}
+                    scaleTicks={10}
+                    bars={[
+                        { label: 'Concrete (C30)', value: 3.5, percent: 35, color: 'gray', decimals: 1 },
+                        { label: 'Steel', value: 5.5, percent: 55, color: 'blue', decimals: 1 },
+                        { label: 'GEONYX ARMOR', value: 9.0, percent: 90, color: 'yellow', hero: true, decimals: 1 },
+                        { label: 'Diamond', value: 10, percent: 100, color: 'cyan', thin: true, decimals: 0 },
+                    ]}
+                 />
 
-                         <div className="flex items-center text-xs text-gray-400 uppercase font-bold justify-between"><span>Steel</span> <span>5-6</span></div>
-                         <div className="w-full h-2 bg-[#222] overflow-hidden"><div key={`mohs-2-${mohsKey}`} className="w-[55%] h-full bg-blue-800 animate-[width-grow_2s_ease-out_0.5s_backwards]"></div></div>
+                 <VerticalBarsCard
+                    Icon={BarChart3}
+                    title={t('engineering.block2title')}
+                    note={t('engineering.block2note')}
+                    yAxisLabels={[15, 10, 5, 0]}
+                    badge="10× по-устойчиво"
+                    delay={0.1}
+                    bars={[
+                        { label: 'Concrete', value: 15, percent: 100, color: 'red', decimals: 0, suffix: ' cm³' },
+                        { label: 'GEONYX', value: 1.5, percent: 10, color: 'yellow', hero: true, decimals: 1, suffix: ' cm³', prefix: '<' },
+                    ]}
+                 />
 
-                         <div className="flex items-center text-xs text-geo-yellow uppercase font-black justify-between"><span>GEONYX ARMOR</span> <span>9.0</span></div>
-                         <div className="w-full h-4 bg-[#222] border border-geo-yellow overflow-hidden"><div key={`mohs-3-${mohsKey}`} className="w-[90%] h-full bg-geo-yellow animate-[width-grow_2s_ease-out_1s_backwards]"></div></div>
+                 <DualCurveCard
+                    Icon={TrendingUp}
+                    title={t('engineering.block3title')}
+                    note={t('engineering.block3note')}
+                    redPath="M 0 100 L 22 25 L 24 95"
+                    yellowPath="M 0 100 L 30 30 Q 60 25 100 28"
+                    yellowAreaPath="M 0 100 L 30 30 Q 60 25 100 28 L 100 100 Z"
+                    redLabel={t('engineering.block3brittle')}
+                    yellowLabel={t('engineering.block3absorb')}
+                    redDot={{ x: 22, y: 25 }}
+                    yellowDot={{ x: 60, y: 25 }}
+                    xLabel="← STRAIN (ε)"
+                    yLabel="STRESS (σ) ↑"
+                    delay={0.2}
+                 />
 
-                         <div className="flex items-center text-xs text-gray-600 uppercase font-bold justify-between"><span>Diamond</span> <span>10</span></div>
-                         <div className="w-full h-1 bg-[#222] overflow-hidden"><div className="w-full h-full bg-cyan-900"></div></div>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block1note')}</p>
-                 </div>
-
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setBohmeKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <BarChart3 className="text-geo-yellow w-5 h-5" /> {t('engineering.block2title')}
-                     </h3>
-                     <div className="h-48 border-b border-[#333] relative">
-                         <div className="flex items-end justify-around h-full pb-4 px-4 gap-6">
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-red-500 font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">15 cm³</span>
-                                 <div className="w-full bg-[#222] border border-red-500 h-[80%] relative overflow-hidden">
-                                     <div key={`bohme-1-${bohmeKey}`} className="absolute bottom-0 w-full bg-red-900/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-geo-yellow font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">{'<'}1.5 cm³</span>
-                                 <div className="w-full bg-[#222] border border-geo-yellow h-[10%] relative overflow-hidden">
-                                     <div key={`bohme-2-${bohmeKey}`} className="absolute bottom-0 w-full bg-geo-yellow/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div className="flex justify-around px-4 pt-2">
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">Concrete</span>
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">GEONYX</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block2note')}</p>
-                 </div>
-
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default relative"
-                    onMouseEnter={() => setStressKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <TrendingUp className="text-geo-yellow w-5 h-5" /> {t('engineering.block3title')}
-                     </h3>
-                     <div className="relative w-full h-40 border-l border-b border-[#333]">
-                         <svg viewBox="0 0 100 100" className="w-full h-full overflow-visible" preserveAspectRatio="none">
-                             <path d="M 0 100 L 20 20" fill="none" stroke="#ef4444" strokeWidth="2" strokeDasharray="4 2" />
-                             <path
-                                key={`stress-${stressKey}`}
-                                d="M 0 100 L 30 30 Q 60 25 100 28"
-                                fill="none"
-                                stroke="#FFCC00"
-                                strokeWidth="3"
-                                strokeDasharray="200"
-                                strokeDashoffset="200"
-                                className="animate-[dash-draw_3s_linear_forwards_1s]"
-                             />
-                         </svg>
-
-                         <div className="absolute top-[20%] left-[22%] text-[10px] font-bold text-red-500 leading-none whitespace-nowrap">
-                             {t('engineering.block3brittle')}
-                         </div>
-                         <div className="absolute top-[28%] left-[60%] text-[10px] font-bold text-geo-yellow leading-none whitespace-nowrap">
-                             {t('engineering.block3absorb')}
-                         </div>
-                     </div>
-                     <div className="flex justify-between text-[10px] text-gray-500 font-mono mt-2">
-                         <span>STRAIN</span>
-                         <span>STRESS</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block3note')}</p>
-                 </div>
 
              </div>
          </div>

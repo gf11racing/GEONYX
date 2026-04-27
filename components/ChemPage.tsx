@@ -15,6 +15,7 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
+import { HorizontalBarsCard, VerticalBarsCard, DualCurveCard } from './EngineeringCharts';
 import { SafeImage } from './SafeImage';
 import { useTranslation } from 'react-i18next';
 import { useLang } from '../hooks/useLang';
@@ -65,9 +66,6 @@ export const ChemPage: React.FC = () => {
   const [copySuccess, setCopySuccess] = useState(false);
 
   // Animation Reset Keys
-  const [acidKey, setAcidKey] = useState(0);
-  const [permKey, setPermKey] = useState(0);
-  const [elasticKey, setElasticKey] = useState(0);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -378,97 +376,45 @@ export const ChemPage: React.FC = () => {
 
              <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
 
-                 {/* BLOCK 1: MASS LOSS (Animated Bars) */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setAcidKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <BarChart3 className="text-geo-yellow w-5 h-5" /> {t('engineeringProof.block1title')}
-                     </h3>
-                     <div className="space-y-4">
-                         <div className="flex items-center text-xs text-gray-500 uppercase font-bold justify-between"><span>Епоксидно/PU покритие</span> <span>Значителна промяна</span></div>
-                         <div className="w-full h-2 bg-[#222] overflow-hidden"><div key={`acid-1-${acidKey}`} className="w-[85%] h-full bg-red-600 animate-[width-grow_2s_ease-out]"></div></div>
+                 <HorizontalBarsCard
+                    Icon={BarChart3}
+                    title={t('engineeringProof.block1title')}
+                    note={t('engineeringProof.block1note')}
+                    bars={[
+                        { label: 'Епоксидно/PU покритие', percent: 85, color: 'red', valueText: 'Значителна промяна' },
+                        { label: 'GEONYX CHEM', percent: 5, color: 'yellow', hero: true, valueText: 'Минимална промяна' },
+                    ]}
+                 />
 
-                         <div className="flex items-center text-xs text-geo-yellow uppercase font-black justify-between"><span>GEONYX CHEM</span> <span>Минимална промяна</span></div>
-                         <div className="w-full h-4 bg-[#222] border border-geo-yellow overflow-hidden"><div key={`acid-2-${acidKey}`} className="w-[5%] h-full bg-geo-yellow animate-[width-grow_2s_ease-out_0.5s_backwards]"></div></div>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineeringProof.block1note')}</p>
-                 </div>
+                 <VerticalBarsCard
+                    Icon={FlaskConical}
+                    title={t('engineeringProof.block2title')}
+                    note={t('engineeringProof.block2note')}
+                    yAxisLabels={['ВИСОКА', '', '', 'НИСКА']}
+                    delay={0.1}
+                    bars={[
+                        { label: 'Бетон / Смола', percent: 70, color: 'red', valueText: 'Висока загуба' },
+                        { label: 'GEONYX CHEM', percent: 10, color: 'yellow', hero: true, valueText: 'Минимална' },
+                    ]}
+                 />
 
-                 {/* BLOCK 2: MASS LOSS H2SO4 */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setPermKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <FlaskConical className="text-geo-yellow w-5 h-5" /> {t('engineeringProof.block2title')}
-                     </h3>
-                     <div className="h-48 border-b border-[#333] relative">
-                         <div className="flex items-end justify-around h-full pb-4 px-4 gap-6">
-                             {/* Competitor Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-red-500 font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">Висока загуба</span>
-                                 <div className="w-full bg-[#222] border border-red-500 h-[70%] relative overflow-hidden">
-                                     <div key={`perm-1-${permKey}`} className="absolute bottom-0 w-full bg-red-900/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-
-                             {/* GEONYX Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-geo-yellow font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">Минимална</span>
-                                 <div className="w-full bg-[#222] border border-geo-yellow h-[10%] relative overflow-hidden">
-                                     <div key={`perm-2-${permKey}`} className="absolute bottom-0 w-full bg-geo-yellow/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div className="flex justify-around px-4 pt-2">
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">Бетон / Смола</span>
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">GEONYX CHEM</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineeringProof.block2note')}</p>
-                 </div>
-
-                 {/* BLOCK 3: LIFECYCLE */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default relative"
-                    onMouseEnter={() => setElasticKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <TrendingUp className="text-geo-yellow w-5 h-5" /> {t('engineeringProof.block3title')}
-                     </h3>
-                     <div className="relative w-full h-40 border-l border-b border-[#333]">
-                         <svg viewBox="0 0 100 100" className="w-full h-full overflow-visible" preserveAspectRatio="none">
-                             {/* Standard - High Maintenance Cost */}
-                             <path d="M 0 100 L 20 20" fill="none" stroke="#ef4444" strokeWidth="2" strokeDasharray="4 2" />
-
-                             {/* Geonyx Chem - Low Maintenance Cost */}
-                             <path
-                                key={`elastic-${elasticKey}`}
-                                d="M 0 100 L 100 85"
-                                fill="none"
-                                stroke="#FFCC00"
-                                strokeWidth="3"
-                                strokeDasharray="200"
-                                strokeDashoffset="200"
-                                className="animate-[dash-draw_3s_linear_forwards_1s]"
-                             />
-                         </svg>
-
-                         <div className="absolute top-[20%] left-[22%] text-[10px] font-bold text-red-500 leading-none whitespace-nowrap">
-                             {t('engineeringProof.block3highCost')}
-                         </div>
-                         <div className="absolute top-[75%] left-[60%] text-[10px] font-bold text-geo-yellow leading-none whitespace-nowrap">
-                             {t('engineeringProof.block3lowTco')}
-                         </div>
-                     </div>
-                     <div className="flex justify-between text-[10px] text-gray-500 font-mono mt-2">
-                         <span>ВРЕМЕ (ГОДИНИ)</span>
-                         <span>РАЗХОДИ ЗА ПОДДРЪЖКА</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineeringProof.block3note')}</p>
-                 </div>
+                 <DualCurveCard
+                    Icon={TrendingUp}
+                    title={t('engineeringProof.block3title')}
+                    note={t('engineeringProof.block3note')}
+                    redPath="M 0 100 L 100 15"
+                    yellowPath="M 0 100 L 100 85"
+                    yellowAreaPath="M 0 100 L 100 85 L 100 100 Z"
+                    redLabel={t('engineeringProof.block3highCost')}
+                    yellowLabel={t('engineeringProof.block3lowTco')}
+                    redLabelPosition="top-right"
+                    yellowLabelPosition="bottom-right"
+                    redDot={{ x: 100, y: 15 }}
+                    yellowDot={{ x: 100, y: 85 }}
+                    xLabel="ВРЕМЕ (ГОДИНИ) →"
+                    yLabel="↑ РАЗХОДИ ЗА ПОДДРЪЖКА"
+                    delay={0.2}
+                 />
 
              </div>
          </div>

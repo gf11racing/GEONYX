@@ -56,12 +56,14 @@ export const StructuredData: React.FC = () => {
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "GEONYX ARMOR",
             "description": "Geopolymer industrial floor system for extreme mechanical loads. Compressive strength ≥110 N/mm², hardness MOHS 9, wear resistance AR ≤0.5 (DIN 52108), fire class A1, service life ≥20 years. Designed for mines, logistics, foundries, and critical infrastructure.",
             "brand": { "@type": "Brand", "name": "GEONYX" },
             "url": "https://geonyxgroup.com/en/armor",
-            "category": "Industrial Floor Protection",
+            "serviceType": "Industrial Floor Protection",
+            "provider": { "@type": "Organization", "name": "GEONYX GROUP LTD.", "url": "https://geonyxgroup.com" },
+            "areaServed": ["BG", "EU", "TR", "RU", "GR", "DE", "FR", "ES"],
             "additionalProperty": [
               { "@type": "PropertyValue", "name": "Compressive Strength", "value": "≥110 N/mm²" },
               { "@type": "PropertyValue", "name": "Hardness", "value": "MOHS 9" },
@@ -73,12 +75,14 @@ export const StructuredData: React.FC = () => {
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "GEONYX CHEM",
             "description": "Geopolymer chemical protection system for floors and surfaces exposed to strong acids, bases, solvents, oils, disinfectants, and biogenic sulphuric acid. Resistant to pH 0–14.",
             "brand": { "@type": "Brand", "name": "GEONYX" },
             "url": "https://geonyxgroup.com/en/chem",
-            "category": "Chemical Resistant Flooring",
+            "serviceType": "Chemical Resistant Flooring",
+            "provider": { "@type": "Organization", "name": "GEONYX GROUP LTD.", "url": "https://geonyxgroup.com" },
+            "areaServed": ["BG", "EU", "TR", "RU", "GR", "DE", "FR", "ES"],
             "additionalProperty": [
               { "@type": "PropertyValue", "name": "pH Resistance", "value": "0–14" },
               { "@type": "PropertyValue", "name": "Service Life", "value": "≥20 years" }
@@ -88,12 +92,14 @@ export const StructuredData: React.FC = () => {
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "GEONYX THERM",
-            "description": "Non-combustible geopolymer system for environments with high temperatures, thermal shock, molten metal splashes. Temperature resistance up to 800°C. Fire class A1fl.",
+            "description": "Non-combustible geopolymer system for environments with high temperatures, thermal shock, molten metal splashes. Temperature resistance up to 1200°C. Fire class A1fl.",
             "brand": { "@type": "Brand", "name": "GEONYX" },
             "url": "https://geonyxgroup.com/en/therm",
-            "category": "Thermal Protection Flooring",
+            "serviceType": "Thermal Protection Flooring",
+            "provider": { "@type": "Organization", "name": "GEONYX GROUP LTD.", "url": "https://geonyxgroup.com" },
+            "areaServed": ["BG", "EU", "TR", "RU", "GR", "DE", "FR", "ES"],
             "additionalProperty": [
               { "@type": "PropertyValue", "name": "Temperature Resistance", "value": "up to 800°C" },
               { "@type": "PropertyValue", "name": "Fire Class", "value": "A1fl" }
@@ -103,12 +109,14 @@ export const StructuredData: React.FC = () => {
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Service",
             "name": "GEONYX HYDRO",
             "description": "100% watertight geopolymer system for surfaces under hydrostatic pressure, water immersion, biogenic corrosion in sewage, and chloride-rich marine environments.",
             "brand": { "@type": "Brand", "name": "GEONYX" },
             "url": "https://geonyxgroup.com/en/hydro",
-            "category": "Waterproofing Systems",
+            "serviceType": "Waterproofing Systems",
+            "provider": { "@type": "Organization", "name": "GEONYX GROUP LTD.", "url": "https://geonyxgroup.com" },
+            "areaServed": ["BG", "EU", "TR", "RU", "GR", "DE", "FR", "ES"],
             "additionalProperty": [
               { "@type": "PropertyValue", "name": "Watertightness", "value": "100%" },
               { "@type": "PropertyValue", "name": "Service Life", "value": "≥20 years" }

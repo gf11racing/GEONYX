@@ -15,6 +15,7 @@ import {
 import { useNavigate } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
+import { HorizontalBarsCard, VerticalBarsCard, DualCurveCard } from './EngineeringCharts';
 import { SafeImage } from './SafeImage';
 import { useLang } from '../hooks/useLang';
 import { usePageMeta } from '../hooks/usePageMeta';
@@ -60,9 +61,6 @@ export const HydroPage: React.FC = () => {
   const [copySuccess, setCopySuccess] = useState(false);
 
   // Animation Reset Keys
-  const [permeabilityKey, setPermeabilityKey] = useState(0);
-  const [pressureKey, setPressureKey] = useState(0);
-  const [nrwKey, setNrwKey] = useState(0);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -368,97 +366,42 @@ export const HydroPage: React.FC = () => {
 
              <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
 
-                 {/* BLOCK 1: WATER PERMEABILITY (Animated Bars) */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setPermeabilityKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <BarChart3 className="text-geo-yellow w-5 h-5" /> {t('engineering.block1title')}
-                     </h3>
-                     <div className="space-y-4">
-                         <div className="flex items-center text-xs text-gray-500 uppercase font-bold justify-between"><span>{t('roi.colStd')}</span> <span>~50 mm</span></div>
-                         <div className="w-full h-2 bg-[#222] overflow-hidden"><div key={`perm-1-${permeabilityKey}`} className="w-[85%] h-full bg-red-600 animate-[width-grow_2s_ease-out]"></div></div>
+                 <HorizontalBarsCard
+                    Icon={BarChart3}
+                    title={t('engineering.block1title')}
+                    note={t('engineering.block1note')}
+                    bars={[
+                        { label: t('roi.colStd'), percent: 85, color: 'red', valueText: '~50 mm' },
+                        { label: 'GEONYX HYDRO', percent: 1, color: 'yellow', hero: true, valueText: '0 mm' },
+                    ]}
+                 />
 
-                         <div className="flex items-center text-xs text-geo-yellow uppercase font-black justify-between"><span>GEONYX HYDRO</span> <span>0 mm</span></div>
-                         <div className="w-full h-4 bg-[#222] border border-geo-yellow overflow-hidden"><div key={`perm-2-${permeabilityKey}`} className="w-[1%] h-full bg-geo-yellow animate-[width-grow_2s_ease-out_0.5s_backwards]"></div></div>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block1note')}</p>
-                 </div>
+                 <VerticalBarsCard
+                    Icon={Gauge}
+                    title={t('engineering.block2title')}
+                    note={t('engineering.block2note')}
+                    delay={0.1}
+                    bars={[
+                        { label: t('roi.colEpoxy'), percent: 20, color: 'red', valueText: t('shared.threat') },
+                        { label: 'GEONYX HYDRO', percent: 100, color: 'yellow', hero: true, valueText: t('shared.solution') },
+                    ]}
+                 />
 
-                 {/* BLOCK 2: NEGATIVE PRESSURE */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default"
-                    onMouseEnter={() => setPressureKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <Gauge className="text-geo-yellow w-5 h-5" /> {t('engineering.block2title')}
-                     </h3>
-                     <div className="h-48 border-b border-[#333] relative">
-                         <div className="flex items-end justify-around h-full pb-4 px-4 gap-6">
-                             {/* Competitor Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-red-500 font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">{t('shared.threat')}</span>
-                                 <div className="w-full bg-[#222] border border-red-500 h-[20%] relative overflow-hidden">
-                                     <div key={`press-1-${pressureKey}`} className="absolute bottom-0 w-full bg-red-900/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-
-                             {/* GEONYX Column */}
-                             <div className="flex flex-col items-center justify-end h-full w-20 group">
-                                 <span className="text-geo-yellow font-bold text-sm mb-2 opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">{t('shared.solution')}</span>
-                                 <div className="w-full bg-[#222] border border-geo-yellow h-[100%] relative overflow-hidden">
-                                     <div key={`press-2-${pressureKey}`} className="absolute bottom-0 w-full bg-geo-yellow/50 animate-[height-grow_1.5s_ease-out] h-full"></div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div className="flex justify-around px-4 pt-2">
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">{t('roi.colEpoxy')}</span>
-                         <span className="text-[10px] text-gray-400 uppercase font-bold w-20 text-center">GEONYX HYDRO</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block2note')}</p>
-                 </div>
-
-                 {/* BLOCK 3: NRW (NON-REVENUE WATER) */}
-                 <div
-                    className="bg-[#141414] p-8 border border-[#222] hover:border-white/20 transition-colors cursor-default relative"
-                    onMouseEnter={() => setNrwKey(prev => prev + 1)}
-                 >
-                     <h3 className="text-white font-bold uppercase mb-6 flex items-center gap-2">
-                         <TrendingUp className="text-geo-yellow w-5 h-5" /> {t('engineering.block3title')}
-                     </h3>
-                     <div className="relative w-full h-40 border-l border-b border-[#333]">
-                         <svg viewBox="0 0 100 100" className="w-full h-full overflow-visible" preserveAspectRatio="none">
-                             {/* Standard - Leakage */}
-                             <path d="M 0 20 L 100 80" fill="none" stroke="#ef4444" strokeWidth="2" strokeDasharray="4 2" />
-
-                             {/* Geonyx - Reduced Leakage */}
-                             <path
-                                key={`nrw-${nrwKey}`}
-                                d="M 0 20 L 100 25"
-                                fill="none"
-                                stroke="#FFCC00"
-                                strokeWidth="3"
-                                strokeDasharray="200"
-                                strokeDashoffset="200"
-                                className="animate-[dash-draw_3s_linear_forwards_1s]"
-                             />
-                         </svg>
-
-                         <div className="absolute top-[80%] right-[5%] text-[10px] font-bold text-red-500 leading-none whitespace-nowrap">
-                             {t('shared.threat').toUpperCase()}
-                         </div>
-                         <div className="absolute top-[28%] right-[5%] text-[10px] font-bold text-geo-yellow leading-none whitespace-nowrap">
-                             {t('shared.solution').toUpperCase()}
-                         </div>
-                     </div>
-                     <div className="flex justify-between text-[10px] text-gray-500 font-mono mt-2">
-                         <span>{t('roi.row5').toUpperCase()}</span>
-                         <span>{t('engineering.block3note')}</span>
-                     </div>
-                     <p className="text-gray-500 text-xs mt-4 text-center">{t('engineering.block3note')}</p>
-                 </div>
+                 <DualCurveCard
+                    Icon={TrendingUp}
+                    title={t('engineering.block3title')}
+                    note={t('engineering.block3note')}
+                    redPath="M 0 20 L 100 80"
+                    yellowPath="M 0 20 L 100 25"
+                    redLabel={t('shared.threat').toUpperCase()}
+                    yellowLabel={t('shared.solution').toUpperCase()}
+                    redLabelPosition="bottom-right"
+                    yellowLabelPosition="top-right"
+                    redDot={{ x: 100, y: 80 }}
+                    yellowDot={{ x: 100, y: 25 }}
+                    xLabel={`${t('roi.row5').toUpperCase()} →`}
+                    delay={0.2}
+                 />
 
              </div>
          </div>
